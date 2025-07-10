@@ -1,0 +1,110 @@
+{
+  "objectID": 438156,
+  "isHighlight": false,
+  "accessionNumber": "2008.277",
+  "accessionYear": "2008",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP212152.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP212152.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161821,
+      "role": "Artist",
+      "name": "Edgar Degas",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115194",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q46373",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Young Woman with Ibis",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Edgar Degas",
+  "artistDisplayBio": "French, Paris 1834–1917 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Degas, Edgar",
+  "artistNationality": "French",
+  "artistBeginDate": "1834",
+  "artistEndDate": "1917",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q46373",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115194",
+  "objectDate": "1857–58; reworked 1860–62",
+  "objectBeginDate": 1857,
+  "objectEndDate": 1862,
+  "medium": "Oil on canvas",
+  "dimensions": "39 3/8 x 29 1/2 in. (100 x 74.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 100,
+        "Width": 74.9
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 8.255,
+        "Height": 123.1902,
+        "Width": 99.0602
+      }
+    },
+    {
+      "elementName": "Glazing",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 101.600204,
+        "Width": 77.47015
+      }
+    }
+  ],
+  "creditLine": "Gift of Stephen Mazoh and Purchase, Bequest of Gioconda King, by exchange, 2008",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/438156",
+  "tags": [
+    {
+      "term": "Birds",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Rome",
+      "AAT_URL": "http://vocab.getty.edu/page/tgn/7000874",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q220"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912883",
+  "isTimelineWork": true,
+  "GalleryNumber": "815"
+}

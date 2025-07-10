@@ -1,0 +1,102 @@
+{
+  "objectID": 439763,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.9",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 196248,
+      "role": "Artist",
+      "name": "French Painter (Antoine-Félix Boisselier?), ca. 1825",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Gorges at Amalfi",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "French Painter (Antoine-Félix Boisselier?), ca. 1825",
+  "artistDisplayBio": "",
+  "artistSuffix": "",
+  "artistAlphaSort": "French Painter (Antoine-Félix Boisselier?), ca. 1825",
+  "artistNationality": "French",
+  "artistBeginDate": "1820",
+  "artistEndDate": "1830",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "ca. 1825",
+  "objectBeginDate": 1820,
+  "objectEndDate": 1830,
+  "medium": "Oil on paper, laid down on canvas",
+  "dimensions": "16 x 13 7/8 in. (40.6 x 35.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 40.6401,
+        "Width": 35.24257
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 6.6675134,
+        "Height": 52.387604,
+        "Width": 45.08509
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-06-04T04:51:25.263Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/439763",
+  "tags": [
+    {
+      "term": "Animals",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300249525",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q729"
+    },
+    {
+      "term": "Bridges",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300386855",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12280"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913619",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

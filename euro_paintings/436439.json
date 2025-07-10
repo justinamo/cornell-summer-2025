@@ -1,0 +1,88 @@
+{
+  "objectID": 436439,
+  "isHighlight": false,
+  "accessionNumber": "17.120.224",
+  "accessionYear": "1917",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP162145.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP162145.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 166194,
+      "role": "Artist",
+      "name": "Thomas Gainsborough",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115200",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q192720",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Portrait of a Young Woman, Called Miss Sparrow",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Thomas Gainsborough",
+  "artistDisplayBio": "British, Sudbury 1727–1788 London",
+  "artistSuffix": "",
+  "artistAlphaSort": "Gainsborough, Thomas",
+  "artistNationality": "British",
+  "artistBeginDate": "1727",
+  "artistEndDate": "1788",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q192720",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115200",
+  "objectDate": "1770s",
+  "objectBeginDate": 1770,
+  "objectEndDate": 1779,
+  "medium": "Oil on canvas",
+  "dimensions": "30 1/8 x 24 7/8 in. (76.5 x 63.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 76.5,
+        "Width": 63.2
+      }
+    }
+  ],
+  "creditLine": "Mr. and Mrs. Isaac D. Fletcher Collection, Bequest of Isaac D. Fletcher, 1917",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436439",
+  "tags": [
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913238",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

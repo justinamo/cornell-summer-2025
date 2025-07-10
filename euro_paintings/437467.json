@@ -1,0 +1,90 @@
+{
+  "objectID": 437467,
+  "isHighlight": false,
+  "accessionNumber": "1980.510.3",
+  "accessionYear": "1980",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP169386.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP169386.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/fig.220.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 166264,
+      "role": "Artist",
+      "name": "Briton Riviere",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500020920",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2470305",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Pallas Athena and the Herdsman's Dogs",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Briton Riviere",
+  "artistDisplayBio": "British, London 1840–1920 London",
+  "artistSuffix": "",
+  "artistAlphaSort": "Riviere, Briton",
+  "artistNationality": "British",
+  "artistBeginDate": "1840",
+  "artistEndDate": "1920",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q2470305",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500020920",
+  "objectDate": "1876",
+  "objectBeginDate": 1876,
+  "objectEndDate": 1876,
+  "medium": "Oil on canvas",
+  "dimensions": "44 1/8 x 70 1/8 in. (112.1 x 178.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 112.1,
+        "Width": 178.1
+      }
+    }
+  ],
+  "creditLine": "Gift of Richard Manney, 1980",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437467",
+  "tags": [
+    {
+      "term": "Athena",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000069",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q37122"
+    },
+    {
+      "term": "Dogs",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912608",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

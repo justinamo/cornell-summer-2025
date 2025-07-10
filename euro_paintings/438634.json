@@ -1,0 +1,98 @@
+{
+  "objectID": 438634,
+  "isHighlight": false,
+  "accessionNumber": "2003.42.12",
+  "accessionYear": "2003",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 120018,
+      "role": "Artist",
+      "name": "Jules Coignet",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500015282",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q347455",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "View of Beirut",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Jules Coignet",
+  "artistDisplayBio": "French, Paris 1798–1860 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Coignet, Jules",
+  "artistNationality": "French",
+  "artistBeginDate": "1798",
+  "artistEndDate": "1860",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q347455",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500015282",
+  "objectDate": "1844",
+  "objectBeginDate": 1844,
+  "objectEndDate": 1844,
+  "medium": "Oil on paper, laid down on canvas",
+  "dimensions": "13 1/8 x 20 3/8 in. (33.3 x 51.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 33.3,
+        "Width": 51.7
+      }
+    }
+  ],
+  "creditLine": "The Whitney Collection, Gift of Wheelock Whitney III, and Purchase, Gift of Mr. and Mrs. Charles S. McVeigh, by exchange, 2003",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/438634",
+  "tags": [
+    {
+      "term": "Buildings",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300004789",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q41176"
+    },
+    {
+      "term": "Cities",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008389",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q515"
+    },
+    {
+      "term": "Hills",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008777",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q54050"
+    },
+    {
+      "term": "Orientalist",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300055784",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q765606"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911789",
+  "isTimelineWork": false,
+  "GalleryNumber": "804"
+}

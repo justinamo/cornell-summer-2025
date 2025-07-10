@@ -1,0 +1,107 @@
+{
+  "objectID": 437846,
+  "isHighlight": false,
+  "accessionNumber": "17.120.220",
+  "accessionYear": "1917",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep17.120.220.bw.R.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/ep17.120.220.bw.R.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162567,
+      "role": "Artist",
+      "name": "Constant Troyon",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500003566",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q219403",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Going to Market",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Constant Troyon",
+  "artistDisplayBio": "French, Sèvres 1810–1865 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Troyon, Constant",
+  "artistNationality": "French",
+  "artistBeginDate": "1810",
+  "artistEndDate": "1865",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q219403",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500003566",
+  "objectDate": "1860",
+  "objectBeginDate": 1860,
+  "objectEndDate": 1860,
+  "medium": "Oil on canvas",
+  "dimensions": "16 1/8 x 12 7/8 in. (41 x 32.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 41,
+        "Width": 32.7
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 11.43,
+        "Height": 73.6601,
+        "Width": 64.7701
+      }
+    }
+  ],
+  "creditLine": "Mr. and Mrs. Isaac D. Fletcher Collection, Bequest of Isaac D. Fletcher, 1917",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-04-30T04:49:03.02Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437846",
+  "tags": [
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Dogs",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+    },
+    {
+      "term": "Donkeys",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300265959",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3537778"
+    },
+    {
+      "term": "Sheep",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250284",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q7368"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905336",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

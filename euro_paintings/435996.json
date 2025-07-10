@@ -1,0 +1,88 @@
+{
+  "objectID": 435996,
+  "isHighlight": false,
+  "accessionNumber": "24.80.499",
+  "accessionYear": "1924",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/57272.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/57272.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 107528,
+      "role": "Artist",
+      "name": "Richard Cosway",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115280",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2539929",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, miniature",
+  "title": "Ensign Lionel Robert Tollemache (1774–1793)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Richard Cosway",
+  "artistDisplayBio": "British, Oakford, Devon 1742–1821 London",
+  "artistSuffix": "",
+  "artistAlphaSort": "Cosway, Richard",
+  "artistNationality": "British",
+  "artistBeginDate": "1742",
+  "artistEndDate": "1821",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q2539929",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115280",
+  "objectDate": "",
+  "objectBeginDate": 1762,
+  "objectEndDate": 1821,
+  "medium": "Ivory",
+  "dimensions": "Oval, 3 1/8 x 2 1/2 in. (81 x 65 mm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 7.9,
+        "Width": 6.3
+      }
+    }
+  ],
+  "creditLine": "Bequest of Mary Clark Thompson, 1923",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Miniatures",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2024-10-03T04:53:53.567Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435996",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19914020",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

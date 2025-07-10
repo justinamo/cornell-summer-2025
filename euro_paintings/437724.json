@@ -1,0 +1,95 @@
+{
+  "objectID": 437724,
+  "isHighlight": false,
+  "accessionNumber": "32.100.105",
+  "accessionYear": "1932",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-24005-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-24005-001.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/EP31.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 109914,
+      "role": "Artist",
+      "name": "Spanish Painter",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Virgin and Child Enthroned with Saints Catherine and Jerome",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Spanish Painter",
+  "artistDisplayBio": "mid-15th century",
+  "artistSuffix": "",
+  "artistAlphaSort": "Spanish Painter",
+  "artistNationality": "Spanish",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "",
+  "objectBeginDate": 1430,
+  "objectEndDate": 1469,
+  "medium": "Tempera, oil, and gold on wood",
+  "dimensions": "20 3/8 x 13 3/4 in. (51.8 x 34.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 51.8,
+        "Width": 34.9
+      }
+    }
+  ],
+  "creditLine": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437724",
+  "tags": [
+    {
+      "term": "Madonna and Child",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+    },
+    {
+      "term": "Saint Catherine",
+      "AAT_URL": null,
+      "Wikidata_URL": null
+    },
+    {
+      "term": "Saint Jerome",
+      "AAT_URL": "http://vocab.getty.edu/page/ulan/500060933",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q44248"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912265",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

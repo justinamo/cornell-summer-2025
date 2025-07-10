@@ -1,0 +1,117 @@
+{
+  "objectID": 437054,
+  "isHighlight": false,
+  "accessionNumber": "14.40.634",
+  "accessionYear": "1914",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-33354-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-33354-001.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-14_40_634_Suppl_2.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-14_40_634_Suppl_4_IRR.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-14_40_634_Suppl_5_xray.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 162119,
+      "role": "Artist",
+      "name": "Hans Memling",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500005611",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q106851",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Virgin and Child with Saints Catherine of Alexandria and Barbara",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Hans Memling",
+  "artistDisplayBio": "Netherlandish, Seligenstadt, active by 1465–died 1494 Bruges",
+  "artistSuffix": "",
+  "artistAlphaSort": "Memling, Hans",
+  "artistNationality": "Netherlandish",
+  "artistBeginDate": "1465",
+  "artistEndDate": "1494",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q106851",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500005611",
+  "objectDate": "early 1480s",
+  "objectBeginDate": 1480,
+  "objectEndDate": 1483,
+  "medium": "Oil on wood",
+  "dimensions": "Overall 26 7/8 x 28 7/8 in. (68.3 x 73.3 cm); painted surface 26 3/8 x 28 3/8 in. (67 x 72.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 68.3,
+        "Width": 73.3
+      }
+    }
+  ],
+  "creditLine": "Bequest of Benjamin Altman, 1913",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-06-19T04:50:33.487Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437054",
+  "tags": [
+    {
+      "term": "Musical Instruments",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300041620",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q34379"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Reading",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300248178",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q199657"
+    },
+    {
+      "term": "Angels",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+    },
+    {
+      "term": "Madonna and Child",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+    },
+    {
+      "term": "Saint Catherine",
+      "AAT_URL": null,
+      "Wikidata_URL": null
+    },
+    {
+      "term": "Saint Barbara",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000589",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q25212897"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19894606",
+  "isTimelineWork": true,
+  "GalleryNumber": "636"
+}

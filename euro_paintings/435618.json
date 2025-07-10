@@ -1,0 +1,105 @@
+{
+  "objectID": 435618,
+  "isHighlight": false,
+  "accessionNumber": "1989.132",
+  "accessionYear": "1989",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-24090-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-24090-001.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/DP-24090-003.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 166021,
+      "role": "Artist",
+      "name": "Bartolomeo di Giovanni",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500028670",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2013867",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, lunette",
+  "title": "The Trinity",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Bartolomeo di Giovanni",
+  "artistDisplayBio": "Italian, Florence, active by 1488–died 1501",
+  "artistSuffix": "",
+  "artistAlphaSort": "Bartolomeo di Giovanni",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1488",
+  "artistEndDate": "1501",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q2013867",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500028670",
+  "objectDate": "",
+  "objectBeginDate": 1488,
+  "objectEndDate": 1501,
+  "medium": "Tempera on wood",
+  "dimensions": "Painted surface 5 1/8 x 10 1/4 in. (13 x 26 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 13,
+        "Width": 26
+      }
+    }
+  ],
+  "creditLine": "Gift of Daniel Wildenstein, 1989",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435618",
+  "tags": [
+    {
+      "term": "Doves",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250045",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q2984138"
+    },
+    {
+      "term": "Angels",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+    },
+    {
+      "term": "Christ",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+    },
+    {
+      "term": "Crucifixion",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300404300",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3235597"
+    },
+    {
+      "term": "God the Father",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000593",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q186350"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912100",
+  "isTimelineWork": false,
+  "GalleryNumber": "604"
+}

@@ -1,0 +1,97 @@
+{
+  "objectID": 436653,
+  "isHighlight": false,
+  "accessionNumber": "50.145.22",
+  "accessionYear": "1950",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP252576.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP252576.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 107790,
+      "role": "Artist",
+      "name": "Meyndert Hobbema",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500029015",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q336908",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Woodland Road",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Meyndert Hobbema",
+  "artistDisplayBio": "Dutch, Amsterdam 1638–1709 Amsterdam",
+  "artistSuffix": "",
+  "artistAlphaSort": "Hobbema, Meyndert",
+  "artistNationality": "Dutch",
+  "artistBeginDate": "1638",
+  "artistEndDate": "1709",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q336908",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500029015",
+  "objectDate": "ca. 1670",
+  "objectBeginDate": 1665,
+  "objectEndDate": 1675,
+  "medium": "Oil on canvas",
+  "dimensions": "37 1/4 x 51 in. (94.6 x 129.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 94.6,
+        "Width": 129.5
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 13.970028,
+        "Height": 123.82525,
+        "Width": 158.11531
+      }
+    }
+  ],
+  "creditLine": "Bequest of Mary Stillman Harkness, 1950",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436653",
+  "tags": [
+    {
+      "term": "Roads",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008217",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q34442"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911942",
+  "isTimelineWork": false,
+  "GalleryNumber": "615"
+}

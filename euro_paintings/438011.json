@@ -1,0 +1,88 @@
+{
+  "objectID": 438011,
+  "isHighlight": false,
+  "accessionNumber": "2003.20.9",
+  "accessionYear": "2003",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1882.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1882.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162302,
+      "role": "Artist",
+      "name": "Auguste Renoir",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Eugène Murer (Hyacinthe-Eugène Meunier, 1841–1906)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Auguste Renoir",
+  "artistDisplayBio": "French, Limoges 1841–1919 Cagnes-sur-Mer",
+  "artistSuffix": "",
+  "artistAlphaSort": "Renoir, Auguste",
+  "artistNationality": "French",
+  "artistBeginDate": "1841",
+  "artistEndDate": "1919",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+  "objectDate": "1877",
+  "objectBeginDate": 1877,
+  "objectEndDate": 1877,
+  "medium": "Oil on canvas",
+  "dimensions": "18 1/2 x 15 1/2 in. (47 x 39.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 47,
+        "Width": 39.4
+      }
+    }
+  ],
+  "creditLine": "The Walter H. and Leonore Annenberg Collection, Bequest of Walter H. Annenberg, 2002",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-05-08T04:50:44.137Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/438011",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912240",
+  "isTimelineWork": true,
+  "GalleryNumber": "821"
+}

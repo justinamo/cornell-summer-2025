@@ -1,0 +1,97 @@
+{
+  "objectID": 439378,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.65",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 120028,
+      "role": "Artist",
+      "name": "Antoine-Xavier-Gabriel de Gazeau, comte de La Bouëre",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500141082",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21852553",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Uprooted Tree at Olevano Romano",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Antoine-Xavier-Gabriel de Gazeau, comte de La Bouëre",
+  "artistDisplayBio": "French, Jallais 1801–1881 Grenoble",
+  "artistSuffix": "",
+  "artistAlphaSort": "La Bouëre, Antoine-Xavier-Gabriel de Gazeau, comte de",
+  "artistNationality": "French",
+  "artistBeginDate": "1801",
+  "artistEndDate": "1881",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q21852553",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500141082",
+  "objectDate": "1833",
+  "objectBeginDate": 1833,
+  "objectEndDate": 1833,
+  "medium": "Oil on paper, laid down on cardboard",
+  "dimensions": "10 3/4 x 15 1/4 in. (27.3 x 38.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 27.305054,
+        "Width": 38.735077
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 6.985014,
+        "Height": 42.862587,
+        "Width": 53.97511
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/439378",
+  "tags": [
+    {
+      "term": "Trees",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132410",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q10884"
+    },
+    {
+      "term": "Rome",
+      "AAT_URL": "http://vocab.getty.edu/page/tgn/7000874",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q220"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913167",
+  "isTimelineWork": false,
+  "GalleryNumber": "805"
+}

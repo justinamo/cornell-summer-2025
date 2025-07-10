@@ -1,0 +1,88 @@
+{
+  "objectID": 437221,
+  "isHighlight": false,
+  "accessionNumber": "41.190.531",
+  "accessionYear": "1941",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep41.190.531.bw.R.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/ep41.190.531.bw.R.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162162,
+      "role": "Artist",
+      "name": "Niccolò di Buonaccorso",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500120787",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3875919",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Saint Paul",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Niccolò di Buonaccorso",
+  "artistDisplayBio": "Italian, active Siena by 1372–died 1388 Siena",
+  "artistSuffix": "",
+  "artistAlphaSort": "Niccolò di Buonaccorso",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1372",
+  "artistEndDate": "1388",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q3875919",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500120787",
+  "objectDate": "",
+  "objectBeginDate": 1372,
+  "objectEndDate": 1388,
+  "medium": "Tempera on wood, gold ground",
+  "dimensions": "Overall, with shaped top and engaged frame, 60 x 16 1/2 in. (152.4 x 41.9 cm); painted surface 52 3/8 x 16 1/2 in. (133 x 41.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 152.4,
+        "Width": 41.9
+      }
+    }
+  ],
+  "creditLine": "Bequest of George Blumenthal, 1941",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437221",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Saint Paul",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901001058",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q9200"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912778",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

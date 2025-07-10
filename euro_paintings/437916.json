@@ -1,0 +1,97 @@
+{
+  "objectID": 437916,
+  "isHighlight": false,
+  "accessionNumber": "18.22.1",
+  "accessionYear": "1918",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1989.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1989.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 108436,
+      "role": "Artist",
+      "name": "Antoine Vollon",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500014118",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q587078",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Still Life with Cheese",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Antoine Vollon",
+  "artistDisplayBio": "French, Lyons 1833–1900 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Vollon, Antoine",
+  "artistNationality": "French",
+  "artistBeginDate": "1833",
+  "artistEndDate": "1900",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q587078",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500014118",
+  "objectDate": "probably late 1870s",
+  "objectBeginDate": 1853,
+  "objectEndDate": 1900,
+  "medium": "Oil on canvas",
+  "dimensions": "33 3/8 x 35 3/8 in. (84.8 x 89.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 84.8,
+        "Width": 89.9
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 10.16,
+        "Height": 101.6002,
+        "Width": 104.7752
+      }
+    }
+  ],
+  "creditLine": "Bequest of William Hall Walker, 1917",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-04-30T04:49:03.02Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437916",
+  "tags": [
+    {
+      "term": "Cheese",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300390514",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q10943"
+    },
+    {
+      "term": "Still Life",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912006",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

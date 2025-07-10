@@ -1,0 +1,88 @@
+{
+  "objectID": 436328,
+  "isHighlight": false,
+  "accessionNumber": "60.14",
+  "accessionYear": "1960",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep60.14.R.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/ep60.14.R.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 108725,
+      "role": "Artist",
+      "name": "Marie Anne Gérard Fragonard (Madame Fragonard)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500072217",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q8309899",
+      "gender": "Female"
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, miniature",
+  "title": "Portrait of a Boy",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Marie Anne Gérard Fragonard (Madame Fragonard)",
+  "artistDisplayBio": "French, 1745–1823",
+  "artistSuffix": "",
+  "artistAlphaSort": "Fragonard, Marie Anne Gérard (Madame Fragonard)",
+  "artistNationality": "French",
+  "artistBeginDate": "1745",
+  "artistEndDate": "1823",
+  "artistGender": "Female",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q8309899",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500072217",
+  "objectDate": "ca. 1775",
+  "objectBeginDate": 1770,
+  "objectEndDate": 1780,
+  "medium": "Ivory",
+  "dimensions": "Oval, 2 7/8 x 2 3/8 in. (73 x 59 mm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 7.3,
+        "Width": 6
+      }
+    }
+  ],
+  "creditLine": "Rogers Fund, 1960",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Miniatures",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436328",
+  "tags": [
+    {
+      "term": "Boys",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913777",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

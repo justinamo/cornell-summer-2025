@@ -1,0 +1,102 @@
+{
+  "objectID": 437436,
+  "isHighlight": false,
+  "accessionNumber": "1974.356.32",
+  "accessionYear": "1974",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP265242.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP265242.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162302,
+      "role": "Artist",
+      "name": "Auguste Renoir",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "A Road in Louveciennes",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Auguste Renoir",
+  "artistDisplayBio": "French, Limoges 1841–1919 Cagnes-sur-Mer",
+  "artistSuffix": "",
+  "artistAlphaSort": "Renoir, Auguste",
+  "artistNationality": "French",
+  "artistBeginDate": "1841",
+  "artistEndDate": "1919",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+  "objectDate": "ca. 1870",
+  "objectBeginDate": 1865,
+  "objectEndDate": 1875,
+  "medium": "Oil on canvas",
+  "dimensions": "15 x 18 1/4 in. (38.1 x 46.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 38.1,
+        "Width": 46.4
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 8.89,
+        "Height": 60.9601,
+        "Width": 68.8976
+      }
+    }
+  ],
+  "creditLine": "The Lesley and Emma Sheafer Collection, Bequest of Emma A. Sheafer, 1973",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437436",
+  "tags": [
+    {
+      "term": "Human Figures",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300404114",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q5937779"
+    },
+    {
+      "term": "Roads",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008217",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q34442"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19906268",
+  "isTimelineWork": true,
+  "GalleryNumber": "824"
+}

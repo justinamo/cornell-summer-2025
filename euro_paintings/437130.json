@@ -1,0 +1,102 @@
+{
+  "objectID": 437130,
+  "isHighlight": false,
+  "accessionNumber": "57.183",
+  "accessionYear": "1957",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162135,
+      "role": "Artist",
+      "name": "Claude Monet",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500019484",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q296",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Apples and Grapes",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Claude Monet",
+  "artistDisplayBio": "French, Paris 1840–1926 Giverny",
+  "artistSuffix": "",
+  "artistAlphaSort": "Monet, Claude",
+  "artistNationality": "French",
+  "artistBeginDate": "1840",
+  "artistEndDate": "1926",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q296",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500019484",
+  "objectDate": "1879–80",
+  "objectBeginDate": 1879,
+  "objectEndDate": 1880,
+  "medium": "Oil on canvas",
+  "dimensions": "26 5/8 x 35 1/4 in. (67.6 x 89.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 67.6,
+        "Width": 89.5
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 13.0175,
+        "Height": 93.9802,
+        "Width": 114.3002
+      }
+    }
+  ],
+  "creditLine": "Gift of Henry R. Luce, 1957",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437130",
+  "tags": [
+    {
+      "term": "Apples",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300266417",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q89"
+    },
+    {
+      "term": "Grapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379338",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q10978"
+    },
+    {
+      "term": "Still Life",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19906246",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

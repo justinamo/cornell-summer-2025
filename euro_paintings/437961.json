@@ -1,0 +1,88 @@
+{
+  "objectID": 437961,
+  "isHighlight": false,
+  "accessionNumber": "95.14.99",
+  "accessionYear": "1895",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep95.14.99.R.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/ep95.14.99.R.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162780,
+      "role": "Artist",
+      "name": "Christian Friedrich Zincke",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011388",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1028749",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, miniature",
+  "title": "Mrs. Vanderbank",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Christian Friedrich Zincke",
+  "artistDisplayBio": "German, Dresden 1683/85–1767 London",
+  "artistSuffix": "",
+  "artistAlphaSort": "Zincke, Christian Friedrich",
+  "artistNationality": "German",
+  "artistBeginDate": "1683",
+  "artistEndDate": "1767",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q1028749",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500011388",
+  "objectDate": "ca. 1730",
+  "objectBeginDate": 1725,
+  "objectEndDate": 1735,
+  "medium": "Enamel",
+  "dimensions": "Oval, 1 3/8 x 1 1/2 in. (35 x 38 mm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 3.5,
+        "Width": 3.8
+      }
+    }
+  ],
+  "creditLine": "The Moses Lazarus Collection, Gift of Josephine and Sarah Lazarus, in memory of their father, 1888–95",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Miniatures",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437961",
+  "tags": [
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913841",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

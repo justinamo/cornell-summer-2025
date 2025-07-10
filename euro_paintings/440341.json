@@ -1,0 +1,102 @@
+{
+  "objectID": 440341,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.61",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 126573,
+      "role": "Artist",
+      "name": "Léon Fleury",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500024923",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3083823",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Hilly Landscape with Sheep",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Léon Fleury",
+  "artistDisplayBio": "French, Paris 1804–1858 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Fleury Léon",
+  "artistNationality": "French",
+  "artistBeginDate": "1804",
+  "artistEndDate": "1858",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q3083823",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500024923",
+  "objectDate": "1827–29",
+  "objectBeginDate": 1827,
+  "objectEndDate": 1829,
+  "medium": "Oil on paper, laid down on canvas",
+  "dimensions": "10 1/2 x 15 in. (26.7 x 38.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 6.985014,
+        "Height": 43.180088,
+        "Width": 54.610107
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 26.670053,
+        "Width": 38.100075
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/440341",
+  "tags": [
+    {
+      "term": "Sheep",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250284",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q7368"
+    },
+    {
+      "term": "Hills",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008777",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q54050"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913524",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

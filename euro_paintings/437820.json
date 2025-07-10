@@ -1,0 +1,97 @@
+{
+  "objectID": 437820,
+  "isHighlight": false,
+  "accessionNumber": "39.55",
+  "accessionYear": "1939",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP239507.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP239507.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162547,
+      "role": "Artist",
+      "name": "Jacopo Tintoretto (Jacopo Robusti)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011407",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q9319",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Finding of Moses",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Jacopo Tintoretto (Jacopo Robusti)",
+  "artistDisplayBio": "Italian, Venice 1518/19–1594 Venice",
+  "artistSuffix": "",
+  "artistAlphaSort": "Tintoretto, Jacopo (Jacopo Robusti)",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1518",
+  "artistEndDate": "1594",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q9319",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500011407",
+  "objectDate": "1560s?",
+  "objectBeginDate": 1560,
+  "objectEndDate": 1569,
+  "medium": "Oil on canvas",
+  "dimensions": "30 1/2 x 52 3/4 in. (77.5 x 134 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 77.5,
+        "Width": 134
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 10.16002,
+        "Height": 110.49022,
+        "Width": 166.37033
+      }
+    }
+  ],
+  "creditLine": "Gwynne Andrews Fund, 1939",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437820",
+  "tags": [
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Moses",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000167",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q9077"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19904843",
+  "isTimelineWork": false,
+  "GalleryNumber": "608"
+}

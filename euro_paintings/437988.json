@@ -1,0 +1,93 @@
+{
+  "objectID": 437988,
+  "isHighlight": false,
+  "accessionNumber": "1999.288.1",
+  "accessionYear": "1999",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT4425.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT4425.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161704,
+      "role": "Artist",
+      "name": "Eugène Boudin",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004513",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q212600",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Princess Pauline Metternich (1836–1921) on the Beach",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Eugène Boudin",
+  "artistDisplayBio": "French, Honfleur 1824–1898 Deauville",
+  "artistSuffix": "",
+  "artistAlphaSort": "Boudin, Eugène",
+  "artistNationality": "French",
+  "artistBeginDate": "1824",
+  "artistEndDate": "1898",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q212600",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500004513",
+  "objectDate": "ca. 1865–67",
+  "objectBeginDate": 1844,
+  "objectEndDate": 1898,
+  "medium": "Oil on cardboard, laid down on wood",
+  "dimensions": "11 5/8 x 9 1/4 in. (29.5 x 23.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 29.5,
+        "Width": 23.5
+      }
+    }
+  ],
+  "creditLine": "The Walter H. and Leonore Annenberg Collection, Gift of Walter H. and Leonore Annenberg, 1999, Bequest of Walter H. Annenberg, 2002",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437988",
+  "tags": [
+    {
+      "term": "Princesses",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300155241",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q863048"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Beaches",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008816",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q40080"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913425",
+  "isTimelineWork": false,
+  "GalleryNumber": "821"
+}

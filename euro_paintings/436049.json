@@ -1,0 +1,110 @@
+{
+  "objectID": 436049,
+  "isHighlight": false,
+  "accessionNumber": "45.128.14",
+  "accessionYear": "1945",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT211613.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT211613.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 107538,
+      "role": "Artist",
+      "name": "Gaspar de Crayer",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500019948",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q570172",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Philip IV (1605–1665) in Parade Armor",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Gaspar de Crayer",
+  "artistDisplayBio": "Flemish, 1584–1669",
+  "artistSuffix": "",
+  "artistAlphaSort": "Crayer, Gaspar de",
+  "artistNationality": "Flemish",
+  "artistBeginDate": "1584",
+  "artistEndDate": "1669",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q570172",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500019948",
+  "objectDate": "ca. 1628",
+  "objectBeginDate": 1623,
+  "objectEndDate": 1633,
+  "medium": "Oil on canvas",
+  "dimensions": "72 x 46 1/2 in. (182.9 x 118.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 182.88037,
+        "Weight": 22.679852,
+        "Width": 118.1
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 7.62,
+        "Height": 211.4554,
+        "Width": 143.5103
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": "Picture + Frame (Approximate)",
+      "elementMeasurements": {
+        "Weight": 22.679852
+      }
+    }
+  ],
+  "creditLine": "Bequest of Helen Hay Whitney, 1944",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436049",
+  "tags": [
+    {
+      "term": "Armor",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300226591",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q20793164"
+    },
+    {
+      "term": "Philip IV",
+      "AAT_URL": "http://vocab.getty.edu/page/ulan/500282775",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q691402"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912181",
+  "isTimelineWork": false,
+  "GalleryNumber": "374"
+}

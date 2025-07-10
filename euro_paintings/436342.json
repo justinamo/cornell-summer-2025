@@ -1,0 +1,93 @@
+{
+  "objectID": 436342,
+  "isHighlight": false,
+  "accessionNumber": "67.55.2",
+  "accessionYear": "1967",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep67.55.2.bw.R.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/ep67.55.2.bw.R.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 127098,
+      "role": "Artist",
+      "name": "French Painter",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Henri III (1551–1589), King of France",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "French Painter",
+  "artistDisplayBio": "late 16th century",
+  "artistSuffix": "",
+  "artistAlphaSort": "French Painter",
+  "artistNationality": "French",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "",
+  "objectBeginDate": 1570,
+  "objectEndDate": 1599,
+  "medium": "Oil on wood",
+  "dimensions": "12 3/4 x 9 7/8 in. (32.4 x 25.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 32.4,
+        "Width": 25.1
+      }
+    }
+  ],
+  "creditLine": "Bequest of Susan Dwight Bliss, 1966",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436342",
+  "tags": [
+    {
+      "term": "Kings",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025481",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12097"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913646",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

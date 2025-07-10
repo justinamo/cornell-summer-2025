@@ -1,0 +1,119 @@
+{
+  "objectID": 437276,
+  "isHighlight": false,
+  "accessionNumber": "50.145.30",
+  "accessionYear": "1950",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP247059.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP247059.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/DP247147.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/Pesellino.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 162232,
+      "role": "Artist",
+      "name": "Pesellino (Francesco di Stefano)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500025682",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q930831",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Madonna and Child with Six Saints",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Pesellino (Francesco di Stefano)",
+  "artistDisplayBio": "Italian, Florence ca. 1422–1457 Florence",
+  "artistSuffix": "",
+  "artistAlphaSort": "Pesellino (Francesco di Stefano)",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1422",
+  "artistEndDate": "1457",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q930831",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500025682",
+  "objectDate": "late 1440s",
+  "objectBeginDate": 1447,
+  "objectEndDate": 1449,
+  "medium": "Tempera on wood, gold ground",
+  "dimensions": "8 7/8 x 8 in. (22.5 x 20.3 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 22.5,
+        "Width": 20.3
+      }
+    },
+    {
+      "elementName": "Glazing",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 26.035051,
+        "Width": 23.812548
+      }
+    }
+  ],
+  "creditLine": "Bequest of Mary Stillman Harkness, 1950",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-05-07T04:49:19.68Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437276",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Madonna and Child",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+    },
+    {
+      "term": "Saint Catherine",
+      "AAT_URL": null,
+      "Wikidata_URL": null
+    },
+    {
+      "term": "Saint George",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000509",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q48438"
+    },
+    {
+      "term": "Saint Jerome",
+      "AAT_URL": "http://vocab.getty.edu/page/ulan/500060933",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q44248"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911675",
+  "isTimelineWork": true,
+  "GalleryNumber": "635"
+}

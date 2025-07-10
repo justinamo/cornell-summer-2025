@@ -1,0 +1,88 @@
+{
+  "objectID": 435721,
+  "isHighlight": false,
+  "accessionNumber": "95.14.83",
+  "accessionYear": "1895",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep95.14.83.R.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/ep95.14.83.R.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 108635,
+      "role": "Artist",
+      "name": "Joseph Bordes",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500072120",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21995140",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, miniature",
+  "title": "Portrait of a Man",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Joseph Bordes",
+  "artistDisplayBio": "French, 1773–after 1835",
+  "artistSuffix": "",
+  "artistAlphaSort": "Bordes, Joseph",
+  "artistNationality": "French",
+  "artistBeginDate": "1773",
+  "artistEndDate": "1835",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q21995140",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500072120",
+  "objectDate": "ca. 1810",
+  "objectBeginDate": 1805,
+  "objectEndDate": 1815,
+  "medium": "Ivory set into card",
+  "dimensions": "Oval, 7 1/8 x 5 7/8 in. (181 x 149 mm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 18.1,
+        "Width": 14.9
+      }
+    }
+  ],
+  "creditLine": "The Moses Lazarus Collection, Gift of Josephine and Sarah Lazarus, in memory of their father, 1888–95",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Miniatures",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435721",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913993",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

@@ -1,0 +1,88 @@
+{
+  "objectID": 437141,
+  "isHighlight": false,
+  "accessionNumber": "15.43.291",
+  "accessionYear": "1915",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/28875.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/28875.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 108525,
+      "role": "Artist",
+      "name": "Monogrammist IS",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500009632",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q16665106",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, miniature",
+  "title": "Portrait of a Man",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Monogrammist IS",
+  "artistDisplayBio": "Flemish, dated 1621",
+  "artistSuffix": "",
+  "artistAlphaSort": "Monogrammist IS",
+  "artistNationality": "Flemish",
+  "artistBeginDate": "1621",
+  "artistEndDate": "1621",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q16665106",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500009632",
+  "objectDate": "1621",
+  "objectBeginDate": 1621,
+  "objectEndDate": 1621,
+  "medium": "Oil on copper",
+  "dimensions": "Oval, 4 1/8 x 3 5/8 in. (105 x 91 mm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 10.5,
+        "Width": 9.2
+      }
+    }
+  ],
+  "creditLine": "Bequest of Mary Anna Palmer Draper, 1914",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Miniatures",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2024-10-03T04:53:53.567Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437141",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913702",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

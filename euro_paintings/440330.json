@@ -1,0 +1,92 @@
+{
+  "objectID": 440330,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.24",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 120018,
+      "role": "Artist",
+      "name": "Jules Coignet",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500015282",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q347455",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Shipyard at Le Havre",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Jules Coignet",
+  "artistDisplayBio": "French, Paris 1798–1860 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Coignet, Jules",
+  "artistNationality": "French",
+  "artistBeginDate": "1798",
+  "artistEndDate": "1860",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q347455",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500015282",
+  "objectDate": "1831",
+  "objectBeginDate": 1831,
+  "objectEndDate": 1831,
+  "medium": "Oil on paper, laid down on canvas",
+  "dimensions": "11 3/8 x 15 3/8 in. (28.9 x 39.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 28.892557,
+        "Width": 39.052578
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 5.7150116,
+        "Height": 37.147575,
+        "Width": 47.307594
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/440330",
+  "tags": [
+    {
+      "term": "Boats",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913507",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

@@ -1,0 +1,93 @@
+{
+  "objectID": 436589,
+  "isHighlight": false,
+  "accessionNumber": "62.122.60",
+  "accessionYear": "1962",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep62.122.60.R.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/ep62.122.60.R.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 108613,
+      "role": "Artist",
+      "name": "Style of William Grimaldi",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500013698",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q16857652",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, miniature",
+  "title": "Sir Joshua Reynolds (1723–1792)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Style of",
+  "artistDisplayName": "William Grimaldi",
+  "artistDisplayBio": "1773 or later",
+  "artistSuffix": "",
+  "artistAlphaSort": "Grimaldi, William",
+  "artistNationality": "British",
+  "artistBeginDate": "1751",
+  "artistEndDate": "1830",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q16857652",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500013698",
+  "objectDate": "",
+  "objectBeginDate": 1773,
+  "objectEndDate": 1773,
+  "medium": "Ivory",
+  "dimensions": "Oval, 1 7/8 x 1 1/2 in. (47 x 37 mm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 4.8,
+        "Width": 3.8
+      }
+    }
+  ],
+  "creditLine": "Bequest of Millie Bruhl Fredrick, 1962",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Miniatures",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436589",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Artists",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025103",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q483501"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913451",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

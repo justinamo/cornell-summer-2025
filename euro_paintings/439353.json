@@ -1,0 +1,97 @@
+{
+  "objectID": 439353,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.17",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161755,
+      "role": "Artist",
+      "name": "Carl Gustav Carus",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004882",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q61987",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Landscape at Sunset",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Carl Gustav Carus",
+  "artistDisplayBio": "German, Leipzig 1789–1869 Dresden",
+  "artistSuffix": "",
+  "artistAlphaSort": "Carus, Carl Gustav",
+  "artistNationality": "German",
+  "artistBeginDate": "1789",
+  "artistEndDate": "1869",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q61987",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500004882",
+  "objectDate": "ca. 1830",
+  "objectBeginDate": 1825,
+  "objectEndDate": 1835,
+  "medium": "Oil on paper, laid down on canvas",
+  "dimensions": "5 3/8 x 7 5/8 in. (13.7 x 19.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 5.08001,
+        "Height": 28.257557,
+        "Width": 33.655067
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 13.652527,
+        "Width": 19.367538
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/439353",
+  "tags": [
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    },
+    {
+      "term": "Evening",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300343633",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q7725"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913480",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

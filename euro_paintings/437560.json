@@ -1,0 +1,93 @@
+{
+  "objectID": 437560,
+  "isHighlight": false,
+  "accessionNumber": "1972.145.29",
+  "accessionYear": "1972",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep1972.145.29.bw.R.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/ep1972.145.29.bw.R.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 107260,
+      "role": "Artist",
+      "name": "Russian Painter",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, icon",
+  "title": "Saints Boris and Gleb",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Russian Painter",
+  "artistDisplayBio": "17th century",
+  "artistSuffix": "",
+  "artistAlphaSort": "Russian Painter",
+  "artistNationality": "Russian",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "",
+  "objectBeginDate": 1600,
+  "objectEndDate": 1699,
+  "medium": "Tempera on wood, silver and silver-gilt cover",
+  "dimensions": "12 1/2 x 10 5/8 in. (31.8 x 27 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 31.8,
+        "Width": 27
+      }
+    }
+  ],
+  "creditLine": "Gift of Humanities Fund Inc., 1972",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437560",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Horses",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+    },
+    {
+      "term": "Saints",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913717",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

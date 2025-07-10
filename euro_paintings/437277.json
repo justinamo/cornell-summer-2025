@@ -1,0 +1,88 @@
+{
+  "objectID": 437277,
+  "isHighlight": false,
+  "accessionNumber": "68.213",
+  "accessionYear": "1968",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/190241.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/190241.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 166201,
+      "role": "Artist",
+      "name": "Attributed to William Pether",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500018007",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3568880",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, miniature",
+  "title": "A Man with the Initials FM",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Attributed to",
+  "artistDisplayName": "William Pether",
+  "artistDisplayBio": "British, Carlisle ca. 1738–1821 Bristol",
+  "artistSuffix": "",
+  "artistAlphaSort": "Pether, William",
+  "artistNationality": "British",
+  "artistBeginDate": "1733",
+  "artistEndDate": "1821",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q3568880",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500018007",
+  "objectDate": "",
+  "objectBeginDate": 1751,
+  "objectEndDate": 1821,
+  "medium": "Ivory",
+  "dimensions": "Oval, 3 x 2 1/4 in. (75 x 56 mm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 7.6,
+        "Width": 5.7
+      }
+    }
+  ],
+  "creditLine": "Gift of Lilliana Teruzzi, 1968",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Miniatures",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2024-10-03T04:53:53.567Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437277",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913861",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

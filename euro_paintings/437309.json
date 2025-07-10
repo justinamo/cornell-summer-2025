@@ -1,0 +1,105 @@
+{
+  "objectID": 437309,
+  "isHighlight": false,
+  "accessionNumber": "58.133",
+  "accessionYear": "1958",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1864.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1864.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162257,
+      "role": "Artist",
+      "name": "Camille Pissarro",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001924",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q134741",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Steamboats in the Port of Rouen",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Camille Pissarro",
+  "artistDisplayBio": "French, Charlotte Amalie, Saint Thomas 1830–1903 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Pissarro, Camille",
+  "artistNationality": "French",
+  "artistBeginDate": "1830",
+  "artistEndDate": "1903",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q134741",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500001924",
+  "objectDate": "1896",
+  "objectBeginDate": 1896,
+  "objectEndDate": 1896,
+  "medium": "Oil on canvas",
+  "dimensions": "18 x 21 1/2 in. (45.7 x 54.6 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 45.7,
+        "Width": 54.6
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 11.430023,
+        "Height": 69.85014,
+        "Width": 78.74016
+      }
+    },
+    {
+      "elementName": "Glazing",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 50.800102,
+        "Width": 60.32512
+      }
+    }
+  ],
+  "creditLine": "Gift of Arthur J. Neumark, 1958",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437309",
+  "tags": [
+    {
+      "term": "Rivers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008707",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4022"
+    },
+    {
+      "term": "Boats",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905366",
+  "isTimelineWork": false,
+  "GalleryNumber": "820"
+}

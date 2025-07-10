@@ -1,0 +1,108 @@
+{
+  "objectID": 657683,
+  "isHighlight": false,
+  "accessionNumber": "2014.448",
+  "accessionYear": "2014",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP333085.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP333085.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 91916,
+      "role": "Artist",
+      "name": "Ludovico Mazzolino",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500024405",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1351631",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Lamentation",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Ludovico Mazzolino",
+  "artistDisplayBio": "Italian, Ferrara ca. 1480–after 1528 Ferrara",
+  "artistSuffix": "",
+  "artistAlphaSort": "Mazzolino, Ludovico",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1480",
+  "artistEndDate": "1528",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q1351631",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500024405",
+  "objectDate": "ca. 1514–16",
+  "objectBeginDate": 1514,
+  "objectEndDate": 1516,
+  "medium": "Oil on wood",
+  "dimensions": "22 × 18 in. (55.9 × 45.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 55.88011,
+        "Width": 45.720093
+      }
+    }
+  ],
+  "creditLine": "Gift of Patrick Matthiesen and The Matthiesen Gallery, in honor of Keith Christiansen, 2014",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/657683",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Christ",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+    },
+    {
+      "term": "Saint John the Evangelist",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901001171",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q328804"
+    },
+    {
+      "term": "Virgin Mary",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+    },
+    {
+      "term": "Lamentation",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901001196",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3155356"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911616",
+  "isTimelineWork": false,
+  "GalleryNumber": "611"
+}

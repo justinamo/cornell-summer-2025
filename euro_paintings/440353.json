@@ -1,0 +1,102 @@
+{
+  "objectID": 440353,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.78",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162036,
+      "role": "Artist",
+      "name": "Johann Adam Klein",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500025780",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1692234",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Basilica of Constantine, Rome",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Johann Adam Klein",
+  "artistDisplayBio": "German, Nuremberg 1792–1875 Munich",
+  "artistSuffix": "",
+  "artistAlphaSort": "Klein, Johann Adam",
+  "artistNationality": "German",
+  "artistBeginDate": "1792",
+  "artistEndDate": "1875",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q1692234",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500025780",
+  "objectDate": "1821",
+  "objectBeginDate": 1821,
+  "objectEndDate": 1821,
+  "medium": "Oil on paper, laid down on cardboard",
+  "dimensions": "6 x 8 3/4 in. (15.2 x 22.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 15.24003,
+        "Width": 22.225044
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 4.4450088,
+        "Height": 23.495047,
+        "Width": 29.84506
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/440353",
+  "tags": [
+    {
+      "term": "Arches",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300001062",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12277"
+    },
+    {
+      "term": "Ruins",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008057",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q109607"
+    },
+    {
+      "term": "Rome",
+      "AAT_URL": "http://vocab.getty.edu/page/tgn/7000874",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q220"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913358",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

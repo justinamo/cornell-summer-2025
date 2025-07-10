@@ -1,0 +1,97 @@
+{
+  "objectID": 440459,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.97",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 126577,
+      "role": "Artist",
+      "name": "Heinrich Reinhold",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500006351",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1598563",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "View of San Vito with Monte Guadagnolo in the Distance",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Heinrich Reinhold",
+  "artistDisplayBio": "German, Gera 1788–1825 Albano",
+  "artistSuffix": "",
+  "artistAlphaSort": "Reinhold, Heinrich",
+  "artistNationality": "German",
+  "artistBeginDate": "1788",
+  "artistEndDate": "1825",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q1598563",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500006351",
+  "objectDate": "probably 1822",
+  "objectBeginDate": 1822,
+  "objectEndDate": 1822,
+  "medium": "Oil and graphite on paper",
+  "dimensions": "5 1/2 x 8 7/8 in. (14 x 22.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 13.970028,
+        "Width": 22.542545
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 3.1750064,
+        "Height": 20.63754,
+        "Width": 29.52756
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/440459",
+  "tags": [
+    {
+      "term": "Mountains",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008795",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8502"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q20168198",
+  "isTimelineWork": false,
+  "GalleryNumber": "806"
+}

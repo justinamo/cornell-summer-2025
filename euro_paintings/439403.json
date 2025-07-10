@@ -1,0 +1,102 @@
+{
+  "objectID": 439403,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.116",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 126582,
+      "role": "Artist",
+      "name": "Pierre Henri de Valenciennes or Circle",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011650",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q334946",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Sky at Dusk",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Pierre Henri de Valenciennes or Circle",
+  "artistDisplayBio": "French, Toulouse 1750–1819 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Valenciennes, Pierre Henri de, or Circle",
+  "artistNationality": "French",
+  "artistBeginDate": "1750",
+  "artistEndDate": "1819",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q334946",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500011650",
+  "objectDate": "",
+  "objectBeginDate": 1785,
+  "objectEndDate": 1810,
+  "medium": "Oil on paper",
+  "dimensions": "11 5/8 x 17 1/8 in. (29.5 x 43.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 29.5276,
+        "Width": 43.497585
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 5.08001,
+        "Height": 50.1651,
+        "Width": 64.77013
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/439403",
+  "tags": [
+    {
+      "term": "Sky",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300263064",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q527"
+    },
+    {
+      "term": "Evening",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300343633",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q7725"
+    },
+    {
+      "term": "Clouds",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300343840",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8074"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913356",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

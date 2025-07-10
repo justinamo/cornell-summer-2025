@@ -1,0 +1,103 @@
+{
+  "objectID": 436072,
+  "isHighlight": false,
+  "accessionNumber": "41.190.12",
+  "accessionYear": "1941",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep41.190.12.bw.R.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/ep41.190.12.bw.R.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161801,
+      "role": "Artist",
+      "name": "Workshop of Bernardo Daddi",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004953",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q366562",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, central panel of a portable altarpiece",
+  "title": "The Crucifixion",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Workshop of",
+  "artistDisplayName": "Bernardo Daddi",
+  "artistDisplayBio": "Italian, Florence (?) ca. 1290–1348 Florence",
+  "artistSuffix": "",
+  "artistAlphaSort": "Daddi, Bernardo",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1290",
+  "artistEndDate": "1348",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q366562",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500004953",
+  "objectDate": "",
+  "objectBeginDate": 1327,
+  "objectEndDate": 1348,
+  "medium": "Tempera on wood, gold ground",
+  "dimensions": "Arched top, 18 3/4 x 10 1/4 in. (47.6 x 26 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 47.6,
+        "Width": 26
+      }
+    }
+  ],
+  "creditLine": "Bequest of George Blumenthal, 1941",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-05-22T04:50:13.743Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436072",
+  "tags": [
+    {
+      "term": "Christ",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+    },
+    {
+      "term": "Mary Magdalene",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000161",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q63070"
+    },
+    {
+      "term": "Saint John the Evangelist",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901001171",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q328804"
+    },
+    {
+      "term": "Virgin Mary",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+    },
+    {
+      "term": "Crucifixion",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300404300",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3235597"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905180",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

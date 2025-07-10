@@ -1,0 +1,91 @@
+{
+  "objectID": 438783,
+  "isHighlight": false,
+  "accessionNumber": "2005.476.1",
+  "accessionYear": "2005",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 124557,
+      "role": "Artist",
+      "name": "Bruno Marzi",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500343277",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21853947",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Madonna and Child (after Duccio)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Bruno Marzi",
+  "artistDisplayBio": "Italian, 1908–1981",
+  "artistSuffix": "",
+  "artistAlphaSort": "Marzi, Bruno",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1908",
+  "artistEndDate": "1981",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q21853947",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500343277",
+  "objectDate": "",
+  "objectBeginDate": 1928,
+  "objectEndDate": 1954,
+  "medium": "Tempera and gold on wood",
+  "dimensions": "15 7/8 x 11 3/8 in. (40.3 x 28.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Other",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 40.3226,
+        "Width": 28.8926
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 49.5301,
+        "Width": 31.7501
+      }
+    }
+  ],
+  "creditLine": "Gift of Lawrence and Julie Salander, 2005",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/438783",
+  "tags": [
+    {
+      "term": "Madonna and Child",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913594",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

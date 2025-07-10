@@ -1,0 +1,92 @@
+{
+  "objectID": 435909,
+  "isHighlight": false,
+  "accessionNumber": "1978.205",
+  "accessionYear": "1978",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-27909-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-27909-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161774,
+      "role": "Artist",
+      "name": "Claude Lorrain (Claude Gellée)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115366",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q214074",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "View of La Crescenza",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Claude Lorrain (Claude Gellée)",
+  "artistDisplayBio": "French, Chamagne 1604/5?–1682 Rome",
+  "artistSuffix": "",
+  "artistAlphaSort": "Claude Lorrain (Claude Gellée)",
+  "artistNationality": "French",
+  "artistBeginDate": "1604",
+  "artistEndDate": "1682",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q214074",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115366",
+  "objectDate": "1648–50",
+  "objectBeginDate": 1648,
+  "objectEndDate": 1650,
+  "medium": "Oil on canvas",
+  "dimensions": "15 1/4 x 22 7/8 in. (38.7 x 58.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 8.255,
+        "Height": 60.3251,
+        "Width": 80.0102
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 38.7,
+        "Width": 58.1
+      }
+    }
+  ],
+  "creditLine": "Purchase, The Annenberg Fund Inc. Gift, 1978",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-19T04:53:33.417Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435909",
+  "tags": [
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19904840",
+  "isTimelineWork": true,
+  "GalleryNumber": "623"
+}

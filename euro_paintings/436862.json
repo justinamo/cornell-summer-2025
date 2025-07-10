@@ -1,0 +1,88 @@
+{
+  "objectID": 436862,
+  "isHighlight": false,
+  "accessionNumber": "1972.145.11",
+  "accessionYear": "1972",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP327723.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP327723.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 108565,
+      "role": "Artist",
+      "name": "Jeanne Philiberte Ledoux",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500020165",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q18560378",
+      "gender": "Female"
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, miniature",
+  "title": "Portrait of a Man",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Jeanne Philiberte Ledoux",
+  "artistDisplayBio": "French, 1767–1840",
+  "artistSuffix": "",
+  "artistAlphaSort": "Ledoux, Jeanne Philiberte",
+  "artistNationality": "French",
+  "artistBeginDate": "1767",
+  "artistEndDate": "1840",
+  "artistGender": "Female",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q18560378",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500020165",
+  "objectDate": "ca. 1790",
+  "objectBeginDate": 1785,
+  "objectEndDate": 1795,
+  "medium": "Ivory",
+  "dimensions": "Diameter 2 1/4 in. (57 mm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 5.7,
+        "Width": 5.7
+      }
+    }
+  ],
+  "creditLine": "Gift of Humanities Fund Inc., 1972",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Miniatures",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436862",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913931",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

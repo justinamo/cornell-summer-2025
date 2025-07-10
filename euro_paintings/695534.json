@@ -1,0 +1,97 @@
+{
+  "objectID": 695534,
+  "isHighlight": false,
+  "accessionNumber": "2016.802.16",
+  "accessionYear": "2016",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 126974,
+      "role": "Artist",
+      "name": "Romain-Étienne-Gabriel Prieur",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500049724",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3093914",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "View of Cervara",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Romain-Étienne-Gabriel Prieur",
+  "artistDisplayBio": "French, La Ferté-Gaucher 1806–1879? Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Prieur, Romain-Étienne-Gabriel",
+  "artistNationality": "French",
+  "artistBeginDate": "1806",
+  "artistEndDate": "1879",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q3093914",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500049724",
+  "objectDate": "ca. 1833–36",
+  "objectBeginDate": 1833,
+  "objectEndDate": 1836,
+  "medium": "Oil on paper",
+  "dimensions": "9 1/2 × 17 1/4 in. (24.1 × 43.8 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 24.130049,
+        "Width": 43.815086
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 5.08001,
+        "Height": 33.020065,
+        "Width": 52.387604
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2016",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/695534",
+  "tags": [
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    },
+    {
+      "term": "Rome",
+      "AAT_URL": "http://vocab.getty.edu/page/tgn/7000874",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q220"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q126120369",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

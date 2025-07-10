@@ -1,0 +1,102 @@
+{
+  "objectID": 436445,
+  "isHighlight": false,
+  "accessionNumber": "1973.319",
+  "accessionYear": "1973",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP158156.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP158156.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 107688,
+      "role": "Artist",
+      "name": "Attributed to Saturnino Gatti",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500022878",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q923418",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Translation of the Holy House of Loreto",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Attributed to",
+  "artistDisplayName": "Saturnino Gatti",
+  "artistDisplayBio": "Italian, L'Aquila 1463–1518 L'Aquila",
+  "artistSuffix": "",
+  "artistAlphaSort": "Gatti, Saturnino",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1463",
+  "artistEndDate": "1518",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q923418",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500022878",
+  "objectDate": "ca. 1490",
+  "objectBeginDate": 1485,
+  "objectEndDate": 1495,
+  "medium": "Tempera and gold on wood",
+  "dimensions": "33 1/4 x 21 5/8 in. (84.5 x 54.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 84.5,
+        "Width": 54.9
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 19.05,
+        "Height": 111.1252,
+        "Width": 87.6302
+      }
+    }
+  ],
+  "creditLine": "Gwynne Andrews Fund, 1973",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436445",
+  "tags": [
+    {
+      "term": "Angels",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+    },
+    {
+      "term": "Madonna and Child",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+    },
+    {
+      "term": "Ships",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300082981",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q11446"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905120",
+  "isTimelineWork": false,
+  "GalleryNumber": "601"
+}

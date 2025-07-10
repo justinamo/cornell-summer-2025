@@ -1,0 +1,97 @@
+{
+  "objectID": 440355,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.80",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 126966,
+      "role": "Artist",
+      "name": "Louis-Auguste Lapito",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500025367",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3260370",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Clearing at the Edge of a Wood",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Louis-Auguste Lapito",
+  "artistDisplayBio": "French, Joinville-le-Pont 1803–1874 Boulogne-sur-Seine",
+  "artistSuffix": "",
+  "artistAlphaSort": "Lapito, Louis-Auguste",
+  "artistNationality": "French",
+  "artistBeginDate": "1803",
+  "artistEndDate": "1874",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q3260370",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500025367",
+  "objectDate": "",
+  "objectBeginDate": 1823,
+  "objectEndDate": 1874,
+  "medium": "Oil on paper, laid down on canvas",
+  "dimensions": "12 1/2 x 17 3/4 in. (31.8 x 45.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 31.750063,
+        "Width": 45.0851
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 5.7150116,
+        "Height": 42.862587,
+        "Width": 55.88011
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/440355",
+  "tags": [
+    {
+      "term": "Forests",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300387598",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4421"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913558",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

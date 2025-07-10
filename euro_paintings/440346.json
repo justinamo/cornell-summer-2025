@@ -1,0 +1,92 @@
+{
+  "objectID": 440346,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.66",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 165455,
+      "role": "Artist",
+      "name": "Christian Friedrich Gille",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010354",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1079595",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Study of Rushing Water",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Christian Friedrich Gille",
+  "artistDisplayBio": "German, Ballenstedt 1805–1899 Dresden",
+  "artistSuffix": "",
+  "artistAlphaSort": "Gille, Christian Friedrich",
+  "artistNationality": "German",
+  "artistBeginDate": "1805",
+  "artistEndDate": "1899",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q1079595",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500010354",
+  "objectDate": "ca. 1850",
+  "objectBeginDate": 1845,
+  "objectEndDate": 1855,
+  "medium": "Oil on paper",
+  "dimensions": "8 3/4 x 12 1/8 in. (22.2 x 30.8 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 22.225044,
+        "Width": 30.797562
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 5.397511,
+        "Height": 33.337566,
+        "Width": 41.592583
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/440346",
+  "tags": [
+    {
+      "term": "Rivers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008707",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4022"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912660",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

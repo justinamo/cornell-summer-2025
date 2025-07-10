@@ -1,0 +1,92 @@
+{
+  "objectID": 439355,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.19",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 126568,
+      "role": "Artist",
+      "name": "Jean-Michel Cels",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500524122",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q18600110",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Cloud Study",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Jean-Michel Cels",
+  "artistDisplayBio": "Belgian, The Hague 1819–1894 Brussels",
+  "artistSuffix": "",
+  "artistAlphaSort": "Cels Jean-Michel",
+  "artistNationality": "Belgian",
+  "artistBeginDate": "1819",
+  "artistEndDate": "1894",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q18600110",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500524122",
+  "objectDate": "ca. 1838–42",
+  "objectBeginDate": 1833,
+  "objectEndDate": 1847,
+  "medium": "Oil on cardboard",
+  "dimensions": "10 3/8 x 14 3/8 in. (26.4 x 36.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 6.350013,
+        "Height": 37.147575,
+        "Width": 47.307594
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 26.352552,
+        "Width": 36.5126
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/439355",
+  "tags": [
+    {
+      "term": "Clouds",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300343840",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8074"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913482",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

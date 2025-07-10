@@ -1,0 +1,102 @@
+{
+  "objectID": 435576,
+  "isHighlight": false,
+  "accessionNumber": "1991.27.2",
+  "accessionYear": "1991",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-19582-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-19582-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161610,
+      "role": "Artist",
+      "name": "Fra Angelico (Guido di Pietro)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500029319",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5664",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Saint Alexander",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Fra Angelico (Guido di Pietro)",
+  "artistDisplayBio": "Italian, Vicchio di Mugello ca. 1395–1455 Rome",
+  "artistSuffix": "",
+  "artistAlphaSort": "Angelico, Fra (Guido di Pietro)",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1395",
+  "artistEndDate": "1455",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5664",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500029319",
+  "objectDate": "ca. 1425",
+  "objectBeginDate": 1420,
+  "objectEndDate": 1430,
+  "medium": "Tempera on wood, gold ground",
+  "dimensions": "Overall 6 1/4 x 6 1/8 in. (15.9 x 15.6 cm); diameter of roundel 5 7/8 in. (14.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 15.9,
+        "Width": 15.6
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 1.9050038,
+        "Height": 17.145035,
+        "Width": 16.827534
+      }
+    }
+  ],
+  "creditLine": "Bequest of Lucy G. Moses, 1990",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435576",
+  "tags": [
+    {
+      "term": "Bishops",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025756",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q29182"
+    },
+    {
+      "term": "Croziers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300212149",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q506002"
+    },
+    {
+      "term": "Miter",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300212995",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q193888"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912513",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

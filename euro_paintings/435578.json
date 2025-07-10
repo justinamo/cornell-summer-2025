@@ -1,0 +1,113 @@
+{
+  "objectID": 435578,
+  "isHighlight": false,
+  "accessionNumber": "1983.490",
+  "accessionYear": "1983",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT5285.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT5285.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162488,
+      "role": "Artist",
+      "name": "Attributed to Zanobi Strozzi",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500003966",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1284002",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Nativity",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Attributed to",
+  "artistDisplayName": "Zanobi Strozzi",
+  "artistDisplayBio": "Italian, Florence 1412–1468 Florence",
+  "artistSuffix": "",
+  "artistAlphaSort": "Strozzi, Zanobi",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1412",
+  "artistEndDate": "1468",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q1284002",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500003966",
+  "objectDate": "ca. 1433–34",
+  "objectBeginDate": 1433,
+  "objectEndDate": 1434,
+  "medium": "Tempera and gold on wood",
+  "dimensions": "7 3/8 x 17 1/8 in. (18.7 x 43.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 18.7,
+        "Width": 43.5
+      }
+    }
+  ],
+  "creditLine": "Gift of May Dougherty King, 1983",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435578",
+  "tags": [
+    {
+      "term": "Cows",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250120",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q830"
+    },
+    {
+      "term": "Donkeys",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300265959",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3537778"
+    },
+    {
+      "term": "Angels",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+    },
+    {
+      "term": "Christ",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+    },
+    {
+      "term": "Virgin Mary",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+    },
+    {
+      "term": "Nativity",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000124",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q51628"
+    },
+    {
+      "term": "Joseph",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000953",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q128267"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912096",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

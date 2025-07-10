@@ -1,0 +1,101 @@
+{
+  "objectID": 435824,
+  "isHighlight": false,
+  "accessionNumber": "30.83",
+  "accessionYear": "1930",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT894.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT894.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-30_83-2.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-30_83-3.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 163304,
+      "role": "Artist",
+      "name": "Giuliano di Piero di Simone Bugiardini",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011070",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2578459",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Madonna and Child Enthroned with Saints Mary Magdalen and John the Baptist",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Giuliano di Piero di Simone Bugiardini",
+  "artistDisplayBio": "Italian, Florence 1475–1554 Florence",
+  "artistSuffix": "",
+  "artistAlphaSort": "Bugiardini, Giuliano di Piero di Simone",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1475",
+  "artistEndDate": "1554",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q2578459",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500011070",
+  "objectDate": "ca. 1523",
+  "objectBeginDate": 1518,
+  "objectEndDate": 1528,
+  "medium": "Oil on wood",
+  "dimensions": "76 1/4 x 65 1/4 in. (193.7 x 165.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 193.7,
+        "Width": 165.7
+      }
+    }
+  ],
+  "creditLine": "Fletcher Fund, 1930",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435824",
+  "tags": [
+    {
+      "term": "Angels",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+    },
+    {
+      "term": "Madonna and Child",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+    },
+    {
+      "term": "Mary Magdalene",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000161",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q63070"
+    },
+    {
+      "term": "Saint John the Baptist",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901001056",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q40662"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905397",
+  "isTimelineWork": false,
+  "GalleryNumber": "609"
+}

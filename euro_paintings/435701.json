@@ -1,0 +1,88 @@
+{
+  "objectID": 435701,
+  "isHighlight": false,
+  "accessionNumber": "90.25",
+  "accessionYear": "1890",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep90.25.bw.R.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/ep90.25.bw.R.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 107411,
+      "role": "Artist",
+      "name": "Auguste-François Bonheur",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004475",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2871069",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Environs of Fontainebleau: Woodland and Cattle",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Auguste-François Bonheur",
+  "artistDisplayBio": "French, Bordeaux 1824–1884 Bellevue",
+  "artistSuffix": "",
+  "artistAlphaSort": "Bonheur, Auguste-François",
+  "artistNationality": "French",
+  "artistBeginDate": "1824",
+  "artistEndDate": "1884",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q2871069",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500004475",
+  "objectDate": "",
+  "objectBeginDate": 1844,
+  "objectEndDate": 1884,
+  "medium": "Oil on canvas",
+  "dimensions": "104 1/2 x 157 1/4 in. (265.4 x 399.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 265.4,
+        "Width": 399.4
+      }
+    }
+  ],
+  "creditLine": "Gift of James Clinch Smith and his sisters, in memory of their mother, 1890",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435701",
+  "tags": [
+    {
+      "term": "Cows",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250120",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q830"
+    },
+    {
+      "term": "Forests",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300387598",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4421"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913642",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

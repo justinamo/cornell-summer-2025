@@ -1,0 +1,93 @@
+{
+  "objectID": 439366,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.43",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 120020,
+      "role": "Artist",
+      "name": "Simon Denis",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500007133",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3484255",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Sunset, Rome",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Simon Denis",
+  "artistDisplayBio": "Flemish, Antwerp 1755–1813 Naples",
+  "artistSuffix": "",
+  "artistAlphaSort": "Denis, Simon",
+  "artistNationality": "Flemish",
+  "artistBeginDate": "1755",
+  "artistEndDate": "1813",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q3484255",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500007133",
+  "objectDate": "ca. 1789–1806",
+  "objectBeginDate": 1789,
+  "objectEndDate": 1806,
+  "medium": "Oil on paper",
+  "dimensions": "8 1/4 x 10 3/8 in. (21 x 26.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 20.955042,
+        "Width": 26.352552
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/439366",
+  "tags": [
+    {
+      "term": "Sky",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300263064",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q527"
+    },
+    {
+      "term": "Clouds",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300343840",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8074"
+    },
+    {
+      "term": "Rome",
+      "AAT_URL": "http://vocab.getty.edu/page/tgn/7000874",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q220"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19914303",
+  "isTimelineWork": false,
+  "GalleryNumber": "805"
+}

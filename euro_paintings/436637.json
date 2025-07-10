@@ -1,0 +1,98 @@
+{
+  "objectID": 436637,
+  "isHighlight": false,
+  "accessionNumber": "12.195",
+  "accessionYear": "1912",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP104986.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP104986.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 107771,
+      "role": "Artist",
+      "name": "Jan Davidsz de Heem",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500029732",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q454656",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Still Life: A Banqueting Scene",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Jan Davidsz de Heem",
+  "artistDisplayBio": "Dutch, Utrecht 1606–1683/84 Antwerp",
+  "artistSuffix": "",
+  "artistAlphaSort": "Heem, Jan Davidsz de",
+  "artistNationality": "Dutch",
+  "artistBeginDate": "1606",
+  "artistEndDate": "1684",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q454656",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500029732",
+  "objectDate": "ca. 1640–41",
+  "objectBeginDate": 1640,
+  "objectEndDate": 1641,
+  "medium": "Oil on canvas",
+  "dimensions": "53 1/4 x 73 in. (135.3 x 185.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 135.3,
+        "Width": 185.4
+      }
+    }
+  ],
+  "creditLine": "Charles B. Curtis Fund, 1912",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-04-18T04:59:19.697Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436637",
+  "tags": [
+    {
+      "term": "Fruit",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300011868",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q1364"
+    },
+    {
+      "term": "Grapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379338",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q10978"
+    },
+    {
+      "term": "Lobsters",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300249724",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q61864890"
+    },
+    {
+      "term": "Still Life",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911905",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

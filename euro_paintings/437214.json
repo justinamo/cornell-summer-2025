@@ -1,0 +1,121 @@
+{
+  "objectID": 437214,
+  "isHighlight": false,
+  "accessionNumber": "08.183.2",
+  "accessionYear": "1908",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT208762.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT208762.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-08_183_2-2.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-08_183_2-3.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 107262,
+      "role": "Artist",
+      "name": "Netherlandish (Antwerp Mannerist) Painter",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "A Sermon on Charity (possibly the Conversion of Saint Anthony)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Netherlandish (Antwerp Mannerist) Painter",
+  "artistDisplayBio": "ca. 1520–25",
+  "artistSuffix": "",
+  "artistAlphaSort": "Netherlandish (Antwerp Mannerist) Painter",
+  "artistNationality": "Netherlandish",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "",
+  "objectBeginDate": 1520,
+  "objectEndDate": 1525,
+  "medium": "Oil on wood",
+  "dimensions": "33 1/2 x 23 in. (85.1 x 58.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 85.1,
+        "Width": 58.4
+      }
+    }
+  ],
+  "creditLine": "Rogers Fund, 1908",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-06-19T04:50:33.487Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437214",
+  "tags": [
+    {
+      "term": "Interiors",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300391239",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q2998430"
+    },
+    {
+      "term": "Churches",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300007466",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q16970"
+    },
+    {
+      "term": "Children",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025945",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q7569"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Reading",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300248178",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q199657"
+    },
+    {
+      "term": "Dogs",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+    },
+    {
+      "term": "Saint Anthony",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901001255",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q170547"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912389",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

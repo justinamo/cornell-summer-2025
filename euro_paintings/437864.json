@@ -1,0 +1,98 @@
+{
+  "objectID": 437864,
+  "isHighlight": false,
+  "accessionNumber": "07.225.504",
+  "accessionYear": "1907",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-17394-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-17394-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162596,
+      "role": "Artist",
+      "name": "Anne Vallayer-Coster",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500007243",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q468772",
+      "gender": "Female"
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Vase of Flowers and Conch Shell",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Anne Vallayer-Coster",
+  "artistDisplayBio": "French, Paris 1744–1818 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Vallayer-Coster, Anne",
+  "artistNationality": "French",
+  "artistBeginDate": "1744",
+  "artistEndDate": "1818",
+  "artistGender": "Female",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q468772",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500007243",
+  "objectDate": "1780",
+  "objectBeginDate": 1780,
+  "objectEndDate": 1780,
+  "medium": "Oil on canvas",
+  "dimensions": "Oval, 19 3/4 x 15 in. (50.2 x 38.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 50.2,
+        "Width": 38.1
+      }
+    }
+  ],
+  "creditLine": "Gift of J. Pierpont Morgan, 1906",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437864",
+  "tags": [
+    {
+      "term": "Flowers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+    },
+    {
+      "term": "Shells",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300011829",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q213096"
+    },
+    {
+      "term": "Still Life",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+    },
+    {
+      "term": "Vases",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132254",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191851"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905269",
+  "isTimelineWork": true,
+  "GalleryNumber": "632"
+}

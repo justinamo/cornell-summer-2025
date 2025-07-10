@@ -1,0 +1,88 @@
+{
+  "objectID": 435874,
+  "isHighlight": false,
+  "accessionNumber": "1993.400.2",
+  "accessionYear": "1993",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1943.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1943.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161761,
+      "role": "Artist",
+      "name": "Paul Cézanne",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004793",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q35548",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The House with the Cracked Walls",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Paul Cézanne",
+  "artistDisplayBio": "French, Aix-en-Provence 1839–1906 Aix-en-Provence",
+  "artistSuffix": "",
+  "artistAlphaSort": "Cézanne, Paul",
+  "artistNationality": "French",
+  "artistBeginDate": "1839",
+  "artistEndDate": "1906",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q35548",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500004793",
+  "objectDate": "1892–94",
+  "objectBeginDate": 1892,
+  "objectEndDate": 1894,
+  "medium": "Oil on canvas",
+  "dimensions": "31 1/2 x 25 1/4 in. (80 x 64.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 80,
+        "Width": 64.1
+      }
+    }
+  ],
+  "creditLine": "The Walter H. and Leonore Annenberg Collection, Gift of Walter H. and Leonore Annenberg, 1993, Bequest of Walter H. Annenberg, 2002",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-19T04:53:33.417Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435874",
+  "tags": [
+    {
+      "term": "Houses",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300005433",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3947"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905318",
+  "isTimelineWork": false,
+  "GalleryNumber": "823"
+}

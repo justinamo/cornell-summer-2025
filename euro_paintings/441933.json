@@ -1,0 +1,101 @@
+{
+  "objectID": 441933,
+  "isHighlight": false,
+  "accessionNumber": "2012.203",
+  "accessionYear": "2012",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP273105.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP273105.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 165225,
+      "role": "Artist",
+      "name": "Vilhelm Hammershøi",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500000827",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q380706",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Moonlight, Strandgade 30",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Vilhelm Hammershøi",
+  "artistDisplayBio": "Danish, Copenhagen 1864–1916 Copenhagen",
+  "artistSuffix": "",
+  "artistAlphaSort": "Hammershøi, Vilhelm",
+  "artistNationality": "Danish",
+  "artistBeginDate": "1864",
+  "artistEndDate": "1916",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q380706",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500000827",
+  "objectDate": "1900–1906",
+  "objectBeginDate": 1900,
+  "objectEndDate": 1906,
+  "medium": "Oil on canvas",
+  "dimensions": "16 1/8 x 20 1/8 in. (41 x 51.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Glazing",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 42.227585,
+        "Width": 53.022606
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 40.95758,
+        "Width": 51.117603
+      }
+    }
+  ],
+  "creditLine": "Purchase, European Paintings Funds, and Annette de la Renta Gift, 2012",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-02-11T04:53:43.503Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/441933",
+  "tags": [
+    {
+      "term": "Doors",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300002803",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q36794"
+    },
+    {
+      "term": "Windows",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300002944",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q35473"
+    },
+    {
+      "term": "Interiors",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300391239",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q2998430"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q20168270",
+  "isTimelineWork": false,
+  "GalleryNumber": "813"
+}

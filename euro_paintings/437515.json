@@ -1,0 +1,92 @@
+{
+  "objectID": 437515,
+  "isHighlight": false,
+  "accessionNumber": "11.45.5",
+  "accessionYear": "1911",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-19627-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-19627-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162349,
+      "role": "Artist",
+      "name": "Théodore Rousseau",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500019946",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q310025",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "A Meadow Bordered by Trees",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Théodore Rousseau",
+  "artistDisplayBio": "French, Paris 1812–1867 Barbizon",
+  "artistSuffix": "",
+  "artistAlphaSort": "Rousseau, Théodore",
+  "artistNationality": "French",
+  "artistBeginDate": "1812",
+  "artistEndDate": "1867",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q310025",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500019946",
+  "objectDate": "ca. 1845–60",
+  "objectBeginDate": 1840,
+  "objectEndDate": 1865,
+  "medium": "Oil on wood",
+  "dimensions": "16 3/8 x 24 3/8 in. (41.6 x 61.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 41.6,
+        "Width": 61.9
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 10.16,
+        "Height": 70.4851,
+        "Width": 92.0752
+      }
+    }
+  ],
+  "creditLine": "Bequest of Robert Graham Dun, 1900",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-04-30T04:49:03.02Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437515",
+  "tags": [
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912915",
+  "isTimelineWork": true,
+  "GalleryNumber": "802"
+}

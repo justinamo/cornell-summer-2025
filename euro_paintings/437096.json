@@ -1,0 +1,115 @@
+{
+  "objectID": 437096,
+  "isHighlight": false,
+  "accessionNumber": "15.30.24",
+  "accessionYear": "1915",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-22841-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-22841-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 164909,
+      "role": "Artist",
+      "name": "Jean-François Millet",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012529",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q148458",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Garden Scene",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Jean-François Millet",
+  "artistDisplayBio": "French, Gruchy 1814–1875 Barbizon",
+  "artistSuffix": "",
+  "artistAlphaSort": "Millet, Jean-François",
+  "artistNationality": "French",
+  "artistBeginDate": "1814",
+  "artistEndDate": "1875",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q148458",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500012529",
+  "objectDate": "1854",
+  "objectBeginDate": 1854,
+  "objectEndDate": 1854,
+  "medium": "Oil on canvas",
+  "dimensions": "6 3/4 x 8 3/8 in. (17.1 x 21.3 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 17.1,
+        "Width": 21.3
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 7.62,
+        "Height": 41.2751,
+        "Width": 46.3551
+      }
+    },
+    {
+      "elementName": "Glazing",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 18.097536,
+        "Width": 25.400051
+      }
+    }
+  ],
+  "creditLine": "Bequest of Maria DeWitt Jesup, from the collection of her husband, Morris K. Jesup, 1914",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-04-30T04:49:03.02Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437096",
+  "tags": [
+    {
+      "term": "Gardens",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008090",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q1107656"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Gardeners",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025614",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q758780"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913151",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

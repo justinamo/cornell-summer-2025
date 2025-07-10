@@ -1,0 +1,88 @@
+{
+  "objectID": 436605,
+  "isHighlight": false,
+  "accessionNumber": "61.77",
+  "accessionYear": "1961",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP327726.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP327726.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 108617,
+      "role": "Artist",
+      "name": "Jean Urbain Guérin",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500031651",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3170062",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, miniature",
+  "title": "Alexandre Théodore Victor (1760–1829), Comte de Lameth",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Jean Urbain Guérin",
+  "artistDisplayBio": "French, 1761–1836",
+  "artistSuffix": "",
+  "artistAlphaSort": "Guérin, Jean Urbain",
+  "artistNationality": "French",
+  "artistBeginDate": "1761",
+  "artistEndDate": "1836",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q3170062",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500031651",
+  "objectDate": "ca. 1789–90",
+  "objectBeginDate": 1789,
+  "objectEndDate": 1790,
+  "medium": "Ivory laid on card",
+  "dimensions": "Diameter 3 in. (75 mm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 7.6,
+        "Width": 7.6
+      }
+    }
+  ],
+  "creditLine": "Rogers Fund, 1961",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Miniatures",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436605",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913938",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

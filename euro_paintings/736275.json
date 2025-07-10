@@ -1,0 +1,98 @@
+{
+  "objectID": 736275,
+  "isHighlight": false,
+  "accessionNumber": "2016.758",
+  "accessionYear": "2016",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 126957,
+      "role": "Artist",
+      "name": "Antoine-Félix Boisselier",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500079367",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q952038",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Monastery of San Benedetto above the Aniene River at Subiaco",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Antoine-Félix Boisselier",
+  "artistDisplayBio": "French, Paris 1790–1857 Versailles",
+  "artistSuffix": "",
+  "artistAlphaSort": "Boisselier, Antoine-Félix",
+  "artistNationality": "French",
+  "artistBeginDate": "1790",
+  "artistEndDate": "1857",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q952038",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500079367",
+  "objectDate": "1811",
+  "objectBeginDate": 1811,
+  "objectEndDate": 1811,
+  "medium": "Oil on paper, laid down on canvas",
+  "dimensions": "15 1/8 × 11 1/4 in. (38.4 × 28.6 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 38.417576,
+        "Width": 28.575058
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2016",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/736275",
+  "tags": [
+    {
+      "term": "Rivers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008707",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4022"
+    },
+    {
+      "term": "Waterfalls",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008736",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q34038"
+    },
+    {
+      "term": "Mountains",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008795",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8502"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q116444817",
+  "isTimelineWork": false,
+  "GalleryNumber": "805"
+}

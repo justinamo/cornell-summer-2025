@@ -1,0 +1,88 @@
+{
+  "objectID": 437761,
+  "isHighlight": false,
+  "accessionNumber": "50.57",
+  "accessionYear": "1950",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/147860.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/147860.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 108583,
+      "role": "Artist",
+      "name": "Peter Edward Stroely",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500031611",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2309952",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, miniature",
+  "title": "Portrait of a Woman",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Peter Edward Stroely",
+  "artistDisplayBio": "German, 1768–after 1826",
+  "artistSuffix": "",
+  "artistAlphaSort": "Stroely, Peter Edward",
+  "artistNationality": "German",
+  "artistBeginDate": "1768",
+  "artistEndDate": "1826",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q2309952",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500031611",
+  "objectDate": "ca. 1800",
+  "objectBeginDate": 1795,
+  "objectEndDate": 1805,
+  "medium": "Ivory",
+  "dimensions": "Octagonal, 3 3/8 x 2 5/8 in. (87 x 67 mm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 8.6,
+        "Width": 6.7
+      }
+    }
+  ],
+  "creditLine": "Rogers Fund, 1950",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Miniatures",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2024-10-03T04:53:53.567Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437761",
+  "tags": [
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913840",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

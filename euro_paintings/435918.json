@@ -1,0 +1,113 @@
+{
+  "objectID": 435918,
+  "isHighlight": false,
+  "accessionNumber": "71.19",
+  "accessionYear": "1871",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP146494.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP146494.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 107518,
+      "role": "Artist",
+      "name": "Edwaert Collier",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008569",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q781137",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Vanitas Still Life",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Edwaert Collier",
+  "artistDisplayBio": "Dutch, Breda ca. 1640?–after 1707 London or Leiden",
+  "artistSuffix": "",
+  "artistAlphaSort": "Collier, Edwaert",
+  "artistNationality": "Dutch",
+  "artistBeginDate": "1640",
+  "artistEndDate": "1707",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q781137",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500008569",
+  "objectDate": "1662",
+  "objectBeginDate": 1662,
+  "objectEndDate": 1662,
+  "medium": "Oil on wood",
+  "dimensions": "37 x 44 1/8 in. (94 x 112.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 94,
+        "Width": 112.1
+      }
+    }
+  ],
+  "creditLine": "Purchase, 1871",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435918",
+  "tags": [
+    {
+      "term": "Books",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300028051",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q571"
+    },
+    {
+      "term": "Jewelry",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300209286",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q161439"
+    },
+    {
+      "term": "Skulls",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300191856",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q13147"
+    },
+    {
+      "term": "Music",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300435214",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q638"
+    },
+    {
+      "term": "Violins",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300042215",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8355"
+    },
+    {
+      "term": "Still Life",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+    },
+    {
+      "term": "Globes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300028089",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q133792"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912667",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

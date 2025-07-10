@@ -1,0 +1,93 @@
+{
+  "objectID": 438018,
+  "isHighlight": false,
+  "accessionNumber": "2003.20.15",
+  "accessionYear": "2003",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1923.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1923.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162561,
+      "role": "Artist",
+      "name": "Henri de Toulouse-Lautrec",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500029114",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q82445",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Woman before a Mirror",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Henri de Toulouse-Lautrec",
+  "artistDisplayBio": "French, Albi 1864–1901 Saint-André-du-Bois",
+  "artistSuffix": "",
+  "artistAlphaSort": "Toulouse-Lautrec, Henri de",
+  "artistNationality": "French",
+  "artistBeginDate": "1864",
+  "artistEndDate": "1901",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q82445",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500029114",
+  "objectDate": "1897",
+  "objectBeginDate": 1897,
+  "objectEndDate": 1897,
+  "medium": "Oil on cardboard",
+  "dimensions": "24 1/2 x 18 1/2 in. (62.2 x 47 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 62.2,
+        "Width": 47
+      }
+    }
+  ],
+  "creditLine": "The Walter H. and Leonore Annenberg Collection, Bequest of Walter H. Annenberg, 2002",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-04-11T04:58:10.777Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/438018",
+  "tags": [
+    {
+      "term": "Female Nudes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+    },
+    {
+      "term": "Prostitutes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300189023",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q14915751"
+    },
+    {
+      "term": "Mirrors",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300037682",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q35197"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912242",
+  "isTimelineWork": true,
+  "GalleryNumber": "823"
+}

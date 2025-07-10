@@ -1,0 +1,97 @@
+{
+  "objectID": 440364,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.92",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 126972,
+      "role": "Artist",
+      "name": "Vilhelm Petersen",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500162369",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q12343974",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Rhine Landscape",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Vilhelm Petersen",
+  "artistDisplayBio": "Danish, Copenhagen 1812–1880 Copenhagen",
+  "artistSuffix": "",
+  "artistAlphaSort": "Petersen, Vilhelm",
+  "artistNationality": "Danish",
+  "artistBeginDate": "1812",
+  "artistEndDate": "1880",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q12343974",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500162369",
+  "objectDate": "ca. 1850",
+  "objectBeginDate": 1845,
+  "objectEndDate": 1855,
+  "medium": "Oil on paper, laid down on canvas",
+  "dimensions": "5 3/8 x 9 7/8 in. (13.7 x 25.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 13.652527,
+        "Width": 25.08255
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 5.7150116,
+        "Height": 22.860046,
+        "Width": 33.337566
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/440364",
+  "tags": [
+    {
+      "term": "Rivers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008707",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4022"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913621",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

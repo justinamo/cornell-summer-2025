@@ -1,0 +1,88 @@
+{
+  "objectID": 435671,
+  "isHighlight": false,
+  "accessionNumber": "51.30.1",
+  "accessionYear": "1951",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP164838.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP164838.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 166218,
+      "role": "Artist",
+      "name": "William Blake",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012489",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q41513",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Angel Appearing to Zacharias",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "William Blake",
+  "artistDisplayBio": "British, London 1757–1827 London",
+  "artistSuffix": "",
+  "artistAlphaSort": "Blake, William",
+  "artistNationality": "British",
+  "artistBeginDate": "1757",
+  "artistEndDate": "1827",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q41513",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500012489",
+  "objectDate": "1799–1800",
+  "objectBeginDate": 1799,
+  "objectEndDate": 1800,
+  "medium": "Pen and black ink, tempera, and glue size on canvas",
+  "dimensions": "10 1/2 x 15 in. (26.7 x 38.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 26.7,
+        "Width": 38.1
+      }
+    }
+  ],
+  "creditLine": "Bequest of William Church Osborn, 1951",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435671",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Angels",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905937",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

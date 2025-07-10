@@ -1,0 +1,140 @@
+{
+  "objectID": 437283,
+  "isHighlight": true,
+  "accessionNumber": "75.7.2",
+  "accessionYear": "1875",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-19296-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-19296-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162247,
+      "role": "Artist",
+      "name": "Piero di Cosimo (Piero di Lorenzo di Piero d&#39;Antonio)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500007508",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q280851",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "A Hunting Scene",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Piero di Cosimo (Piero di Lorenzo di Piero d'Antonio)",
+  "artistDisplayBio": "Italian, Florence 1462–1522 Florence",
+  "artistSuffix": "",
+  "artistAlphaSort": "Piero di Cosimo (Piero di Lorenzo di Piero d'Antonio)",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1462",
+  "artistEndDate": "1522",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q280851",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500007508",
+  "objectDate": "ca. 1494–1500",
+  "objectBeginDate": 1494,
+  "objectEndDate": 1500,
+  "medium": "Tempera and oil transferred to Masonite",
+  "dimensions": "27 3/4 x 66 3/4 in. (70.5 x 169.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 15.875031,
+        "Height": 106.680214,
+        "Width": 205.74042
+      }
+    },
+    {
+      "elementName": "Glazing",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 71.59639,
+        "Width": 169.70409
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 70.5,
+        "Width": 169.5
+      }
+    }
+  ],
+  "creditLine": "Gift of Robert Gordon, 1875",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437283",
+  "tags": [
+    {
+      "term": "Bears",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300266516",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q30090244"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Hunting",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300239666",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q36963"
+    },
+    {
+      "term": "Centaurs",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379740",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q83203"
+    },
+    {
+      "term": "Satyrs",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379732",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q163709"
+    },
+    {
+      "term": "Deer",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250308",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q685795"
+    },
+    {
+      "term": "Dogs",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+    },
+    {
+      "term": "Lions",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300310388",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q140"
+    },
+    {
+      "term": "Forests",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300387598",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4421"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q3649298",
+  "isTimelineWork": false,
+  "GalleryNumber": "613"
+}

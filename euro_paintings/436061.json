@@ -1,0 +1,102 @@
+{
+  "objectID": 436061,
+  "isHighlight": false,
+  "accessionNumber": "1973.155.2",
+  "accessionYear": "1973",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP143208.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP143208.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 163861,
+      "role": "Artist",
+      "name": "Aelbert Cuyp",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500121064",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q313194",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Landscape with the Flight into Egypt",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Aelbert Cuyp",
+  "artistDisplayBio": "Dutch, Dordrecht 1620–1691 Dordrecht",
+  "artistSuffix": "",
+  "artistAlphaSort": "Cuyp, Aelbert",
+  "artistNationality": "Dutch",
+  "artistBeginDate": "1620",
+  "artistEndDate": "1691",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q313194",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500121064",
+  "objectDate": "ca. 1650",
+  "objectBeginDate": 1645,
+  "objectEndDate": 1655,
+  "medium": "Oil on wood",
+  "dimensions": "18 x 22 7/8 in. (45.7 x 58.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 5.08001,
+        "Height": 64.77013,
+        "Width": 75.88265
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 45.7,
+        "Width": 58.1
+      }
+    }
+  ],
+  "creditLine": "Bequest of Josephine Bieber, in memory of her husband, Siegfried Bieber, 1970",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436061",
+  "tags": [
+    {
+      "term": "Cows",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250120",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q830"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    },
+    {
+      "term": "Holy Family",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901001175",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q618057"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912479",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

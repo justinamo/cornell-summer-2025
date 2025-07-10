@@ -1,0 +1,102 @@
+{
+  "objectID": 438653,
+  "isHighlight": false,
+  "accessionNumber": "2003.42.28",
+  "accessionYear": "2003",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161881,
+      "role": "Artist",
+      "name": "Paul Flandrin",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115337",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3371528",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "View of the Villa Torlonia, Frascati, at Dusk",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Paul Flandrin",
+  "artistDisplayBio": "French, Lyons 1811–1902 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Flandrin, Paul",
+  "artistNationality": "French",
+  "artistBeginDate": "1811",
+  "artistEndDate": "1902",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q3371528",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115337",
+  "objectDate": "ca. 1834–38",
+  "objectBeginDate": 1829,
+  "objectEndDate": 1843,
+  "medium": "Oil on paper, laid down on paper",
+  "dimensions": "8 7/8 x 11 7/8 in. (22.5 x 30.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 22.5,
+        "Width": 30.2
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 6.032512,
+        "Height": 35.56007,
+        "Width": 43.497585
+      }
+    }
+  ],
+  "creditLine": "The Whitney Collection, Gift of Wheelock Whitney III, and Purchase, Gift of Mr. and Mrs. Charles S. McVeigh, by exchange, 2003",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/438653",
+  "tags": [
+    {
+      "term": "Buildings",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300004789",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q41176"
+    },
+    {
+      "term": "Hills",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008777",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q54050"
+    },
+    {
+      "term": "Evening",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300343633",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q7725"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905300",
+  "isTimelineWork": false,
+  "GalleryNumber": "806"
+}

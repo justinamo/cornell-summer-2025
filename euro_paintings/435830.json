@@ -1,0 +1,97 @@
+{
+  "objectID": 435830,
+  "isHighlight": false,
+  "accessionNumber": "87.15.82",
+  "accessionYear": "1887",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT11971.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT11971.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 164238,
+      "role": "Artist",
+      "name": "Alexandre Cabanel",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004789",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q310437",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Catharine Lorillard Wolfe (1828–1887)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Alexandre Cabanel",
+  "artistDisplayBio": "French, Montpellier 1823–1889 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Cabanel, Alexandre",
+  "artistNationality": "French",
+  "artistBeginDate": "1823",
+  "artistEndDate": "1889",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q310437",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500004789",
+  "objectDate": "1876",
+  "objectBeginDate": 1876,
+  "objectEndDate": 1876,
+  "medium": "Oil on canvas",
+  "dimensions": "67 1/2 x 42 3/4 in. (171.5 x 108.6 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 171.5,
+        "Width": 108.6
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 19.050037,
+        "Height": 227.33046,
+        "Width": 166.37033
+      }
+    }
+  ],
+  "creditLine": "Catharine Lorillard Wolfe Collection, Bequest of Catharine Lorillard Wolfe, 1887",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-05-13T08:51:27.153Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435830",
+  "tags": [
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912184",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

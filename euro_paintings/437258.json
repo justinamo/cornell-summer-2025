@@ -1,0 +1,105 @@
+{
+  "objectID": 437258,
+  "isHighlight": false,
+  "accessionNumber": "1982.60.43",
+  "accessionYear": "1982",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP317728.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP317728.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/DP317729.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 165082,
+      "role": "Artist",
+      "name": "Jean-Baptiste Joseph Pater",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500005903",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q731533",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Golden Age",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Jean-Baptiste Joseph Pater",
+  "artistDisplayBio": "French, Valenciennes 1695–1736 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Pater, Jean-Baptiste Joseph",
+  "artistNationality": "French",
+  "artistBeginDate": "1695",
+  "artistEndDate": "1736",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q731533",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500005903",
+  "objectDate": "",
+  "objectBeginDate": 1715,
+  "objectEndDate": 1736,
+  "medium": "Oil on wood",
+  "dimensions": "6 3/8 x 9 in. (16.2 x 22.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 16.2,
+        "Width": 22.9
+      }
+    }
+  ],
+  "creditLine": "The Jack and Belle Linsky Collection, 1982",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437258",
+  "tags": [
+    {
+      "term": "Boys",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+    },
+    {
+      "term": "Girls",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+    },
+    {
+      "term": "Playing",
+      "AAT_URL": null,
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q1150958"
+    },
+    {
+      "term": "Dogs",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+    },
+    {
+      "term": "Toys",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300211037",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q11422"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912261",
+  "isTimelineWork": false,
+  "GalleryNumber": "541"
+}

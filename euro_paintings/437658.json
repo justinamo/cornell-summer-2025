@@ -1,0 +1,130 @@
+{
+  "objectID": 437658,
+  "isHighlight": true,
+  "accessionNumber": "51.112.6",
+  "accessionYear": "1951",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP259921.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP259921.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162405,
+      "role": "Artist",
+      "name": "Georges Seurat",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008873",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q34013",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Study for \"A Sunday on La Grande Jatte\"",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Georges Seurat",
+  "artistDisplayBio": "French, Paris 1859–1891 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Seurat, Georges",
+  "artistNationality": "French",
+  "artistBeginDate": "1859",
+  "artistEndDate": "1891",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q34013",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500008873",
+  "objectDate": "1884",
+  "objectBeginDate": 1884,
+  "objectEndDate": 1884,
+  "medium": "Oil on canvas",
+  "dimensions": "27 3/4 x 41 in. (70.5 x 104.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 70.5,
+        "Width": 104.1
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 6.0325,
+        "Height": 92.7102,
+        "Width": 127.0003
+      }
+    },
+    {
+      "elementName": "Glazing",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 72.70764,
+        "Width": 105.727715
+      }
+    }
+  ],
+  "creditLine": "Bequest of Sam A. Lewisohn, 1951",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437658",
+  "tags": [
+    {
+      "term": "Leisure",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300138173",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q180910"
+    },
+    {
+      "term": "Children",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025945",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q7569"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Dogs",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+    },
+    {
+      "term": "Monkeys",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250028",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q1367"
+    },
+    {
+      "term": "Rivers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008707",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4022"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q3976307",
+  "isTimelineWork": true,
+  "GalleryNumber": "825"
+}

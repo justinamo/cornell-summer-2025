@@ -1,0 +1,97 @@
+{
+  "objectID": 437520,
+  "isHighlight": false,
+  "accessionNumber": "25.110.4",
+  "accessionYear": "1925",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT229696.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT229696.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162349,
+      "role": "Artist",
+      "name": "Théodore Rousseau",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500019946",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q310025",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Sunset near Arbonne",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Théodore Rousseau",
+  "artistDisplayBio": "French, Paris 1812–1867 Barbizon",
+  "artistSuffix": "",
+  "artistAlphaSort": "Rousseau, Théodore",
+  "artistNationality": "French",
+  "artistBeginDate": "1812",
+  "artistEndDate": "1867",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q310025",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500019946",
+  "objectDate": "ca. 1860–65",
+  "objectBeginDate": 1860,
+  "objectEndDate": 1865,
+  "medium": "Oil on wood",
+  "dimensions": "25 1/4 x 39 in. (64.1 x 99.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 64.1,
+        "Width": 99.1
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 15.24003,
+        "Height": 99.060196,
+        "Width": 137.16028
+      }
+    }
+  ],
+  "creditLine": "Bequest of Collis P. Huntington, 1900",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-04-30T04:49:03.02Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437520",
+  "tags": [
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    },
+    {
+      "term": "Evening",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300343633",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q7725"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19906262",
+  "isTimelineWork": true,
+  "GalleryNumber": "802"
+}

@@ -1,0 +1,105 @@
+{
+  "objectID": 436858,
+  "isHighlight": false,
+  "accessionNumber": "1984.342",
+  "accessionYear": "1984",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT7839.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT7839.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/Mellan-Vouet.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-1984_342-2.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-1984_342-3.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 164882,
+      "role": "Artist",
+      "name": "Eustache Le Sueur",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500002273",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1378723",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Rape of Tamar",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Eustache Le Sueur",
+  "artistDisplayBio": "French, Paris 1616–1655 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Le Sueur, Eustache",
+  "artistNationality": "French",
+  "artistBeginDate": "1616",
+  "artistEndDate": "1655",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q1378723",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500002273",
+  "objectDate": "probably ca. 1640",
+  "objectBeginDate": 1635,
+  "objectEndDate": 1645,
+  "medium": "Oil on canvas",
+  "dimensions": "74 1/2 x 63 1/2 in. (189.2 x 161.3 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 189.2,
+        "Width": 161.3
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 217.5,
+        "Width": 188.59538
+      }
+    }
+  ],
+  "creditLine": "Purchase, Mr. and Mrs. Charles Wrightsman Gift, 1984",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-06-05T04:50:31.79Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436858",
+  "tags": [
+    {
+      "term": "Bedrooms",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300004364",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q193837"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q20166930",
+  "isTimelineWork": false,
+  "GalleryNumber": "622"
+}

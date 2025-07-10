@@ -1,0 +1,88 @@
+{
+  "objectID": 437545,
+  "isHighlight": false,
+  "accessionNumber": "65.181.10",
+  "accessionYear": "1965",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP145939.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP145939.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162354,
+      "role": "Artist",
+      "name": "Jacob van Ruisdael",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500027077",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q213612",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Landscape with a Village in the Distance",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Jacob van Ruisdael",
+  "artistDisplayBio": "Dutch, Haarlem 1628/29–1682 Amsterdam",
+  "artistSuffix": "",
+  "artistAlphaSort": "Ruisdael, Jacob van",
+  "artistNationality": "Dutch",
+  "artistBeginDate": "1628",
+  "artistEndDate": "1682",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q213612",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500027077",
+  "objectDate": "1646",
+  "objectBeginDate": 1646,
+  "objectEndDate": 1646,
+  "medium": "Oil on wood",
+  "dimensions": "30 x 43 in. (76.2 x 109.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 76.2,
+        "Width": 109.2
+      }
+    }
+  ],
+  "creditLine": "Bequest of Adele L. Lehman, in memory of Arthur Lehman, 1965",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437545",
+  "tags": [
+    {
+      "term": "Villages",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008372",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q532"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905162",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

@@ -1,0 +1,112 @@
+{
+  "objectID": 436948,
+  "isHighlight": false,
+  "accessionNumber": "89.21.2",
+  "accessionYear": "1889",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-14936-027.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-14936-027.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-davis_letter.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 162094,
+      "role": "Artist",
+      "name": "Edouard Manet",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Boy with a Sword",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Edouard Manet",
+  "artistDisplayBio": "French, Paris 1832–1883 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Manet, Edouard",
+  "artistNationality": "French",
+  "artistBeginDate": "1832",
+  "artistEndDate": "1883",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+  "objectDate": "1861",
+  "objectBeginDate": 1861,
+  "objectEndDate": 1861,
+  "medium": "Oil on canvas",
+  "dimensions": "51 5/8 x 36 3/4 in. (131.1 x 93.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Glazing",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 131.76276,
+        "Width": 94.29769
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 131.1,
+        "Width": 93.3
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 10.16,
+        "Height": 157.4803,
+        "Width": 120.0152
+      }
+    }
+  ],
+  "creditLine": "Gift of Erwin Davis, 1889",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-05-13T08:51:27.153Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436948",
+  "tags": [
+    {
+      "term": "Swords",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300037048",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12791"
+    },
+    {
+      "term": "Boys",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q1844748",
+  "isTimelineWork": false,
+  "GalleryNumber": "810"
+}

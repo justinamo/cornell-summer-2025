@@ -1,0 +1,97 @@
+{
+  "objectID": 440358,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.88",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 164188,
+      "role": "Artist",
+      "name": "Pier Francesco Mola",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500025440",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1192715",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Coastal Landscape with Tower",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Pier Francesco Mola",
+  "artistDisplayBio": "Italian, Coldrerio 1612–1666 Rome",
+  "artistSuffix": "",
+  "artistAlphaSort": "Mola, Pier Francesco",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1612",
+  "artistEndDate": "1666",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q1192715",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500025440",
+  "objectDate": "ca. 1651–52",
+  "objectBeginDate": 1651,
+  "objectEndDate": 1652,
+  "medium": "Oil over red chalk on paper",
+  "dimensions": "6 7/8 x 10 3/8 in. (17.5 x 26.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 17.4625,
+        "Width": 26.352552
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 4.4450088,
+        "Height": 37.147575,
+        "Width": 46.35509
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/440358",
+  "tags": [
+    {
+      "term": "Towers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300004847",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12518"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913030",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

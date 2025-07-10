@@ -1,0 +1,102 @@
+{
+  "objectID": 439390,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.87",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 164901,
+      "role": "Artist",
+      "name": "Achille-Etna Michallon",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500030742",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q944962",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "View of Châtenay",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Achille-Etna Michallon",
+  "artistDisplayBio": "French, Paris 1796–1822 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Michallon, Achille-Etna",
+  "artistNationality": "French",
+  "artistBeginDate": "1796",
+  "artistEndDate": "1822",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q944962",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500030742",
+  "objectDate": "",
+  "objectBeginDate": 1816,
+  "objectEndDate": 1822,
+  "medium": "Oil on paper, laid down on cardboard",
+  "dimensions": "10 5/8 x 15 7/8 in. (27 x 40.3 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 26.987555,
+        "Width": 40.322582
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 5.08001,
+        "Height": 35.24257,
+        "Width": 48.5776
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/439390",
+  "tags": [
+    {
+      "term": "Houses",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300005433",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3947"
+    },
+    {
+      "term": "Towns",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008375",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3957"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913355",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

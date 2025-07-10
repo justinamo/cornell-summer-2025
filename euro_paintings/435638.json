@@ -1,0 +1,118 @@
+{
+  "objectID": 435638,
+  "isHighlight": false,
+  "accessionNumber": "32.100.102",
+  "accessionYear": "1932",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT11782.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT11782.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/DT11783.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-32_100_102_IRR.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-32_100_102_IRRdetail.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-32_100_102-Xray.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 107360,
+      "role": "Artist",
+      "name": "Jean Bellegambe",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500023570",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q932136",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, triptych",
+  "title": "The Cellier Altarpiece",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Jean Bellegambe",
+  "artistDisplayBio": "French, Douai ca. 1470–1535/36 Douai",
+  "artistSuffix": "",
+  "artistAlphaSort": "Bellegambe, Jean",
+  "artistNationality": "French",
+  "artistBeginDate": "1470",
+  "artistEndDate": "1536",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q932136",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500023570",
+  "objectDate": "1511–12",
+  "objectBeginDate": 1511,
+  "objectEndDate": 1512,
+  "medium": "Oil on wood",
+  "dimensions": "Shaped top: central panel 40 x 24 in. (101.6 x 61 cm); left wing 37 3/4 x 10 in. (95.9 x 25.4 cm); right wing 37 1/2 x 9 1/2 in. (95.3 x 24.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 101.6,
+        "Width": 61
+      }
+    }
+  ],
+  "creditLine": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435638",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Angels",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+    },
+    {
+      "term": "Bishops",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025756",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q29182"
+    },
+    {
+      "term": "Madonna and Child",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+    },
+    {
+      "term": "Monks",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025765",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q733786"
+    },
+    {
+      "term": "Saints",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911759",
+  "isTimelineWork": true,
+  "GalleryNumber": "601"
+}

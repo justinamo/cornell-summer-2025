@@ -1,0 +1,88 @@
+{
+  "objectID": 437503,
+  "isHighlight": false,
+  "accessionNumber": "39.65.1",
+  "accessionYear": "1939",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP162149.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP162149.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 128580,
+      "role": "Artist",
+      "name": "Attributed to John Westbrooke Chandler",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500007828",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q12054576",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Mrs. George Horsley (Charlotte Mary Talbot, died 1828)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Attributed to",
+  "artistDisplayName": "John Westbrooke Chandler",
+  "artistDisplayBio": "British, 1763?–?1807 Edinburgh",
+  "artistSuffix": "",
+  "artistAlphaSort": "Chandler, John Westbrooke",
+  "artistNationality": "British",
+  "artistBeginDate": "1763",
+  "artistEndDate": "1807",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q12054576",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500007828",
+  "objectDate": "",
+  "objectBeginDate": 1783,
+  "objectEndDate": 1807,
+  "medium": "Oil on canvas",
+  "dimensions": "30 x 24 7/8 in. (76.2 x 63.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 76.2,
+        "Width": 63.2
+      }
+    }
+  ],
+  "creditLine": "Bequest of Jacob Ruppert, 1939",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437503",
+  "tags": [
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912401",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

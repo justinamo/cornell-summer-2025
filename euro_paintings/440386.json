@@ -1,0 +1,97 @@
+{
+  "objectID": 440386,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.53",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 127451,
+      "role": "Artist",
+      "name": "Johann Joachim Faber",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500028187",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3180587",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Landscape at Olevano Romano",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Johann Joachim Faber",
+  "artistDisplayBio": "German, Hamburg 1778–1846 Hamburg",
+  "artistSuffix": "",
+  "artistAlphaSort": "Faber, Johann Joachim",
+  "artistNationality": "German",
+  "artistBeginDate": "1778",
+  "artistEndDate": "1846",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q3180587",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500028187",
+  "objectDate": "1825",
+  "objectBeginDate": 1825,
+  "objectEndDate": 1825,
+  "medium": "Oil on paper, laid down on cardboard",
+  "dimensions": "8 1/8 x 13 1/4 in. (20.6 x 33.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 20.63754,
+        "Width": 33.655067
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 3.1750064,
+        "Height": 26.987555,
+        "Width": 40.64008
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/440386",
+  "tags": [
+    {
+      "term": "Mountains",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008795",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8502"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q20168211",
+  "isTimelineWork": false,
+  "GalleryNumber": "806"
+}

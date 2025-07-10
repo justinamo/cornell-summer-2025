@@ -1,0 +1,88 @@
+{
+  "objectID": 437599,
+  "isHighlight": false,
+  "accessionNumber": "62.122.80",
+  "accessionYear": "1962",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP327721.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP327721.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 108564,
+      "role": "Artist",
+      "name": "Attributed to Jean-Baptiste Sambat",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500071679",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3164429",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, miniature",
+  "title": "Portrait of a Man",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Attributed to",
+  "artistDisplayName": "Jean-Baptiste Sambat",
+  "artistDisplayBio": "French, ca. 1760–1827",
+  "artistSuffix": "",
+  "artistAlphaSort": "Sambat, Jean-Baptiste",
+  "artistNationality": "French",
+  "artistBeginDate": "1760",
+  "artistEndDate": "1827",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q3164429",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500071679",
+  "objectDate": "",
+  "objectBeginDate": 1780,
+  "objectEndDate": 1827,
+  "medium": "Ivory",
+  "dimensions": "Diameter 2 5/8 in. (70 mm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 6.7,
+        "Width": 6.7
+      }
+    }
+  ],
+  "creditLine": "Bequest of Millie Bruhl Fredrick, 1962",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Miniatures",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437599",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913868",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

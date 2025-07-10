@@ -1,0 +1,97 @@
+{
+  "objectID": 438627,
+  "isHighlight": false,
+  "accessionNumber": "2003.42.7",
+  "accessionYear": "2003",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 120014,
+      "role": "Artist",
+      "name": "Charles Marie Bouton",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500024660",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1065447",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Gothic Chapel",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Charles Marie Bouton",
+  "artistDisplayBio": "French, Paris 1781–1853 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Bouton, Charles Marie",
+  "artistNationality": "French",
+  "artistBeginDate": "1781",
+  "artistEndDate": "1853",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q1065447",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500024660",
+  "objectDate": "",
+  "objectBeginDate": 1801,
+  "objectEndDate": 1853,
+  "medium": "Oil on canvas",
+  "dimensions": "18 3/8 x 15 1/4 in. (46.7 x 38.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 46.672592,
+        "Width": 38.7351
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 7.620015,
+        "Height": 67.94514,
+        "Width": 58.737617
+      }
+    }
+  ],
+  "creditLine": "The Whitney Collection, Promised Gift of Wheelock Whitney III, and Purchase, Gift of Mr. and Mrs. Charles S. McVeigh, by exchange, 2003",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/438627",
+  "tags": [
+    {
+      "term": "Interiors",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300391239",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q2998430"
+    },
+    {
+      "term": "Chapels",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300004590",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q108325"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911842",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

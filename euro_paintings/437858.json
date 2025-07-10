@@ -1,0 +1,83 @@
+{
+  "objectID": 437858,
+  "isHighlight": false,
+  "accessionNumber": "33.79.15",
+  "accessionYear": "1933",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep33.79.15.bw.R.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/ep33.79.15.bw.R.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162578,
+      "role": "Artist",
+      "name": "Emmanuel Tzanès",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500024925",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1338447",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Head of the Virgin",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Emmanuel Tzanès",
+  "artistDisplayBio": "Greek, active by 1636–died 1690",
+  "artistSuffix": "",
+  "artistAlphaSort": "Tzanès, Emmanuel",
+  "artistNationality": "Greek",
+  "artistBeginDate": "1636",
+  "artistEndDate": "1690",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q1338447",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500024925",
+  "objectDate": "",
+  "objectBeginDate": 1636,
+  "objectEndDate": 1690,
+  "medium": "Tempera on wood, gold ground",
+  "dimensions": "8 3/8 x 7 1/8 in. (21.3 x 18.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 21.3,
+        "Width": 18.1
+      }
+    }
+  ],
+  "creditLine": "Gift of Mrs. Henry Morgenthau, 1933",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437858",
+  "tags": [
+    {
+      "term": "Virgin Mary",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913427",
+  "isTimelineWork": false,
+  "GalleryNumber": "303"
+}

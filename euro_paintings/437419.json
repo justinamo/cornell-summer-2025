@@ -1,0 +1,102 @@
+{
+  "objectID": 437419,
+  "isHighlight": false,
+  "accessionNumber": "53.18",
+  "accessionYear": "1953",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP145931.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP145931.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162297,
+      "role": "Artist",
+      "name": "Style of Rembrandt",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011051",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5598",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Rembrandt (1606–1669) as a Young Man",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Style of",
+  "artistDisplayName": "Rembrandt",
+  "artistDisplayBio": "Dutch, ca. 1630–35",
+  "artistSuffix": "",
+  "artistAlphaSort": "Rembrandt",
+  "artistNationality": "Dutch",
+  "artistBeginDate": "1606",
+  "artistEndDate": "1669",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5598",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500011051",
+  "objectDate": "",
+  "objectBeginDate": 1600,
+  "objectEndDate": 1699,
+  "medium": "Oil on wood",
+  "dimensions": "8 5/8 x 6 1/2 in. (21.9 x 16.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 21.9,
+        "Width": 16.5
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 7.620015,
+        "Height": 44.45009,
+        "Width": 38.735077
+      }
+    }
+  ],
+  "creditLine": "Bequest of Evander B. Schley, 1952",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437419",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Artists",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025103",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q483501"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905287",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

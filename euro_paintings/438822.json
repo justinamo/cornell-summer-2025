@@ -1,0 +1,97 @@
+{
+  "objectID": 438822,
+  "isHighlight": true,
+  "accessionNumber": "51.112.5",
+  "accessionYear": "1951",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT50.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT50.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 165114,
+      "role": "Artist",
+      "name": "Henri Rousseau (le Douanier)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115462",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q156386",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Repast of the Lion",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Henri Rousseau (le Douanier)",
+  "artistDisplayBio": "French, Laval 1844–1910 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Rousseau, Henri (le Douanier)",
+  "artistNationality": "French",
+  "artistBeginDate": "1844",
+  "artistEndDate": "1910",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q156386",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115462",
+  "objectDate": "ca. 1907",
+  "objectBeginDate": 1902,
+  "objectEndDate": 1912,
+  "medium": "Oil on canvas",
+  "dimensions": "44 3/4 in. × 63 in. (113.7 × 160 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 113.6652,
+        "Width": 160.0203
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 10.16,
+        "Height": 129.5403,
+        "Width": 177.8004
+      }
+    }
+  ],
+  "creditLine": "Bequest of Sam A. Lewisohn, 1951",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-02-11T04:53:43.503Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/438822",
+  "tags": [
+    {
+      "term": "Lions",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300310388",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q140"
+    },
+    {
+      "term": "Forests",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300387598",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4421"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912313",
+  "isTimelineWork": false,
+  "GalleryNumber": "825"
+}

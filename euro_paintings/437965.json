@@ -1,0 +1,105 @@
+{
+  "objectID": 437965,
+  "isHighlight": false,
+  "accessionNumber": "19.112",
+  "accessionYear": "1919",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT239221.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT239221.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162786,
+      "role": "Artist",
+      "name": "Anders Zorn",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500002927",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q206820",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Edward R. Bacon (1846–1915)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Anders Zorn",
+  "artistDisplayBio": "Swedish, Mora 1860–1920 Mora",
+  "artistSuffix": "",
+  "artistAlphaSort": "Zorn, Anders",
+  "artistNationality": "Swedish",
+  "artistBeginDate": "1860",
+  "artistEndDate": "1920",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q206820",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500002927",
+  "objectDate": "1897",
+  "objectBeginDate": 1897,
+  "objectEndDate": 1897,
+  "medium": "Oil on canvas",
+  "dimensions": "48 1/4 x 35 1/4 in. (122.6 x 89.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 122.6,
+        "Width": 89.5
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": "framed dimensions",
+      "elementMeasurements": {
+        "Depth": 8.255016,
+        "Height": 153.6703,
+        "Width": 121.92024
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": "Plexi",
+      "elementMeasurements": {
+        "Height": 128.58775,
+        "Width": 95.56769
+      }
+    }
+  ],
+  "creditLine": "Bequest of Virginia Purdy Bacon, 1919",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437965",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913260",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

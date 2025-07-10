@@ -1,0 +1,97 @@
+{
+  "objectID": 439382,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.76",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 36514,
+      "role": "Artist",
+      "name": "Eugène Isabey",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500007382",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q714341",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Sunset on the Normandy Coast",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Eugène Isabey",
+  "artistDisplayBio": "French, Paris 1803–1886 Lagny",
+  "artistSuffix": "",
+  "artistAlphaSort": "Isabey, Eugène",
+  "artistNationality": "French",
+  "artistBeginDate": "1803",
+  "artistEndDate": "1886",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q714341",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500007382",
+  "objectDate": "possibly 1830s",
+  "objectBeginDate": 1830,
+  "objectEndDate": 1839,
+  "medium": "Oil on paper, laid down on canvas",
+  "dimensions": "9 x 11 5/8 in. (22.9 x 29.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 4.7625093,
+        "Height": 29.210058,
+        "Width": 35.87757
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 22.860046,
+        "Width": 29.52756
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/439382",
+  "tags": [
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    },
+    {
+      "term": "Evening",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300343633",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q7725"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913169",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

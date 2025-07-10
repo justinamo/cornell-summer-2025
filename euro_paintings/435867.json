@@ -1,0 +1,97 @@
+{
+  "objectID": 435867,
+  "isHighlight": false,
+  "accessionNumber": "1976.201.12",
+  "accessionYear": "1976",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-33710-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-33710-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161761,
+      "role": "Artist",
+      "name": "Paul Cézanne",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004793",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q35548",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Bathers",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Paul Cézanne",
+  "artistDisplayBio": "French, Aix-en-Provence 1839–1906 Aix-en-Provence",
+  "artistSuffix": "",
+  "artistAlphaSort": "Cézanne, Paul",
+  "artistNationality": "French",
+  "artistBeginDate": "1839",
+  "artistEndDate": "1906",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q35548",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500004793",
+  "objectDate": "1874–75",
+  "objectBeginDate": 1874,
+  "objectEndDate": 1875,
+  "medium": "Oil on canvas",
+  "dimensions": "15 x 18 1/8 in. (38.1 x 46 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 38.1,
+        "Width": 46
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 10.16,
+        "Height": 60.9601,
+        "Width": 68.5801
+      }
+    }
+  ],
+  "creditLine": "Bequest of Joan Whitney Payson, 1975",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-06-11T04:50:49.767Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435867",
+  "tags": [
+    {
+      "term": "Female Nudes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+    },
+    {
+      "term": "Bathing",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300343854",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q327651"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905310",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

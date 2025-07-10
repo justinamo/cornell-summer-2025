@@ -1,0 +1,88 @@
+{
+  "objectID": 437938,
+  "isHighlight": false,
+  "accessionNumber": "44.36.6",
+  "accessionYear": "1944",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/132460.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/132460.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 165073,
+      "role": "Artist",
+      "name": "Robert White",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012135",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q12072854",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, miniature",
+  "title": "Portrait of a Man",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Robert White",
+  "artistDisplayBio": "British, London 1645–1703 London",
+  "artistSuffix": "",
+  "artistAlphaSort": "White, Robert",
+  "artistNationality": "British",
+  "artistBeginDate": "1645",
+  "artistEndDate": "1703",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q12072854",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500012135",
+  "objectDate": "1690",
+  "objectBeginDate": 1690,
+  "objectEndDate": 1690,
+  "medium": "Plumbago on vellum",
+  "dimensions": "Oval, 4 1/4 x 3 3/8 in. (106 x 85 mm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 10.8,
+        "Width": 8.6
+      }
+    }
+  ],
+  "creditLine": "Rogers Fund, 1944",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Miniatures",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2024-10-03T04:53:53.567Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437938",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913828",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

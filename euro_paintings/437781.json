@@ -1,0 +1,88 @@
+{
+  "objectID": 437781,
+  "isHighlight": false,
+  "accessionNumber": "22.47.3",
+  "accessionYear": "1922",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep22.47.3.bw.R.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/ep22.47.3.bw.R.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162520,
+      "role": "Artist",
+      "name": "Workshop of David Teniers the Younger",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001443",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q335022",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Landscape with Thatched Cottages",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Workshop of",
+  "artistDisplayName": "David Teniers the Younger",
+  "artistDisplayBio": "Flemish, Antwerp 1610–1690 Brussels",
+  "artistSuffix": "",
+  "artistAlphaSort": "Teniers, David, the Younger",
+  "artistNationality": "Flemish",
+  "artistBeginDate": "1610",
+  "artistEndDate": "1690",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q335022",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500001443",
+  "objectDate": "",
+  "objectBeginDate": 1630,
+  "objectEndDate": 1690,
+  "medium": "Oil on wood",
+  "dimensions": "5 3/4 x 7 3/4 in. (14.6 x 19.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 14.6,
+        "Width": 19.7
+      }
+    }
+  ],
+  "creditLine": "Bequest of John Henry Abegg, 1921",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437781",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913095",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

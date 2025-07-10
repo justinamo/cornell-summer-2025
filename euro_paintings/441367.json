@@ -1,0 +1,103 @@
+{
+  "objectID": 441367,
+  "isHighlight": false,
+  "accessionNumber": "2015.506.2",
+  "accessionYear": "2015",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 129170,
+      "role": "Artist",
+      "name": "Jean Lecomte du Nouÿ",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500022329",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q707904",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "A Merchant in Cairo",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Jean Lecomte du Nouÿ",
+  "artistDisplayBio": "French, Paris 1842–1923 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Lecomte du Nouÿ, Jean",
+  "artistNationality": "French",
+  "artistBeginDate": "1842",
+  "artistEndDate": "1923",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q707904",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500022329",
+  "objectDate": "1870",
+  "objectBeginDate": 1870,
+  "objectEndDate": 1870,
+  "medium": "Oil on wood",
+  "dimensions": "11 3/4 × 8 3/4 in. (29.8 × 22.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 29.84506,
+        "Width": 22.225044
+      }
+    }
+  ],
+  "creditLine": "Gift of Kenneth Jay Lane, 2015",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-20T04:52:19.103Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/441367",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Merchants",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025245",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q215536"
+    },
+    {
+      "term": "Jugs",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300045685",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q2413314"
+    },
+    {
+      "term": "Orientalist",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300055784",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q765606"
+    },
+    {
+      "term": "Pipes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300248067",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q104526"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q126131261",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

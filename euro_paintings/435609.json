@@ -1,0 +1,88 @@
+{
+  "objectID": 435609,
+  "isHighlight": false,
+  "accessionNumber": "30.111.1",
+  "accessionYear": "1930",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/80546.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/80546.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 108608,
+      "role": "Artist",
+      "name": "John Barry",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011190",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q20116177",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, miniature",
+  "title": "Portrait of a Man",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "John Barry",
+  "artistDisplayBio": "British, active ca. 1784–1827",
+  "artistSuffix": "",
+  "artistAlphaSort": "Barry, John",
+  "artistNationality": "British",
+  "artistBeginDate": "1784",
+  "artistEndDate": "1827",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q20116177",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500011190",
+  "objectDate": "ca. 1790",
+  "objectBeginDate": 1785,
+  "objectEndDate": 1795,
+  "medium": "Ivory",
+  "dimensions": "Oval, 2 1/2 x 2 1/8 in. (64 x 54 mm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 6.3,
+        "Width": 5.4
+      }
+    }
+  ],
+  "creditLine": "Gift of Mrs. Sherwood Eddy, 1930",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Miniatures",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2024-10-03T04:53:53.567Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435609",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913800",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

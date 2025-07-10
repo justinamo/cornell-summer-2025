@@ -1,0 +1,107 @@
+{
+  "objectID": 437607,
+  "isHighlight": false,
+  "accessionNumber": "1971.93",
+  "accessionYear": "1971",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-24115-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-24115-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 108276,
+      "role": "Artist",
+      "name": "Carlo Saraceni",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008651",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q938607",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Paradise",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Carlo Saraceni",
+  "artistDisplayBio": "Italian, Venice 1579?–1620 Venice",
+  "artistSuffix": "",
+  "artistAlphaSort": "Saraceni, Carlo",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1579",
+  "artistEndDate": "1620",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q938607",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500008651",
+  "objectDate": "ca. 1598",
+  "objectBeginDate": 1593,
+  "objectEndDate": 1603,
+  "medium": "Oil on copper",
+  "dimensions": "Overall 21 3/8 x 18 7/8 in. (54.3 x 47.9 cm); painted surface 20 7/8 x 18 3/8 in. (53 x 46.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 54.3,
+        "Width": 47.9
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 6.985014,
+        "Height": 72.390144,
+        "Width": 64.77013
+      }
+    }
+  ],
+  "creditLine": "Theodore M. Davis Collection, Bequest of Theodore M. Davis, by exchange, 1971",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437607",
+  "tags": [
+    {
+      "term": "Saint George",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000509",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q48438"
+    },
+    {
+      "term": "Saint John the Baptist",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901001056",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q40662"
+    },
+    {
+      "term": "Virgin Mary",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+    },
+    {
+      "term": "Jesus",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q302"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911711",
+  "isTimelineWork": false,
+  "GalleryNumber": "640"
+}

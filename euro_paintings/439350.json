@@ -1,0 +1,102 @@
+{
+  "objectID": 439350,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.8",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 164231,
+      "role": "Artist",
+      "name": "Karl Blechen",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500009469",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q149571",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "View in the Tiergarten, Berlin",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Karl Blechen",
+  "artistDisplayBio": "German, Cottbus 1798–1840 Berlin",
+  "artistSuffix": "",
+  "artistAlphaSort": "Blechen, Karl",
+  "artistNationality": "German",
+  "artistBeginDate": "1798",
+  "artistEndDate": "1840",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q149571",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500009469",
+  "objectDate": "ca. 1825",
+  "objectBeginDate": 1820,
+  "objectEndDate": 1830,
+  "medium": "Oil on paper",
+  "dimensions": "9 7/8 x 14 in. (25.1 x 35.6 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 25.0826,
+        "Width": 35.5601
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 6.350013,
+        "Height": 34.29007,
+        "Width": 44.76759
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/439350",
+  "tags": [
+    {
+      "term": "Parks",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008187",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q22698"
+    },
+    {
+      "term": "Ponds",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008688",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3253281"
+    },
+    {
+      "term": "Trees",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132410",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q10884"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913478",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

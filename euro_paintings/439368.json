@@ -1,0 +1,102 @@
+{
+  "objectID": 439368,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.45",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 126570,
+      "role": "Artist",
+      "name": "Alexandre Desgoffe",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001077",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2833597",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Cloud Study with Distant Mountains",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Alexandre Desgoffe",
+  "artistDisplayBio": "French, Paris 1805–1882 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Desgoffe, Alexandre",
+  "artistNationality": "French",
+  "artistBeginDate": "1805",
+  "artistEndDate": "1882",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q2833597",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500001077",
+  "objectDate": "",
+  "objectBeginDate": 1825,
+  "objectEndDate": 1882,
+  "medium": "Oil on paper, laid down on canvas",
+  "dimensions": "5 7/8 x 12 in. (14.9 x 30.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 14.92253,
+        "Width": 30.4801
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 5.397511,
+        "Height": 27.305054,
+        "Width": 43.180088
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/439368",
+  "tags": [
+    {
+      "term": "Mountains",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008795",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8502"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    },
+    {
+      "term": "Clouds",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300343840",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8074"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913484",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

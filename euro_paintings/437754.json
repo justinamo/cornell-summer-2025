@@ -1,0 +1,92 @@
+{
+  "objectID": 437754,
+  "isHighlight": false,
+  "accessionNumber": "46.150.1",
+  "accessionYear": "1946",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT12025.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT12025.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 108344,
+      "role": "Artist",
+      "name": "Alfred Stevens",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500000844",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q773855",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "After the Ball",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Alfred Stevens",
+  "artistDisplayBio": "Belgian, Brussels 1823–1906 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Stevens, Alfred",
+  "artistNationality": "Belgian",
+  "artistBeginDate": "1823",
+  "artistEndDate": "1906",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q773855",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500000844",
+  "objectDate": "1874",
+  "objectBeginDate": 1874,
+  "objectEndDate": 1874,
+  "medium": "Oil on canvas",
+  "dimensions": "37 3/4 x 27 1/8 in. (95.9 x 68.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 95.9,
+        "Width": 68.9
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 13.97,
+        "Height": 130.8103,
+        "Width": 104.1402
+      }
+    }
+  ],
+  "creditLine": "Gift of Estate of Marie L. Russell, 1946",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437754",
+  "tags": [
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912228",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

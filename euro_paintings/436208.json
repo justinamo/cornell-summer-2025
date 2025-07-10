@@ -1,0 +1,115 @@
+{
+  "objectID": 436208,
+  "isHighlight": false,
+  "accessionNumber": "26.83",
+  "accessionYear": "1926",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP123842.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP123842.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-26_83-2.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-26_83-3.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 161843,
+      "role": "Artist",
+      "name": "Dosso Dossi (Giovanni de Lutero)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500114963",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q356777",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Three Ages of Humans",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Dosso Dossi (Giovanni de Lutero)",
+  "artistDisplayBio": "Italian, Tramuschio ca. 1486–1541/42 Ferrara",
+  "artistSuffix": "",
+  "artistAlphaSort": "Dossi, Dosso (Giovanni de Lutero)",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1486",
+  "artistEndDate": "1542",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q356777",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500114963",
+  "objectDate": "",
+  "objectBeginDate": 1512,
+  "objectEndDate": 1542,
+  "medium": "Oil on canvas",
+  "dimensions": "30 1/2 x 44 in. (77.5 x 111.8 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 77.5,
+        "Width": 111.8
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 8.89,
+        "Height": 140.9703,
+        "Width": 109.8552
+      }
+    }
+  ],
+  "creditLine": "Maria DeWitt Jesup Fund, 1926",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436208",
+  "tags": [
+    {
+      "term": "Boys",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+    },
+    {
+      "term": "Couples",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379217",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q219160"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Sheep",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250284",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q7368"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911681",
+  "isTimelineWork": true,
+  "GalleryNumber": "611"
+}

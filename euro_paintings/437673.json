@@ -1,0 +1,115 @@
+{
+  "objectID": 437673,
+  "isHighlight": false,
+  "accessionNumber": "29.164",
+  "accessionYear": "1929",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP102429.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP102429.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162416,
+      "role": "Artist",
+      "name": "Luca Signorelli",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500003947",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q7031",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, altarpiece",
+  "title": "The Assumption of the Virgin with Saints Michael and Benedict",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Luca Signorelli",
+  "artistDisplayBio": "Italian, Cortona, active by 1470–died 1523 Cortona",
+  "artistSuffix": "and Workshop",
+  "artistAlphaSort": "Signorelli, Luca",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1470",
+  "artistEndDate": "1523",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q7031",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500003947",
+  "objectDate": "ca. 1493–96",
+  "objectBeginDate": 1493,
+  "objectEndDate": 1496,
+  "medium": "Oil and gold on wood",
+  "dimensions": "67 1/4 x 51 3/4 in. (170.8 x 131.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 170.8,
+        "Width": 131.4
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": "Picture + Frame ",
+      "elementMeasurements": {
+        "Weight": 77.111496
+      }
+    }
+  ],
+  "creditLine": "Purchase, Joseph Pulitzer Bequest, 1929",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437673",
+  "tags": [
+    {
+      "term": "Angels",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+    },
+    {
+      "term": "Saint Michael",
+      "AAT_URL": null,
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q45581"
+    },
+    {
+      "term": "Virgin Mary",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+    },
+    {
+      "term": "Devil",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379005",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q6674"
+    },
+    {
+      "term": "Assumption of the Virgin",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901001007",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q162691"
+    },
+    {
+      "term": "Saints",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19904866",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

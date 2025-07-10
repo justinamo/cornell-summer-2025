@@ -1,0 +1,90 @@
+{
+  "objectID": 436240,
+  "isHighlight": false,
+  "accessionNumber": "50.145.18",
+  "accessionYear": "1950",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP169399.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP169399.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/ep50.145.18.v.bw.R.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 111492,
+      "role": "Artist",
+      "name": "Attributed to Richard Gainsborough Dupont",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500184106",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21466541",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Mrs. John Puget (Catherine Hawkins)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Attributed to",
+  "artistDisplayName": "Richard Gainsborough Dupont",
+  "artistDisplayBio": "British, Sudbury 1789–1874 Sudbury",
+  "artistSuffix": "",
+  "artistAlphaSort": "Dupont, Richard Gainsborough",
+  "artistNationality": "British",
+  "artistBeginDate": "1789",
+  "artistEndDate": "1874",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q21466541",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500184106",
+  "objectDate": "",
+  "objectBeginDate": 1774,
+  "objectEndDate": 1797,
+  "medium": "Oil on copper",
+  "dimensions": "6 x 4 3/4 in. (15.2 x 12.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 15.2,
+        "Width": 12.1
+      }
+    }
+  ],
+  "creditLine": "Bequest of Mary Stillman Harkness, 1950",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436240",
+  "tags": [
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912334",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

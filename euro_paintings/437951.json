@@ -1,0 +1,88 @@
+{
+  "objectID": 437951,
+  "isHighlight": false,
+  "accessionNumber": "95.14.97",
+  "accessionYear": "1895",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/50867.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/50867.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 108614,
+      "role": "Artist",
+      "name": "William Wood",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500007704",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q20116880",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, miniature",
+  "title": "Portrait of a Man, Said to Be Mr. Fitzgerald",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "William Wood",
+  "artistDisplayBio": "British, 1769–1810",
+  "artistSuffix": "",
+  "artistAlphaSort": "Wood, William",
+  "artistNationality": "British",
+  "artistBeginDate": "1769",
+  "artistEndDate": "1810",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q20116880",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500007704",
+  "objectDate": "",
+  "objectBeginDate": 1789,
+  "objectEndDate": 1810,
+  "medium": "Ivory",
+  "dimensions": "Oval, 3 1/4 x 2 5/8 in. (81 x 66 mm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 8.3,
+        "Width": 6.7
+      }
+    }
+  ],
+  "creditLine": "The Moses Lazarus Collection, Gift of Josephine and Sarah Lazarus, in memory of their father, 1888–95",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Miniatures",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2024-10-03T04:53:53.567Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437951",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913830",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

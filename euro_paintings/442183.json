@@ -1,0 +1,100 @@
+{
+  "objectID": 442183,
+  "isHighlight": false,
+  "accessionNumber": "2012.543",
+  "accessionYear": "2012",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-20593-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-20593-001.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-2012_543-2.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-2012_543-3.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 73762,
+      "role": "Artist",
+      "name": "Ottavio Leoni (Il Padovano)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001403",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q389768",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "A Cardinal's Procession",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Ottavio Leoni (Il Padovano)",
+  "artistDisplayBio": "Italian, Rome 1578–1630 Rome",
+  "artistSuffix": "",
+  "artistAlphaSort": "Leoni, Ottavio",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1578",
+  "artistEndDate": "1630",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q389768",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500001403",
+  "objectDate": "1621",
+  "objectBeginDate": 1621,
+  "objectEndDate": 1621,
+  "medium": "Oil on copper",
+  "dimensions": "15 1/2 x 14 3/4 in. (39.4 x 37.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 6.350013,
+        "Height": 53.340107,
+        "Width": 50.800102
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 39.37008,
+        "Width": 37.465076
+      }
+    }
+  ],
+  "creditLine": "Gift of Damon Mezzacappa, 2012",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/442183",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Processions",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300069290",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q898830"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905654",
+  "isTimelineWork": false,
+  "GalleryNumber": "640"
+}

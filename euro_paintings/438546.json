@@ -1,0 +1,99 @@
+{
+  "objectID": 438546,
+  "isHighlight": false,
+  "accessionNumber": "2002.31",
+  "accessionYear": "2002",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-417-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-417-001.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-2002_31-2.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-2002_31-3.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 163574,
+      "role": "Artist",
+      "name": "baron François Gérard",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115453",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q163543",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Madame Charles Maurice de Talleyrand Périgord (1761–1835)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "baron François Gérard",
+  "artistDisplayBio": "French, Rome 1770–1837 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Gérard, François, baron",
+  "artistNationality": "French",
+  "artistBeginDate": "1770",
+  "artistEndDate": "1837",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q163543",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115453",
+  "objectDate": "ca. 1804",
+  "objectBeginDate": 1799,
+  "objectEndDate": 1809,
+  "medium": "Oil on canvas",
+  "dimensions": "88 7/8 x 64 7/8 in. (225.7 x 164.8 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 225.743,
+        "Width": 164.7828
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 265.43054,
+        "Width": 199.3904
+      }
+    }
+  ],
+  "creditLine": "Wrightsman Fund, 2002",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/438546",
+  "tags": [
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905488",
+  "isTimelineWork": true,
+  "GalleryNumber": "633"
+}

@@ -1,0 +1,88 @@
+{
+  "objectID": 437796,
+  "isHighlight": false,
+  "accessionNumber": "1984.49",
+  "accessionYear": "1984",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/Wrightsman_1984 49.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/Wrightsman_1984 49.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162537,
+      "role": "Artist",
+      "name": "Giovanni Battista Tiepolo",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500018523",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q186202",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, grisaille",
+  "title": "A Female Allegorical Figure",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Giovanni Battista Tiepolo",
+  "artistDisplayBio": "Italian, Venice 1696–1770 Madrid",
+  "artistSuffix": "",
+  "artistAlphaSort": "Tiepolo, Giovanni Battista",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1696",
+  "artistEndDate": "1770",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q186202",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500018523",
+  "objectDate": "ca. 1740–50",
+  "objectBeginDate": 1740,
+  "objectEndDate": 1750,
+  "medium": "Oil on canvas, gold ground",
+  "dimensions": "Oval, 32 x 24 7/8 in. (81.3 x 63.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 81.3,
+        "Width": 63.2
+      }
+    }
+  ],
+  "creditLine": "Gift of Mr. and Mrs. Charles Wrightsman, 1984",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437796",
+  "tags": [
+    {
+      "term": "Female Nudes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+    },
+    {
+      "term": "Allegory",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300055866",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q18535"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905345",
+  "isTimelineWork": false,
+  "GalleryNumber": "643"
+}

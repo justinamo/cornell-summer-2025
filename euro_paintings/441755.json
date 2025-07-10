@@ -1,0 +1,97 @@
+{
+  "objectID": 441755,
+  "isHighlight": false,
+  "accessionNumber": "2011.597",
+  "accessionYear": "2011",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP281416.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP281416.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 129287,
+      "role": "Artist",
+      "name": "Emile Loubon",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500002875",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1530172",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Landscape Study with Clouds",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Emile Loubon",
+  "artistDisplayBio": "French, Aix-en-Provence 1809–1863 Marseilles",
+  "artistSuffix": "",
+  "artistAlphaSort": "Loubon, Emile",
+  "artistNationality": "French",
+  "artistBeginDate": "1809",
+  "artistEndDate": "1863",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q1530172",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500002875",
+  "objectDate": "ca. 1829–31",
+  "objectBeginDate": 1829,
+  "objectEndDate": 1831,
+  "medium": "Oil on cardboard",
+  "dimensions": "5 7/8 x 9 1/16 in. (15 x 23 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 15,
+        "Width": 23
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 2.8575058,
+        "Height": 21.590044,
+        "Width": 33.337566
+      }
+    }
+  ],
+  "creditLine": "Catharine Lorillard Wolfe Collection, Wolfe Fund, 2011",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/441755",
+  "tags": [
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    },
+    {
+      "term": "Clouds",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300343840",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8074"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913538",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

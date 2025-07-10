@@ -1,0 +1,93 @@
+{
+  "objectID": 437957,
+  "isHighlight": false,
+  "accessionNumber": "30.95.292",
+  "accessionYear": "1930",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep30.95.292.bw.R.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/ep30.95.292.bw.R.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 108494,
+      "role": "Artist",
+      "name": "Francesco Zaganelli (Francesco di Bosio)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001963",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3081126",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Saint Lucy",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Francesco Zaganelli (Francesco di Bosio)",
+  "artistDisplayBio": "Italian, Romagnole, active by 1499–died 1532",
+  "artistSuffix": "",
+  "artistAlphaSort": "Zaganelli, Francesco (Francesco di Bosio)",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1499",
+  "artistEndDate": "1532",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q3081126",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500001963",
+  "objectDate": "",
+  "objectBeginDate": 1499,
+  "objectEndDate": 1532,
+  "medium": "Tempera and gold on wood",
+  "dimensions": "12 3/8 x 7 3/4 in. (31.4 x 19.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 31.4,
+        "Width": 19.7
+      }
+    }
+  ],
+  "creditLine": "Theodore M. Davis Collection, Bequest of Theodore M. Davis, 1915",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437957",
+  "tags": [
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Saints",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912879",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

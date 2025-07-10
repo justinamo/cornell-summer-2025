@@ -1,0 +1,88 @@
+{
+  "objectID": 437176,
+  "isHighlight": false,
+  "accessionNumber": "24.80.510",
+  "accessionYear": "1924",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/57102.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/57102.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 108535,
+      "role": "Artist",
+      "name": "David Myers",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500444343",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q20117274",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, miniature",
+  "title": "Portrait of a Man",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "David Myers",
+  "artistDisplayBio": "British, active ca. 1659–76",
+  "artistSuffix": "",
+  "artistAlphaSort": "Myers, David",
+  "artistNationality": "British",
+  "artistBeginDate": "1659",
+  "artistEndDate": "1676",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q20117274",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500444343",
+  "objectDate": "1664",
+  "objectBeginDate": 1664,
+  "objectEndDate": 1664,
+  "medium": "Vellum laid on prepared gessoed card",
+  "dimensions": "Oval, 2 1/2 x 2 in. (62 x 51 mm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 6.3,
+        "Width": 5.1
+      }
+    }
+  ],
+  "creditLine": "Bequest of Mary Clark Thompson, 1923",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Miniatures",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2024-10-03T04:53:53.567Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437176",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913851",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

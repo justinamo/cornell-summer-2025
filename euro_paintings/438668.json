@@ -1,0 +1,97 @@
+{
+  "objectID": 438668,
+  "isHighlight": false,
+  "accessionNumber": "2003.42.45",
+  "accessionYear": "2003",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 164228,
+      "role": "Artist",
+      "name": "François Edouard Picot",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500027989",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5233",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "View of Porta Pinciana from the Gardens of the Villa Ludovisi",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "François Edouard Picot",
+  "artistDisplayBio": "French, Paris 1786–1868 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Picot, François Edouard",
+  "artistNationality": "French",
+  "artistBeginDate": "1786",
+  "artistEndDate": "1868",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5233",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500027989",
+  "objectDate": "ca. 1814–17",
+  "objectBeginDate": 1814,
+  "objectEndDate": 1817,
+  "medium": "Oil on paper, laid down on canvas",
+  "dimensions": "11 3/8 x 15 3/4 in. (28.9 x 40 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 28.8926,
+        "Width": 40
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 6.35,
+        "Height": 40.0051,
+        "Width": 51.4351
+      }
+    }
+  ],
+  "creditLine": "The Whitney Collection, Promised Gift of Wheelock Whitney III, and Purchase, Gift of Mr. and Mrs. Charles S. McVeigh, by exchange, 2003",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/438668",
+  "tags": [
+    {
+      "term": "Gardens",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008090",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q1107656"
+    },
+    {
+      "term": "Mountains",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008795",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8502"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905174",
+  "isTimelineWork": false,
+  "GalleryNumber": "805"
+}

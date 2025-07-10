@@ -1,0 +1,83 @@
+{
+  "objectID": 438667,
+  "isHighlight": false,
+  "accessionNumber": "2003.42.44",
+  "accessionYear": "2003",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 120032,
+      "role": "Artist",
+      "name": "Léon Pallière",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500003185",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q15275368",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "View in the Gardens of the Villa d'Este",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Léon Pallière",
+  "artistDisplayBio": "French, Bordeaux 1787–1820 Bordeaux",
+  "artistSuffix": "",
+  "artistAlphaSort": "Pallière, Léon",
+  "artistNationality": "French",
+  "artistBeginDate": "1787",
+  "artistEndDate": "1820",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q15275368",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500003185",
+  "objectDate": "ca. 1814–17",
+  "objectBeginDate": 1814,
+  "objectEndDate": 1817,
+  "medium": "Oil on paper, laid down on canvas",
+  "dimensions": "9 x 12 in. (22.9 x 30.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 22.86,
+        "Width": 30.5
+      }
+    }
+  ],
+  "creditLine": "The Whitney Collection, Promised Gift of Wheelock Whitney III, and Purchase, Gift of Mr. and Mrs. Charles S. McVeigh, by exchange, 2003",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/438667",
+  "tags": [
+    {
+      "term": "Gardens",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008090",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q1107656"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911790",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

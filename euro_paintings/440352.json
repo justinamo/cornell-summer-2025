@@ -1,0 +1,97 @@
+{
+  "objectID": 440352,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.74",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161976,
+      "role": "Artist",
+      "name": "Henri-Joseph Harpignies",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010008",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q187496",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Landscape near Rome",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Henri-Joseph Harpignies",
+  "artistDisplayBio": "French, Valenciennes 1819–1916 Saint-Privé",
+  "artistSuffix": "",
+  "artistAlphaSort": "Harpignies, Henri-Joseph",
+  "artistNationality": "French",
+  "artistBeginDate": "1819",
+  "artistEndDate": "1916",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q187496",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500010008",
+  "objectDate": "1851",
+  "objectBeginDate": 1851,
+  "objectEndDate": 1851,
+  "medium": "Oil on paper, laid down on canvas",
+  "dimensions": "5 1/8 x 10 1/4 in. (13 x 26 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 13.0175,
+        "Width": 26.035051
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 5.08001,
+        "Height": 22.542545,
+        "Width": 35.24257
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/440352",
+  "tags": [
+    {
+      "term": "Mountains",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008795",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8502"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913617",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

@@ -1,0 +1,92 @@
+{
+  "objectID": 437350,
+  "isHighlight": false,
+  "accessionNumber": "30.20",
+  "accessionYear": "1930",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-14201-009.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-14201-009.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162280,
+      "role": "Artist",
+      "name": "Pierre Puvis de Chavannes",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008870",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q216873",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Tamaris",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Pierre Puvis de Chavannes",
+  "artistDisplayBio": "French, Lyons 1824–1898 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Puvis de Chavannes, Pierre",
+  "artistNationality": "French",
+  "artistBeginDate": "1824",
+  "artistEndDate": "1898",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q216873",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500008870",
+  "objectDate": "ca. 1886–87",
+  "objectBeginDate": 1886,
+  "objectEndDate": 1887,
+  "medium": "Oil on canvas",
+  "dimensions": "10 x 15 1/2 in. (25.4 x 39.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 25.4,
+        "Width": 39.4
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 7.620015,
+        "Height": 41.910084,
+        "Width": 55.88011
+      }
+    }
+  ],
+  "creditLine": "H. O. Havemeyer Collection, Gift of Mrs. J. Watson Webb, 1930",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-04-30T04:49:03.02Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437350",
+  "tags": [
+    {
+      "term": "Female Nudes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913000",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

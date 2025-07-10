@@ -1,0 +1,97 @@
+{
+  "objectID": 438008,
+  "isHighlight": false,
+  "accessionNumber": "1998.325.2",
+  "accessionYear": "1998",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162135,
+      "role": "Artist",
+      "name": "Claude Monet",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500019484",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q296",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Water Lilies",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Claude Monet",
+  "artistDisplayBio": "French, Paris 1840–1926 Giverny",
+  "artistSuffix": "",
+  "artistAlphaSort": "Monet, Claude",
+  "artistNationality": "French",
+  "artistBeginDate": "1840",
+  "artistEndDate": "1926",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q296",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500019484",
+  "objectDate": "1919",
+  "objectBeginDate": 1919,
+  "objectEndDate": 1919,
+  "medium": "Oil on canvas",
+  "dimensions": "39 3/4 x 78 3/4 in. (101 x 200 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 101,
+        "Width": 200
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 10.795022,
+        "Height": 133.66777,
+        "Width": 232.72797
+      }
+    }
+  ],
+  "creditLine": "The Walter H. and Leonore Annenberg Collection, Gift of Walter H. and Leonore Annenberg, 1998, Bequest of Walter H. Annenberg, 2002",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-02-14T11:00:26.297Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/438008",
+  "tags": [
+    {
+      "term": "Ponds",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008688",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3253281"
+    },
+    {
+      "term": "Water Lilies",
+      "AAT_URL": null,
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3347071"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q7973309",
+  "isTimelineWork": true,
+  "GalleryNumber": "822"
+}

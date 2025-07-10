@@ -1,0 +1,107 @@
+{
+  "objectID": 695526,
+  "isHighlight": false,
+  "accessionNumber": "2016.802.9",
+  "accessionYear": "2016",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161802,
+      "role": "Artist",
+      "name": "Johan Christian Dahl",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500002468",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q164735",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Moonlit View of the River Elbe at Dresden",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Johan Christian Dahl",
+  "artistDisplayBio": "Norwegian, Bergen 1788–1857 Dresden",
+  "artistSuffix": "",
+  "artistAlphaSort": "Dahl, Johan Christian",
+  "artistNationality": "Norwegian",
+  "artistBeginDate": "1788",
+  "artistEndDate": "1857",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q164735",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500002468",
+  "objectDate": "1826",
+  "objectBeginDate": 1826,
+  "objectEndDate": 1826,
+  "medium": "Oil on paper, laid down on wood",
+  "dimensions": "7 5/8 × 8 1/4 in. (19.4 × 21 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 19.367538,
+        "Width": 20.955042
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 6.985014,
+        "Height": 31.115063,
+        "Width": 33.655067
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2016",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/695526",
+  "tags": [
+    {
+      "term": "Bridges",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300386855",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12280"
+    },
+    {
+      "term": "Rivers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008707",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4022"
+    },
+    {
+      "term": "Moon",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300386951",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q405"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q116726827",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

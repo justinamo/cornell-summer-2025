@@ -1,0 +1,88 @@
+{
+  "objectID": 435787,
+  "isHighlight": false,
+  "accessionNumber": "32.75.28",
+  "accessionYear": "1932",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/89182.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/89182.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 126682,
+      "role": "Artist",
+      "name": "British Painter",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, miniature",
+  "title": "Portrait of a Man",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "British Painter",
+  "artistDisplayBio": "ca. 1770",
+  "artistSuffix": "",
+  "artistAlphaSort": "British Painter",
+  "artistNationality": "British",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "",
+  "objectBeginDate": 1765,
+  "objectEndDate": 1775,
+  "medium": "Ivory",
+  "dimensions": "Oval, 1 3/8 x 1 1/4 in. (36 x 30 mm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 3.5,
+        "Width": 3.2
+      }
+    }
+  ],
+  "creditLine": "The Collection of Giovanni P. Morosini, presented by his daughter Giulia, 1932",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Miniatures",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2024-10-03T04:53:53.567Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435787",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19914036",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

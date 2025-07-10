@@ -1,0 +1,83 @@
+{
+  "objectID": 437544,
+  "isHighlight": false,
+  "accessionNumber": "32.100.42",
+  "accessionYear": "1932",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep32.100.42.bw.R.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/ep32.100.42.bw.R.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162350,
+      "role": "Artist",
+      "name": "Workshop of Peter Paul Rubens",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500002921",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5599",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Virgin and Child",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Workshop of",
+  "artistDisplayName": "Peter Paul Rubens",
+  "artistDisplayBio": "Flemish, Siegen 1577–1640 Antwerp",
+  "artistSuffix": "",
+  "artistAlphaSort": "Rubens, Peter Paul",
+  "artistNationality": "Flemish",
+  "artistBeginDate": "1577",
+  "artistEndDate": "1640",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5599",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500002921",
+  "objectDate": "",
+  "objectBeginDate": 1597,
+  "objectEndDate": 1640,
+  "medium": "Oil on wood",
+  "dimensions": "39 3/4 x 30 3/8 in. (101 x 77.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 101,
+        "Width": 77.2
+      }
+    }
+  ],
+  "creditLine": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-05-22T04:50:13.743Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437544",
+  "tags": [
+    {
+      "term": "Madonna and Child",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19906263",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

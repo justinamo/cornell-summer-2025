@@ -1,0 +1,88 @@
+{
+  "objectID": 437268,
+  "isHighlight": false,
+  "accessionNumber": "1984.458",
+  "accessionYear": "1984",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-17631-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-17631-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162217,
+      "role": "Artist",
+      "name": "Giovanni Antonio Pellegrini",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500031760",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1358364",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Bacchus and Ariadne",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Giovanni Antonio Pellegrini",
+  "artistDisplayBio": "Italian, Venice 1675–1741 Venice",
+  "artistSuffix": "",
+  "artistAlphaSort": "Pellegrini, Giovanni Antonio",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1675",
+  "artistEndDate": "1741",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q1358364",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500031760",
+  "objectDate": "1720s",
+  "objectBeginDate": 1720,
+  "objectEndDate": 1729,
+  "medium": "Oil on canvas",
+  "dimensions": "46 x 50 1/2 in. (116.8 x 128.3 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 116.8,
+        "Width": 128.3
+      }
+    }
+  ],
+  "creditLine": "Gift of Mr. and Mrs. Eugene Victor Thaw, 1984",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437268",
+  "tags": [
+    {
+      "term": "Ariadne",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000155",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q184874"
+    },
+    {
+      "term": "Bacchus",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901001409",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q645312"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913107",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

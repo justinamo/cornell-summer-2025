@@ -1,0 +1,93 @@
+{
+  "objectID": 437913,
+  "isHighlight": false,
+  "accessionNumber": "65.181.1",
+  "accessionYear": "1965",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP256393.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP256393.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162660,
+      "role": "Artist",
+      "name": "Bartolomeo Vivarini",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500029396",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q456971",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting fragment",
+  "title": "A Saint (Mark?) Reading",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Bartolomeo Vivarini",
+  "artistDisplayBio": "Italian, active Venice 1450–91",
+  "artistSuffix": "",
+  "artistAlphaSort": "Vivarini, Bartolomeo",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1450",
+  "artistEndDate": "1491",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q456971",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500029396",
+  "objectDate": "ca. 1470",
+  "objectBeginDate": 1465,
+  "objectEndDate": 1475,
+  "medium": "Tempera on wood, gold ground",
+  "dimensions": "18 5/8 x 14 3/4 in. (47.3 x 37.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 47.3,
+        "Width": 37.5
+      }
+    }
+  ],
+  "creditLine": "Bequest of Adele L. Lehman, in memory of Arthur Lehman, 1965",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437913",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Reading",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300248178",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q199657"
+    },
+    {
+      "term": "Saint Mark",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000495",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q31966"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912872",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

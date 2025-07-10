@@ -1,0 +1,93 @@
+{
+  "objectID": 437983,
+  "isHighlight": false,
+  "accessionNumber": "1997.157",
+  "accessionYear": "1997",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP293064.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP293064.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162684,
+      "role": "Artist",
+      "name": "Goffredo Wals",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500017839",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3109847",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "A Roman Landscape with Figures",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Goffredo Wals",
+  "artistDisplayBio": "German, Cologne, born ca. 1590–95, died 1638–40 Calabria",
+  "artistSuffix": "",
+  "artistAlphaSort": "Wals, Goffredo",
+  "artistNationality": "German",
+  "artistBeginDate": "1590",
+  "artistEndDate": "1640",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q3109847",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500017839",
+  "objectDate": "probably 1630s",
+  "objectBeginDate": 1630,
+  "objectEndDate": 1639,
+  "medium": "Oil on copper",
+  "dimensions": "Diameter 16 in. (40.6 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 40.6,
+        "Width": 40.6
+      }
+    }
+  ],
+  "creditLine": "Wrightsman Fund, 1997",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437983",
+  "tags": [
+    {
+      "term": "Ruins",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008057",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q109607"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    },
+    {
+      "term": "Rome",
+      "AAT_URL": "http://vocab.getty.edu/page/tgn/7000874",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q220"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905337",
+  "isTimelineWork": true,
+  "GalleryNumber": "623"
+}

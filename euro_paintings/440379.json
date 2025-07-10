@@ -1,0 +1,92 @@
+{
+  "objectID": 440379,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.121",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 117659,
+      "role": "Artist",
+      "name": "Attributed to George Augustus Wallis",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500031251",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3760431",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Tree Foliage",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Attributed to",
+  "artistDisplayName": "George Augustus Wallis",
+  "artistDisplayBio": "British, Merton 1770–1847 Florence",
+  "artistSuffix": "",
+  "artistAlphaSort": "Wallis, George Augustus",
+  "artistNationality": "British",
+  "artistBeginDate": "1770",
+  "artistEndDate": "1847",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q3760431",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500031251",
+  "objectDate": "",
+  "objectBeginDate": 1790,
+  "objectEndDate": 1847,
+  "medium": "Oil on paper, laid down on canvas",
+  "dimensions": "12 3/8 x 17 1/4 in. (31.4 x 43.8 cm)",
+  "measurements": [
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 6.032512,
+        "Height": 42.545086,
+        "Width": 53.97511
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 31.432564,
+        "Width": 43.815086
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/440379",
+  "tags": [
+    {
+      "term": "Trees",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132410",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q10884"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913580",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

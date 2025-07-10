@@ -1,0 +1,88 @@
+{
+  "objectID": 436084,
+  "isHighlight": false,
+  "accessionNumber": "03.29",
+  "accessionYear": "1903",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1981.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1981.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161806,
+      "role": "Artist",
+      "name": "Charles-François Daubigny",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115164",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q252357",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Boats on the Seacoast at Étaples",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Charles-François Daubigny",
+  "artistDisplayBio": "French, Paris 1817–1878 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Daubigny, Charles-François",
+  "artistNationality": "French",
+  "artistBeginDate": "1817",
+  "artistEndDate": "1878",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q252357",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115164",
+  "objectDate": "1871",
+  "objectBeginDate": 1871,
+  "objectEndDate": 1871,
+  "medium": "Oil on wood",
+  "dimensions": "13 1/2 x 22 7/8 in. (34.3 x 58.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 34.3,
+        "Width": 58.1
+      }
+    }
+  ],
+  "creditLine": "Catharine Lorillard Wolfe Collection, Wolfe Fund, 1903",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-04-30T04:49:03.02Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436084",
+  "tags": [
+    {
+      "term": "Seascapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300117546",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q158607"
+    },
+    {
+      "term": "Boats",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912321",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

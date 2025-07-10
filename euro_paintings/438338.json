@@ -1,0 +1,98 @@
+{
+  "objectID": 438338,
+  "isHighlight": false,
+  "accessionNumber": "1998.188",
+  "accessionYear": "1998",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP312834.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP312834.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161748,
+      "role": "Artist",
+      "name": "Annibale Carracci",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115350",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q7824",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Burial of Christ",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Annibale Carracci",
+  "artistDisplayBio": "Italian, Bologna 1560–1609 Rome",
+  "artistSuffix": "",
+  "artistAlphaSort": "Carracci, Annibale",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1560",
+  "artistEndDate": "1609",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q7824",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115350",
+  "objectDate": "1595",
+  "objectBeginDate": 1595,
+  "objectEndDate": 1595,
+  "medium": "Oil on copper",
+  "dimensions": "17 1/4 x 13 3/4 in. (43.8 x 34.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 43.8,
+        "Width": 34.9
+      }
+    }
+  ],
+  "creditLine": "Purchase, Edwin L. Weisl Jr. Gift, 1998",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/438338",
+  "tags": [
+    {
+      "term": "Sadness",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300055166",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q169251"
+    },
+    {
+      "term": "Christ",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+    },
+    {
+      "term": "Mary Magdalene",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000161",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q63070"
+    },
+    {
+      "term": "Entombment",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901001053",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q51637"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q18613324",
+  "isTimelineWork": false,
+  "GalleryNumber": "620"
+}

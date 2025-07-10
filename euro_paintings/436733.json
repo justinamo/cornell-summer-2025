@@ -1,0 +1,93 @@
+{
+  "objectID": 436733,
+  "isHighlight": false,
+  "accessionNumber": "06.1048",
+  "accessionYear": "1906",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/532.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/532.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 109458,
+      "role": "Artist",
+      "name": "Italian (Florentine) Painter",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Madonna and Child Enthroned with Saint John the Baptist and Another Saint",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Italian (Florentine) Painter",
+  "artistDisplayBio": "second quarter 15th century",
+  "artistSuffix": "",
+  "artistAlphaSort": "Italian (Florentine) Painter",
+  "artistNationality": "Italian",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "",
+  "objectBeginDate": 1425,
+  "objectEndDate": 1449,
+  "medium": "Tempera and gold on wood",
+  "dimensions": "Overall, with engaged frame, 29 3/4 x 17 1/8 in. (75.6 x 43.5 cm); painted surface 17 1/8 x 14 1/4 in. (43.5 x 36.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 75.6,
+        "Width": 43.5
+      }
+    }
+  ],
+  "creditLine": "Gift of Georges Brauer, 1906",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436733",
+  "tags": [
+    {
+      "term": "Madonna and Child",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+    },
+    {
+      "term": "Saint John the Baptist",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901001056",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q40662"
+    },
+    {
+      "term": "Saints",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912982",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

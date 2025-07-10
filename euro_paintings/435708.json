@@ -1,0 +1,93 @@
+{
+  "objectID": 435708,
+  "isHighlight": false,
+  "accessionNumber": "87.15.137",
+  "accessionYear": "1887",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1507.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1507.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 165586,
+      "role": "Artist",
+      "name": "Léon Bonnat",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500016107",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q170259",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Roman Girl at a Fountain",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Léon Bonnat",
+  "artistDisplayBio": "French, Bayonne 1833–1922 Monchy-Saint-Eloi",
+  "artistSuffix": "",
+  "artistAlphaSort": "Bonnat, Léon",
+  "artistNationality": "French",
+  "artistBeginDate": "1833",
+  "artistEndDate": "1922",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q170259",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500016107",
+  "objectDate": "1875",
+  "objectBeginDate": 1875,
+  "objectEndDate": 1875,
+  "medium": "Oil on canvas",
+  "dimensions": "67 x 39 1/2 in. (170.2 x 100.3 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 170.2,
+        "Width": 100.3
+      }
+    }
+  ],
+  "creditLine": "Catharine Lorillard Wolfe Collection, Bequest of Catharine Lorillard Wolfe, 1887",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-05-24T04:50:23.96Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435708",
+  "tags": [
+    {
+      "term": "Fountains",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300006179",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q483453"
+    },
+    {
+      "term": "Girls",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+    },
+    {
+      "term": "Drinking",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379698",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q876776"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911969",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

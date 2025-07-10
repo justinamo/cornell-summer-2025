@@ -1,0 +1,97 @@
+{
+  "objectID": 439410,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.102",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 126601,
+      "role": "Artist",
+      "name": "Joséphine Sarazin de Belmont",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500030170",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3263639",
+      "gender": "Female"
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Roman Theater, Taormina",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Joséphine Sarazin de Belmont",
+  "artistDisplayBio": "French, Versailles 1790–1870 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Sarazin de Belmont, Joséphine",
+  "artistNationality": "French",
+  "artistBeginDate": "1790",
+  "artistEndDate": "1870",
+  "artistGender": "Female",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q3263639",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500030170",
+  "objectDate": "1825",
+  "objectBeginDate": 1825,
+  "objectEndDate": 1825,
+  "medium": "Oil on paper, laid down on board",
+  "dimensions": "16 3/8 x 22 5/8 in. (41.6 x 57.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 41.592583,
+        "Width": 57.467613
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 6.350013,
+        "Height": 62.230125,
+        "Width": 77.78766
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-06-04T04:51:25.263Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/439410",
+  "tags": [
+    {
+      "term": "Ruins",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008057",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q109607"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913606",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

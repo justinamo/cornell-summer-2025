@@ -1,0 +1,98 @@
+{
+  "objectID": 435769,
+  "isHighlight": false,
+  "accessionNumber": "11.73",
+  "accessionYear": "1911",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP145897.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP145897.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161714,
+      "role": "Artist",
+      "name": "Leonaert Bramer",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500015658",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q979381",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Judgment of Solomon",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Leonaert Bramer",
+  "artistDisplayBio": "Dutch, Delft 1596–1674 Delft",
+  "artistSuffix": "",
+  "artistAlphaSort": "Bramer, Leonaert",
+  "artistNationality": "Dutch",
+  "artistBeginDate": "1596",
+  "artistEndDate": "1674",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q979381",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500015658",
+  "objectDate": "1640s",
+  "objectBeginDate": 1640,
+  "objectEndDate": 1649,
+  "medium": "Oil on wood",
+  "dimensions": "31 1/8 x 40 1/2 in. (79.1 x 102.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 79.1,
+        "Width": 102.9
+      }
+    }
+  ],
+  "creditLine": "Gift of National Surety Company, 1911",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435769",
+  "tags": [
+    {
+      "term": "Kings",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025481",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12097"
+    },
+    {
+      "term": "Infants",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300189561",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q998"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Solomon",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000120",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q37085"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905857",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

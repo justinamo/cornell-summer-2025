@@ -1,0 +1,102 @@
+{
+  "objectID": 440337,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.47",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 163866,
+      "role": "Artist",
+      "name": "Alexandre François Desportes",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115333",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1359864",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "River Landscape",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Alexandre François Desportes",
+  "artistDisplayBio": "French, Champigneulle 1661–1743 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Desportes, Alexandre François",
+  "artistNationality": "French",
+  "artistBeginDate": "1661",
+  "artistEndDate": "1743",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q1359864",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115333",
+  "objectDate": "ca. 1690–1700",
+  "objectBeginDate": 1685,
+  "objectEndDate": 1705,
+  "medium": "Oil on paper, laid down on wood",
+  "dimensions": "11 1/8 x 16 7/8 in. (28.3 x 42.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 28.257557,
+        "Width": 42.862587
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Diameter": 38.100075,
+        "Height": 52.070103,
+        "Width": 3.8100076
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/440337",
+  "tags": [
+    {
+      "term": "Rivers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008707",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4022"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    },
+    {
+      "term": "Trees",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132410",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q10884"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913511",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

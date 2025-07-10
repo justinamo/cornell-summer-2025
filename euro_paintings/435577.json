@@ -1,0 +1,103 @@
+{
+  "objectID": 435577,
+  "isHighlight": false,
+  "accessionNumber": "14.40.628",
+  "accessionYear": "1914",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-20398-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-20398-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161610,
+      "role": "Artist",
+      "name": "Fra Angelico (Guido di Pietro)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500029319",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5664",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Crucifixion",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Fra Angelico (Guido di Pietro)",
+  "artistDisplayBio": "Italian, Vicchio di Mugello ca. 1395–1455 Rome",
+  "artistSuffix": "",
+  "artistAlphaSort": "Angelico, Fra (Guido di Pietro)",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1395",
+  "artistEndDate": "1455",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5664",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500029319",
+  "objectDate": "possibly ca. 1440",
+  "objectBeginDate": 1435,
+  "objectEndDate": 1445,
+  "medium": "Tempera transferred to canvas, laid down on wood, gold ground",
+  "dimensions": "13 3/8 x 19 3/4 in. (34 x 50.2 cm); set in panel 15 3/4 x 21 1/4 in. (40 x 54 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 40,
+        "Width": 54
+      }
+    }
+  ],
+  "creditLine": "Bequest of Benjamin Altman, 1913",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435577",
+  "tags": [
+    {
+      "term": "Christ",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+    },
+    {
+      "term": "Mary Magdalene",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000161",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q63070"
+    },
+    {
+      "term": "Saint Francis",
+      "AAT_URL": "http://vocab.getty.edu/page/ulan/500349636",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q676555"
+    },
+    {
+      "term": "Crucifixion",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300404300",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3235597"
+    },
+    {
+      "term": "Saints",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905200",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

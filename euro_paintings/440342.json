@@ -1,0 +1,113 @@
+{
+  "objectID": 440342,
+  "isHighlight": false,
+  "accessionNumber": "2018.830.3",
+  "accessionYear": "2018",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 126961,
+      "role": "Artist",
+      "name": "Johann Jakob Frey",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500032892",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1337730",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Rocky Outcrop by a Stream in the Roman Campagna",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Johann Jakob Frey",
+  "artistDisplayBio": "Swiss, 1813–1865",
+  "artistSuffix": "",
+  "artistAlphaSort": "Frey, Johann Jakob",
+  "artistNationality": "Swiss",
+  "artistBeginDate": "1813",
+  "artistEndDate": "1865",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q1337730",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500032892",
+  "objectDate": "ca. 1835–40",
+  "objectBeginDate": 1835,
+  "objectEndDate": 1840,
+  "medium": "Oil on paper, mounted on canvas",
+  "dimensions": "14 x 20 1/2 in. (35.6 x 52.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Glazing",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 36.195072,
+        "Width": 52.387604
+      }
+    },
+    {
+      "elementName": "Rabbet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 36.67132,
+        "Width": 52.863857
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 5.08001,
+        "Height": 49.212597,
+        "Width": 65.24638
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 35.5601,
+        "Width": 52.0701
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2018",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/440342",
+  "tags": [
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    },
+    {
+      "term": "Rome",
+      "AAT_URL": "http://vocab.getty.edu/page/tgn/7000874",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q220"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q78637353",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

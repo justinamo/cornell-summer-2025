@@ -1,0 +1,84 @@
+{
+  "objectID": 834145,
+  "isHighlight": false,
+  "accessionNumber": "62.273.109",
+  "accessionYear": "1962",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": null,
+  "department": "European Paintings",
+  "objectName": "Frame",
+  "title": "Frame",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "",
+  "artistPrefix": "",
+  "artistDisplayName": "",
+  "artistDisplayBio": "",
+  "artistSuffix": "",
+  "artistAlphaSort": "",
+  "artistNationality": "",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "",
+  "objectBeginDate": 0,
+  "objectEndDate": 0,
+  "medium": "",
+  "dimensions": "Opening: 39 1/4 × 52 1/2 in. (99.7 × 133.4 cm)\r\nRabbet: 40 3/8 × 53 1/4 in. (102.6 × 135.3 cm)\r\nOverall: 49 1/2 × 62 1/2 in. (125.7 × 158.8 cm)",
+  "measurements": [
+    {
+      "elementName": "Opening",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 99.6952,
+        "Width": 133.35027
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 125.730255,
+        "Width": 158.75032
+      }
+    },
+    {
+      "elementName": "Rabbet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 102.552704,
+        "Width": 135.25526
+      }
+    }
+  ],
+  "creditLine": "Gift of Samuel H. Kress Foundation, 1962",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Frames",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2023-11-15T21:02:33.593Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/834145",
+  "tags": null,
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": "609"
+}

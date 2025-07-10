@@ -1,0 +1,88 @@
+{
+  "objectID": 441229,
+  "isHighlight": false,
+  "accessionNumber": "2012.100.1",
+  "accessionYear": "2012",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP244873.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP244873.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 128960,
+      "role": "Artist",
+      "name": "Francesco Maffei",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500003207",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3289164",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Hagar and the Angel",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Francesco Maffei",
+  "artistDisplayBio": "Italian, Vicenza 1605–1660 Padua",
+  "artistSuffix": "",
+  "artistAlphaSort": "Maffei, Francesco",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1605",
+  "artistEndDate": "1660",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q3289164",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500003207",
+  "objectDate": "ca. 1657",
+  "objectBeginDate": 1652,
+  "objectEndDate": 1662,
+  "medium": "Oil on canvas",
+  "dimensions": "41 3/4 x 54 in. (106 x 137.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 106,
+        "Width": 137.16028
+      }
+    }
+  ],
+  "creditLine": "Bequest of Anna Mont, in memory of Frederick Mont, 2010",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/441229",
+  "tags": [
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Angels",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912441",
+  "isTimelineWork": false,
+  "GalleryNumber": "620"
+}

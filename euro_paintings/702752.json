@@ -1,0 +1,88 @@
+{
+  "objectID": 702752,
+  "isHighlight": false,
+  "accessionNumber": "2015.645",
+  "accessionYear": "2015",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-20208-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-20208-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 164818,
+      "role": "Artist",
+      "name": "Benedetto Luti",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012192",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q816847",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Christ and the Woman of Samaria",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Benedetto Luti",
+  "artistDisplayBio": "Italian, Florence 1666–1724 Rome",
+  "artistSuffix": "",
+  "artistAlphaSort": "Luti, Benedetto",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1666",
+  "artistEndDate": "1724",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q816847",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500012192",
+  "objectDate": "1715–20",
+  "objectBeginDate": 1715,
+  "objectEndDate": 1720,
+  "medium": "Oil on copper",
+  "dimensions": "15 × 12 1/8 in. (38.2 × 30.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": "Measured by Charlotte Hale",
+      "elementMeasurements": {
+        "Height": 38.1,
+        "Width": 30.797562
+      }
+    }
+  ],
+  "creditLine": "Rogers Fund, by exchange, 2015",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/702752",
+  "tags": [
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Christ",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q78614077",
+  "isTimelineWork": false,
+  "GalleryNumber": "640"
+}

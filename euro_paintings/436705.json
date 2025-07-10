@@ -1,0 +1,83 @@
+{
+  "objectID": 436705,
+  "isHighlight": false,
+  "accessionNumber": "1985.118",
+  "accessionYear": "1985",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1997.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1997.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162005,
+      "role": "Artist",
+      "name": "Jean Auguste Dominique Ingres",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500028037",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q23380",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Head of Saint John the Evangelist",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Jean Auguste Dominique Ingres",
+  "artistDisplayBio": "French, Montauban 1780–1867 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Ingres, Jean Auguste Dominique",
+  "artistNationality": "French",
+  "artistBeginDate": "1780",
+  "artistEndDate": "1867",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q23380",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500028037",
+  "objectDate": "",
+  "objectBeginDate": 1818,
+  "objectEndDate": 1856,
+  "medium": "Oil on canvas, laid down on wood",
+  "dimensions": "15 1/2 x 10 5/8 in. (39.4 x 27 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 39.4,
+        "Width": 27
+      }
+    }
+  ],
+  "creditLine": "Catharine Lorillard Wolfe Collection, Purchase, Bequest of Catharine Lorillard Wolfe, by exchange, and Wolfe Fund, 1985",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436705",
+  "tags": [
+    {
+      "term": "Saint John the Evangelist",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901001171",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q328804"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905295",
+  "isTimelineWork": false,
+  "GalleryNumber": "801"
+}

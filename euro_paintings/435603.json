@@ -1,0 +1,102 @@
+{
+  "objectID": 435603,
+  "isHighlight": false,
+  "accessionNumber": "81.1.656",
+  "accessionYear": "1881",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep81.1.656.R.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/ep81.1.656.R.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161650,
+      "role": "Artist",
+      "name": "Charles Bargue",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500020513",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q771320",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "A Footman Sleeping",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Charles Bargue",
+  "artistDisplayBio": "French, Paris 1825/26–1883 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Bargue, Charles",
+  "artistNationality": "French",
+  "artistBeginDate": "1825",
+  "artistEndDate": "1883",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q771320",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500020513",
+  "objectDate": "1871",
+  "objectBeginDate": 1871,
+  "objectEndDate": 1871,
+  "medium": "Oil on wood",
+  "dimensions": "13 3/4 x 10 1/4 in. (34.9 x 26 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 34.9,
+        "Width": 26
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 8.255,
+        "Height": 61.5951,
+        "Width": 52.3876
+      }
+    }
+  ],
+  "creditLine": "Bequest of Stephen Whitney Phoenix, 1881",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-04-30T04:49:03.02Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435603",
+  "tags": [
+    {
+      "term": "Sleeping",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300375130",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q35831"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Servants",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025874",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q54128"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912727",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

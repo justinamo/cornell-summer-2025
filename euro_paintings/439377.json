@@ -1,0 +1,97 @@
+{
+  "objectID": 439377,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.60",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 126573,
+      "role": "Artist",
+      "name": "Léon Fleury",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500024923",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3083823",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Convent at Subiaco",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Léon Fleury",
+  "artistDisplayBio": "French, Paris 1804–1858 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Fleury Léon",
+  "artistNationality": "French",
+  "artistBeginDate": "1804",
+  "artistEndDate": "1858",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q3083823",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500024923",
+  "objectDate": "1827–29",
+  "objectBeginDate": 1827,
+  "objectEndDate": 1829,
+  "medium": "Oil on paper, laid down on canvas",
+  "dimensions": "6 3/8 x 9 7/8 in. (16.2 x 25.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 16.192532,
+        "Width": 25.08255
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 5.08001,
+        "Height": 26.670053,
+        "Width": 35.56007
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/439377",
+  "tags": [
+    {
+      "term": "Buildings",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300004789",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q41176"
+    },
+    {
+      "term": "Towns",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008375",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3957"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913596",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

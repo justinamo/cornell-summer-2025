@@ -1,0 +1,88 @@
+{
+  "objectID": 435841,
+  "isHighlight": false,
+  "accessionNumber": "95.14.90",
+  "accessionYear": "1895",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/50664.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/50664.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 108637,
+      "role": "Artist",
+      "name": "Pierre Laurent Canon",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q22001875",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, miniature",
+  "title": "Baron Joseph Dominique Louis (1755–1837)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Pierre Laurent Canon",
+  "artistDisplayBio": "French, 1787–1852",
+  "artistSuffix": "",
+  "artistAlphaSort": "Canon, Pierre Laurent",
+  "artistNationality": "French",
+  "artistBeginDate": "1787",
+  "artistEndDate": "1852",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q22001875",
+  "artistULAN_URL": "",
+  "objectDate": "1844",
+  "objectBeginDate": 1844,
+  "objectEndDate": 1844,
+  "medium": "Ivory",
+  "dimensions": "Oval, 4 1/8 x 3 1/8 in. (105 x 80 mm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 10.5,
+        "Width": 7.9
+      }
+    }
+  ],
+  "creditLine": "The Moses Lazarus Collection, Gift of Josephine and Sarah Lazarus, in memory of their father, 1888–95",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Miniatures",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2024-10-03T04:53:53.567Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435841",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913978",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

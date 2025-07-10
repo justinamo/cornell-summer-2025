@@ -1,0 +1,97 @@
+{
+  "objectID": 437126,
+  "isHighlight": false,
+  "accessionNumber": "60.154",
+  "accessionYear": "1960",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162135,
+      "role": "Artist",
+      "name": "Claude Monet",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500019484",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q296",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Ile aux Orties near Vernon",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Claude Monet",
+  "artistDisplayBio": "French, Paris 1840–1926 Giverny",
+  "artistSuffix": "",
+  "artistAlphaSort": "Monet, Claude",
+  "artistNationality": "French",
+  "artistBeginDate": "1840",
+  "artistEndDate": "1926",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q296",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500019484",
+  "objectDate": "1897",
+  "objectBeginDate": 1897,
+  "objectEndDate": 1897,
+  "medium": "Oil on canvas",
+  "dimensions": "28 7/8 x 36 1/2 in. (73.3 x 92.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 73.3,
+        "Width": 92.7
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 11.430023,
+        "Height": 95.88519,
+        "Width": 113.66523
+      }
+    }
+  ],
+  "creditLine": "Gift of Mr. and Mrs. Charles S. McVeigh, 1960",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-19T04:53:33.417Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437126",
+  "tags": [
+    {
+      "term": "Rivers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008707",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4022"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19914264",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

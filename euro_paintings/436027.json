@@ -1,0 +1,83 @@
+{
+  "objectID": 436027,
+  "isHighlight": false,
+  "accessionNumber": "29.100.123",
+  "accessionYear": "1929",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep29.100.123.bw.R.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/ep29.100.123.bw.R.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161790,
+      "role": "Artist",
+      "name": "Style of Gustave Courbet",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010927",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q34618",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Apples",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Style of",
+  "artistDisplayName": "Gustave Courbet",
+  "artistDisplayBio": "French, second half 19th century",
+  "artistSuffix": "",
+  "artistAlphaSort": "Courbet, Gustave",
+  "artistNationality": "French",
+  "artistBeginDate": "1819",
+  "artistEndDate": "1877",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q34618",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500010927",
+  "objectDate": "",
+  "objectBeginDate": 1850,
+  "objectEndDate": 1899,
+  "medium": "Oil on canvas",
+  "dimensions": "13 x 17 3/8 in. (33 x 44.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 33,
+        "Width": 44.1
+      }
+    }
+  ],
+  "creditLine": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436027",
+  "tags": [
+    {
+      "term": "Apples",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300266417",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q89"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913384",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

@@ -1,0 +1,92 @@
+{
+  "objectID": 438947,
+  "isHighlight": false,
+  "accessionNumber": "2007.164.1",
+  "accessionYear": "2007",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-34303-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-34303-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161755,
+      "role": "Artist",
+      "name": "Carl Gustav Carus",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004882",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q61987",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "An Overgrown Mineshaft",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Carl Gustav Carus",
+  "artistDisplayBio": "German, Leipzig 1789–1869 Dresden",
+  "artistSuffix": "",
+  "artistAlphaSort": "Carus, Carl Gustav",
+  "artistNationality": "German",
+  "artistBeginDate": "1789",
+  "artistEndDate": "1869",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q61987",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500004882",
+  "objectDate": "ca. 1824",
+  "objectBeginDate": 1819,
+  "objectEndDate": 1829,
+  "medium": "Oil on paper, laid down on cardboard",
+  "dimensions": "11 1/4 x 8 1/4 in. (28.6 x 21 cm)",
+  "measurements": [
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 4.4450088,
+        "Height": 35.56007,
+        "Width": 28.257557
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 28.5751,
+        "Width": 20.955
+      }
+    }
+  ],
+  "creditLine": "Gift of Eugene V. Thaw, 2007",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/438947",
+  "tags": [
+    {
+      "term": "Doorways",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300002767",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q21263223"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913034",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

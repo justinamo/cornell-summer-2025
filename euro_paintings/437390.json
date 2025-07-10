@@ -1,0 +1,88 @@
+{
+  "objectID": 437390,
+  "isHighlight": false,
+  "accessionNumber": "14.40.625",
+  "accessionYear": "1914",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP145913.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP145913.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162297,
+      "role": "Artist",
+      "name": "Rembrandt (Rembrandt van Rijn)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011051",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5598",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Portrait of a Woman",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Rembrandt (Rembrandt van Rijn)",
+  "artistDisplayBio": "Dutch, Leiden 1606–1669 Amsterdam",
+  "artistSuffix": "",
+  "artistAlphaSort": "Rembrandt (Rembrandt van Rijn)",
+  "artistNationality": "Dutch",
+  "artistBeginDate": "1606",
+  "artistEndDate": "1669",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5598",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500011051",
+  "objectDate": "1633",
+  "objectBeginDate": 1633,
+  "objectEndDate": 1633,
+  "medium": "Oil on wood",
+  "dimensions": "Oval, 26 3/4 x 19 3/4 in. (67.9 x 50.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 67.9,
+        "Width": 50.2
+      }
+    }
+  ],
+  "creditLine": "Bequest of Benjamin Altman, 1913",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437390",
+  "tags": [
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911781",
+  "isTimelineWork": false,
+  "GalleryNumber": "616"
+}

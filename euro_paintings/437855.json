@@ -1,0 +1,120 @@
+{
+  "objectID": 437855,
+  "isHighlight": false,
+  "accessionNumber": "29.158.746",
+  "accessionYear": "1929",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP215890.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP215890.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162577,
+      "role": "Artist",
+      "name": "Nicolaos Tzafouris",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500199194",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q18210625",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, icon",
+  "title": "Christ Bearing the Cross",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Nicolaos Tzafouris",
+  "artistDisplayBio": "Greek, ca. 1455–1500/1501",
+  "artistSuffix": "",
+  "artistAlphaSort": "Tzafouris, Nicolaos",
+  "artistNationality": "Greek",
+  "artistBeginDate": "1455",
+  "artistEndDate": "1501",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q18210625",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500199194",
+  "objectDate": "",
+  "objectBeginDate": 1489,
+  "objectEndDate": 1500,
+  "medium": "Oil and tempera on wood, gold ground",
+  "dimensions": "27 1/4 x 21 1/2 in. (69.2 x 54.6 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 69.2,
+        "Width": 54.6
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 3.8100076,
+        "Height": 71.75514,
+        "Width": 57.150116
+      }
+    },
+    {
+      "elementName": "Glazing",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 70.16764,
+        "Width": 55.56261
+      }
+    }
+  ],
+  "creditLine": "Bashford Dean Memorial Collection, Funds from various donors, 1929",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437855",
+  "tags": [
+    {
+      "term": "Soldiers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300185678",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4991371"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Cross",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300235443",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q40843"
+    },
+    {
+      "term": "Jesus",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q302"
+    },
+    {
+      "term": "Bearing the Cross",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901001193",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3399226"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912235",
+  "isTimelineWork": true,
+  "GalleryNumber": "303"
+}

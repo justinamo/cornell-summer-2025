@@ -1,0 +1,88 @@
+{
+  "objectID": 435586,
+  "isHighlight": false,
+  "accessionNumber": "29.63",
+  "accessionYear": "1929",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 107316,
+      "role": "Artist",
+      "name": "Abram Efimovich Arkhipov",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500002636",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q80588",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Ivan Rodin",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Abram Efimovich Arkhipov",
+  "artistDisplayBio": "Russian, Egorovo, Ryazan province 1862–1930 Moscow",
+  "artistSuffix": "",
+  "artistAlphaSort": "Arkhipov, Abram Efimovich",
+  "artistNationality": "Russian",
+  "artistBeginDate": "1862",
+  "artistEndDate": "1930",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q80588",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500002636",
+  "objectDate": "1928",
+  "objectBeginDate": 1928,
+  "objectEndDate": 1928,
+  "medium": "Oil on canvas",
+  "dimensions": "44 x 34 1/4 in. (111.8 x 87 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 111.8,
+        "Width": 87
+      }
+    }
+  ],
+  "creditLine": "Gift of George D. Pratt, 1929",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435586",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913248",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

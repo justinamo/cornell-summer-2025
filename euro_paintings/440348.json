@@ -1,0 +1,92 @@
+{
+  "objectID": 440348,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.68",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 164575,
+      "role": "Artist",
+      "name": "André Giroux",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500018755",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2847853",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Ruins in the Roman Campagna",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "André Giroux",
+  "artistDisplayBio": "French, Paris 1801–1879 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Giroux, André",
+  "artistNationality": "French",
+  "artistBeginDate": "1801",
+  "artistEndDate": "1879",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q2847853",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500018755",
+  "objectDate": "late 1820s",
+  "objectBeginDate": 1826,
+  "objectEndDate": 1829,
+  "medium": "Oil on paper, laid down on cardboard",
+  "dimensions": "7 1/2 x 13 in. (19.1 x 33 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 19.05,
+        "Width": 33.020065
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 3.492507,
+        "Height": 29.52756,
+        "Width": 43.815086
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/440348",
+  "tags": [
+    {
+      "term": "Ruins",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008057",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q109607"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913535",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

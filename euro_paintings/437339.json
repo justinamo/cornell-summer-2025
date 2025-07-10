@@ -1,0 +1,111 @@
+{
+  "objectID": 437339,
+  "isHighlight": false,
+  "accessionNumber": "25.110.14",
+  "accessionYear": "1925",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-647-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-647-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 165096,
+      "role": "Artist",
+      "name": "Pierre Paul Prud&#39;hon",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500003716",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q469056",
+      "gender": ""
+    },
+    {
+      "constituentID": 163150,
+      "role": "Artist",
+      "name": "completed by Charles Pompée Le Boulanger de Boisfrémont",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500005088",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2958602",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Andromache and Astyanax",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Pierre Paul Prud'hon",
+  "artistDisplayBio": "French, Cluny 1758–1823 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Prud'hon, Pierre Paul",
+  "artistNationality": "French",
+  "artistBeginDate": "1758",
+  "artistEndDate": "1823",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q469056",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500003716",
+  "objectDate": "?1813–17; 1823–24?",
+  "objectBeginDate": 1813,
+  "objectEndDate": 1824,
+  "medium": "Oil on canvas",
+  "dimensions": "52 x 67 1/8 in. (132.1 x 170.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 132.1,
+        "Width": 170.5
+      }
+    }
+  ],
+  "creditLine": "Bequest of Collis P. Huntington, 1900",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437339",
+  "tags": [
+    {
+      "term": "Trojan War",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000351",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q42937"
+    },
+    {
+      "term": "Boys",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Andromache",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000596",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q19376"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905102",
+  "isTimelineWork": true,
+  "GalleryNumber": "634"
+}

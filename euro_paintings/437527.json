@@ -1,0 +1,121 @@
+{
+  "objectID": 437527,
+  "isHighlight": false,
+  "accessionNumber": "37.160.12",
+  "accessionYear": "1937",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-18296-021.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-18296-021.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162350,
+      "role": "Artist",
+      "name": "Peter Paul Rubens",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500002921",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5599",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Glorification of the Eucharist",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Peter Paul Rubens",
+  "artistDisplayBio": "Flemish, Siegen 1577–1640 Antwerp",
+  "artistSuffix": "",
+  "artistAlphaSort": "Rubens, Peter Paul",
+  "artistNationality": "Flemish",
+  "artistBeginDate": "1577",
+  "artistEndDate": "1640",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5599",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500002921",
+  "objectDate": "ca. 1630–32",
+  "objectBeginDate": 1630,
+  "objectEndDate": 1632,
+  "medium": "Oil on wood",
+  "dimensions": "28 1/8 in. × 19 in. (71.4 × 48.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 3.2,
+        "Height": 71.4,
+        "Width": 48.2
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": "F.37.160.12",
+      "elementMeasurements": {
+        "Depth": 10.16,
+        "Height": 96.5202,
+        "Width": 73.6601
+      }
+    },
+    {
+      "elementName": "Rabbet",
+      "elementDescription": "F.37.160.12",
+      "elementMeasurements": {
+        "Height": 72.70764,
+        "Width": 49.530098
+      }
+    }
+  ],
+  "creditLine": "Bequest of Ogden Mills, 1929",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-04-17T04:59:20.447Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437527",
+  "tags": [
+    {
+      "term": "Skeletons",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300191778",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q7881"
+    },
+    {
+      "term": "Snakes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250870",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q2102"
+    },
+    {
+      "term": "Angels",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+    },
+    {
+      "term": "Christ",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+    },
+    {
+      "term": "Saint Paul",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901001058",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q9200"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912138",
+  "isTimelineWork": true,
+  "GalleryNumber": "639"
+}

@@ -1,0 +1,88 @@
+{
+  "objectID": 436054,
+  "isHighlight": false,
+  "accessionNumber": "05.41.1",
+  "accessionYear": "1905",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT354152.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT354152.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161797,
+      "role": "Artist",
+      "name": "Carlo Crivelli",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500005092",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q348024",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, part of an altarpiece",
+  "title": "Saint Dominic",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Carlo Crivelli",
+  "artistDisplayBio": "Italian, Venice (?), active by 1457–died 1494/95 Ascoli Piceno",
+  "artistSuffix": "",
+  "artistAlphaSort": "Crivelli, Carlo",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1457",
+  "artistEndDate": "1495",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q348024",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500005092",
+  "objectDate": "1472",
+  "objectBeginDate": 1472,
+  "objectEndDate": 1472,
+  "medium": "Tempera on wood, gold ground",
+  "dimensions": "38 1/4 x 12 3/4 in. (97.2 x 32.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 97.2,
+        "Width": 32.4
+      }
+    }
+  ],
+  "creditLine": "Rogers Fund, 1905",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436054",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Saints",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q3947010",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

@@ -1,0 +1,88 @@
+{
+  "objectID": 437649,
+  "isHighlight": false,
+  "accessionNumber": "65.181.2",
+  "accessionYear": "1965",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP367962.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP367962.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162401,
+      "role": "Artist",
+      "name": "Segna di Buonaventura",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500026523",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q929809",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Christ Blessing",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Segna di Buonaventura",
+  "artistDisplayBio": "Italian, active Siena by 1298–died 1326/31",
+  "artistSuffix": "",
+  "artistAlphaSort": "Segna di Buonaventura",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1298",
+  "artistEndDate": "1331",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q929809",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500026523",
+  "objectDate": "ca. 1311",
+  "objectBeginDate": 1306,
+  "objectEndDate": 1316,
+  "medium": "Tempera on wood, gold ground",
+  "dimensions": "Overall, with shaped top, 15 1/2 x 9 1/2 in. (39.4 x 24.1 cm); painted surface 14 x 8 1/8 in. (35.6 x 20.6 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 39.4,
+        "Width": 24.1
+      }
+    }
+  ],
+  "creditLine": "Bequest of Adele L. Lehman, in memory of Arthur Lehman, 1965",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437649",
+  "tags": [
+    {
+      "term": "Books",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300028051",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q571"
+    },
+    {
+      "term": "Christ",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913287",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

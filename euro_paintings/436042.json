@@ -1,0 +1,95 @@
+{
+  "objectID": 436042,
+  "isHighlight": false,
+  "accessionNumber": "1982.60.48",
+  "accessionYear": "1982",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP280356.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP280356.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/GermanCat10_Xraynocap.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 161794,
+      "role": "Artist",
+      "name": "Lucas Cranach the Elder",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115364",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q191748",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Venus and Cupid",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Lucas Cranach the Elder",
+  "artistDisplayBio": "German, Kronach 1472–1553 Weimar",
+  "artistSuffix": "",
+  "artistAlphaSort": "Cranach, Lucas, the Elder",
+  "artistNationality": "German",
+  "artistBeginDate": "1472",
+  "artistEndDate": "1553",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q191748",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115364",
+  "objectDate": "ca. 1525–27",
+  "objectBeginDate": 1525,
+  "objectEndDate": 1527,
+  "medium": "Oil on wood",
+  "dimensions": "Diameter 4 3/4 in. (12.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 12.1,
+        "Width": 12.1
+      }
+    }
+  ],
+  "creditLine": "The Jack and Belle Linsky Collection, 1982",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436042",
+  "tags": [
+    {
+      "term": "Female Nudes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+    },
+    {
+      "term": "Cupid",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300380105",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q5011"
+    },
+    {
+      "term": "Venus",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901001064",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q47652"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911596",
+  "isTimelineWork": true,
+  "GalleryNumber": "537"
+}

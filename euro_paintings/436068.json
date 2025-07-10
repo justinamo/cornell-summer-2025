@@ -1,0 +1,101 @@
+{
+  "objectID": 436068,
+  "isHighlight": false,
+  "accessionNumber": "1974.217",
+  "accessionYear": "1974",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP261714.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP261714.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/Daddi bottom edge.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/Daddi reverse.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 161801,
+      "role": "Artist",
+      "name": "Bernardo Daddi",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004953",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q366562",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Christ Enthroned with Saints",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Bernardo Daddi",
+  "artistDisplayBio": "Italian, Florence (?) ca. 1290–1348 Florence",
+  "artistSuffix": "",
+  "artistAlphaSort": "Daddi, Bernardo",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1290",
+  "artistEndDate": "1348",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q366562",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500004953",
+  "objectDate": "ca. 1325",
+  "objectBeginDate": 1320,
+  "objectEndDate": 1330,
+  "medium": "Tempera on wood, gold ground",
+  "dimensions": "Irregular, 7 1/2 x 9 in. (19.1 x 22.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 19.1,
+        "Width": 22.9
+      }
+    }
+  ],
+  "creditLine": "Bequest of Harriet H. Jonas, 1974",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436068",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Christ",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+    },
+    {
+      "term": "Saints",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911968",
+  "isTimelineWork": false,
+  "GalleryNumber": "635"
+}

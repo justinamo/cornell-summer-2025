@@ -1,0 +1,96 @@
+{
+  "objectID": 439977,
+  "isHighlight": false,
+  "accessionNumber": "2016.39",
+  "accessionYear": "2016",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP368972.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP368972.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/Gossart Christ Carrying Cross x-ray christ.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/Gossart Christ IRR.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 161951,
+      "role": "Artist",
+      "name": "Jan Gossart (called Mabuse)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500009353",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q346952",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Christ Carrying the Cross",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Jan Gossart (called Mabuse)",
+  "artistDisplayBio": "Netherlandish, Maubeuge ca. 1478–1532 Antwerp (?)",
+  "artistSuffix": "",
+  "artistAlphaSort": "Gossart, Jan (called Mabuse)",
+  "artistNationality": "Netherlandish",
+  "artistBeginDate": "1478",
+  "artistEndDate": "1532",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q346952",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500009353",
+  "objectDate": "ca. 1520–25",
+  "objectBeginDate": 1520,
+  "objectEndDate": 1525,
+  "medium": "Oil on oak",
+  "dimensions": "9 7/8 × 7 1/2 in. (25.1 × 19 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 25.08255,
+        "Width": 19
+      }
+    }
+  ],
+  "creditLine": "Gift of Honorable J. William Middendorf II, and Purchase, Walter and Leonore Annenberg and The Annenberg Foundation Gift, Director's Fund, Gift of George A. Hearn, by exchange, and Marquand and The Alfred N. Punnett Endowment Funds, 2016",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-06-19T04:50:33.487Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/439977",
+  "tags": [
+    {
+      "term": "Christ",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+    },
+    {
+      "term": "Cross",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300235443",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q40843"
+    },
+    {
+      "term": "Bearing the Cross",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901001193",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3399226"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q55594040",
+  "isTimelineWork": false,
+  "GalleryNumber": "635"
+}

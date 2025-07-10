@@ -1,0 +1,92 @@
+{
+  "objectID": 439395,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.99",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 126578,
+      "role": "Artist",
+      "name": "François-Edme Ricois",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500018533",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3083355",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Study of the Roots of a Fallen Tree",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "François-Edme Ricois",
+  "artistDisplayBio": "French, Courtalain 1795–1881 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Ricois, François-Edme",
+  "artistNationality": "French",
+  "artistBeginDate": "1795",
+  "artistEndDate": "1881",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q3083355",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500018533",
+  "objectDate": "probably before 1820",
+  "objectBeginDate": 1815,
+  "objectEndDate": 1825,
+  "medium": "Oil on paper, laid down on illustration board",
+  "dimensions": "7 3/8 x 9 1/2 in. (18.7 x 24.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 18.732538,
+        "Width": 24.13
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 3.8100076,
+        "Height": 27.305054,
+        "Width": 32.385063
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/439395",
+  "tags": [
+    {
+      "term": "Trees",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132410",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q10884"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913501",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

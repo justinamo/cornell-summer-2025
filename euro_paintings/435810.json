@@ -1,0 +1,106 @@
+{
+  "objectID": 435810,
+  "isHighlight": false,
+  "accessionNumber": "1974.293",
+  "accessionYear": "1974",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-19631-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-19631-001.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-1974_293-2.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-1974_293-3.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 70110,
+      "role": "Artist",
+      "name": "Jan Brueghel the Elder",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500007095",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q209050",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "A Woodland Road with Travelers",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Jan Brueghel the Elder",
+  "artistDisplayBio": "Netherlandish, Brussels 1568–1625 Antwerp",
+  "artistSuffix": "",
+  "artistAlphaSort": "Brueghel, Jan, the Elder",
+  "artistNationality": "Netherlandish",
+  "artistBeginDate": "1568",
+  "artistEndDate": "1625",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q209050",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500007095",
+  "objectDate": "1607",
+  "objectBeginDate": 1607,
+  "objectEndDate": 1607,
+  "medium": "Oil on wood",
+  "dimensions": "18 1/8 x 32 3/4 in. (46 x 83.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 46,
+        "Width": 83.2
+      }
+    }
+  ],
+  "creditLine": "Purchase, Fletcher, Rogers, Pfeiffer, Dodge, Harris Brisbane Dick, and Louis V. Bell Funds, and Joseph Pulitzer Bequest, 1974",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435810",
+  "tags": [
+    {
+      "term": "Human Figures",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300404114",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q5937779"
+    },
+    {
+      "term": "Roads",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008217",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q34442"
+    },
+    {
+      "term": "Dogs",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+    },
+    {
+      "term": "Forests",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300387598",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4421"
+    },
+    {
+      "term": "Wagons",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300215710",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q859281"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911851",
+  "isTimelineWork": true,
+  "GalleryNumber": "613"
+}

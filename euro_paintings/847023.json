@@ -1,0 +1,98 @@
+{
+  "objectID": 847023,
+  "isHighlight": false,
+  "accessionNumber": "2021.10.1",
+  "accessionYear": "2021",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-21913-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-21913-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 107910,
+      "role": "Artist",
+      "name": "Frederic, Lord Leighton",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500030022",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q160252",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Return of Persephone",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Frederic, Lord Leighton",
+  "artistDisplayBio": "British, Scarborough 1830–1896 London",
+  "artistSuffix": "",
+  "artistAlphaSort": "Leighton, Frederic, Lord",
+  "artistNationality": "British",
+  "artistBeginDate": "1830",
+  "artistEndDate": "1896",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q160252",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500030022",
+  "objectDate": "ca. 1890–91",
+  "objectBeginDate": 1890,
+  "objectEndDate": 1891,
+  "medium": "Oil on canvas",
+  "dimensions": "10 5/16 × 7 7/8 in. (26.2 × 20 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 26.2,
+        "Width": 20
+      }
+    }
+  ],
+  "creditLine": "Bequest of James David Draper, from the Robert Isaacson Collection, 2019",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-02-19T04:53:40.47Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/847023",
+  "tags": [
+    {
+      "term": "Mythology",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300055985",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q9134"
+    },
+    {
+      "term": "Hermes",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000721",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q41484"
+    },
+    {
+      "term": "Persephone",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901001949",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q45967"
+    },
+    {
+      "term": "Demeter",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000683",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q40730"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q111730093",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

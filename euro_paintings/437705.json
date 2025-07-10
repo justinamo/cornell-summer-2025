@@ -1,0 +1,88 @@
+{
+  "objectID": 437705,
+  "isHighlight": false,
+  "accessionNumber": "22.119.1",
+  "accessionYear": "1922",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162449,
+      "role": "Artist",
+      "name": "Joaquín Sorolla y Bastida",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500018256",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q351746",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Castle of San Servando, Toledo",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Joaquín Sorolla y Bastida",
+  "artistDisplayBio": "Spanish, Valencia 1863–1923 Cercedilla",
+  "artistSuffix": "",
+  "artistAlphaSort": "Sorolla y Bastida, Joaquín",
+  "artistNationality": "Spanish",
+  "artistBeginDate": "1863",
+  "artistEndDate": "1923",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q351746",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500018256",
+  "objectDate": "1906",
+  "objectBeginDate": 1906,
+  "objectEndDate": 1906,
+  "medium": "Oil on canvas",
+  "dimensions": "26 1/4 x 36 1/2 in. (66.7 x 92.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 66.7,
+        "Width": 92.7
+      }
+    }
+  ],
+  "creditLine": "Gift of Archer M. Huntington, 1922",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437705",
+  "tags": [
+    {
+      "term": "Castles",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300006891",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q23413"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912791",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

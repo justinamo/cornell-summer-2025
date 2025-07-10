@@ -1,0 +1,102 @@
+{
+  "objectID": 483377,
+  "isHighlight": false,
+  "accessionNumber": "1984.433.24",
+  "accessionYear": "1984",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 166270,
+      "role": "Artist",
+      "name": "Walter Richard Sickert",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001141",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q703369",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Reclining Nude (Thin Adeline)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Walter Richard Sickert",
+  "artistDisplayBio": "British, Munich 1860–1942 Bathampton, Somerset",
+  "artistSuffix": "",
+  "artistAlphaSort": "Sickert, Walter Richard",
+  "artistNationality": "British",
+  "artistBeginDate": "1860",
+  "artistEndDate": "1942",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q703369",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500001141",
+  "objectDate": "1906",
+  "objectBeginDate": 1906,
+  "objectEndDate": 1906,
+  "medium": "Oil on canvas",
+  "dimensions": "18 1/8 × 15 1/8 in. (46 × 38.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 46.037594,
+        "Width": 38.417576
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 4.7625,
+        "Height": 54.6101,
+        "Width": 46.6726
+      }
+    }
+  ],
+  "creditLine": "Bequest of Scofield Thayer, 1982",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/483377",
+  "tags": [
+    {
+      "term": "Female Nudes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+    },
+    {
+      "term": "Beds",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300038697",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q42177"
+    },
+    {
+      "term": "Paris",
+      "AAT_URL": "http://vocab.getty.edu/page/tgn/7008038",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q90"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912091",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

@@ -1,0 +1,103 @@
+{
+  "objectID": 437542,
+  "isHighlight": false,
+  "accessionNumber": "17.190.19",
+  "accessionYear": "1917",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-18296-013.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-18296-013.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162350,
+      "role": "Artist",
+      "name": "Workshop of Peter Paul Rubens",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500002921",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5599",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Saint Teresa of Avila Interceding for Souls in Purgatory",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Workshop of",
+  "artistDisplayName": "Peter Paul Rubens",
+  "artistDisplayBio": "Flemish, Siegen 1577–1640 Antwerp",
+  "artistSuffix": "",
+  "artistAlphaSort": "Rubens, Peter Paul",
+  "artistNationality": "Flemish",
+  "artistBeginDate": "1577",
+  "artistEndDate": "1640",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5599",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500002921",
+  "objectDate": "",
+  "objectBeginDate": 1597,
+  "objectEndDate": 1640,
+  "medium": "Oil on wood",
+  "dimensions": "25 1/4 x 19 1/4 in. (64.1 x 48.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 64.1,
+        "Width": 48.9
+      }
+    }
+  ],
+  "creditLine": "Gift of J. Pierpont Morgan, 1917",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437542",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Angels",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+    },
+    {
+      "term": "Christ",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+    },
+    {
+      "term": "Saints",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905361",
+  "isTimelineWork": false,
+  "GalleryNumber": "639"
+}

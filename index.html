@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>React JSON Loader</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://unpkg.com/react@18/umd/react.development.js"></script>
+    <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+  </head>
+  <body>
+    <div id="root"></div>
+
+    <script type="text/babel">
+      const { useEffect, useState } = React;
+      function ColorSquare({ color }) {
+        const rgbString = "rgb(" + color.r + ", " + color.g + ", " + color.b + ")"
+        console.log(rgbString)
+        return <div className="color-square" style={{"backgroundColor": rgbString}}></div> 
+      }
+
+      function Row({ info }) {
+        return (
+          <tr style={{ backgroundColor: info.color, padding: "10px", margin: "5px" }}>
+            <td>{info.title}</td>
+            <td>{info.date}</td>
+            <td>{info.colors.map((color, idx) => <ColorSquare key={idx} color={color} />)}</td>
+            <td><a href={info.image_path}>link</a></td>
+          </tr>
+        );
+      }
+
+      function App() {
+        const [data, setData] = useState([]);
+
+        useEffect(() => {
+          fetch('./data.json')
+            .then(res => res.json())
+            .then(setData)
+            .catch(err => console.error('Failed to load JSON:', err));
+        }, []);
+
+        return (
+          <div>
+            <h1>Color Data</h1>
+            <table>
+              <thead>
+                <tr>
+                  <th>Title</th>
+                  <th>Date</th>
+                  <th>Dominant Colors</th>
+                  <th>Painting</th>
+                </tr>
+              </thead>
+              <tbody>{data.map((info, idx) => <Row key={idx} info={info} />)}</tbody>
+            </table>
+          </div>
+        );
+      }
+
+      const root = ReactDOM.createRoot(document.getElementById('root'));
+      root.render(<App />);
+    </script>
+  </body>
+</html>
+

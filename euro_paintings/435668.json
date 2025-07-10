@@ -1,0 +1,102 @@
+{
+  "objectID": 435668,
+  "isHighlight": false,
+  "accessionNumber": "88.3.89",
+  "accessionYear": "1888",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT273088.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT273088.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 163121,
+      "role": "Artist",
+      "name": "Bicci di Lorenzo",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500002727",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q856749",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, predella panel",
+  "title": "Saint Nicholas Providing Dowries",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Bicci di Lorenzo",
+  "artistDisplayBio": "Italian, Florence 1373–1452 Florence",
+  "artistSuffix": "",
+  "artistAlphaSort": "Bicci di Lorenzo",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1373",
+  "artistEndDate": "1452",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q856749",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500002727",
+  "objectDate": "1433–35",
+  "objectBeginDate": 1433,
+  "objectEndDate": 1435,
+  "medium": "Tempera and gold on wood",
+  "dimensions": "12 x 22 1/4 in. (30.5 x 56.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 30.5,
+        "Width": 56.5
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 4.445,
+        "Height": 35.8776,
+        "Width": 61.2776
+      }
+    }
+  ],
+  "creditLine": "Gift of Coudert Brothers, 1888",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435668",
+  "tags": [
+    {
+      "term": "Bedrooms",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300004364",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q193837"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Saints",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19904855",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

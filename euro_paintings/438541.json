@@ -1,0 +1,93 @@
+{
+  "objectID": 438541,
+  "isHighlight": false,
+  "accessionNumber": "2001.720",
+  "accessionYear": "2001",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-23478-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-23478-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161768,
+      "role": "Artist",
+      "name": "Théodore Chassériau",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115358",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q342467",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Scene from the Gallic Wars: The Gaul Littavicus, Betraying the Roman Cause, Flees to Gergovie to Support Vercingétorix",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Théodore Chassériau",
+  "artistDisplayBio": "French, Le Limon, Saint-Domingue, West Indies 1819–1856 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Chassériau, Théodore",
+  "artistNationality": "French",
+  "artistBeginDate": "1819",
+  "artistEndDate": "1856",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q342467",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115358",
+  "objectDate": "ca. 1838–40",
+  "objectBeginDate": 1838,
+  "objectEndDate": 1840,
+  "medium": "Oil on canvas",
+  "dimensions": "13 1/2 x 17 3/4 in. (34.3 x 45.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 34.2901,
+        "Width": 45.0851
+      }
+    }
+  ],
+  "creditLine": "Gift of Lisa and William O'Reilly, 2001",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/438541",
+  "tags": [
+    {
+      "term": "Battles",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300185692",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q178561"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Horses",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913469",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

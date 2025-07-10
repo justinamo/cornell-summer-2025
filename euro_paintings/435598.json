@@ -1,0 +1,88 @@
+{
+  "objectID": 435598,
+  "isHighlight": false,
+  "accessionNumber": "1982.60.29",
+  "accessionYear": "1982",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP146464.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP146464.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162809,
+      "role": "Artist",
+      "name": "Attributed to David Bailly",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500006781",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q724192",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Portrait of a Man, Possibly a Botanist",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Attributed to",
+  "artistDisplayName": "David Bailly",
+  "artistDisplayBio": "Dutch, Leiden 1584–1657 Leiden",
+  "artistSuffix": "",
+  "artistAlphaSort": "Bailly, David",
+  "artistNationality": "Dutch",
+  "artistBeginDate": "1584",
+  "artistEndDate": "1657",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q724192",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500006781",
+  "objectDate": "1641",
+  "objectBeginDate": 1641,
+  "objectEndDate": 1641,
+  "medium": "Oil on wood",
+  "dimensions": "33 x 24 1/2 in. (83.8 x 62.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 83.8,
+        "Width": 62.2
+      }
+    }
+  ],
+  "creditLine": "The Jack and Belle Linsky Collection, 1982",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435598",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913068",
+  "isTimelineWork": false,
+  "GalleryNumber": "542"
+}

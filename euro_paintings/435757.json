@@ -1,0 +1,88 @@
+{
+  "objectID": 435757,
+  "isHighlight": false,
+  "accessionNumber": "49.7.39",
+  "accessionYear": "1949",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep49.7.39.bw.R.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/ep49.7.39.bw.R.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161707,
+      "role": "Artist",
+      "name": "Attributed to Sébastien Bourdon",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500006900",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q553795",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Portrait of a Young Boy",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Attributed to",
+  "artistDisplayName": "Sébastien Bourdon",
+  "artistDisplayBio": "French, Montpellier 1616–1671 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Bourdon, Sébastien",
+  "artistNationality": "French",
+  "artistBeginDate": "1616",
+  "artistEndDate": "1671",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q553795",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500006900",
+  "objectDate": "",
+  "objectBeginDate": 1636,
+  "objectEndDate": 1671,
+  "medium": "Oil on canvas",
+  "dimensions": "23 1/4 x 19 3/4 in. (59.1 x 50.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 59.1,
+        "Width": 50.2
+      }
+    }
+  ],
+  "creditLine": "The Jules Bache Collection, 1949",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-06-18T04:50:26.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435757",
+  "tags": [
+    {
+      "term": "Boys",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912189",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

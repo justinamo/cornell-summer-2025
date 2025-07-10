@@ -1,0 +1,117 @@
+{
+  "objectID": 435859,
+  "isHighlight": false,
+  "accessionNumber": "69.123",
+  "accessionYear": "1969",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT7237.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT7237.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 107486,
+      "role": "Artist",
+      "name": "Catena (Vincenzo di Biagio)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500019821",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1968947",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Adoration of the Shepherds",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Catena (Vincenzo di Biagio)",
+  "artistDisplayBio": "Italian, Venetian, active by 1506–died 1531",
+  "artistSuffix": "",
+  "artistAlphaSort": "Catena (Vincenzo di Biagio)",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1506",
+  "artistEndDate": "1531",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q1968947",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500019821",
+  "objectDate": "probably after 1520",
+  "objectBeginDate": 1506,
+  "objectEndDate": 1531,
+  "medium": "Oil on canvas",
+  "dimensions": "49 1/2 x 81 3/4 in. (125.7 x 207.6 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 125.7,
+        "Width": 207.6
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 9.525,
+        "Height": 146.6853,
+        "Width": 228.6005
+      }
+    }
+  ],
+  "creditLine": "Purchase, Mrs. Charles S. Payson Gift, Gwynne Andrews Fund, special funds, and other gifts and bequests, 1969",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-04-03T04:52:25.77Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435859",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Dogs",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+    },
+    {
+      "term": "Virgin Mary",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+    },
+    {
+      "term": "Jesus",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q302"
+    },
+    {
+      "term": "Adoration of the Shepherds",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000229",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q1029715"
+    },
+    {
+      "term": "Joseph",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000953",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q128267"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905110",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

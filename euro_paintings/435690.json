@@ -1,0 +1,102 @@
+{
+  "objectID": 435690,
+  "isHighlight": false,
+  "accessionNumber": "57.68",
+  "accessionYear": "1957",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP143180.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP143180.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161694,
+      "role": "Artist",
+      "name": "Ferdinand Bol",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500013764",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q374039",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Petronella Elias (1648–1667) with a Basket of Fruit",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Ferdinand Bol",
+  "artistDisplayBio": "Dutch, Dordrecht 1616–1680 Amsterdam",
+  "artistSuffix": "",
+  "artistAlphaSort": "Bol, Ferdinand",
+  "artistNationality": "Dutch",
+  "artistBeginDate": "1616",
+  "artistEndDate": "1680",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q374039",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500013764",
+  "objectDate": "1657",
+  "objectBeginDate": 1657,
+  "objectEndDate": 1657,
+  "medium": "Oil on canvas",
+  "dimensions": "31 5/8 x 26 in. (80.3 x 66 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 80.3,
+        "Width": 66
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 5.7150116,
+        "Height": 97.7902,
+        "Width": 82.55016
+      }
+    }
+  ],
+  "creditLine": "Purchase, George T. Delacorte Jr. Gift, 1957",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435690",
+  "tags": [
+    {
+      "term": "Fruit",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300011868",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q1364"
+    },
+    {
+      "term": "Girls",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912518",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

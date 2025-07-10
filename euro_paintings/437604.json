@@ -1,0 +1,103 @@
+{
+  "objectID": 437604,
+  "isHighlight": false,
+  "accessionNumber": "1987.290.2ab",
+  "accessionYear": "1987",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP149941.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP149941.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162375,
+      "role": "Artist",
+      "name": "Sano di Pietro (Ansano di Pietro di Mencio)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115558",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1379714",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, portable altarpiece",
+  "title": "Madonna and Child with the Dead Christ, Saints Agnes and Catherine of Alexandria, and Two Angels",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Sano di Pietro (Ansano di Pietro di Mencio)",
+  "artistDisplayBio": "Italian, Siena 1405–1481 Siena",
+  "artistSuffix": "",
+  "artistAlphaSort": "Sano di Pietro (Ansano di Pietro di Mencio)",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1405",
+  "artistEndDate": "1481",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q1379714",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115558",
+  "objectDate": "ca. 1470–80",
+  "objectBeginDate": 1465,
+  "objectEndDate": 1475,
+  "medium": "Tempera on wood, gold ground",
+  "dimensions": "Main panel, overall, with engaged (modern) frame, 12 3/4 x 11 3/4 in. (32.4 x 29.8 cm), painted surface 10 7/8 x 9 7/8 in. (27.6 x 25.1 cm); predella, overall, with engaged (modern) frame, 3 5/8 x 12 5/8 in. (9.2 x 32.1 cm), painted surface 2 5/8 x 11 7/8 in. (6.7 x 30.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 32.4,
+        "Width": 29.8
+      }
+    }
+  ],
+  "creditLine": "Anonymous Bequest, 1984",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437604",
+  "tags": [
+    {
+      "term": "Angels",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+    },
+    {
+      "term": "Christ",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+    },
+    {
+      "term": "Madonna and Child",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+    },
+    {
+      "term": "Saint Catherine",
+      "AAT_URL": null,
+      "Wikidata_URL": null
+    },
+    {
+      "term": "Saints",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913442",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

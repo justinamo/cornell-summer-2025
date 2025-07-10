@@ -1,0 +1,88 @@
+{
+  "objectID": 438628,
+  "isHighlight": false,
+  "accessionNumber": "2003.42.8",
+  "accessionYear": "2003",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 164234,
+      "role": "Artist",
+      "name": "Alexandre Calame",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500023774",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q621994",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Pozzuoli and the Bay of Naples",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Alexandre Calame",
+  "artistDisplayBio": "Swiss, Vevey 1810–1864 Menton",
+  "artistSuffix": "",
+  "artistAlphaSort": "Calame, Alexandre",
+  "artistNationality": "Swiss",
+  "artistBeginDate": "1810",
+  "artistEndDate": "1864",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q621994",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500023774",
+  "objectDate": "1844",
+  "objectBeginDate": 1844,
+  "objectEndDate": 1844,
+  "medium": "Oil on paper, laid down on canvas",
+  "dimensions": "12 3/4 x 16 1/4 in. (32.5 x 41.3 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 32.5,
+        "Width": 41.3
+      }
+    }
+  ],
+  "creditLine": "The Whitney Collection, Promised Gift of Wheelock Whitney III, and Purchase, Gift of Mr. and Mrs. Charles S. McVeigh, by exchange, 2003",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/438628",
+  "tags": [
+    {
+      "term": "Towns",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008375",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3957"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913323",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

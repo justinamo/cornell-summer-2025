@@ -1,0 +1,125 @@
+{
+  "objectID": 438387,
+  "isHighlight": false,
+  "accessionNumber": "2001.417",
+  "accessionYear": "2001",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-24114-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-24114-001.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-2001_417-2.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-2001_417-3.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 109736,
+      "role": "Artist",
+      "name": "Scarsellino (Ippolito Scarsella)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500003756",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2295535",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Virgin Adored by Saints",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Scarsellino (Ippolito Scarsella)",
+  "artistDisplayBio": "Italian, Ferrarese, ca. 1550–1620",
+  "artistSuffix": "",
+  "artistAlphaSort": "Scarsellino (Ippolito Scarsella)",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1545",
+  "artistEndDate": "1620",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q2295535",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500003756",
+  "objectDate": "ca. 1609",
+  "objectBeginDate": 1604,
+  "objectEndDate": 1614,
+  "medium": "Oil on copper",
+  "dimensions": "19 1/4 x 29 1/4 in. (48.9 x 74.3 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 48.9,
+        "Width": 74.3
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 6.35,
+        "Height": 66.6751,
+        "Width": 90.1702
+      }
+    }
+  ],
+  "creditLine": "Gift of Mary Jane Harris, in memory of Morton B. Harris and in honor of Keith Christiansen, 2001",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/438387",
+  "tags": [
+    {
+      "term": "Dogs",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+    },
+    {
+      "term": "Angels",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+    },
+    {
+      "term": "Saint Anthony",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901001255",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q170547"
+    },
+    {
+      "term": "Saint Catherine",
+      "AAT_URL": null,
+      "Wikidata_URL": null
+    },
+    {
+      "term": "Saint Francis",
+      "AAT_URL": "http://vocab.getty.edu/page/ulan/500349636",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q676555"
+    },
+    {
+      "term": "Virgin Mary",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+    },
+    {
+      "term": "Saints",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913352",
+  "isTimelineWork": false,
+  "GalleryNumber": "640"
+}

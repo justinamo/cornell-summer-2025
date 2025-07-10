@@ -1,0 +1,92 @@
+{
+  "objectID": 439364,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.35",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161802,
+      "role": "Artist",
+      "name": "Johan Christian Dahl",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500002468",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q164735",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Cloud Study",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Johan Christian Dahl",
+  "artistDisplayBio": "Norwegian, Bergen 1788–1857 Dresden",
+  "artistSuffix": "",
+  "artistAlphaSort": "Dahl, Johan Christian",
+  "artistNationality": "Norwegian",
+  "artistBeginDate": "1788",
+  "artistEndDate": "1857",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q164735",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500002468",
+  "objectDate": "",
+  "objectBeginDate": 1820,
+  "objectEndDate": 1850,
+  "medium": "Oil on paper, laid down on cardboard",
+  "dimensions": "5 x 7 7/8 in. (12.7 x 20 cm)",
+  "measurements": [
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 4.127508,
+        "Height": 20.32004,
+        "Width": 27.305054
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 12.700026,
+        "Width": 20.00254
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-06-06T04:50:48.053Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/439364",
+  "tags": [
+    {
+      "term": "Clouds",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300343840",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8074"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913336",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

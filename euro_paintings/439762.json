@@ -1,0 +1,112 @@
+{
+  "objectID": 439762,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.7",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 126956,
+      "role": "Artist",
+      "name": "Johann Jakob Biedermann",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008849",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q123747",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Mountain Landscape with Deer at a River",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Johann Jakob Biedermann",
+  "artistDisplayBio": "Swiss, Winterthur 1763–1830 Aussersihl",
+  "artistSuffix": "",
+  "artistAlphaSort": "Biedermann, Johann Jakob",
+  "artistNationality": "Swiss",
+  "artistBeginDate": "1763",
+  "artistEndDate": "1830",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q123747",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500008849",
+  "objectDate": "",
+  "objectBeginDate": 1783,
+  "objectEndDate": 1830,
+  "medium": "Oil on paper, laid down on canvas",
+  "dimensions": "14 5/8 x 19 in. (37.1 x 48.3 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 37.147575,
+        "Width": 48.260098
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 7.620015,
+        "Height": 50.1651,
+        "Width": 59.05512
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/439762",
+  "tags": [
+    {
+      "term": "Deer",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250308",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q685795"
+    },
+    {
+      "term": "Rivers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008707",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4022"
+    },
+    {
+      "term": "Waterfalls",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008736",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q34038"
+    },
+    {
+      "term": "Mountains",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008795",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8502"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913531",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

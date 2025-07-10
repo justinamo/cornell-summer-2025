@@ -1,0 +1,88 @@
+{
+  "objectID": 437917,
+  "isHighlight": false,
+  "accessionNumber": "89.15.37",
+  "accessionYear": "1889",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep89.15.37.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/ep89.15.37.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162670,
+      "role": "Artist",
+      "name": "Cornelis de Vos",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500022702",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q474934",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Portrait of a Woman",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Cornelis de Vos",
+  "artistDisplayBio": "Flemish, Hulst 1584/85–1651 Antwerp",
+  "artistSuffix": "",
+  "artistAlphaSort": "Vos, Cornelis de",
+  "artistNationality": "Flemish",
+  "artistBeginDate": "1584",
+  "artistEndDate": "1651",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q474934",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500022702",
+  "objectDate": "",
+  "objectBeginDate": 1603,
+  "objectEndDate": 1651,
+  "medium": "Oil on wood",
+  "dimensions": "49 3/8 x 38 in. (125.4 x 96.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 125.4,
+        "Width": 96.5
+      }
+    }
+  ],
+  "creditLine": "Marquand Collection, Gift of Henry G. Marquand, 1889",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437917",
+  "tags": [
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912878",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

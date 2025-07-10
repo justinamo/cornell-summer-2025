@@ -1,0 +1,92 @@
+{
+  "objectID": 435759,
+  "isHighlight": false,
+  "accessionNumber": "60.55.2",
+  "accessionYear": "1960",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP345354.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP345354.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-60_55_2_Xray.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-60_55_2_Supp2.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-60_55_2_Supp3.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 163124,
+      "role": "Artist",
+      "name": "Aelbert Bouts",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500006416",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q380743",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Head of Saint John the Baptist on a Charger",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Aelbert Bouts",
+  "artistDisplayBio": "Netherlandish, Leuven ca. 1451/54–1549",
+  "artistSuffix": "",
+  "artistAlphaSort": "Bouts, Aelbert",
+  "artistNationality": "Netherlandish",
+  "artistBeginDate": "1451",
+  "artistEndDate": "1549",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q380743",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500006416",
+  "objectDate": "ca. 1500",
+  "objectBeginDate": 1495,
+  "objectEndDate": 1505,
+  "medium": "Oil on poplar",
+  "dimensions": "Diameter 11 1/8 in. (28.3 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 28.3,
+        "Width": 28.3
+      }
+    }
+  ],
+  "creditLine": "Bequest of Rupert L. Joseph, 1959",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-06-19T04:50:33.487Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435759",
+  "tags": [
+    {
+      "term": "Heads",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300375054",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3409626"
+    },
+    {
+      "term": "Saint John the Baptist",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901001056",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q40662"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911868",
+  "isTimelineWork": false,
+  "GalleryNumber": "635"
+}

@@ -1,0 +1,100 @@
+{
+  "objectID": 437549,
+  "isHighlight": true,
+  "accessionNumber": "14.40.623",
+  "accessionYear": "1914",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP145911.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP145911.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-14_40_623-2.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-14_40_623-3.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 162354,
+      "role": "Artist",
+      "name": "Jacob van Ruisdael",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500027077",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q213612",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Wheat Fields",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Jacob van Ruisdael",
+  "artistDisplayBio": "Dutch, Haarlem 1628/29–1682 Amsterdam",
+  "artistSuffix": "",
+  "artistAlphaSort": "Ruisdael, Jacob van",
+  "artistNationality": "Dutch",
+  "artistBeginDate": "1628",
+  "artistEndDate": "1682",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q213612",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500027077",
+  "objectDate": "ca. 1670",
+  "objectBeginDate": 1665,
+  "objectEndDate": 1675,
+  "medium": "Oil on canvas",
+  "dimensions": "39 3/8 x 51 1/4 in. (100 x 130.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 100,
+        "Width": 130.2
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 16.827534,
+        "Height": 165.10033,
+        "Width": 135.89027
+      }
+    }
+  ],
+  "creditLine": "Bequest of Benjamin Altman, 1913",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-05-22T04:50:13.743Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437549",
+  "tags": [
+    {
+      "term": "Roads",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008217",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q34442"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905217",
+  "isTimelineWork": true,
+  "GalleryNumber": "615"
+}

@@ -1,0 +1,107 @@
+{
+  "objectID": 437227,
+  "isHighlight": false,
+  "accessionNumber": "1980.203.5",
+  "accessionYear": "1980",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP146509.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP146509.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 108117,
+      "role": "Artist",
+      "name": "Jacob Ochtervelt",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500017045",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q724646",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Love Letter",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Jacob Ochtervelt",
+  "artistDisplayBio": "Dutch, Rotterdam 1634–1682 Amsterdam",
+  "artistSuffix": "",
+  "artistAlphaSort": "Ochtervelt, Jacob",
+  "artistNationality": "Dutch",
+  "artistBeginDate": "1634",
+  "artistEndDate": "1682",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q724646",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500017045",
+  "objectDate": "early 1670s",
+  "objectBeginDate": 1670,
+  "objectEndDate": 1673,
+  "medium": "Oil on canvas",
+  "dimensions": "36 x 25 in. (91.4 x 63.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 91.4,
+        "Width": 63.5
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 11.43,
+        "Height": 109.2202,
+        "Width": 99.0602
+      }
+    }
+  ],
+  "creditLine": "Gift of Mr. and Mrs. Walter Mendelsohn, 1980",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437227",
+  "tags": [
+    {
+      "term": "Interiors",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300391239",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q2998430"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Reading",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300248178",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q199657"
+    },
+    {
+      "term": "Dogs",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19914274",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

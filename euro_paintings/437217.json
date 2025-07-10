@@ -1,0 +1,105 @@
+{
+  "objectID": 437217,
+  "isHighlight": false,
+  "accessionNumber": "50.70",
+  "accessionYear": "1950",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1462.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1462.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 165399,
+      "role": "Artist",
+      "name": "Master of the Dinteville Allegory",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500197641",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21850207",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Moses and Aaron before Pharaoh: An Allegory of the Dinteville Family",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Master of the Dinteville Allegory",
+  "artistDisplayBio": "Netherlandish or French, active mid-16th century",
+  "artistSuffix": "",
+  "artistAlphaSort": "Master of the Dinteville Allegory",
+  "artistNationality": "Netherlandish, French",
+  "artistBeginDate": "1525",
+  "artistEndDate": "1575",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q21850207",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500197641",
+  "objectDate": "1537",
+  "objectBeginDate": 1537,
+  "objectEndDate": 1537,
+  "medium": "Oil on wood",
+  "dimensions": "69 1/2 x 75 7/8 in. (176.5 x 192.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 176.5,
+        "Width": 192.7
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": "(Paiting + Frame) ",
+      "elementMeasurements": {
+        "Weight": 72.57552
+      }
+    }
+  ],
+  "creditLine": "Wentworth Fund, 1950",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-06-19T04:50:33.487Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437217",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Serpents",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300417734",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q2102"
+    },
+    {
+      "term": "Moses",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000167",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q9077"
+    },
+    {
+      "term": "Aaron",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000842",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q51676"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911429",
+  "isTimelineWork": true,
+  "GalleryNumber": "612"
+}

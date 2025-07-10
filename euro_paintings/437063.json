@@ -1,0 +1,100 @@
+{
+  "objectID": 437063,
+  "isHighlight": false,
+  "accessionNumber": "43.98.6",
+  "accessionYear": "1943",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP367960.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP367960.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/DP367961.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 108029,
+      "role": "Artist",
+      "name": "Lippo Memmi (Filippo di Memmo)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500031555",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q504963",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Madonna and Child with Saints and Angels",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Lippo Memmi (Filippo di Memmo)",
+  "artistDisplayBio": "Italian, Sienese, active by 1317–died 1356",
+  "artistSuffix": "",
+  "artistAlphaSort": "Memmi, Lippo (Filippo di Memmo)",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1317",
+  "artistEndDate": "1356",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q504963",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500031555",
+  "objectDate": "ca. 1350",
+  "objectBeginDate": 1345,
+  "objectEndDate": 1355,
+  "medium": "Tempera on wood, gold ground",
+  "dimensions": "Overall, with shaped top and engaged (partially modern) frame, 26 1/4 x 13 in. (66.7 x 33 cm); painted surface 19 3/4 x 10 1/8 in. (50.2 x 25.7 cm); predella 1 1/2 x 10 in. (3.8 x 25.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 66.7,
+        "Width": 33
+      }
+    }
+  ],
+  "creditLine": "Maitland F. Griggs Collection, Bequest of Maitland F. Griggs, 1943",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-24T14:20:02.323Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437063",
+  "tags": [
+    {
+      "term": "Angels",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+    },
+    {
+      "term": "Madonna and Child",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+    },
+    {
+      "term": "Saint Francis",
+      "AAT_URL": "http://vocab.getty.edu/page/ulan/500349636",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q676555"
+    },
+    {
+      "term": "Saint John the Baptist",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901001056",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q40662"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905469",
+  "isTimelineWork": true,
+  "GalleryNumber": "601"
+}

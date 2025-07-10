@@ -1,0 +1,104 @@
+{
+  "objectID": 437743,
+  "isHighlight": false,
+  "accessionNumber": "39.54",
+  "accessionYear": "1939",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP200558.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP200558.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 109914,
+      "role": "Artist",
+      "name": "Spanish Painter",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, retable",
+  "title": "The Trinity Adored by All Saints",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Spanish Painter",
+  "artistDisplayBio": "ca. 1400",
+  "artistSuffix": "",
+  "artistAlphaSort": "Spanish Painter",
+  "artistNationality": "Spanish",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "",
+  "objectBeginDate": 1395,
+  "objectEndDate": 1405,
+  "medium": "Tempera and gold on wood",
+  "dimensions": "Central panel, overall 67 1/2 x 22 in. (171.5 x 55.9 cm); left panel, overall 67 3/4 x 20 1/8 in. (172.1 x 51.1 cm); right panel, overall 67 7/8 x 20 1/8 in. (172.4 x 51.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 171.5,
+        "Weight": 50.802868,
+        "Width": 55.9
+      }
+    }
+  ],
+  "creditLine": "Fletcher Fund, 1939",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437743",
+  "tags": [
+    {
+      "term": "Christ",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+    },
+    {
+      "term": "Virgin Mary",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+    },
+    {
+      "term": "Archangel Gabriel",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000493",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q81989"
+    },
+    {
+      "term": "Saints",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+    },
+    {
+      "term": "God the Father",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000593",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q186350"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912795",
+  "isTimelineWork": false,
+  "GalleryNumber": "601"
+}

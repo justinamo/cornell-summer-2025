@@ -1,0 +1,97 @@
+{
+  "objectID": 440362,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.90",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 164233,
+      "role": "Artist",
+      "name": "Friedrich Nerly",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012515",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1463904",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "View from Olevano toward the West",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Friedrich Nerly",
+  "artistDisplayBio": "German, Erfurt 1807–1878 Venice",
+  "artistSuffix": "",
+  "artistAlphaSort": "Nerly, Friedrich",
+  "artistNationality": "German",
+  "artistBeginDate": "1807",
+  "artistEndDate": "1878",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q1463904",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500012515",
+  "objectDate": "ca. 1829–35",
+  "objectBeginDate": 1824,
+  "objectEndDate": 1835,
+  "medium": "Oil on canvas",
+  "dimensions": "7 3/8 x 14 7/8 in. (18.7 x 37.8 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 18.732538,
+        "Width": 37.782574
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 2.540005,
+        "Height": 27.305054,
+        "Width": 45.720093
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/440362",
+  "tags": [
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    },
+    {
+      "term": "Rome",
+      "AAT_URL": "http://vocab.getty.edu/page/tgn/7000874",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q220"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913564",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

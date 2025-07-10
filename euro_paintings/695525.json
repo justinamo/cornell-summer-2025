@@ -1,0 +1,97 @@
+{
+  "objectID": 695525,
+  "isHighlight": false,
+  "accessionNumber": "2016.802.7",
+  "accessionYear": "2016",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 165567,
+      "role": "Artist",
+      "name": "Jean Antoine Constantin, called Constantin d&#39;Aix",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500023090",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1684593",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "An Arcade in the Colosseum",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Jean Antoine Constantin, called Constantin d'Aix",
+  "artistDisplayBio": "French, Marseilles 1756–1844 Aix-en-Provence",
+  "artistSuffix": "",
+  "artistAlphaSort": "Constantin, Jean Antoine",
+  "artistNationality": "French",
+  "artistBeginDate": "1756",
+  "artistEndDate": "1844",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q1684593",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500023090",
+  "objectDate": "probably ca. 1777–83",
+  "objectBeginDate": 1777,
+  "objectEndDate": 1783,
+  "medium": "Oil on paper, laid down on cardboard",
+  "dimensions": "13 1/2 × 8 1/2 in. (34.3 × 21.6 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 34.29007,
+        "Width": 21.590044
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 5.7150116,
+        "Height": 47.942596,
+        "Width": 34.92507
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2016",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/695525",
+  "tags": [
+    {
+      "term": "Arches",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300001062",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12277"
+    },
+    {
+      "term": "Rome",
+      "AAT_URL": "http://vocab.getty.edu/page/tgn/7000874",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q220"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q126120383",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

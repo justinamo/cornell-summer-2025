@@ -1,0 +1,115 @@
+{
+  "objectID": 435912,
+  "isHighlight": false,
+  "accessionNumber": "32.100.124",
+  "accessionYear": "1932",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-19300-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-19300-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 163307,
+      "role": "Artist",
+      "name": "Style of François Clouet",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500015977",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q336747",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Charles IX (1550–1574), King of France",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Style of",
+  "artistDisplayName": "François Clouet",
+  "artistDisplayBio": "French, painted shortly after 1561",
+  "artistSuffix": "",
+  "artistAlphaSort": "Clouet, François",
+  "artistNationality": "French",
+  "artistBeginDate": "1536",
+  "artistEndDate": "1572",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q336747",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500015977",
+  "objectDate": "",
+  "objectBeginDate": 1561,
+  "objectEndDate": 1566,
+  "medium": "Oil on wood",
+  "dimensions": "12 3/8 x 9 in. (31.4 x 22.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Glazing",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 31.908813,
+        "Width": 24.44755
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 31.4,
+        "Width": 22.9
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": "F.32.100.124",
+      "elementMeasurements": {
+        "Depth": 4.4450088,
+        "Height": 41.27508,
+        "Width": 33.337566
+      }
+    }
+  ],
+  "creditLine": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435912",
+  "tags": [
+    {
+      "term": "Charles IX",
+      "AAT_URL": "http://vocab.getty.edu/page/ulan/500241470",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134309"
+    },
+    {
+      "term": "Kings",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025481",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12097"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912319",
+  "isTimelineWork": false,
+  "GalleryNumber": "544"
+}

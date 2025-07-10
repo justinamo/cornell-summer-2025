@@ -1,0 +1,101 @@
+{
+  "objectID": 435672,
+  "isHighlight": false,
+  "accessionNumber": "06.1268",
+  "accessionYear": "1906",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT236857.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT236857.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 107391,
+      "role": "Artist",
+      "name": "Jacques Blanchard",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500021775",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q385845",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Angelica and Medoro",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Jacques Blanchard",
+  "artistDisplayBio": "French, 1600–1638",
+  "artistSuffix": "",
+  "artistAlphaSort": "Blanchard, Jacques",
+  "artistNationality": "French",
+  "artistBeginDate": "1600",
+  "artistEndDate": "1638",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q385845",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500021775",
+  "objectDate": "possibly early 1630s",
+  "objectBeginDate": 1630,
+  "objectEndDate": 1633,
+  "medium": "Oil on canvas",
+  "dimensions": "With added strip at top 47 7/8 x 69 1/4 in. (121.6 x 175.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 121.6,
+        "Width": 175.9
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 170.18034,
+        "Width": 236.22047
+      }
+    }
+  ],
+  "creditLine": "Gift of George A. Hearn, 1906",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435672",
+  "tags": [
+    {
+      "term": "Couples",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379217",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q219160"
+    },
+    {
+      "term": "Male Nudes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+    },
+    {
+      "term": "Female Nudes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912218",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

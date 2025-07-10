@@ -1,0 +1,105 @@
+{
+  "objectID": 437912,
+  "isHighlight": false,
+  "accessionNumber": "50.229.1",
+  "accessionYear": "1950",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP231371.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP231371.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162660,
+      "role": "Artist",
+      "name": "Bartolomeo Vivarini",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500029396",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q456971",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Death of the Virgin",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Bartolomeo Vivarini",
+  "artistDisplayBio": "Italian, active Venice 1450–91",
+  "artistSuffix": "",
+  "artistAlphaSort": "Vivarini, Bartolomeo",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1450",
+  "artistEndDate": "1491",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q456971",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500029396",
+  "objectDate": "1484",
+  "objectBeginDate": 1484,
+  "objectEndDate": 1484,
+  "medium": "Tempera on wood",
+  "dimensions": "Arched top, 74 3/4 x 59 in. (189.9 x 149.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 189.9,
+        "Width": 149.9
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": "Picture + Frame ",
+      "elementMeasurements": {
+        "Weight": 54.431644
+      }
+    }
+  ],
+  "creditLine": "Gift of Robert Lehman, 1950",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437912",
+  "tags": [
+    {
+      "term": "Angels",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+    },
+    {
+      "term": "Christ",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+    },
+    {
+      "term": "Virgin Mary",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+    },
+    {
+      "term": "Death of the Virgin",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000556",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q1245512"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19904860",
+  "isTimelineWork": false,
+  "GalleryNumber": "606"
+}

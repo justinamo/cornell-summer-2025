@@ -1,0 +1,88 @@
+{
+  "objectID": 437225,
+  "isHighlight": false,
+  "accessionNumber": "39.122",
+  "accessionYear": "1939",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/258490.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/258490.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 166203,
+      "role": "Artist",
+      "name": "James Nixon",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500017124",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q16858107",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, miniature",
+  "title": "Portrait of a Young Woman",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "James Nixon",
+  "artistDisplayBio": "British, ca. 1741–1812",
+  "artistSuffix": "",
+  "artistAlphaSort": "Nixon, James",
+  "artistNationality": "British",
+  "artistBeginDate": "1736",
+  "artistEndDate": "1812",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q16858107",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500017124",
+  "objectDate": "ca. 1780–85",
+  "objectBeginDate": 1780,
+  "objectEndDate": 1785,
+  "medium": "Ivory",
+  "dimensions": "Oval, 3 3/4 x 3 in. (97 x 75 mm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 9.5,
+        "Width": 7.6
+      }
+    }
+  ],
+  "creditLine": "Fletcher Fund, 1939",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Miniatures",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2024-10-03T04:53:53.567Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437225",
+  "tags": [
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913854",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

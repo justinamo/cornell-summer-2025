@@ -1,0 +1,103 @@
+{
+  "objectID": 437238,
+  "isHighlight": false,
+  "accessionNumber": "22.45.10",
+  "accessionYear": "1922",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep22.45.10.bw.R.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/ep22.45.10.bw.R.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 108128,
+      "role": "Artist",
+      "name": "Pieter van Overschee",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004094",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21853726",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Still Life of Fruit and Game",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Pieter van Overschee",
+  "artistDisplayBio": "Flemish, active ca. 1645–61",
+  "artistSuffix": "",
+  "artistAlphaSort": "Overschee, Pieter van",
+  "artistNationality": "Flemish",
+  "artistBeginDate": "1645",
+  "artistEndDate": "1661",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q21853726",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500004094",
+  "objectDate": "1645",
+  "objectBeginDate": 1645,
+  "objectEndDate": 1645,
+  "medium": "Oil on wood",
+  "dimensions": "32 7/8 x 46 3/4 in. (83.5 x 118.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 83.5,
+        "Width": 118.7
+      }
+    }
+  ],
+  "creditLine": "Bequest of Grace Wilkes, 1921",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437238",
+  "tags": [
+    {
+      "term": "Birds",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+    },
+    {
+      "term": "Fruit",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300011868",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q1364"
+    },
+    {
+      "term": "Grapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379338",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q10978"
+    },
+    {
+      "term": "Rabbits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250218",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q9394"
+    },
+    {
+      "term": "Still Life",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913434",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

@@ -1,0 +1,95 @@
+{
+  "objectID": 436059,
+  "isHighlight": false,
+  "accessionNumber": "45.110.4",
+  "accessionYear": "1945",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep45.110.4a.R.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/ep45.110.4a.R.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/ep45.110.4b.R.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 108655,
+      "role": "Artist",
+      "name": "Luis de la Cruz y Rios",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500035860",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1876555",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, miniature",
+  "title": "Princess María Francisca de Asis de Borbón and Her Son Infante Carlos Luis María Fernando de Borbón",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Luis de la Cruz y Rios",
+  "artistDisplayBio": "Spanish, active by 1815–died 1850",
+  "artistSuffix": "",
+  "artistAlphaSort": "Cruz y Rios, Luis de la",
+  "artistNationality": "Spanish",
+  "artistBeginDate": "1815",
+  "artistEndDate": "1850",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q1876555",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500035860",
+  "objectDate": "1818",
+  "objectBeginDate": 1818,
+  "objectEndDate": 1818,
+  "medium": "Ivory",
+  "dimensions": "Obverse and reverse each 2 1/4 x 1 3/4 in. (57 x 47 mm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 5.7,
+        "Width": 4.4
+      }
+    }
+  ],
+  "creditLine": "Gift of Mrs. John LaPorte Given, 1945",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Miniatures",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436059",
+  "tags": [
+    {
+      "term": "Princesses",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300155241",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q863048"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19914022",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

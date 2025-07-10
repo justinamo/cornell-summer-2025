@@ -1,0 +1,88 @@
+{
+  "objectID": 435696,
+  "isHighlight": false,
+  "accessionNumber": "95.14.82",
+  "accessionYear": "1895",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/50669.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/50669.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 166215,
+      "role": "Artist",
+      "name": "Henry Bone",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500000388",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5196210",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, miniature",
+  "title": "Thomas Howard (1585–1646), Second Earl of Arundel, after Rubens",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Henry Bone",
+  "artistDisplayBio": "British, Truro 1755–1834 Somerstown",
+  "artistSuffix": "",
+  "artistAlphaSort": "Bone, Henry",
+  "artistNationality": "British",
+  "artistBeginDate": "1755",
+  "artistEndDate": "1834",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5196210",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500000388",
+  "objectDate": "1808",
+  "objectBeginDate": 1808,
+  "objectEndDate": 1808,
+  "medium": "Enamel",
+  "dimensions": "7 1/4 x 5 3/4 in. (185 x 147 mm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 18.4,
+        "Width": 14.6
+      }
+    }
+  ],
+  "creditLine": "The Moses Lazarus Collection, Gift of Josephine and Sarah Lazarus, in memory of their father, 1888–95",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Miniatures",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2024-10-03T04:53:53.567Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435696",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913686",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

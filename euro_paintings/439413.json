@@ -1,0 +1,107 @@
+{
+  "objectID": 439413,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.109",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 165561,
+      "role": "Artist",
+      "name": "Pierre Henri de Valenciennes",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011650",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q334946",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Landscape with the Pyramid of Gaius Cestius, Rome",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Pierre Henri de Valenciennes",
+  "artistDisplayBio": "French, Toulouse 1750–1819 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Valenciennes, Pierre Henri de",
+  "artistNationality": "French",
+  "artistBeginDate": "1750",
+  "artistEndDate": "1819",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q334946",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500011650",
+  "objectDate": "",
+  "objectBeginDate": 1770,
+  "objectEndDate": 1819,
+  "medium": "Oil on paper, laid down on canvas",
+  "dimensions": "10 1/4 x 15 in. (26 x 38.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 26.035051,
+        "Width": 38.1001
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 6.350013,
+        "Height": 40.64008,
+        "Width": 52.070103
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/439413",
+  "tags": [
+    {
+      "term": "Towns",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008375",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3957"
+    },
+    {
+      "term": "Pyramids",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300163119",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12516"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    },
+    {
+      "term": "Rome",
+      "AAT_URL": "http://vocab.getty.edu/page/tgn/7000874",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q220"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913510",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

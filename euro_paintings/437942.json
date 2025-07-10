@@ -1,0 +1,102 @@
+{
+  "objectID": 437942,
+  "isHighlight": false,
+  "accessionNumber": "1978.403",
+  "accessionYear": "1978",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT10159.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT10159.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162744,
+      "role": "Artist",
+      "name": "Franz Xaver Winterhalter",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500007953",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q168659",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Empress Eugénie (Eugénie de Montijo, 1826–1920, Condesa de Teba)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Franz Xaver Winterhalter",
+  "artistDisplayBio": "German, Menzenschwand 1805–1873 Frankfurt",
+  "artistSuffix": "",
+  "artistAlphaSort": "Winterhalter, Franz Xaver",
+  "artistNationality": "German",
+  "artistBeginDate": "1805",
+  "artistEndDate": "1873",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q168659",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500007953",
+  "objectDate": "1854",
+  "objectBeginDate": 1854,
+  "objectEndDate": 1854,
+  "medium": "Oil on canvas",
+  "dimensions": "36 1/2 x 29 in. (92.7 x 73.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 92.7,
+        "Width": 73.7
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 13.970028,
+        "Height": 124.46025,
+        "Width": 100.3302
+      }
+    }
+  ],
+  "creditLine": "Purchase, Mr. and Mrs. Claus von Bülow Gift, 1978",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-02-11T04:53:43.503Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437942",
+  "tags": [
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Profiles",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300123319",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4382010"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913083",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

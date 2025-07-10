@@ -1,0 +1,83 @@
+{
+  "objectID": 439272,
+  "isHighlight": false,
+  "accessionNumber": "2007.360",
+  "accessionYear": "2007",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP161655.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP161655.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 164818,
+      "role": "Artist",
+      "name": "Benedetto Luti",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012192",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q816847",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, drawing",
+  "title": "Study of a Boy in a Blue Jacket",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Benedetto Luti",
+  "artistDisplayBio": "Italian, Florence 1666–1724 Rome",
+  "artistSuffix": "",
+  "artistAlphaSort": "Luti, Benedetto",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1666",
+  "artistEndDate": "1724",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q816847",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500012192",
+  "objectDate": "1717",
+  "objectBeginDate": 1717,
+  "objectEndDate": 1717,
+  "medium": "Pastel and chalk on blue laid paper, laid down on paste paper",
+  "dimensions": "16 x 13 in. (40.6 x 33 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 40.6401,
+        "Width": 33.0201
+      }
+    }
+  ],
+  "creditLine": "Gwynne Andrews Fund, 2007",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Pastels & Oil Sketches on Paper",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/439272",
+  "tags": [
+    {
+      "term": "Boys",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913330",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

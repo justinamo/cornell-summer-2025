@@ -1,0 +1,97 @@
+{
+  "objectID": 439406,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.6",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 120012,
+      "role": "Artist",
+      "name": "Joseph Bidauld",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500024891",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3166488",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Bridge at La Cava, Kingdom of Naples",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Joseph Bidauld",
+  "artistDisplayBio": "French, Carpentras 1758–1846 Montmorency",
+  "artistSuffix": "",
+  "artistAlphaSort": "Bidauld, Joseph",
+  "artistNationality": "French",
+  "artistBeginDate": "1758",
+  "artistEndDate": "1846",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q3166488",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500024891",
+  "objectDate": "",
+  "objectBeginDate": 1778,
+  "objectEndDate": 1846,
+  "medium": "Oil on paper, laid down on canvas",
+  "dimensions": "8 1/8 x 11 in. (20.6 x 27.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 20.63754,
+        "Width": 27.940056
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 5.08001,
+        "Height": 31.115063,
+        "Width": 38.100075
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-06-04T04:51:25.263Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/439406",
+  "tags": [
+    {
+      "term": "Bridges",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300386855",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12280"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913339",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

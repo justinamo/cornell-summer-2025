@@ -1,0 +1,88 @@
+{
+  "objectID": 437921,
+  "isHighlight": false,
+  "accessionNumber": "71.63",
+  "accessionYear": "1871",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP143188.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP143188.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 165070,
+      "role": "Artist",
+      "name": "Abraham de Vries",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500032756",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2821872",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Portrait of a Man",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Abraham de Vries",
+  "artistDisplayBio": "Dutch, The Hague (?) ca. 1590–1649/50 The Hague (?)",
+  "artistSuffix": "",
+  "artistAlphaSort": "Vries, Abraham de",
+  "artistNationality": "Dutch",
+  "artistBeginDate": "1585",
+  "artistEndDate": "1650",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q2821872",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500032756",
+  "objectDate": "1643",
+  "objectBeginDate": 1643,
+  "objectEndDate": 1643,
+  "medium": "Oil on wood",
+  "dimensions": "25 1/4 x 21 in. (64.1 x 53.3 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 64.1,
+        "Width": 53.3
+      }
+    }
+  ],
+  "creditLine": "Purchase, 1871",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437921",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913266",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

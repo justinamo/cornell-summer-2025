@@ -1,0 +1,102 @@
+{
+  "objectID": 440357,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.84",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 126967,
+      "role": "Artist",
+      "name": "Wilhelm Marstrand",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500031897",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q358399",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "A Fountain in Rome",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Wilhelm Marstrand",
+  "artistDisplayBio": "Danish, Copenhagen 1810–1873 Copenhagen",
+  "artistSuffix": "",
+  "artistAlphaSort": "Marstrand Wilhelm",
+  "artistNationality": "Danish",
+  "artistBeginDate": "1810",
+  "artistEndDate": "1873",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q358399",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500031897",
+  "objectDate": "probably ca. 1836–41",
+  "objectBeginDate": 1836,
+  "objectEndDate": 1841,
+  "medium": "Oil on paper, laid down on canvas",
+  "dimensions": "8 1/16 x 5 1/8 in. (20.5 x 13 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 20.4788,
+        "Width": 13.017526
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 5.7150116,
+        "Height": 32.702564,
+        "Width": 25.08255
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/440357",
+  "tags": [
+    {
+      "term": "Fountains",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300006179",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q483453"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Rome",
+      "AAT_URL": "http://vocab.getty.edu/page/tgn/7000874",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q220"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913553",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

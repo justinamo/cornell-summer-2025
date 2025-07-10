@@ -1,0 +1,92 @@
+{
+  "objectID": 436484,
+  "isHighlight": false,
+  "accessionNumber": "36.162.4",
+  "accessionYear": "1936",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1972.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1972.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161927,
+      "role": "Artist",
+      "name": "Jean-Léon Gérôme",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115563",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q212499",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Tiger and Cubs",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Jean-Léon Gérôme",
+  "artistDisplayBio": "French, Vesoul 1824–1904 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Gérôme, Jean-Léon",
+  "artistNationality": "French",
+  "artistBeginDate": "1824",
+  "artistEndDate": "1904",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q212499",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115563",
+  "objectDate": "ca. 1884",
+  "objectBeginDate": 1879,
+  "objectEndDate": 1889,
+  "medium": "Oil on canvas",
+  "dimensions": "29 x 36 in. (73.7 x 91.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 73.7,
+        "Width": 91.4
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 9.525,
+        "Height": 97.7902,
+        "Width": 115.5702
+      }
+    }
+  ],
+  "creditLine": "Bequest of Susan P. Colgate, in memory of her husband, Romulus R. Colgate, 1936",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-04-30T04:49:03.02Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436484",
+  "tags": [
+    {
+      "term": "Tigers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300249063",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q19939"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912087",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

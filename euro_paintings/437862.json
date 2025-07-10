@@ -1,0 +1,101 @@
+{
+  "objectID": 437862,
+  "isHighlight": false,
+  "accessionNumber": "54.168",
+  "accessionYear": "1954",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-25350-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-25350-001.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-54_168-2.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-54_168-3.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 165072,
+      "role": "Artist",
+      "name": "Juan de Valdés Leal",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500025701",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q518898",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Pietà",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Juan de Valdés Leal",
+  "artistDisplayBio": "Spanish, Seville 1622–1690 Seville",
+  "artistSuffix": "",
+  "artistAlphaSort": "Valdés Leal, Juan de",
+  "artistNationality": "Spanish",
+  "artistBeginDate": "1622",
+  "artistEndDate": "1690",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q518898",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500025701",
+  "objectDate": "ca. 1657–60",
+  "objectBeginDate": 1657,
+  "objectEndDate": 1660,
+  "medium": "Oil on canvas",
+  "dimensions": "63 1/4 x 56 1/2 in. (160.7 x 143.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 160.7,
+        "Width": 143.5
+      }
+    }
+  ],
+  "creditLine": "Victor Wilbour Memorial Fund, 1954",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437862",
+  "tags": [
+    {
+      "term": "Sadness",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300055166",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q169251"
+    },
+    {
+      "term": "Christ",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+    },
+    {
+      "term": "Virgin Mary",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+    },
+    {
+      "term": "Death",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300151836",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912239",
+  "isTimelineWork": false,
+  "GalleryNumber": "624"
+}

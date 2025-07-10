@@ -1,0 +1,97 @@
+{
+  "objectID": 897321,
+  "isHighlight": false,
+  "accessionNumber": "2023.487",
+  "accessionYear": "2023",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-31956-001_Crop1.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-31956-001_Crop1.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162257,
+      "role": "Artist",
+      "name": "Camille Pissarro",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001924",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q134741",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Drawing",
+  "title": "Seated Peasant Woman with Goats",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Camille Pissarro",
+  "artistDisplayBio": "French, Charlotte Amalie, Saint Thomas 1830–1903 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Pissarro, Camille",
+  "artistNationality": "French",
+  "artistBeginDate": "1830",
+  "artistEndDate": "1903",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q134741",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500001924",
+  "objectDate": "1885",
+  "objectBeginDate": 1885,
+  "objectEndDate": 1885,
+  "medium": "Gouache on wove paper",
+  "dimensions": "31 11/16 × 31 7/8 in. (80.5 × 81 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 80.5,
+        "Width": 81
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 11.430023,
+        "Height": 106.680214,
+        "Width": 106.04521
+      }
+    }
+  ],
+  "creditLine": "Gift of Arcanum Foundation, in memory of Hans and Ludmilla Arnhold, 2023",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Drawings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-02-19T04:53:40.47Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/897321",
+  "tags": [
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Goats",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250122",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q2934"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q129832963",
+  "isTimelineWork": false,
+  "GalleryNumber": "820"
+}

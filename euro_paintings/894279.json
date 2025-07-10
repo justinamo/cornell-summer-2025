@@ -1,0 +1,97 @@
+{
+  "objectID": 894279,
+  "isHighlight": false,
+  "accessionNumber": "2023.98",
+  "accessionYear": "2023",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 220104,
+      "role": "Artist",
+      "name": "Helene Schjerfbeck",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/50001296",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q236985",
+      "gender": "Female"
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Lace Shawl",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Helene Schjerfbeck",
+  "artistDisplayBio": "Finnish, Helsinki 1862–1946 Saltsjöbaden",
+  "artistSuffix": "",
+  "artistAlphaSort": "Schjerfbeck, Helene",
+  "artistNationality": "Finnish",
+  "artistBeginDate": "1862",
+  "artistEndDate": "1946",
+  "artistGender": "Female",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q236985",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/50001296",
+  "objectDate": "1920",
+  "objectBeginDate": 1920,
+  "objectEndDate": 1920,
+  "medium": "Oil on canvas",
+  "dimensions": "22 13/16 × 14 3/8 in. (58 × 36.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 58,
+        "Width": 36.5
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": "F.2023.98B",
+      "elementMeasurements": {
+        "Depth": 5.08001,
+        "Height": 73.02515,
+        "Width": 50.95885
+      }
+    }
+  ],
+  "creditLine": "Mary Trumbull Adams and Rogers Funds, 2023",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-02-19T04:53:40.47Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/894279",
+  "tags": [
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q126118674",
+  "isTimelineWork": false,
+  "GalleryNumber": "829"
+}

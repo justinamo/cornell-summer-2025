@@ -1,0 +1,93 @@
+{
+  "objectID": 441360,
+  "isHighlight": false,
+  "accessionNumber": "2017.202.9",
+  "accessionYear": "2017",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-14274-011.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-14274-011.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 129168,
+      "role": "Artist",
+      "name": "Victor Eeckhout",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500041786",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q7925882",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Wedding Procession",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Victor Eeckhout",
+  "artistDisplayBio": "Belgian, Antwerp 1821–1879 Tangier",
+  "artistSuffix": "",
+  "artistAlphaSort": "Eeckhout, Victor",
+  "artistNationality": "Belgian",
+  "artistBeginDate": "1821",
+  "artistEndDate": "1879",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q7925882",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500041786",
+  "objectDate": "",
+  "objectBeginDate": 1841,
+  "objectEndDate": 1879,
+  "medium": "Oil on canvas",
+  "dimensions": "10 x 14 1/4 in. (25.4 x 36.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 25.400051,
+        "Width": 36.195072
+      }
+    }
+  ],
+  "creditLine": "Gift of Kenneth Jay Lane, 2017",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/441360",
+  "tags": [
+    {
+      "term": "Buildings",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300004789",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q41176"
+    },
+    {
+      "term": "Crowd",
+      "AAT_URL": null,
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q13430821"
+    },
+    {
+      "term": "Orientalist",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300055784",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q765606"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q78633249",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

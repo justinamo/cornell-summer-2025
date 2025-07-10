@@ -1,0 +1,92 @@
+{
+  "objectID": 436446,
+  "isHighlight": false,
+  "accessionNumber": "49.58.1",
+  "accessionYear": "1949",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1342.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1342.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161924,
+      "role": "Artist",
+      "name": "Paul Gauguin",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011421",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q37693",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Two Tahitian Women",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Paul Gauguin",
+  "artistDisplayBio": "French, Paris 1848–1903 Atuona, Hiva Oa, Marquesas Islands",
+  "artistSuffix": "",
+  "artistAlphaSort": "Gauguin, Paul",
+  "artistNationality": "French",
+  "artistBeginDate": "1848",
+  "artistEndDate": "1903",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q37693",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500011421",
+  "objectDate": "1899",
+  "objectBeginDate": 1899,
+  "objectEndDate": 1899,
+  "medium": "Oil on canvas",
+  "dimensions": "37 x 28 1/2 in. (94 x 72.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 94,
+        "Width": 72.4
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 9.525,
+        "Height": 121.9202,
+        "Width": 101.6002
+      }
+    }
+  ],
+  "creditLine": "Gift of William Church Osborn, 1949",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-05-13T08:51:27.153Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436446",
+  "tags": [
+    {
+      "term": "Female Nudes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q3235403",
+  "isTimelineWork": true,
+  "GalleryNumber": "825"
+}

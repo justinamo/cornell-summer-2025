@@ -1,0 +1,103 @@
+{
+  "objectID": 436079,
+  "isHighlight": false,
+  "accessionNumber": "20.40",
+  "accessionYear": "1920",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP167131.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP167131.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 107554,
+      "role": "Artist",
+      "name": "Bartholomew Dandridge",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012716",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q4865240",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Uvedale Tomkyns Price (1685–1764) and Members of His Family",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Bartholomew Dandridge",
+  "artistDisplayBio": "British, London 1691–in or after 1754 London",
+  "artistSuffix": "",
+  "artistAlphaSort": "Dandridge, Bartholomew",
+  "artistNationality": "British",
+  "artistBeginDate": "1691",
+  "artistEndDate": "1754",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q4865240",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500012716",
+  "objectDate": "possibly early 1730s",
+  "objectBeginDate": 1730,
+  "objectEndDate": 1733,
+  "medium": "Oil on canvas",
+  "dimensions": "40 1/4 x 62 1/2 in. (102.2 x 158.8 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 102.2,
+        "Width": 158.8
+      }
+    }
+  ],
+  "creditLine": "Rogers Fund, 1920",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436079",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Swans",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250103",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q34384"
+    },
+    {
+      "term": "Dogs",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+    },
+    {
+      "term": "Family",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300435378",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8436"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911963",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

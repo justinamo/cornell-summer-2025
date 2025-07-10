@@ -1,0 +1,88 @@
+{
+  "objectID": 435715,
+  "isHighlight": false,
+  "accessionNumber": "89.15.15",
+  "accessionYear": "1889",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP136269.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP136269.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161698,
+      "role": "Artist",
+      "name": "Gerard ter Borch the Younger",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500017511",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q346808",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Portrait of a Seated Man",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Gerard ter Borch the Younger",
+  "artistDisplayBio": "Dutch, Zwolle 1617–1681 Deventer",
+  "artistSuffix": "",
+  "artistAlphaSort": "Borch, Gerard ter, the Younger",
+  "artistNationality": "Dutch",
+  "artistBeginDate": "1617",
+  "artistEndDate": "1681",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q346808",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500017511",
+  "objectDate": "late 1650s or early 1660s",
+  "objectBeginDate": 1657,
+  "objectEndDate": 1663,
+  "medium": "Oil on wood",
+  "dimensions": "14 1/8 x 12 in. (35.9 x 30.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 35.9,
+        "Width": 30.5
+      }
+    }
+  ],
+  "creditLine": "Marquand Collection, Gift of Henry G. Marquand, 1889",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-04-17T04:59:20.447Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435715",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912081",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

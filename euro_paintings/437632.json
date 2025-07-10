@@ -1,0 +1,98 @@
+{
+  "objectID": 437632,
+  "isHighlight": false,
+  "accessionNumber": "95.14.85",
+  "accessionYear": "1895",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep95.14.85.R.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/ep95.14.85.R.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 108652,
+      "role": "Artist",
+      "name": "Heinrich Franz Schalck",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500067801",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21856816",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, miniature",
+  "title": "Joseph and Karl August von Klein",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Heinrich Franz Schalck",
+  "artistDisplayBio": "German, 1791–1832",
+  "artistSuffix": "",
+  "artistAlphaSort": "Schalk, Heinrich Franz",
+  "artistNationality": "German",
+  "artistBeginDate": "1791",
+  "artistEndDate": "1832",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q21856816",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500067801",
+  "objectDate": "ca. 1810–15",
+  "objectBeginDate": 1810,
+  "objectEndDate": 1815,
+  "medium": "Ivory",
+  "dimensions": "4 5/8 x 5 1/8 in. (117 x 131 mm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 11.7,
+        "Width": 13
+      }
+    }
+  ],
+  "creditLine": "The Moses Lazarus Collection, Gift of Josephine and Sarah Lazarus, in memory of their father, 1888–95",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Miniatures",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437632",
+  "tags": [
+    {
+      "term": "Musical Instruments",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300041620",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q34379"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Dogs",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913724",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

@@ -1,0 +1,96 @@
+{
+  "objectID": 437533,
+  "isHighlight": false,
+  "accessionNumber": "67.187.99",
+  "accessionYear": "1967",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP104990.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP104990.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-67_187_99-2.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-67_187_99-3.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 162350,
+      "role": "Artist",
+      "name": "Peter Paul Rubens",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500002921",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5599",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Study of Two Heads",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Peter Paul Rubens",
+  "artistDisplayBio": "Flemish, Siegen 1577–1640 Antwerp",
+  "artistSuffix": "",
+  "artistAlphaSort": "Rubens, Peter Paul",
+  "artistNationality": "Flemish",
+  "artistBeginDate": "1577",
+  "artistEndDate": "1640",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5599",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500002921",
+  "objectDate": "ca. 1609",
+  "objectBeginDate": 1604,
+  "objectEndDate": 1614,
+  "medium": "Oil on wood",
+  "dimensions": "27 1/2 x 20 1/2 in. (69.9 x 52.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 69.9,
+        "Width": 52.1
+      }
+    }
+  ],
+  "creditLine": "Bequest of Miss Adelaide Milton de Groot (1876-1967), 1967",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437533",
+  "tags": [
+    {
+      "term": "Heads",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300375054",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3409626"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905286",
+  "isTimelineWork": true,
+  "GalleryNumber": "639"
+}

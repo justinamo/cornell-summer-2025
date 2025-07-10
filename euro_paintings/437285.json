@@ -1,0 +1,99 @@
+{
+  "objectID": 437285,
+  "isHighlight": false,
+  "accessionNumber": "22.60.52",
+  "accessionYear": "1922",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-25978-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-25978-001.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-22_60_52-2.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 162247,
+      "role": "Artist",
+      "name": "Piero di Cosimo (Piero di Lorenzo di Piero d&#39;Antonio)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500007508",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q280851",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Young Saint John the Baptist",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Piero di Cosimo (Piero di Lorenzo di Piero d'Antonio)",
+  "artistDisplayBio": "Italian, Florence 1462–1522 Florence",
+  "artistSuffix": "",
+  "artistAlphaSort": "Piero di Cosimo (Piero di Lorenzo di Piero d'Antonio)",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1462",
+  "artistEndDate": "1522",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q280851",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500007508",
+  "objectDate": "ca. 1480–82",
+  "objectBeginDate": 1480,
+  "objectEndDate": 1482,
+  "medium": "Tempera and oil on wood",
+  "dimensions": "11 1/2 x 9 1/4 in. (29.2 x 23.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 29.2,
+        "Width": 23.5
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 6.985,
+        "Height": 45.0851,
+        "Width": 40.0051
+      }
+    }
+  ],
+  "creditLine": "The Bequest of Michael Dreicer, 1921",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437285",
+  "tags": [
+    {
+      "term": "Profiles",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300123319",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4382010"
+    },
+    {
+      "term": "Saint John the Baptist",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901001056",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q40662"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905292",
+  "isTimelineWork": false,
+  "GalleryNumber": "604"
+}

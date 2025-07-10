@@ -1,0 +1,88 @@
+{
+  "objectID": 437595,
+  "isHighlight": false,
+  "accessionNumber": "59.72.2",
+  "accessionYear": "1959",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep59.72.2.R.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/ep59.72.2.R.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 108522,
+      "role": "Artist",
+      "name": "Jacques Saillant",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500050530",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21857072",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, miniature",
+  "title": "Portrait of a Man",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Jacques Saillant",
+  "artistDisplayBio": "French, active by 1620–died in or after 1638",
+  "artistSuffix": "",
+  "artistAlphaSort": "Saillant, Jacques",
+  "artistNationality": "French",
+  "artistBeginDate": "1620",
+  "artistEndDate": "1638",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q21857072",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500050530",
+  "objectDate": "ca. 1628",
+  "objectBeginDate": 1623,
+  "objectEndDate": 1633,
+  "medium": "Vellum stretched over wood",
+  "dimensions": "Octagonal, 6 3/4 x 5 5/8 in. (170 x 142 mm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 17.1,
+        "Width": 14.3
+      }
+    }
+  ],
+  "creditLine": "Rogers Fund, 1959",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Miniatures",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437595",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913865",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

@@ -1,0 +1,113 @@
+{
+  "objectID": 437491,
+  "isHighlight": false,
+  "accessionNumber": "21.134.3a–c",
+  "accessionYear": "1921",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP264733.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP264733.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 122248,
+      "role": "Artist",
+      "name": "Master of the Saint Catherine Legend",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500015421",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q17006553",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, parts of a polyptych",
+  "title": "Saint Michael; The Mass of Saint Gregory; Saint Jerome",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Master of the Saint Catherine Legend",
+  "artistDisplayBio": "Netherlandish, active ca. 1470–1500",
+  "artistSuffix": "",
+  "artistAlphaSort": "Master of the Saint Catherine Legend",
+  "artistNationality": "Netherlandish",
+  "artistBeginDate": "1470",
+  "artistEndDate": "1500",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q17006553",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500015421",
+  "objectDate": "",
+  "objectBeginDate": 1450,
+  "objectEndDate": 1499,
+  "medium": "Oil on wood",
+  "dimensions": "Central panel 6 1/8 x 3 3/4 in. (15.6 x 9.5 cm); left panel 6 1/4 x 3 7/8 in. (15.9 x 9.8 cm); right panel 6 1/4 x 3 3/4 in. (15.9 x 9.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 15.6,
+        "Width": 9.5
+      }
+    }
+  ],
+  "creditLine": "Bequest of William H. Herriman, 1920",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-06-19T04:50:33.487Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437491",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Lions",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300310388",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q140"
+    },
+    {
+      "term": "Christ",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+    },
+    {
+      "term": "Saint Jerome",
+      "AAT_URL": "http://vocab.getty.edu/page/ulan/500060933",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q44248"
+    },
+    {
+      "term": "Saint Michael",
+      "AAT_URL": null,
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q45581"
+    },
+    {
+      "term": "Demons",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379730",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q177413"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912267",
+  "isTimelineWork": false,
+  "GalleryNumber": "635"
+}

@@ -1,0 +1,103 @@
+{
+  "objectID": 435655,
+  "isHighlight": false,
+  "accessionNumber": "71.125",
+  "accessionYear": "1871",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP143195.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP143195.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 164195,
+      "role": "Artist",
+      "name": "Nicolaes Berchem",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010297",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q711737",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Rest",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Nicolaes Berchem",
+  "artistDisplayBio": "Dutch, Haarlem 1621/22–1683 Amsterdam",
+  "artistSuffix": "",
+  "artistAlphaSort": "Berchem, Nicolaes",
+  "artistNationality": "Dutch",
+  "artistBeginDate": "1622",
+  "artistEndDate": "1683",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q711737",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500010297",
+  "objectDate": "1644",
+  "objectBeginDate": 1644,
+  "objectEndDate": 1644,
+  "medium": "Oil on wood",
+  "dimensions": "17 x 13 1/2 in. (43.2 x 34.3 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 43.2,
+        "Width": 34.3
+      }
+    }
+  ],
+  "creditLine": "Purchase, 1871",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435655",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Cows",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250120",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q830"
+    },
+    {
+      "term": "Dogs",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905954",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

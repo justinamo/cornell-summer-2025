@@ -1,0 +1,92 @@
+{
+  "objectID": 439768,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.16",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 115851,
+      "role": "Artist",
+      "name": "Giovanni Battista Camuccini",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500201667",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21464703",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Etruscan Ruin",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Giovanni Battista Camuccini",
+  "artistDisplayBio": "Italian, Rome 1819–1904 Rome",
+  "artistSuffix": "",
+  "artistAlphaSort": "Camuccini, Giovanni Battista",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1819",
+  "artistEndDate": "1904",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q21464703",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500201667",
+  "objectDate": "1840s",
+  "objectBeginDate": 1840,
+  "objectEndDate": 1849,
+  "medium": "Oil and graphite on paper, laid down on canvas",
+  "dimensions": "8 5/8 x 11 7/8 in. (21.9 x 30.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 21.9075,
+        "Width": 30.16256
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 5.397511,
+        "Height": 32.385063,
+        "Width": 39.37008
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2024-09-04T04:54:51.967Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/439768",
+  "tags": [
+    {
+      "term": "Ruins",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008057",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q109607"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913344",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

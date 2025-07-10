@@ -1,0 +1,97 @@
+{
+  "objectID": 438648,
+  "isHighlight": false,
+  "accessionNumber": "2003.42.26",
+  "accessionYear": "2003",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 120022,
+      "role": "Artist",
+      "name": "Alexandre Hyacinthe Dunouy",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500029426",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2833359",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "View in a Park",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Alexandre Hyacinthe Dunouy",
+  "artistDisplayBio": "French, Paris 1757–1841 Jouy-en-Josas",
+  "artistSuffix": "",
+  "artistAlphaSort": "Dunouy, Alexandre Hyacinthe",
+  "artistNationality": "French",
+  "artistBeginDate": "1757",
+  "artistEndDate": "1841",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q2833359",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500029426",
+  "objectDate": "",
+  "objectBeginDate": 1777,
+  "objectEndDate": 1841,
+  "medium": "Oil on paper, laid down on ledger paper",
+  "dimensions": "8 3/4 x 12 in. (22.2 x 30.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 22.225,
+        "Width": 30.5
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 5.7150116,
+        "Height": 33.020065,
+        "Width": 40.95758
+      }
+    }
+  ],
+  "creditLine": "The Whitney Collection, Promised Gift of Wheelock Whitney III, and Purchase, Gift of Mr. and Mrs. Charles S. McVeigh, by exchange, 2003",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/438648",
+  "tags": [
+    {
+      "term": "Parks",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008187",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q22698"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912065",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

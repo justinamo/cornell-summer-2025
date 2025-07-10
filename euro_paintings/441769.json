@@ -1,0 +1,95 @@
+{
+  "objectID": 441769,
+  "isHighlight": true,
+  "accessionNumber": "2013.155",
+  "accessionYear": "2013",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP322015.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP322015.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/Wright of Derby.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 166199,
+      "role": "Artist",
+      "name": "Joseph Wright (Wright of Derby)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500029777",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q214062",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Virgil's Tomb by Moonlight, with Silius Italicus Declaiming",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Joseph Wright (Wright of Derby)",
+  "artistDisplayBio": "British, Derby 1734–1797 Derby",
+  "artistSuffix": "",
+  "artistAlphaSort": "Wright, Joseph (Wright of Derby)",
+  "artistNationality": "British",
+  "artistBeginDate": "1734",
+  "artistEndDate": "1797",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q214062",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500029777",
+  "objectDate": "1779",
+  "objectBeginDate": 1779,
+  "objectEndDate": 1779,
+  "medium": "Oil on canvas",
+  "dimensions": "40 x 50 in. (101.6 x 127 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 101.600204,
+        "Width": 127.00025
+      }
+    }
+  ],
+  "creditLine": "Purchase, Lila Acheson Wallace Gift, Gifts of Mrs. William M. Haupt, Josephine Bay Paul, and Estate of George Quackenbush, in his memory, by exchange, The Morris and Alma Schapiro Fund Gift, and funds from various donors, 2013",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/441769",
+  "tags": [
+    {
+      "term": "Tombs",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300005926",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q381885"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Moon",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300386951",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q405"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912176",
+  "isTimelineWork": false,
+  "GalleryNumber": "806"
+}

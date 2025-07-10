@@ -1,0 +1,98 @@
+{
+  "objectID": 438129,
+  "isHighlight": false,
+  "accessionNumber": "2019.141.18",
+  "accessionYear": "2019",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT293615.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT293615.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162537,
+      "role": "Artist",
+      "name": "Giovanni Battista Tiepolo",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500018523",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q186202",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Meeting of Antony and Cleopatra",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Giovanni Battista Tiepolo",
+  "artistDisplayBio": "Italian, Venice 1696–1770 Madrid",
+  "artistSuffix": "",
+  "artistAlphaSort": "Tiepolo, Giovanni Battista",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1696",
+  "artistEndDate": "1770",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q186202",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500018523",
+  "objectDate": "ca. 1745–47",
+  "objectBeginDate": 1745,
+  "objectEndDate": 1747,
+  "medium": "Oil on canvas",
+  "dimensions": "18 1/4 × 26 1/4 in. (46.4 × 66.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 46.35509,
+        "Width": 66.67513
+      }
+    }
+  ],
+  "creditLine": "Bequest of Mrs. Charles Wrightsman in honor of Hélène David-Weill, 2019",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-02-19T04:53:40.47Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/438129",
+  "tags": [
+    {
+      "term": "Cleopatra",
+      "AAT_URL": "http://vocab.getty.edu/page/ulan/500341470",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q635"
+    },
+    {
+      "term": "Mark Antony",
+      "AAT_URL": "http://vocab.getty.edu/page/ulan/500354061",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q51673"
+    },
+    {
+      "term": "Dogs",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+    },
+    {
+      "term": "Flags",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300195678",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q14660"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q78638360",
+  "isTimelineWork": false,
+  "GalleryNumber": "643"
+}

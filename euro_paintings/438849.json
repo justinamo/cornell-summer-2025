@@ -1,0 +1,92 @@
+{
+  "objectID": 438849,
+  "isHighlight": false,
+  "accessionNumber": "2006.116",
+  "accessionYear": "2006",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP136056.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP136056.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 125257,
+      "role": "Artist",
+      "name": "Circle of Carl Rottmann",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500000776",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q647805",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Landscape",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Circle of",
+  "artistDisplayName": "Carl Rottmann",
+  "artistDisplayBio": "German, 1797–1850",
+  "artistSuffix": "",
+  "artistAlphaSort": "Rottmann, Carl",
+  "artistNationality": "German",
+  "artistBeginDate": "1797",
+  "artistEndDate": "1850",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q647805",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500000776",
+  "objectDate": "ca. 1835–45",
+  "objectBeginDate": 1830,
+  "objectEndDate": 1850,
+  "medium": "Oil on paper, laid down on board",
+  "dimensions": "8 7/8 x 10 5/8 in. (22.5 x 27 cm)",
+  "measurements": [
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 4.7625093,
+        "Height": 30.16256,
+        "Width": 34.29007
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 22.5,
+        "Width": 27
+      }
+    }
+  ],
+  "creditLine": "Purchase, Gift of Joanne Toor Cummings, by exchange, 2006",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/438849",
+  "tags": [
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913476",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

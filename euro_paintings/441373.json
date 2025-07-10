@@ -1,0 +1,85 @@
+{
+  "objectID": 441373,
+  "isHighlight": false,
+  "accessionNumber": "2016.806",
+  "accessionYear": "2016",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-854-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-854-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 129174,
+      "role": "Artist",
+      "name": "Philippe Pavy",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500024168",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21004139",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Girl in a Courtyard, Algiers (formerly Courtyard in Tangier)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Philippe Pavy",
+  "artistDisplayBio": "French, 1856/57 or 1860–1891 Menton",
+  "artistSuffix": "",
+  "artistAlphaSort": "Pavy, Philippe",
+  "artistNationality": "French",
+  "artistBeginDate": "1856",
+  "artistEndDate": "1891",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q21004139",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500024168",
+  "objectDate": "1886",
+  "objectBeginDate": 1886,
+  "objectEndDate": 1886,
+  "medium": "Oil on wood",
+  "dimensions": "18 x 11 1/4 in. (45.7 x 28.6 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 45.720093,
+        "Width": 28.575058
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": "approximate",
+      "elementMeasurements": {
+        "Height": 53.340107,
+        "Width": 36.830074
+      }
+    }
+  ],
+  "creditLine": "Gift of Kenneth Jay Lane, 2016",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-02-19T04:53:40.47Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/441373",
+  "tags": null,
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q59296803",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

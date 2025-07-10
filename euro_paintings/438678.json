@@ -1,0 +1,102 @@
+{
+  "objectID": 438678,
+  "isHighlight": false,
+  "accessionNumber": "2003.42.55",
+  "accessionYear": "2003",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162626,
+      "role": "Artist",
+      "name": "Eugène-Joseph Verboeckhoven",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500002047",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1353771",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Mountainous Landscape with Bridge",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Eugène-Joseph Verboeckhoven",
+  "artistDisplayBio": "Belgian, Warneton 1798–1881 Brussels",
+  "artistSuffix": "",
+  "artistAlphaSort": "Verboeckhoven, Eugène-Joseph",
+  "artistNationality": "Belgian",
+  "artistBeginDate": "1798",
+  "artistEndDate": "1881",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q1353771",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500002047",
+  "objectDate": "",
+  "objectBeginDate": 1818,
+  "objectEndDate": 1881,
+  "medium": "Oil on paper, laid down on canvas",
+  "dimensions": "22 1/2 x 18 1/4 in. (57.2 x 46.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 5.7150116,
+        "Height": 70.48514,
+        "Width": 59.69012
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 57.2,
+        "Width": 46.3551
+      }
+    }
+  ],
+  "creditLine": "The Whitney Collection, Promised Gift of Wheelock Whitney III, and Purchase, Gift of Mr. and Mrs. Charles S. McVeigh, by exchange, 2003",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/438678",
+  "tags": [
+    {
+      "term": "Bridges",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300386855",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12280"
+    },
+    {
+      "term": "Mountains",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008795",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8502"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912310",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

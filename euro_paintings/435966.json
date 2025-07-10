@@ -1,0 +1,97 @@
+{
+  "objectID": 435966,
+  "isHighlight": false,
+  "accessionNumber": "32.100.136",
+  "accessionYear": "1932",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP332566.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP332566.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161787,
+      "role": "Artist",
+      "name": "Camille Corot",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115390",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q148475",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Boatman among the Reeds",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Camille Corot",
+  "artistDisplayBio": "French, Paris 1796–1875 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Corot, Camille",
+  "artistNationality": "French",
+  "artistBeginDate": "1796",
+  "artistEndDate": "1875",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q148475",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115390",
+  "objectDate": "ca. 1865",
+  "objectBeginDate": 1860,
+  "objectEndDate": 1870,
+  "medium": "Oil on canvas",
+  "dimensions": "23 1/2 x 32 in. (59.7 x 81.3 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 59.7,
+        "Width": 81.3
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 12.700026,
+        "Height": 94.61519,
+        "Width": 116.84023
+      }
+    }
+  ],
+  "creditLine": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-04-30T04:49:03.02Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435966",
+  "tags": [
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    },
+    {
+      "term": "Boats",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912691",
+  "isTimelineWork": false,
+  "GalleryNumber": "803"
+}

@@ -1,0 +1,92 @@
+{
+  "objectID": 440375,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.111",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 126582,
+      "role": "Artist",
+      "name": "Pierre Henri de Valenciennes or Circle",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011650",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q334946",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Waterfalls and Rocks at Terni",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Pierre Henri de Valenciennes or Circle",
+  "artistDisplayBio": "French, Toulouse 1750–1819 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Valenciennes, Pierre Henri de, or Circle",
+  "artistNationality": "French",
+  "artistBeginDate": "1750",
+  "artistEndDate": "1819",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q334946",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500011650",
+  "objectDate": "",
+  "objectBeginDate": 1785,
+  "objectEndDate": 1810,
+  "medium": "Oil on paper",
+  "dimensions": "14 1/2 x 19 1/8 in. (36.8 x 48.6 cm)",
+  "measurements": [
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 5.08001,
+        "Height": 57.785114,
+        "Width": 69.85014
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 36.830074,
+        "Width": 48.5776
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/440375",
+  "tags": [
+    {
+      "term": "Waterfalls",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008736",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q34038"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913347",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

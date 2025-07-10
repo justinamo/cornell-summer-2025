@@ -1,0 +1,83 @@
+{
+  "objectID": 438948,
+  "isHighlight": false,
+  "accessionNumber": "2007.164.3",
+  "accessionYear": "2007",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP169470.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP169470.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161955,
+      "role": "Artist",
+      "name": "François Marius Granet",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500031529",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q964812",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "View in the Stables of the Villa of Maecenas, Tivoli",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "François Marius Granet",
+  "artistDisplayBio": "French, Aix-en-Provence 1775–1849 Aix-en-Provence",
+  "artistSuffix": "",
+  "artistAlphaSort": "Granet, François Marius",
+  "artistNationality": "French",
+  "artistBeginDate": "1775",
+  "artistEndDate": "1849",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q964812",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500031529",
+  "objectDate": "ca. 1805–10",
+  "objectBeginDate": 1800,
+  "objectEndDate": 1815,
+  "medium": "Oil on paper, laid down on canvas",
+  "dimensions": "10 1/2 x 8 3/4 in. (26.7 x 22.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 26.6701,
+        "Width": 22.225
+      }
+    }
+  ],
+  "creditLine": "Gift of Eugene V. Thaw, 2007",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/438948",
+  "tags": [
+    {
+      "term": "Arches",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300001062",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12277"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913327",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

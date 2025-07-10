@@ -1,0 +1,93 @@
+{
+  "objectID": 441379,
+  "isHighlight": false,
+  "accessionNumber": "2019.167.4",
+  "accessionYear": "2019",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-1740-001_cropped.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-1740-001_cropped.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 129180,
+      "role": "Artist",
+      "name": "Peder Balke",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500104171",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2272816",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "",
+  "title": "The North Cape by Moonlight",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Peder Balke",
+  "artistDisplayBio": "Norwegian, Helgøya, Nes 1804–1887 Oslo (Kristiania)",
+  "artistSuffix": "",
+  "artistAlphaSort": "Balke, Peder",
+  "artistNationality": "Norwegian",
+  "artistBeginDate": "1804",
+  "artistEndDate": "1887",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q2272816",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500104171",
+  "objectDate": "1848",
+  "objectBeginDate": 1848,
+  "objectEndDate": 1848,
+  "medium": "Oil on canvas",
+  "dimensions": "24 7/16 x 33 7/16 in. (62 x 85 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 62,
+        "Width": 85
+      }
+    }
+  ],
+  "creditLine": "Gift of Christen Sveaas, in celebration of the Museum's 150th Anniversary, 2019",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-02-19T04:53:40.47Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/441379",
+  "tags": [
+    {
+      "term": "Seascapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300117546",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q158607"
+    },
+    {
+      "term": "Night",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300133095",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q575"
+    },
+    {
+      "term": "Boats",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q78632756",
+  "isTimelineWork": false,
+  "GalleryNumber": "807"
+}

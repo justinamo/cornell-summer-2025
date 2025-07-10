@@ -1,0 +1,112 @@
+{
+  "objectID": 437524,
+  "isHighlight": false,
+  "accessionNumber": "1984.433.336",
+  "accessionYear": "1984",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT7932.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT7932.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162350,
+      "role": "Artist",
+      "name": "Peter Paul Rubens",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500002921",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5599",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, sketch",
+  "title": "The Coronation of the Virgin",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Peter Paul Rubens",
+  "artistDisplayBio": "Flemish, Siegen 1577–1640 Antwerp",
+  "artistSuffix": "",
+  "artistAlphaSort": "Rubens, Peter Paul",
+  "artistNationality": "Flemish",
+  "artistBeginDate": "1577",
+  "artistEndDate": "1640",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5599",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500002921",
+  "objectDate": "ca. 1632–33",
+  "objectBeginDate": 1632,
+  "objectEndDate": 1633,
+  "medium": "Oil on wood",
+  "dimensions": "19 5/8 x 16 in. (49.8 x 40.6 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 49.8,
+        "Width": 40.6
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 9.2075,
+        "Height": 72.70764,
+        "Width": 62.230125
+      }
+    }
+  ],
+  "creditLine": "Bequest of Scofield Thayer, 1982",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437524",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Christ",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+    },
+    {
+      "term": "Virgin Mary",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+    },
+    {
+      "term": "God the Father",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000593",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q186350"
+    },
+    {
+      "term": "Coronation of the Virgin",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000780",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q1093370"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19906264",
+  "isTimelineWork": true,
+  "GalleryNumber": "639"
+}

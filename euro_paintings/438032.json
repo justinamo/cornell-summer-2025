@@ -1,0 +1,107 @@
+{
+  "objectID": 438032,
+  "isHighlight": false,
+  "accessionNumber": "1997.371",
+  "accessionYear": "1997",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP135221.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP135221.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 163555,
+      "role": "Artist",
+      "name": "Anne Louis Girodet-Trioson",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115482",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q433434",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Study for \"Portrait of an Indian\"",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Anne Louis Girodet-Trioson",
+  "artistDisplayBio": "French, Montargis 1767–1824 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Girodet-Trioson, Anne Louis",
+  "artistNationality": "French",
+  "artistBeginDate": "1767",
+  "artistEndDate": "1824",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q433434",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115482",
+  "objectDate": "ca. 1807",
+  "objectBeginDate": 1802,
+  "objectEndDate": 1812,
+  "medium": "Oil on canvas",
+  "dimensions": "16 x 12 7/8 in. (40.6 x 32.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 40.6,
+        "Width": 32.7
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 6.35,
+        "Height": 55.8801,
+        "Width": 46.9901
+      }
+    }
+  ],
+  "creditLine": "Purchase, Gift of Joanne Toor Cummings, by exchange, 1997",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/438032",
+  "tags": [
+    {
+      "term": "Swords",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300037048",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12791"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Orientalist",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300055784",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q765606"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913262",
+  "isTimelineWork": true,
+  "GalleryNumber": "804"
+}

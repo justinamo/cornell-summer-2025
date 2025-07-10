@@ -1,0 +1,97 @@
+{
+  "objectID": 695495,
+  "isHighlight": false,
+  "accessionNumber": "2016.802.2",
+  "accessionYear": "2016",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161704,
+      "role": "Artist",
+      "name": "Eugène Boudin",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004513",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q212600",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Sunset at Etretat",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Eugène Boudin",
+  "artistDisplayBio": "French, Honfleur 1824–1898 Deauville",
+  "artistSuffix": "",
+  "artistAlphaSort": "Boudin, Eugène",
+  "artistNationality": "French",
+  "artistBeginDate": "1824",
+  "artistEndDate": "1898",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q212600",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500004513",
+  "objectDate": "",
+  "objectBeginDate": 1844,
+  "objectEndDate": 1898,
+  "medium": "Oil on paper, laid down on cardboard",
+  "dimensions": "8 × 10 1/4 in. (20.3 × 26 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 20.32004,
+        "Width": 26.035051
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 5.08001,
+        "Height": 34.92507,
+        "Width": 40.95758
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2016",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/695495",
+  "tags": [
+    {
+      "term": "Sky",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300263064",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q527"
+    },
+    {
+      "term": "Clouds",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300343840",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8074"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q126120392",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

@@ -1,0 +1,102 @@
+{
+  "objectID": 435773,
+  "isHighlight": false,
+  "accessionNumber": "25.110.66",
+  "accessionYear": "1925",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT2155.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT2155.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 163159,
+      "role": "Artist",
+      "name": "Jules Breton",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008344",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q282043",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Weeders",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Jules Breton",
+  "artistDisplayBio": "French, Courrières 1827–1906 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Breton, Jules",
+  "artistNationality": "French",
+  "artistBeginDate": "1827",
+  "artistEndDate": "1906",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q282043",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500008344",
+  "objectDate": "1868",
+  "objectBeginDate": 1868,
+  "objectEndDate": 1868,
+  "medium": "Oil on canvas",
+  "dimensions": "28 1/8 x 50 1/4 in. (71.4 x 127.6 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 71.4,
+        "Width": 127.6
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 10.16,
+        "Height": 89.8527,
+        "Width": 144.1453
+      }
+    }
+  ],
+  "creditLine": "Bequest of Collis P. Huntington, 1900",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-04-30T04:49:03.02Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435773",
+  "tags": [
+    {
+      "term": "Farms",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300000206",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q131596"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Working",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300412186",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q6958747"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905401",
+  "isTimelineWork": false,
+  "GalleryNumber": "802"
+}

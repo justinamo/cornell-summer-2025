@@ -1,0 +1,108 @@
+{
+  "objectID": 437100,
+  "isHighlight": false,
+  "accessionNumber": "33.79.17",
+  "accessionYear": "1933",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/SFMokos.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/SFMokos.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 165513,
+      "role": "Artist",
+      "name": "Ioannes Mokos",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500045376",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q22094467",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, icon",
+  "title": "The Dormition of the Virgin",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Ioannes Mokos",
+  "artistDisplayBio": "Greek, active 1680–1724",
+  "artistSuffix": "",
+  "artistAlphaSort": "Mokos, Ioannes",
+  "artistNationality": "Greek",
+  "artistBeginDate": "1680",
+  "artistEndDate": "1724",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q22094467",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500045376",
+  "objectDate": "",
+  "objectBeginDate": 1680,
+  "objectEndDate": 1724,
+  "medium": "Tempera and oil on wood, gold ground",
+  "dimensions": "13 1/2 x 11 1/4 in. (34.3 x 28.6 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 34.3,
+        "Width": 28.6
+      }
+    }
+  ],
+  "creditLine": "Gift of Mrs. Henry Morgenthau, 1933",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2024-05-11T04:52:16.88Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437100",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Angels",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+    },
+    {
+      "term": "Christ",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+    },
+    {
+      "term": "Virgin Mary",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+    },
+    {
+      "term": "Death of the Virgin",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000556",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q1245512"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913316",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

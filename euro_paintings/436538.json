@@ -1,0 +1,103 @@
+{
+  "objectID": 436538,
+  "isHighlight": false,
+  "accessionNumber": "32.100.62",
+  "accessionYear": "1932",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP231747.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP231747.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-32_100_62-XRAY.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-32_100_62-IRR.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-32_100_62-9.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-32_100_62-2.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-32_100_62-3.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 161951,
+      "role": "Artist",
+      "name": "Jan Gossart (called Mabuse)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500009353",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q346952",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Portrait of a Man",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Jan Gossart (called Mabuse)",
+  "artistDisplayBio": "Netherlandish, Maubeuge ca. 1478–1532 Antwerp (?)",
+  "artistSuffix": "",
+  "artistAlphaSort": "Gossart, Jan (called Mabuse)",
+  "artistNationality": "Netherlandish",
+  "artistBeginDate": "1478",
+  "artistEndDate": "1532",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q346952",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500009353",
+  "objectDate": "ca. 1520–25",
+  "objectBeginDate": 1520,
+  "objectEndDate": 1525,
+  "medium": "Oil on wood",
+  "dimensions": "18 1/2 x 13 3/4 in. (47 x 34.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 47,
+        "Width": 34.9
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 7.620015,
+        "Height": 59.05512,
+        "Width": 44.76759
+      }
+    }
+  ],
+  "creditLine": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-06-19T04:50:33.487Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436538",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912104",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

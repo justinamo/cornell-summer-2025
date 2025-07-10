@@ -1,0 +1,93 @@
+{
+  "objectID": 435863,
+  "isHighlight": false,
+  "accessionNumber": "1982.35.1",
+  "accessionYear": "1982",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-20591-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-20591-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 163301,
+      "role": "Artist",
+      "name": "Cenni di Francesco di Ser Cenni",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500000459",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2260399",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Saint Catherine Disputing and Two Donors",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Cenni di Francesco di Ser Cenni",
+  "artistDisplayBio": "Italian, Florence, active by 1369–died 1415",
+  "artistSuffix": "",
+  "artistAlphaSort": "Cenni di Francesco di Ser Cenni",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1369",
+  "artistEndDate": "1415",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q2260399",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500000459",
+  "objectDate": "possibly ca. 1380",
+  "objectBeginDate": 1375,
+  "objectEndDate": 1385,
+  "medium": "Tempera on wood, gold ground",
+  "dimensions": "Overall, with engaged frame, 22 3/4 x 18 1/4 in. (57.8 x 46.4 cm); painted surface 21 1/4 x 16 3/4 in. (54 x 42.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 57.8,
+        "Width": 46.4
+      }
+    }
+  ],
+  "creditLine": "Bequest of Jean Fowles, in memory of her first husband, R. Langton Douglas, 1981",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435863",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Saint Catherine",
+      "AAT_URL": null,
+      "Wikidata_URL": null
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905114",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

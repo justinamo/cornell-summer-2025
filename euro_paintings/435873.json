@@ -1,0 +1,97 @@
+{
+  "objectID": 435873,
+  "isHighlight": false,
+  "accessionNumber": "29.100.65",
+  "accessionYear": "1929",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1938.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1938.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161761,
+      "role": "Artist",
+      "name": "Paul Cézanne",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004793",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q35548",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Gustave Boyer (b. 1840) in a Straw Hat",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Paul Cézanne",
+  "artistDisplayBio": "French, Aix-en-Provence 1839–1906 Aix-en-Provence",
+  "artistSuffix": "",
+  "artistAlphaSort": "Cézanne, Paul",
+  "artistNationality": "French",
+  "artistBeginDate": "1839",
+  "artistEndDate": "1906",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q35548",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500004793",
+  "objectDate": "1870–71",
+  "objectBeginDate": 1870,
+  "objectEndDate": 1871,
+  "medium": "Oil on paper, laid down on canvas",
+  "dimensions": "21 5/8 x 15 1/4 in. (54.9 x 38.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 54.9,
+        "Width": 38.7
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 8.255,
+        "Height": 74.9301,
+        "Width": 59.6901
+      }
+    }
+  ],
+  "creditLine": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435873",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905398",
+  "isTimelineWork": false,
+  "GalleryNumber": "826"
+}

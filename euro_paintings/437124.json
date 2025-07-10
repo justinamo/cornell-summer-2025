@@ -1,0 +1,83 @@
+{
+  "objectID": 437124,
+  "isHighlight": false,
+  "accessionNumber": "30.95.250",
+  "accessionYear": "1930",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162135,
+      "role": "Artist",
+      "name": "Claude Monet",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500019484",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q296",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Rouen Cathedral: The Portal (Sunlight)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Claude Monet",
+  "artistDisplayBio": "French, Paris 1840–1926 Giverny",
+  "artistSuffix": "",
+  "artistAlphaSort": "Monet, Claude",
+  "artistNationality": "French",
+  "artistBeginDate": "1840",
+  "artistEndDate": "1926",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q296",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500019484",
+  "objectDate": "1894",
+  "objectBeginDate": 1894,
+  "objectEndDate": 1894,
+  "medium": "Oil on canvas",
+  "dimensions": "39 1/4 x 25 7/8 in. (99.7 x 65.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 99.7,
+        "Width": 65.7
+      }
+    }
+  ],
+  "creditLine": "Theodore M. Davis Collection, Bequest of Theodore M. Davis, 1915",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-05-22T04:50:13.743Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437124",
+  "tags": [
+    {
+      "term": "Cathedrals",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300007501",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q2977"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q17436671",
+  "isTimelineWork": true,
+  "GalleryNumber": "819"
+}

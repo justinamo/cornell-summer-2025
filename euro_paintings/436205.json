@@ -1,0 +1,98 @@
+{
+  "objectID": 436205,
+  "isHighlight": false,
+  "accessionNumber": "1976.155.2",
+  "accessionYear": "1976",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-26973-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-26973-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 163855,
+      "role": "Artist",
+      "name": "Domenichino (Domenico Zampieri)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500018832",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q320118",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Landscape with Moses and the Burning Bush",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Domenichino (Domenico Zampieri)",
+  "artistDisplayBio": "Italian, Bologna 1581–1641 Naples",
+  "artistSuffix": "",
+  "artistAlphaSort": "Domenichino (Domenico Zampieri)",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1581",
+  "artistEndDate": "1641",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q320118",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500018832",
+  "objectDate": "1610–16",
+  "objectBeginDate": 1610,
+  "objectEndDate": 1616,
+  "medium": "Oil on copper",
+  "dimensions": "17 3/4 x 13 3/8 in. (45.1 x 34 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 45.1,
+        "Width": 34
+      }
+    }
+  ],
+  "creditLine": "Gift of Mr. and Mrs. Charles Wrightsman, 1976",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436205",
+  "tags": [
+    {
+      "term": "Sheep",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250284",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q7368"
+    },
+    {
+      "term": "Fire",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300417275",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3196"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    },
+    {
+      "term": "Moses",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000167",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q9077"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q20167096",
+  "isTimelineWork": true,
+  "GalleryNumber": "640"
+}

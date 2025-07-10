@@ -1,0 +1,103 @@
+{
+  "objectID": 437492,
+  "isHighlight": false,
+  "accessionNumber": "32.100.44",
+  "accessionYear": "1932",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT241494.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT241494.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162329,
+      "role": "Artist",
+      "name": "Style of Rogier van der Weyden",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008384",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q68631",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Holy Family with Saint Paul and a Donor",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Style of",
+  "artistDisplayName": "Rogier van der Weyden",
+  "artistDisplayBio": "Netherlandish, mid-15th century",
+  "artistSuffix": "",
+  "artistAlphaSort": "Rogier van der Weyden",
+  "artistNationality": "Netherlandish",
+  "artistBeginDate": "1399",
+  "artistEndDate": "1464",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q68631",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500008384",
+  "objectDate": "",
+  "objectBeginDate": 1430,
+  "objectEndDate": 1469,
+  "medium": "Oil on wood",
+  "dimensions": "Overall, with added strip, 22 5/8 x 19 in. (57.5 x 48.3 cm); painted surface 22 x 18 1/8 in. (55.9 x 46 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 57.5,
+        "Width": 48.3
+      }
+    }
+  ],
+  "creditLine": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-06-19T04:50:33.487Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437492",
+  "tags": [
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Angels",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+    },
+    {
+      "term": "Holy Family",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901001175",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q618057"
+    },
+    {
+      "term": "Saint Paul",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901001058",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q9200"
+    },
+    {
+      "term": "Cross",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300235443",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q40843"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905285",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

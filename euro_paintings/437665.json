@@ -1,0 +1,88 @@
+{
+  "objectID": 437665,
+  "isHighlight": false,
+  "accessionNumber": "62.122.32",
+  "accessionYear": "1962",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/175484.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/175484.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 166208,
+      "role": "Artist",
+      "name": "Style of Samuel Shelley",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500024494",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q7412607",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, miniature",
+  "title": "Portrait of a Boy",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Style of",
+  "artistDisplayName": "Samuel Shelley",
+  "artistDisplayBio": "late 18th century",
+  "artistSuffix": "",
+  "artistAlphaSort": "Shelley, Samuel",
+  "artistNationality": "British",
+  "artistBeginDate": "1756",
+  "artistEndDate": "1808",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q7412607",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500024494",
+  "objectDate": "",
+  "objectBeginDate": 1770,
+  "objectEndDate": 1799,
+  "medium": "Ivory",
+  "dimensions": "Oval, 1 1/4 x 1 in. (33 x 27 mm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 3.2,
+        "Width": 2.5
+      }
+    }
+  ],
+  "creditLine": "Bequest of Millie Bruhl Fredrick, 1962",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Miniatures",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2024-10-03T04:53:53.567Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437665",
+  "tags": [
+    {
+      "term": "Boys",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913880",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

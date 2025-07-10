@@ -1,0 +1,93 @@
+{
+  "objectID": 685040,
+  "isHighlight": false,
+  "accessionNumber": "2015.282",
+  "accessionYear": "2015",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP354143.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP354143.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161927,
+      "role": "Artist",
+      "name": "Jean-Léon Gérôme",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115563",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q212499",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Woman at a Balcony",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Jean-Léon Gérôme",
+  "artistDisplayBio": "French, Vesoul 1824–1904 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Gérôme, Jean-Léon",
+  "artistNationality": "French",
+  "artistBeginDate": "1824",
+  "artistEndDate": "1904",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q212499",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115563",
+  "objectDate": "1887–88",
+  "objectBeginDate": 1887,
+  "objectEndDate": 1888,
+  "medium": "Oil on canvas",
+  "dimensions": "19 3/4 × 16 3/8 in. (50.2 × 41.6 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 50.1651,
+        "Width": 41.592583
+      }
+    }
+  ],
+  "creditLine": "Gift of Kenneth Jay Lane, 2015",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/685040",
+  "tags": [
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Orientalist",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300055784",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q765606"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q20167702",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

@@ -1,0 +1,1 @@
+n=0; while [[ $n -lt 33 ]]; do for objectID in $(cat met_openaccess_euro_paintings_objectIDs.txt| head -n $(("80 * ($n + 1)")) | tail -n80); do curl https://collectionapi.metmuseum.org/public/collection/v1/objects/$objectID | jq > "euro_paintings/$(echo $objectID).json"; done; n=$(("$n + 1")); sleep 1; done &

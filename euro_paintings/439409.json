@@ -1,0 +1,97 @@
+{
+  "objectID": 439409,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.27",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161787,
+      "role": "Artist",
+      "name": "Camille Corot",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115390",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q148475",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Banks of the Stream near the Corot Property, Ville d'Avray",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Camille Corot",
+  "artistDisplayBio": "French, Paris 1796–1875 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Corot, Camille",
+  "artistNationality": "French",
+  "artistBeginDate": "1796",
+  "artistEndDate": "1875",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q148475",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115390",
+  "objectDate": "ca. 1823",
+  "objectBeginDate": 1818,
+  "objectEndDate": 1828,
+  "medium": "Oil on paper, laid down on wood",
+  "dimensions": "8 5/8 x 9 1/4 in. (21.9 x 23.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 21.9075,
+        "Width": 23.495
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 5.397511,
+        "Height": 37.465076,
+        "Width": 39.68758
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/439409",
+  "tags": [
+    {
+      "term": "Cows",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250120",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q830"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q20168416",
+  "isTimelineWork": false,
+  "GalleryNumber": "803"
+}

@@ -1,0 +1,93 @@
+{
+  "objectID": 440326,
+  "isHighlight": false,
+  "accessionNumber": "2013.197",
+  "accessionYear": "2013",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 74173,
+      "role": "Artist",
+      "name": "Agostino Tassi",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500029953",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q395741",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Landscape with Erminia",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Agostino Tassi",
+  "artistDisplayBio": "Italian, Ponzano Romano ca. 1580–1644 Rome",
+  "artistSuffix": "",
+  "artistAlphaSort": "Tassi, Agostino",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1580",
+  "artistEndDate": "1644",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q395741",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500029953",
+  "objectDate": "ca. 1630",
+  "objectBeginDate": 1625,
+  "objectEndDate": 1635,
+  "medium": "Oil on wood",
+  "dimensions": "12 7/8 × 18 in. (32.7 × 45.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 32.702564,
+        "Width": 45.720093
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2013",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/440326",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Sheep",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250284",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q7368"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911517",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

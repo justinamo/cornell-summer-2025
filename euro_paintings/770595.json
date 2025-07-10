@@ -1,0 +1,112 @@
+{
+  "objectID": 770595,
+  "isHighlight": false,
+  "accessionNumber": "2018.87",
+  "accessionYear": "2018",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-15505-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-15505-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162635,
+      "role": "Artist",
+      "name": "Stefano da Verona (Stefano di Giovanni d&#39;Arbosio di Francia)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001660",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q724508",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Crucifixion",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Stefano da Verona (Stefano di Giovanni d'Arbosio di Francia)",
+  "artistDisplayBio": "Italian, Paris or Pavia ca. 1374/75–after 1438 Verona",
+  "artistSuffix": "",
+  "artistAlphaSort": "Verona, Stefano da",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1374",
+  "artistEndDate": "1438",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q724508",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500001660",
+  "objectDate": "ca. 1400",
+  "objectBeginDate": 1395,
+  "objectEndDate": 1405,
+  "medium": "Tempera on wood, gold ground",
+  "dimensions": "33 7/8 × 20 5/8 in. (86 × 52.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 5.7150116,
+        "Height": 89.53518,
+        "Width": 55.88011
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 86.04267,
+        "Width": 52.387604
+      }
+    }
+  ],
+  "creditLine": "Purchase, Gwynne Andrews Fund; Charles and Jessie Price and Álvaro Saieh Bendeck Gifts; Philippe de Montebello Fund; Gift of Mrs. William M. Haupt, from the collection of Mrs. James B. Haggin, Bequest of Lillian S. Timken, and Gift of Forsyth Wickes, by exchange; Marquand and Victor Wilbour Memorial Funds; funds from various donors and Gifts of the Marquis de La Bégassière and Cornelius Vanderbilt, by exchange; and The Alfred N. Punnett Endowment Fund, 2018",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/770595",
+  "tags": [
+    {
+      "term": "Angels",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+    },
+    {
+      "term": "Christ",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+    },
+    {
+      "term": "Mary Magdalene",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000161",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q63070"
+    },
+    {
+      "term": "Virgin Mary",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+    },
+    {
+      "term": "Crucifixion",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300404300",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3235597"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q78611539",
+  "isTimelineWork": false,
+  "GalleryNumber": "603"
+}

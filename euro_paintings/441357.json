@@ -1,0 +1,96 @@
+{
+  "objectID": 441357,
+  "isHighlight": false,
+  "accessionNumber": "2015.506.1",
+  "accessionYear": "2015",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP354137.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP354137.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161809,
+      "role": "Artist",
+      "name": "Adrien Dauzats",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500027072",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q970806",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Great Pyramid, Giza",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Adrien Dauzats",
+  "artistDisplayBio": "French, Bordeaux 1804–1868 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Dauzats, Adrien",
+  "artistNationality": "French",
+  "artistBeginDate": "1804",
+  "artistEndDate": "1868",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q970806",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500027072",
+  "objectDate": "1830 or later",
+  "objectBeginDate": 1830,
+  "objectEndDate": 1839,
+  "medium": "Oil on canvas",
+  "dimensions": "16 7/8 × 13 in. (42.9 × 33 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 42.862587,
+        "Width": 33.020065
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": "approximate",
+      "elementMeasurements": {
+        "Height": 56.515114,
+        "Width": 46.990093
+      }
+    }
+  ],
+  "creditLine": "Gift of Kenneth Jay Lane, 2015",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/441357",
+  "tags": [
+    {
+      "term": "Pyramids",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300163119",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12516"
+    },
+    {
+      "term": "Orientalist",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300055784",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q765606"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q78633479",
+  "isTimelineWork": false,
+  "GalleryNumber": "804"
+}

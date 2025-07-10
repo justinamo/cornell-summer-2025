@@ -1,0 +1,88 @@
+{
+  "objectID": 437039,
+  "isHighlight": false,
+  "accessionNumber": "1976.100.9",
+  "accessionYear": "1976",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-23425-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-23425-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 164184,
+      "role": "Artist",
+      "name": "Henri Mauperché",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500026303",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3131613",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Classical Landscape with Figures",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Henri Mauperché",
+  "artistDisplayBio": "French, Paris (?) ca. 1602–1686 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Mauperché, Henri",
+  "artistNationality": "French",
+  "artistBeginDate": "1602",
+  "artistEndDate": "1686",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q3131613",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500026303",
+  "objectDate": "",
+  "objectBeginDate": 1622,
+  "objectEndDate": 1686,
+  "medium": "Oil on canvas",
+  "dimensions": "27 7/8 x 44 1/4 in. (70.8 x 112.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 70.8,
+        "Width": 112.4
+      }
+    }
+  ],
+  "creditLine": "Bequest of Harry G. Sperling, 1971",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-05-22T04:50:13.743Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437039",
+  "tags": [
+    {
+      "term": "Dogs",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913271",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

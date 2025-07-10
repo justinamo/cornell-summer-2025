@@ -1,0 +1,93 @@
+{
+  "objectID": 438738,
+  "isHighlight": false,
+  "accessionNumber": "2004.359",
+  "accessionYear": "2004",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-20613-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-20613-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162257,
+      "role": "Artist",
+      "name": "Camille Pissarro",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001924",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q134741",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Haystacks, Morning, Eragny",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Camille Pissarro",
+  "artistDisplayBio": "French, Charlotte Amalie, Saint Thomas 1830–1903 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Pissarro, Camille",
+  "artistNationality": "French",
+  "artistBeginDate": "1830",
+  "artistEndDate": "1903",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q134741",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500001924",
+  "objectDate": "1899",
+  "objectBeginDate": 1899,
+  "objectEndDate": 1899,
+  "medium": "Oil on canvas",
+  "dimensions": "25 x 31 1/2 in. (63.5 x 80 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 63.5001,
+        "Width": 80.0102
+      }
+    }
+  ],
+  "creditLine": "Bequest of Douglas Dillon, 2003",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/438738",
+  "tags": [
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    },
+    {
+      "term": "Morning",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300343630",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q7722"
+    },
+    {
+      "term": "Haystacks",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300435325",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q62577"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912659",
+  "isTimelineWork": false,
+  "GalleryNumber": "820"
+}

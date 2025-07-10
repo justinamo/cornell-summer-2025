@@ -1,0 +1,98 @@
+{
+  "objectID": 436757,
+  "isHighlight": false,
+  "accessionNumber": "10.203.3",
+  "accessionYear": "1910",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT273241.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT273241.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 109323,
+      "role": "Artist",
+      "name": "Italian (Sienese) Painter",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Book Cover",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Italian (Sienese) Painter",
+  "artistDisplayBio": "dated 1343",
+  "artistSuffix": "",
+  "artistAlphaSort": "Italian (Sienese) Painter",
+  "artistNationality": "Italian",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "",
+  "objectBeginDate": 1343,
+  "objectEndDate": 1343,
+  "medium": "Tempera on wood",
+  "dimensions": "16 1/8 x 9 3/4 in. (41 x 24.8 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 41,
+        "Width": 24.8
+      }
+    }
+  ],
+  "creditLine": "Rogers Fund, 1910",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436757",
+  "tags": [
+    {
+      "term": "Human Figures",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300404114",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q5937779"
+    },
+    {
+      "term": "Reading",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300248178",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q199657"
+    },
+    {
+      "term": "Writing",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300054698",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q37260"
+    },
+    {
+      "term": "Money",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300037316",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q1368"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913147",
+  "isTimelineWork": true,
+  "GalleryNumber": "307"
+}

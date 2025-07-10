@@ -1,0 +1,88 @@
+{
+  "objectID": 437421,
+  "isHighlight": false,
+  "accessionNumber": "60.71.16",
+  "accessionYear": "1960",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP143183.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP143183.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162297,
+      "role": "Artist",
+      "name": "Style of Rembrandt",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011051",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5598",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Study Head of an Old Man",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Style of",
+  "artistDisplayName": "Rembrandt",
+  "artistDisplayBio": "Dutch, mid- to late 1630s",
+  "artistSuffix": "",
+  "artistAlphaSort": "Rembrandt",
+  "artistNationality": "Dutch",
+  "artistBeginDate": "1606",
+  "artistEndDate": "1669",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5598",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500011051",
+  "objectDate": "",
+  "objectBeginDate": 1600,
+  "objectEndDate": 1699,
+  "medium": "Oil on wood",
+  "dimensions": "8 1/4 x 6 7/8 in. (21 x 17.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 21,
+        "Width": 17.5
+      }
+    }
+  ],
+  "creditLine": "Bequest of Lillian S. Timken, 1959",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437421",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912806",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

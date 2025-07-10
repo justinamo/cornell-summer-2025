@@ -1,0 +1,97 @@
+{
+  "objectID": 437437,
+  "isHighlight": false,
+  "accessionNumber": "61.101.14",
+  "accessionYear": "1961",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1488.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1488.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162302,
+      "role": "Artist",
+      "name": "Auguste Renoir",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Young Woman (La Servante)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Auguste Renoir",
+  "artistDisplayBio": "French, Limoges 1841–1919 Cagnes-sur-Mer",
+  "artistSuffix": "",
+  "artistAlphaSort": "Renoir, Auguste",
+  "artistNationality": "French",
+  "artistBeginDate": "1841",
+  "artistEndDate": "1919",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+  "objectDate": "ca. 1875",
+  "objectBeginDate": 1870,
+  "objectEndDate": 1880,
+  "medium": "Oil on canvas",
+  "dimensions": "39 1/2 x 28 1/8 in. (100.3 x 71.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 100.3,
+        "Width": 71.4
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 8.89,
+        "Height": 126.3653,
+        "Width": 97.7902
+      }
+    }
+  ],
+  "creditLine": "Bequest of Stephen C. Clark, 1960",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-05-08T04:50:44.137Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437437",
+  "tags": [
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q1236170",
+  "isTimelineWork": true,
+  "GalleryNumber": "824"
+}

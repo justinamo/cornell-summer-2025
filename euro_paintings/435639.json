@@ -1,0 +1,88 @@
+{
+  "objectID": 435639,
+  "isHighlight": false,
+  "accessionNumber": "07.225.461",
+  "accessionYear": "1907",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP104644.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP104644.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 165552,
+      "role": "Artist",
+      "name": "Attributed to Michel Bruno Bellengé",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500279487",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3308757",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, overdoor",
+  "title": "Vase of Flowers in a Niche",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Attributed to",
+  "artistDisplayName": "Michel Bruno Bellengé",
+  "artistDisplayBio": "French, Rouen 1726–1793 Rouen",
+  "artistSuffix": "",
+  "artistAlphaSort": "Bellengé, Michel Bruno",
+  "artistNationality": "French",
+  "artistBeginDate": "1726",
+  "artistEndDate": "1793",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q3308757",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500279487",
+  "objectDate": "",
+  "objectBeginDate": 1746,
+  "objectEndDate": 1793,
+  "medium": "Oil on canvas",
+  "dimensions": "48 3/8 x 55 in. (122.9 x 139.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 122.9,
+        "Width": 139.7
+      }
+    }
+  ],
+  "creditLine": "Gift of J. Pierpont Morgan, 1906",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435639",
+  "tags": [
+    {
+      "term": "Flowers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+    },
+    {
+      "term": "Vases",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132254",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191851"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911990",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

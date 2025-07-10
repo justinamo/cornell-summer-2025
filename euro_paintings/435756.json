@@ -1,0 +1,105 @@
+{
+  "objectID": 435756,
+  "isHighlight": false,
+  "accessionNumber": "1985.90",
+  "accessionYear": "1985",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP123839.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP123839.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-1985_90-2.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-1985_90-3.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 161707,
+      "role": "Artist",
+      "name": "Sébastien Bourdon",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500006900",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q553795",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "A Classical Landscape",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Sébastien Bourdon",
+  "artistDisplayBio": "French, Montpellier 1616–1671 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Bourdon, Sébastien",
+  "artistNationality": "French",
+  "artistBeginDate": "1616",
+  "artistEndDate": "1671",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q553795",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500006900",
+  "objectDate": "probably 1660s",
+  "objectBeginDate": 1660,
+  "objectEndDate": 1669,
+  "medium": "Oil on canvas",
+  "dimensions": "27 1/2 x 36 1/4 in. (69.9 x 92.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 69.9,
+        "Width": 92.1
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 8.255,
+        "Height": 97.7902,
+        "Width": 121.2852
+      }
+    }
+  ],
+  "creditLine": "Gift of Atwood A. Allaire, Pamela Askew, and Phoebe A. DesMarais, in memory of their mother, Constance Askew, 1985",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435756",
+  "tags": [
+    {
+      "term": "Human Figures",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300404114",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q5937779"
+    },
+    {
+      "term": "Horses",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913207",
+  "isTimelineWork": false,
+  "GalleryNumber": "623"
+}

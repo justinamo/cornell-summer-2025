@@ -1,0 +1,97 @@
+{
+  "objectID": 435985,
+  "isHighlight": false,
+  "accessionNumber": "1984.75",
+  "accessionYear": "1984",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT2018.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT2018.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161787,
+      "role": "Artist",
+      "name": "Camille Corot",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115390",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q148475",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Study for \"The Destruction of Sodom\"",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Camille Corot",
+  "artistDisplayBio": "French, Paris 1796–1875 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Corot, Camille",
+  "artistNationality": "French",
+  "artistBeginDate": "1796",
+  "artistEndDate": "1875",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q148475",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115390",
+  "objectDate": "1843",
+  "objectBeginDate": 1843,
+  "objectEndDate": 1843,
+  "medium": "Oil on canvas",
+  "dimensions": "14 1/8 x 19 5/8 in. (35.9 x 49.8 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 35.9,
+        "Width": 49.8
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 10.16,
+        "Height": 58.4201,
+        "Width": 71.1201
+      }
+    }
+  ],
+  "creditLine": "Catharine Lorillard Wolfe Collection, Wolfe Fund, 1984",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-04-30T04:49:03.02Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435985",
+  "tags": [
+    {
+      "term": "Human Figures",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300404114",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q5937779"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912454",
+  "isTimelineWork": false,
+  "GalleryNumber": "803"
+}

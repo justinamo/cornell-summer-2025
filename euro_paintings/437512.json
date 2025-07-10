@@ -1,0 +1,92 @@
+{
+  "objectID": 437512,
+  "isHighlight": false,
+  "accessionNumber": "39.15",
+  "accessionYear": "1939",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT232877.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT232877.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 165114,
+      "role": "Artist",
+      "name": "Henri Rousseau (le Douanier)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115462",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q156386",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Banks of the Bièvre near Bicêtre",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Henri Rousseau (le Douanier)",
+  "artistDisplayBio": "French, Laval 1844–1910 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Rousseau, Henri (le Douanier)",
+  "artistNationality": "French",
+  "artistBeginDate": "1844",
+  "artistEndDate": "1910",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q156386",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115462",
+  "objectDate": "ca. 1908–09",
+  "objectBeginDate": 1903,
+  "objectEndDate": 1913,
+  "medium": "Oil on canvas",
+  "dimensions": "21 1/2 x 18 in. (54.6 x 45.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 54.6,
+        "Width": 45.7
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 6.35,
+        "Height": 71.1201,
+        "Width": 62.2301
+      }
+    }
+  ],
+  "creditLine": "Gift of Marshall Field, 1939",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-02-08T04:53:37.897Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437512",
+  "tags": [
+    {
+      "term": "Forests",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300387598",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4421"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912798",
+  "isTimelineWork": false,
+  "GalleryNumber": "825"
+}

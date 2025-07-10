@@ -1,0 +1,102 @@
+{
+  "objectID": 436776,
+  "isHighlight": false,
+  "accessionNumber": "1971.101",
+  "accessionYear": "1971",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/EP648.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/EP648.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 107824,
+      "role": "Artist",
+      "name": "Abraham Janssen van Nuyssen",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500033089",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q330139",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Dead Christ in the Tomb with Two Angels",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Abraham Janssen van Nuyssen",
+  "artistDisplayBio": "Flemish, ca. 1575–1632",
+  "artistSuffix": "",
+  "artistAlphaSort": "Janssen van Nuyssen, Abraham",
+  "artistNationality": "Flemish",
+  "artistBeginDate": "1575",
+  "artistEndDate": "1632",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q330139",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500033089",
+  "objectDate": "ca. 1610",
+  "objectBeginDate": 1605,
+  "objectEndDate": 1615,
+  "medium": "Oil on canvas",
+  "dimensions": "45 3/8 x 58 in. (115.3 x 147.3 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 115.3,
+        "Width": 147.3
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 6.985,
+        "Height": 138.4303,
+        "Width": 170.1803
+      }
+    }
+  ],
+  "creditLine": "Gift of James Belden, in memory of Evelyn Berry Belden, 1971",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2022-08-19T04:54:33.997Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436776",
+  "tags": [
+    {
+      "term": "Angels",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+    },
+    {
+      "term": "Christ",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+    },
+    {
+      "term": "Death",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300151836",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912044",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

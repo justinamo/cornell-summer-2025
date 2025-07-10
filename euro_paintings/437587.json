@@ -1,0 +1,88 @@
+{
+  "objectID": 437587,
+  "isHighlight": false,
+  "accessionNumber": "71.98",
+  "accessionYear": "1871",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP145942.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP145942.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162357,
+      "role": "Artist",
+      "name": "Salomon van Ruysdael",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010095",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q247005",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Marine",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Salomon van Ruysdael",
+  "artistDisplayBio": "Dutch, Naarden, born ca. 1600–1603, died 1670 Haarlem",
+  "artistSuffix": "",
+  "artistAlphaSort": "Ruysdael, Salomon van",
+  "artistNationality": "Dutch",
+  "artistBeginDate": "1600",
+  "artistEndDate": "1670",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q247005",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500010095",
+  "objectDate": "1650",
+  "objectBeginDate": 1650,
+  "objectEndDate": 1650,
+  "medium": "Oil on wood",
+  "dimensions": "13 5/8 x 17 1/8 in. (34.6 x 43.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 34.6,
+        "Width": 43.5
+      }
+    }
+  ],
+  "creditLine": "Purchase, 1871",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-05-29T04:50:57.503Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437587",
+  "tags": [
+    {
+      "term": "Seascapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300117546",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q158607"
+    },
+    {
+      "term": "Ships",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300082981",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q11446"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912404",
+  "isTimelineWork": false,
+  "GalleryNumber": "615"
+}

@@ -1,0 +1,130 @@
+{
+  "objectID": 437284,
+  "isHighlight": false,
+  "accessionNumber": "75.7.1",
+  "accessionYear": "1875",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-24048-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-24048-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162247,
+      "role": "Artist",
+      "name": "Piero di Cosimo (Piero di Lorenzo di Piero d&#39;Antonio)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500007508",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q280851",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Return from the Hunt",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Piero di Cosimo (Piero di Lorenzo di Piero d'Antonio)",
+  "artistDisplayBio": "Italian, Florence 1462–1522 Florence",
+  "artistSuffix": "",
+  "artistAlphaSort": "Piero di Cosimo (Piero di Lorenzo di Piero d'Antonio)",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1462",
+  "artistEndDate": "1522",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q280851",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500007508",
+  "objectDate": "ca. 1494–1500",
+  "objectBeginDate": 1494,
+  "objectEndDate": 1500,
+  "medium": "Tempera and oil on wood",
+  "dimensions": "27 3/4 x 66 1/2 in. (70.5 x 168.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 70.5,
+        "Width": 168.9
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 15.875031,
+        "Height": 106.680214,
+        "Width": 205.74042
+      }
+    },
+    {
+      "elementName": "Glazing",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 71.913895,
+        "Width": 169.38658
+      }
+    }
+  ],
+  "creditLine": "Gift of Robert Gordon, 1875",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437284",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Female Nudes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+    },
+    {
+      "term": "Centaurs",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379740",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q83203"
+    },
+    {
+      "term": "Satyrs",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379732",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q163709"
+    },
+    {
+      "term": "Pigs",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250114",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q58697"
+    },
+    {
+      "term": "Boats",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q3937360",
+  "isTimelineWork": false,
+  "GalleryNumber": "613"
+}

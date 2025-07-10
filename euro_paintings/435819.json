@@ -1,0 +1,90 @@
+{
+  "objectID": 435819,
+  "isHighlight": false,
+  "accessionNumber": "62.267.2",
+  "accessionYear": "1962",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP280348.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP280348.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/GermanCat6b_Xraynocap.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 107456,
+      "role": "Artist",
+      "name": "Barthel Bruyn the Elder",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500028449",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q698115",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Portrait of a Woman",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Barthel Bruyn the Elder",
+  "artistDisplayBio": "German, 1493–1555",
+  "artistSuffix": "",
+  "artistAlphaSort": "Bruyn, Barthel, the Elder",
+  "artistNationality": "German",
+  "artistBeginDate": "1493",
+  "artistEndDate": "1555",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q698115",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500028449",
+  "objectDate": "1533",
+  "objectBeginDate": 1533,
+  "objectEndDate": 1533,
+  "medium": "Oil on oak",
+  "dimensions": "Overall, with arched top, 12 x 8 7/8 in. (30.5 x 22.5 cm); painted surface 11 3/4 x 8 1/8 in. (29.8 x 20.6 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 30.5,
+        "Width": 22.5
+      }
+    }
+  ],
+  "creditLine": "Gift of James A. Moffett 2nd, 1962",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435819",
+  "tags": [
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905181",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

@@ -1,0 +1,88 @@
+{
+  "objectID": 437696,
+  "isHighlight": false,
+  "accessionNumber": "41.191.2",
+  "accessionYear": "1941",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/126052.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/126052.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 166204,
+      "role": "Artist",
+      "name": "Imitator of John Smart",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500000541",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q6258207",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, miniature",
+  "title": "Portrait of an Officer",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Imitator of",
+  "artistDisplayName": "John Smart",
+  "artistDisplayBio": "1784 or later?",
+  "artistSuffix": "",
+  "artistAlphaSort": "Smart, John",
+  "artistNationality": "British",
+  "artistBeginDate": "1741",
+  "artistEndDate": "1811",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q6258207",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500000541",
+  "objectDate": "",
+  "objectBeginDate": 1784,
+  "objectEndDate": 1789,
+  "medium": "Ivory",
+  "dimensions": "Oval, 1 3/4 x 1 1/4 in. (45 x 32 mm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 4.4,
+        "Width": 3.2
+      }
+    }
+  ],
+  "creditLine": "Gift of Mrs. Thomas Hunt, 1941",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Miniatures",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2024-10-03T04:53:53.567Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437696",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913888",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

@@ -1,0 +1,88 @@
+{
+  "objectID": 435589,
+  "isHighlight": false,
+  "accessionNumber": "62.122.104",
+  "accessionYear": "1962",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/175433.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/175433.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 108571,
+      "role": "Artist",
+      "name": "Style of Benjamin Arlaud",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500124320",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q30121472",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, miniature",
+  "title": "A Woman, Possibly Sophia Dorothea (1687–1757), Later Queen of Prussia",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Style of",
+  "artistDisplayName": "Benjamin Arlaud",
+  "artistDisplayBio": "Continental, ca. 1706",
+  "artistSuffix": "",
+  "artistAlphaSort": "Arlaud, Benjamin",
+  "artistNationality": "Swiss",
+  "artistBeginDate": "1701",
+  "artistEndDate": "1717",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q30121472",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500124320",
+  "objectDate": "",
+  "objectBeginDate": 1701,
+  "objectEndDate": 1711,
+  "medium": "Vellum",
+  "dimensions": "Oval, 2 x 1 3/4 in. (52 x 45 mm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 5.1,
+        "Width": 4.4
+      }
+    }
+  ],
+  "creditLine": "Bequest of Millie Bruhl Fredrick, 1962",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Miniatures",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2024-10-03T04:53:53.567Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435589",
+  "tags": [
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913808",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

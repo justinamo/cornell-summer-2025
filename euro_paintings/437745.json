@@ -1,0 +1,118 @@
+{
+  "objectID": 437745,
+  "isHighlight": false,
+  "accessionNumber": "59.40",
+  "accessionYear": "1959",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1446.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1446.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 108338,
+      "role": "Artist",
+      "name": "Massimo Stanzione",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500015761",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q982384",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Judith with the Head of Holofernes",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Massimo Stanzione",
+  "artistDisplayBio": "Italian, Neapolitan, 1585–1656",
+  "artistSuffix": "",
+  "artistAlphaSort": "Stanzione, Massimo",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1585",
+  "artistEndDate": "1656",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q982384",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500015761",
+  "objectDate": "ca. 1640",
+  "objectBeginDate": 1635,
+  "objectEndDate": 1645,
+  "medium": "Oil on canvas",
+  "dimensions": "78 1/2 x 57 1/2 in. (199.4 x 146.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 217.80544,
+        "Width": 164.78284
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": "Picture + Frame",
+      "elementMeasurements": {
+        "Weight": 35.38057
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 199.4,
+        "Width": 146.1
+      }
+    }
+  ],
+  "creditLine": "Gift of Edward W. Carter, 1959",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437745",
+  "tags": [
+    {
+      "term": "Swords",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300037048",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12791"
+    },
+    {
+      "term": "Heads",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300375054",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3409626"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Holofernes",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000574",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q625748"
+    },
+    {
+      "term": "Judith",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000575",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q28532552"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q12172896",
+  "isTimelineWork": true,
+  "GalleryNumber": "620"
+}

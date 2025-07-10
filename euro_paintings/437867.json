@@ -1,0 +1,102 @@
+{
+  "objectID": 437867,
+  "isHighlight": false,
+  "accessionNumber": "81.1.652",
+  "accessionYear": "1881",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT202022.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT202022.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 108410,
+      "role": "Artist",
+      "name": "Nicolaes van Veerendael",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001285",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q677922",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "A Bouquet of Flowers in a Crystal Vase",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Nicolaes van Veerendael",
+  "artistDisplayBio": "Flemish, 1640–1691",
+  "artistSuffix": "",
+  "artistAlphaSort": "Veerendael, Nicolaes van",
+  "artistNationality": "Flemish",
+  "artistBeginDate": "1640",
+  "artistEndDate": "1691",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q677922",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500001285",
+  "objectDate": "1662",
+  "objectBeginDate": 1662,
+  "objectEndDate": 1662,
+  "medium": "Oil on canvas",
+  "dimensions": "19 1/2 x 15 7/8 in. (49.5 x 40.3 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 49.5,
+        "Width": 40.3
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 10.16002,
+        "Height": 72.390144,
+        "Width": 59.69012
+      }
+    }
+  ],
+  "creditLine": "Bequest of Stephen Whitney Phoenix, 1881",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437867",
+  "tags": [
+    {
+      "term": "Flowers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+    },
+    {
+      "term": "Still Life",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+    },
+    {
+      "term": "Vases",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132254",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191851"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912888",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

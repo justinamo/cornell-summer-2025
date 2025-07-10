@@ -1,0 +1,98 @@
+{
+  "objectID": 438381,
+  "isHighlight": false,
+  "accessionNumber": "2001.652",
+  "accessionYear": "2001",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT5338.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT5338.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 164779,
+      "role": "Artist",
+      "name": "Johan Barthold Jongkind",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500028269",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q704585",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "View from the Quai d'Orsay",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Johan Barthold Jongkind",
+  "artistDisplayBio": "Dutch, Latrop 1819–1891 La Côte-Saint-André",
+  "artistSuffix": "",
+  "artistAlphaSort": "Jongkind, Johan Barthold",
+  "artistNationality": "Dutch",
+  "artistBeginDate": "1819",
+  "artistEndDate": "1891",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q704585",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500028269",
+  "objectDate": "1854",
+  "objectBeginDate": 1854,
+  "objectEndDate": 1854,
+  "medium": "Oil on canvas, mounted on wood",
+  "dimensions": "17 1/4 x 26 in. (43.8 x 66 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 43.8,
+        "Width": 66
+      }
+    }
+  ],
+  "creditLine": "Bequest of Meta Cecile Schwarz, 2001",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-06-03T04:50:54.917Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/438381",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Rivers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008707",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4022"
+    },
+    {
+      "term": "Boats",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+    },
+    {
+      "term": "Paris",
+      "AAT_URL": "http://vocab.getty.edu/page/tgn/7008038",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q90"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912657",
+  "isTimelineWork": false,
+  "GalleryNumber": "812"
+}

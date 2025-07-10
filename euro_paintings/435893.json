@@ -1,0 +1,93 @@
+{
+  "objectID": 435893,
+  "isHighlight": false,
+  "accessionNumber": "67.187.2",
+  "accessionYear": "1967",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 164241,
+      "role": "Artist",
+      "name": "Jules Chéret",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500030480",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q610202",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Drawing",
+  "title": "Fantasia",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Jules Chéret",
+  "artistDisplayBio": "French, Paris 1836–1932 Nice",
+  "artistSuffix": "",
+  "artistAlphaSort": "Chéret, Jules",
+  "artistNationality": "French",
+  "artistBeginDate": "1836",
+  "artistEndDate": "1932",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q610202",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500030480",
+  "objectDate": "",
+  "objectBeginDate": 1856,
+  "objectEndDate": 1933,
+  "medium": "Pastel on canvas",
+  "dimensions": "25 5/8 x 18 1/4 in. (65.1 x 46.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 65.1,
+        "Width": 46.4
+      }
+    }
+  ],
+  "creditLine": "Bequest of Miss Adelaide Milton de Groot (1876-1967), 1967",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Drawings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-06-09T04:50:42.377Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435893",
+  "tags": [
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Putti",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250465",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q284865"
+    },
+    {
+      "term": "Sky",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300263064",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q527"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

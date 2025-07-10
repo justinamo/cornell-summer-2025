@@ -1,0 +1,97 @@
+{
+  "objectID": 437847,
+  "isHighlight": false,
+  "accessionNumber": "25.110.19",
+  "accessionYear": "1925",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP368944.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP368944.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162567,
+      "role": "Artist",
+      "name": "Constant Troyon",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500003566",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q219403",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Road in the Woods",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Constant Troyon",
+  "artistDisplayBio": "French, Sèvres 1810–1865 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Troyon, Constant",
+  "artistNationality": "French",
+  "artistBeginDate": "1810",
+  "artistEndDate": "1865",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q219403",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500003566",
+  "objectDate": "mid-1840s",
+  "objectBeginDate": 1840,
+  "objectEndDate": 1850,
+  "medium": "Oil on canvas",
+  "dimensions": "22 7/8 x 19 in. (58.1 x 48.3 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 58.1,
+        "Width": 48.3
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 8.255,
+        "Height": 83.8202,
+        "Width": 73.6601
+      }
+    }
+  ],
+  "creditLine": "Bequest of Collis P. Huntington, 1900",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-04-30T04:49:03.02Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437847",
+  "tags": [
+    {
+      "term": "Roads",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008217",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q34442"
+    },
+    {
+      "term": "Forests",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300387598",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4421"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913081",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

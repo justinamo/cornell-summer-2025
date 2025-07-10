@@ -1,0 +1,88 @@
+{
+  "objectID": 440725,
+  "isHighlight": false,
+  "accessionNumber": "2008.547.3",
+  "accessionYear": "2008",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP169994.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP169994.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 166258,
+      "role": "Artist",
+      "name": "William Powell Frith",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500009971",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q955750",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Two Central Figures in \"Derby Day\"",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "William Powell Frith",
+  "artistDisplayBio": "British, Aldfield, Yorkshire 1819–1909 London",
+  "artistSuffix": "",
+  "artistAlphaSort": "Frith, William Powell",
+  "artistNationality": "British",
+  "artistBeginDate": "1819",
+  "artistEndDate": "1909",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q955750",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500009971",
+  "objectDate": "1860",
+  "objectBeginDate": 1860,
+  "objectEndDate": 1860,
+  "medium": "Oil on canvas",
+  "dimensions": "18 x 12 1/2 in. (45.7 x 31.8 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 45.720093,
+        "Width": 31.750063
+      }
+    }
+  ],
+  "creditLine": "Gift of Mrs. Charles Wrightsman, 2008",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2024-09-04T04:54:51.967Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/440725",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905304",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

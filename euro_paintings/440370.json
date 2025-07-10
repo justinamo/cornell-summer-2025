@@ -1,0 +1,97 @@
+{
+  "objectID": 440370,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.103",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 126601,
+      "role": "Artist",
+      "name": "Joséphine Sarazin de Belmont",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500030170",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3263639",
+      "gender": "Female"
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "View of an Italian City",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Joséphine Sarazin de Belmont",
+  "artistDisplayBio": "French, Versailles 1790–1870 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Sarazin de Belmont, Joséphine",
+  "artistNationality": "French",
+  "artistBeginDate": "1790",
+  "artistEndDate": "1870",
+  "artistGender": "Female",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q3263639",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500030170",
+  "objectDate": "",
+  "objectBeginDate": 1810,
+  "objectEndDate": 1870,
+  "medium": "Oil on linen, laid down on paper",
+  "dimensions": "4 5/8 x 7 3/8 in. (11.7 x 18.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 11.747523,
+        "Width": 18.732538
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 3.8100076,
+        "Height": 28.257557,
+        "Width": 35.56007
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/440370",
+  "tags": [
+    {
+      "term": "Buildings",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300004789",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q41176"
+    },
+    {
+      "term": "Cities",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008389",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q515"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913624",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

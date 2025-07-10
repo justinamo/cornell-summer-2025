@@ -1,0 +1,110 @@
+{
+  "objectID": 436001,
+  "isHighlight": false,
+  "accessionNumber": "29.100.63",
+  "accessionYear": "1929",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-23236-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-23236-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161790,
+      "role": "Artist",
+      "name": "Gustave Courbet",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010927",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q34618",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Jo, La Belle Irlandaise",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Gustave Courbet",
+  "artistDisplayBio": "French, Ornans 1819–1877 La Tour-de-Peilz",
+  "artistSuffix": "",
+  "artistAlphaSort": "Courbet, Gustave",
+  "artistNationality": "French",
+  "artistBeginDate": "1819",
+  "artistEndDate": "1877",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q34618",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500010927",
+  "objectDate": "1865–66",
+  "objectBeginDate": 1865,
+  "objectEndDate": 1866,
+  "medium": "Oil on canvas",
+  "dimensions": "22 x 26 in. (55.9 x 66 cm)",
+  "measurements": [
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 8.255,
+        "Height": 77.4702,
+        "Width": 88.9002
+      }
+    },
+    {
+      "elementName": "Glazing",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 56.515114,
+        "Width": 67.310135
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 55.9,
+        "Width": 66
+      }
+    }
+  ],
+  "creditLine": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-04-30T04:49:03.02Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436001",
+  "tags": [
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Mirrors",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300037682",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q35197"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19904849",
+  "isTimelineWork": true,
+  "GalleryNumber": "811"
+}

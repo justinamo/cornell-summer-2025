@@ -1,0 +1,88 @@
+{
+  "objectID": 438585,
+  "isHighlight": false,
+  "accessionNumber": "2002.439",
+  "accessionYear": "2002",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP161653.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP161653.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 164803,
+      "role": "Artist",
+      "name": "Maurice Quentin de La Tour",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001160",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q314655",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, drawing",
+  "title": "Jean Charles Garnier d'Isle (1697–1755)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Maurice Quentin de La Tour",
+  "artistDisplayBio": "French, Saint-Quentin 1704–1788 Saint-Quentin",
+  "artistSuffix": "",
+  "artistAlphaSort": "La Tour, Maurice Quentin de",
+  "artistNationality": "French",
+  "artistBeginDate": "1704",
+  "artistEndDate": "1788",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q314655",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500001160",
+  "objectDate": "ca. 1750",
+  "objectBeginDate": 1745,
+  "objectEndDate": 1755,
+  "medium": "Pastel and gouache on blue paper, laid down on canvas",
+  "dimensions": "25 3/8 x 21 1/4 in. (64.5 x 54 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 64.4526,
+        "Width": 53.9751
+      }
+    }
+  ],
+  "creditLine": "Purchase, Walter and Leonore Annenberg and The Annenberg Foundation Gift, 2002",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Pastels & Oil Sketches on Paper",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/438585",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913020",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

@@ -1,0 +1,101 @@
+{
+  "objectID": 439405,
+  "isHighlight": false,
+  "accessionNumber": "2007.441",
+  "accessionYear": "2007",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP161657.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP161657.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 164556,
+      "role": "Artist",
+      "name": "Adélaïde Labille-Guiard",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500005516",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q235647",
+      "gender": "Female"
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, drawing",
+  "title": "Madame Elisabeth de France (1764–1794)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Adélaïde Labille-Guiard",
+  "artistDisplayBio": "French, Paris 1749–1803 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Labille-Guiard, Adélaïde",
+  "artistNationality": "French",
+  "artistBeginDate": "1749",
+  "artistEndDate": "1803",
+  "artistGender": "Female",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q235647",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500005516",
+  "objectDate": "ca. 1787",
+  "objectBeginDate": 1782,
+  "objectEndDate": 1792,
+  "medium": "Pastel on blue paper, seven sheets joined, laid down on canvas",
+  "dimensions": "Oval, 31 x 25 3/4 in. (78.7 x 65.4 cm.)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 75.8827,
+        "Width": 60.9601
+      }
+    },
+    {
+      "elementName": "Glazing",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 78.105156,
+        "Width": 62.865128
+      }
+    }
+  ],
+  "creditLine": "Gift of Mrs. Frederick M. Stafford, 2007",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Pastels & Oil Sketches on Paper",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-02-12T22:31:21.733Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/439405",
+  "tags": [
+    {
+      "term": "Princesses",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300155241",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q863048"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912447",
+  "isTimelineWork": true,
+  "GalleryNumber": "642"
+}

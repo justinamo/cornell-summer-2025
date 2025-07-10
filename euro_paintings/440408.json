@@ -1,0 +1,92 @@
+{
+  "objectID": 440408,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.37",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161806,
+      "role": "Artist",
+      "name": "Charles-François Daubigny",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115164",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q252357",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "View at Auvers-sur-Oise",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Charles-François Daubigny",
+  "artistDisplayBio": "French, Paris 1817–1878 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Daubigny, Charles-François",
+  "artistNationality": "French",
+  "artistBeginDate": "1817",
+  "artistEndDate": "1878",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q252357",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115164",
+  "objectDate": "",
+  "objectBeginDate": 1837,
+  "objectEndDate": 1878,
+  "medium": "Oil on paper, laid down on canvas",
+  "dimensions": "9 1/8 x 13 1/2 in. (23.2 x 34.3 cm)",
+  "measurements": [
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 6.032512,
+        "Height": 38.100075,
+        "Width": 48.5776
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 23.177546,
+        "Width": 34.29007
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/440408",
+  "tags": [
+    {
+      "term": "Towns",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008375",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3957"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913571",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

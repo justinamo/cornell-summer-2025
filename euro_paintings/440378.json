@@ -1,0 +1,92 @@
+{
+  "objectID": 440378,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.114",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 126582,
+      "role": "Artist",
+      "name": "Pierre Henri de Valenciennes or Circle",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011650",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q334946",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "View in the Roman Campagna",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Pierre Henri de Valenciennes or Circle",
+  "artistDisplayBio": "French, Toulouse 1750–1819 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Valenciennes, Pierre Henri de, or Circle",
+  "artistNationality": "French",
+  "artistBeginDate": "1750",
+  "artistEndDate": "1819",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q334946",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500011650",
+  "objectDate": "",
+  "objectBeginDate": 1785,
+  "objectEndDate": 1810,
+  "medium": "Oil on paper",
+  "dimensions": "12 x 22 1/16 in. (30.5 x 56 cm)",
+  "measurements": [
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 4.7625093,
+        "Height": 51.276352,
+        "Width": 77.47015
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 30.4801,
+        "Width": 56.0389
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/440378",
+  "tags": [
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913351",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

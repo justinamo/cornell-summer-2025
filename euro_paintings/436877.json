@@ -1,0 +1,93 @@
+{
+  "objectID": 436877,
+  "isHighlight": false,
+  "accessionNumber": "39.65.4",
+  "accessionYear": "1939",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-20644-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-20644-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 164587,
+      "role": "Artist",
+      "name": "Franz von Lenbach",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500009477",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q585323",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Prince Regent Luitpold of Bavaria (1821–1912)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Franz von Lenbach",
+  "artistDisplayBio": "German, Schrobenhausen 1836–1904 Munich",
+  "artistSuffix": "",
+  "artistAlphaSort": "Lenbach, Franz von",
+  "artistNationality": "German",
+  "artistBeginDate": "1836",
+  "artistEndDate": "1904",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q585323",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500009477",
+  "objectDate": "1902",
+  "objectBeginDate": 1902,
+  "objectEndDate": 1902,
+  "medium": "Oil on board",
+  "dimensions": "30 x 24 1/4 in. (76.2 x 61.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 76.2,
+        "Width": 61.6
+      }
+    }
+  ],
+  "creditLine": "Bequest of Jacob Ruppert, 1939",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436877",
+  "tags": [
+    {
+      "term": "Princes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025482",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q2747456"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19914242",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

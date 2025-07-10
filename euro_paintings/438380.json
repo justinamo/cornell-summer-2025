@@ -1,0 +1,102 @@
+{
+  "objectID": 438380,
+  "isHighlight": false,
+  "accessionNumber": "2005.331.8",
+  "accessionYear": "2005",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP120419.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP120419.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162357,
+      "role": "Artist",
+      "name": "Salomon van Ruysdael",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010095",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q247005",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Fishing Boats on a River",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Salomon van Ruysdael",
+  "artistDisplayBio": "Dutch, Naarden, born ca. 1600–1603, died 1670 Haarlem",
+  "artistSuffix": "",
+  "artistAlphaSort": "Ruysdael, Salomon van",
+  "artistNationality": "Dutch",
+  "artistBeginDate": "1600",
+  "artistEndDate": "1670",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q247005",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500010095",
+  "objectDate": "early 1660s",
+  "objectBeginDate": 1660,
+  "objectEndDate": 1663,
+  "medium": "Oil on wood",
+  "dimensions": "Overall, with added strips, 14 3/4 x 21 7/8 in. (37.5 x 55.6 cm); painted surface 14 1/4 x 21 1/4 in. (36.2 x 54 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 37.4651,
+        "Width": 55.5626
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 5.08,
+        "Height": 53.3401,
+        "Width": 71.1201
+      }
+    }
+  ],
+  "creditLine": "From the Collection of Rita and Frits Markus, Bequest of Rita Markus, 2005",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/438380",
+  "tags": [
+    {
+      "term": "Fishing",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300239470",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q14373"
+    },
+    {
+      "term": "Rivers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008707",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4022"
+    },
+    {
+      "term": "Boats",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913164",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

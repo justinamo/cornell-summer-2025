@@ -1,0 +1,88 @@
+{
+  "objectID": 692597,
+  "isHighlight": false,
+  "accessionNumber": "2017.714",
+  "accessionYear": "2017",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-17151-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-17151-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 107313,
+      "role": "Artist",
+      "name": "Antoniazzo Romano (Antonio di Benedetto Aquilio)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500031194",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q598649",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Saint Francis of Assisi",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Antoniazzo Romano (Antonio di Benedetto Aquilio)",
+  "artistDisplayBio": "Italian, Rome 1435/40–1508 Rome",
+  "artistSuffix": "",
+  "artistAlphaSort": "Antoniazzo Romano (Antonio di Benedetto Aquilio)",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1435",
+  "artistEndDate": "1508",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q598649",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500031194",
+  "objectDate": "ca. 1480–81",
+  "objectBeginDate": 1480,
+  "objectEndDate": 1481,
+  "medium": "Tempera and gold on wood, transferred to wood",
+  "dimensions": "63 1/8 × 23 1/2 in. (160.3 × 59.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 160.33781,
+        "Width": 59.69012
+      }
+    }
+  ],
+  "creditLine": "Gift of Dinko Podrug, Nena Ilic-Podrug, and Iva Podrug, 2017",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/692597",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Saint Francis",
+      "AAT_URL": "http://vocab.getty.edu/page/ulan/500349636",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q676555"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q78614458",
+  "isTimelineWork": false,
+  "GalleryNumber": "609"
+}

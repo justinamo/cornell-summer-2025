@@ -1,0 +1,112 @@
+{
+  "objectID": 436411,
+  "isHighlight": false,
+  "accessionNumber": "32.100.108–11",
+  "accessionYear": "1932",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT7226.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT7226.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/DT7227.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/DT7224.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/DT7225.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 107266,
+      "role": "Artist",
+      "name": "Northern French Painter",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, wings of an altarpiece",
+  "title": "The Crucifixion of Saint Peter with a Donor; The Legend of Saint Anthony Abbot with a Donor;  The Annunciation",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Northern French Painter",
+  "artistDisplayBio": "ca. 1450",
+  "artistSuffix": "",
+  "artistAlphaSort": "Northern French Painter",
+  "artistNationality": "French",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "",
+  "objectBeginDate": 1445,
+  "objectEndDate": 1455,
+  "medium": "Oil on wood",
+  "dimensions": "Each 45 x 31 in. (114.3 x 78.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 114.3,
+        "Width": 78.7
+      }
+    }
+  ],
+  "creditLine": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-02-07T04:53:29.613Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436411",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Camels",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250139",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q7375"
+    },
+    {
+      "term": "Angels",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+    },
+    {
+      "term": "Saint Peter",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000056",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q33923"
+    },
+    {
+      "term": "Crucifixion",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300404300",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3235597"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905422",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

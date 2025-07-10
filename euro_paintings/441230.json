@@ -1,0 +1,93 @@
+{
+  "objectID": 441230,
+  "isHighlight": false,
+  "accessionNumber": "2012.100.2",
+  "accessionYear": "2012",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP244874.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP244874.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 128961,
+      "role": "Artist",
+      "name": "Carlo Francesco Nuvolone",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500006349",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q951849",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "A Female Martyr Saint",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Carlo Francesco Nuvolone",
+  "artistDisplayBio": "Italian, Milan 1609–1662 Milan",
+  "artistSuffix": "",
+  "artistAlphaSort": "Nuvolone, Carlo Francesco",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1609",
+  "artistEndDate": "1662",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q951849",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500006349",
+  "objectDate": "ca. 1650",
+  "objectBeginDate": 1645,
+  "objectEndDate": 1655,
+  "medium": "Oil on wood",
+  "dimensions": "20 x 16 3/8 in. (50.8 x 41.6 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 50.800102,
+        "Width": 41.592583
+      }
+    }
+  ],
+  "creditLine": "Bequest of Anna Mont, in memory of Frederick Mont, 2010",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/441230",
+  "tags": [
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Saints",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905178",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

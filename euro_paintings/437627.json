@@ -1,0 +1,98 @@
+{
+  "objectID": 437627,
+  "isHighlight": false,
+  "accessionNumber": "24.80.525",
+  "accessionYear": "1924",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/57116.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/57116.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 108558,
+      "role": "Artist",
+      "name": "Edmé Charles de Lioux de Savignac",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500065965",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21857368",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, miniature",
+  "title": "A River Landscape",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Edmé Charles de Lioux de Savignac",
+  "artistDisplayBio": "French, active ca. 1766–72",
+  "artistSuffix": "",
+  "artistAlphaSort": "Savignac, Edmé Charles de Lioux de",
+  "artistNationality": "French",
+  "artistBeginDate": "1766",
+  "artistEndDate": "1772",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q21857368",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500065965",
+  "objectDate": "ca. 1766–72",
+  "objectBeginDate": 1766,
+  "objectEndDate": 1772,
+  "medium": "Paper",
+  "dimensions": "Diameter 3 in. (77 mm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 7.6,
+        "Width": 7.6
+      }
+    }
+  ],
+  "creditLine": "Bequest of Mary Clark Thompson, 1923",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Miniatures",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2024-10-03T04:53:53.567Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437627",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Rivers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008707",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4022"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913875",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

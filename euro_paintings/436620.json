@@ -1,0 +1,88 @@
+{
+  "objectID": 436620,
+  "isHighlight": false,
+  "accessionNumber": "26.101.11",
+  "accessionYear": "1926",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP146480.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP146480.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161974,
+      "role": "Artist",
+      "name": "Frans Hals",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500027794",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q167654",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Paulus Verschuur (1606–1667)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Frans Hals",
+  "artistDisplayBio": "Dutch, Antwerp 1582/83–1666 Haarlem",
+  "artistSuffix": "",
+  "artistAlphaSort": "Hals, Frans",
+  "artistNationality": "Dutch",
+  "artistBeginDate": "1582",
+  "artistEndDate": "1666",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q167654",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500027794",
+  "objectDate": "1643",
+  "objectBeginDate": 1643,
+  "objectEndDate": 1643,
+  "medium": "Oil on canvas",
+  "dimensions": "46 3/4 x 37 in. (118.7 x 94 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 118.7,
+        "Width": 94
+      }
+    }
+  ],
+  "creditLine": "Gift of Archer M. Huntington, in memory of his father, Collis Potter Huntington, 1926",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436620",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q17426156",
+  "isTimelineWork": true,
+  "GalleryNumber": "616"
+}

@@ -1,0 +1,101 @@
+{
+  "objectID": 436597,
+  "isHighlight": false,
+  "accessionNumber": "50.145.21",
+  "accessionYear": "1950",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1384.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1384.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-50_145_21-2.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-50_145_21-3.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 161967,
+      "role": "Artist",
+      "name": "Francesco Guardi",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500017409",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q318769",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Piazza San Marco",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Francesco Guardi",
+  "artistDisplayBio": "Italian, Venice 1712–1793 Venice",
+  "artistSuffix": "",
+  "artistAlphaSort": "Guardi, Francesco",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1712",
+  "artistEndDate": "1793",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q318769",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500017409",
+  "objectDate": "late 1760s",
+  "objectBeginDate": 1767,
+  "objectEndDate": 1769,
+  "medium": "Oil on canvas",
+  "dimensions": "27 1/8 x 33 3/4 in. (68.9 x 85.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 68.9,
+        "Width": 85.7
+      }
+    }
+  ],
+  "creditLine": "Bequest of Mary Stillman Harkness, 1950",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-06-04T04:51:25.263Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436597",
+  "tags": [
+    {
+      "term": "Buildings",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300004789",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q41176"
+    },
+    {
+      "term": "Towers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300004847",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12518"
+    },
+    {
+      "term": "Cities",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008389",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q515"
+    },
+    {
+      "term": "Venice",
+      "AAT_URL": "http://vocab.getty.edu/page/tgn/7018159",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q641"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912041",
+  "isTimelineWork": false,
+  "GalleryNumber": "644"
+}

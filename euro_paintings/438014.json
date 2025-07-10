@@ -1,0 +1,103 @@
+{
+  "objectID": 438014,
+  "isHighlight": false,
+  "accessionNumber": "1998.325.3",
+  "accessionYear": "1998",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1879.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1879.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162302,
+      "role": "Artist",
+      "name": "Auguste Renoir",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Daughters of Catulle Mendès, Huguette (1871–1964), Claudine (1876–1937), and Helyonne (1879–1955)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Auguste Renoir",
+  "artistDisplayBio": "French, Limoges 1841–1919 Cagnes-sur-Mer",
+  "artistSuffix": "",
+  "artistAlphaSort": "Renoir, Auguste",
+  "artistNationality": "French",
+  "artistBeginDate": "1841",
+  "artistEndDate": "1919",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+  "objectDate": "1888",
+  "objectBeginDate": 1888,
+  "objectEndDate": 1888,
+  "medium": "Oil on canvas",
+  "dimensions": "63 3/4 x 51 1/8 in. (161.9 x 129.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 161.9,
+        "Width": 129.9
+      }
+    }
+  ],
+  "creditLine": "The Walter H. and Leonore Annenberg Collection, Gift of Walter H. and Leonore Annenberg, 1998, Bequest of Walter H. Annenberg, 2002",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-05-08T04:50:44.137Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/438014",
+  "tags": [
+    {
+      "term": "Girls",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Music",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300435214",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q638"
+    },
+    {
+      "term": "Pianos",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300042909",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q5994"
+    },
+    {
+      "term": "Violins",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300042215",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8355"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q728373",
+  "isTimelineWork": true,
+  "GalleryNumber": "821"
+}

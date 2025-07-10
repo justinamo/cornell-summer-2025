@@ -1,0 +1,88 @@
+{
+  "objectID": 437687,
+  "isHighlight": false,
+  "accessionNumber": "71.70",
+  "accessionYear": "1871",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP143190.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP143190.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 108321,
+      "role": "Artist",
+      "name": "Pieter van Slingelandt",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500018710",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q420237",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Johan Hulshout (1623–1687)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Pieter van Slingelandt",
+  "artistDisplayBio": "Dutch, Leiden 1640–1691 Leiden",
+  "artistSuffix": "",
+  "artistAlphaSort": "Slingelandt, Pieter van",
+  "artistNationality": "Dutch",
+  "artistBeginDate": "1640",
+  "artistEndDate": "1691",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q420237",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500018710",
+  "objectDate": "ca. 1670 or slightly later",
+  "objectBeginDate": 1665,
+  "objectEndDate": 1675,
+  "medium": "Oil on wood",
+  "dimensions": "14 1/2 x 11 3/4 in. (36.8 x 29.8 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 36.8,
+        "Width": 29.8
+      }
+    }
+  ],
+  "creditLine": "Purchase, 1871",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437687",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913136",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

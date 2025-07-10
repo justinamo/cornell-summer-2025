@@ -1,0 +1,88 @@
+{
+  "objectID": 436219,
+  "isHighlight": false,
+  "accessionNumber": "62.122.66",
+  "accessionYear": "1962",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP327720.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP327720.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 108563,
+      "role": "Artist",
+      "name": "Frédéric Dubois",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001723",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21288920",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, miniature",
+  "title": "Portrait of a Woman",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Frédéric Dubois",
+  "artistDisplayBio": "French, active ca. 1780–1819",
+  "artistSuffix": "",
+  "artistAlphaSort": "Dubois, Frédéric",
+  "artistNationality": "French",
+  "artistBeginDate": "1780",
+  "artistEndDate": "1819",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q21288920",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500001723",
+  "objectDate": "",
+  "objectBeginDate": 1793,
+  "objectEndDate": 1794,
+  "medium": "Ivory",
+  "dimensions": "Diameter 2 5/8 in. (66 mm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 6.7,
+        "Width": 6.7
+      }
+    }
+  ],
+  "creditLine": "Bequest of Millie Bruhl Fredrick, 1962",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Miniatures",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436219",
+  "tags": [
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19914089",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

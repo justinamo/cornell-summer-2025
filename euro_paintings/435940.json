@@ -1,0 +1,88 @@
+{
+  "objectID": 435940,
+  "isHighlight": false,
+  "accessionNumber": "1982.60.7",
+  "accessionYear": "1982",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT8841.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT8841.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 166024,
+      "role": "Artist",
+      "name": "Bernardino dei Conti",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500021846",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2405424",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Madonna and Child",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Bernardino dei Conti",
+  "artistDisplayBio": "Italian, Milan, 1496–1522",
+  "artistSuffix": "",
+  "artistAlphaSort": "Conti, Bernardino dei",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1496",
+  "artistEndDate": "1522",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q2405424",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500021846",
+  "objectDate": "",
+  "objectBeginDate": 1516,
+  "objectEndDate": 1522,
+  "medium": "Oil on wood",
+  "dimensions": "Overall, with additions, 15 7/8 x 12 in. (40.3 x 30.5 cm); painted surface 15 5/8 x 11 5/8 in. (39.7 x 29.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 40.3,
+        "Width": 30.5
+      }
+    }
+  ],
+  "creditLine": "The Jack and Belle Linsky Collection, 1982",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435940",
+  "tags": [
+    {
+      "term": "Madonna and Child",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+    },
+    {
+      "term": "Nursing",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379905",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q174876"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912668",
+  "isTimelineWork": false,
+  "GalleryNumber": "537"
+}

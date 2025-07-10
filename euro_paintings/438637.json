@@ -1,0 +1,88 @@
+{
+  "objectID": 438637,
+  "isHighlight": false,
+  "accessionNumber": "2003.42.15",
+  "accessionYear": "2003",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161809,
+      "role": "Artist",
+      "name": "Adrien Dauzats",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500027072",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q970806",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Giralda, Seville",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Adrien Dauzats",
+  "artistDisplayBio": "French, Bordeaux 1804–1868 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Dauzats, Adrien",
+  "artistNationality": "French",
+  "artistBeginDate": "1804",
+  "artistEndDate": "1868",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q970806",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500027072",
+  "objectDate": "1836/37",
+  "objectBeginDate": 1836,
+  "objectEndDate": 1837,
+  "medium": "Oil on paper, laid down on canvas",
+  "dimensions": "8 1/8 x 11 7/8 in. (20.6 x 30.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 20.6375,
+        "Width": 30.1626
+      }
+    }
+  ],
+  "creditLine": "The Whitney Collection, Gift of Wheelock Whitney III, and Purchase, Gift of Mr. and Mrs. Charles S. McVeigh, by exchange, 2003",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/438637",
+  "tags": [
+    {
+      "term": "Towers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300004847",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12518"
+    },
+    {
+      "term": "Towns",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008375",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3957"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905499",
+  "isTimelineWork": false,
+  "GalleryNumber": "804"
+}

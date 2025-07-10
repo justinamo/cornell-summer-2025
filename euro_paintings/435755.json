@@ -1,0 +1,100 @@
+{
+  "objectID": 435755,
+  "isHighlight": false,
+  "accessionNumber": "1974.2",
+  "accessionYear": "1974",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT10696.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT10696.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161707,
+      "role": "Artist",
+      "name": "Sébastien Bourdon",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500006900",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q553795",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Baptism of Christ",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Sébastien Bourdon",
+  "artistDisplayBio": "French, Montpellier 1616–1671 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Bourdon, Sébastien",
+  "artistNationality": "French",
+  "artistBeginDate": "1616",
+  "artistEndDate": "1671",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q553795",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500006900",
+  "objectDate": "ca. 1650",
+  "objectBeginDate": 1645,
+  "objectEndDate": 1655,
+  "medium": "Oil on canvas",
+  "dimensions": "Overall 59 3/4 x 46 1/2 in. (151.8 x 118.1 cm); painted surface (oval) 59 1/8 x 45 1/2 in. (150.2 x 115.6 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 151.8,
+        "Width": 118.1
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": "Picture + Frame ",
+      "elementMeasurements": {
+        "Weight": 51.71006
+      }
+    }
+  ],
+  "creditLine": "Purchase, George T. Delacorte Jr. Gift, 1974",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435755",
+  "tags": [
+    {
+      "term": "Angels",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+    },
+    {
+      "term": "Saint John the Baptist",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901001056",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q40662"
+    },
+    {
+      "term": "Baptism of Christ",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901001066",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q217048"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912695",
+  "isTimelineWork": false,
+  "GalleryNumber": "622"
+}

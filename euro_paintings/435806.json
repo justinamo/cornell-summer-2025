@@ -1,0 +1,88 @@
+{
+  "objectID": 435806,
+  "isHighlight": false,
+  "accessionNumber": "32.100.1",
+  "accessionYear": "1932",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep32.100.1.bw.R.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/ep32.100.1.bw.R.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161725,
+      "role": "Artist",
+      "name": "Adriaen Brouwer",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012394",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q364139",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "A Peasant Woman Picking Fleas off a Dog",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Adriaen Brouwer",
+  "artistDisplayBio": "Flemish, Oudenaarde 1605/6–1638 Antwerp",
+  "artistSuffix": "",
+  "artistAlphaSort": "Brouwer, Adriaen",
+  "artistNationality": "Flemish",
+  "artistBeginDate": "1605",
+  "artistEndDate": "1638",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q364139",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500012394",
+  "objectDate": "ca. 1626–27",
+  "objectBeginDate": 1626,
+  "objectEndDate": 1627,
+  "medium": "Oil on wood",
+  "dimensions": "Oval 7 1/8 x 5 3/8 in. (18.1 x 13.7 cm); set in rectangular panel 8 x 6 1/4 in. (20.3 x 15.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 20.3,
+        "Width": 15.9
+      }
+    }
+  ],
+  "creditLine": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435806",
+  "tags": [
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Dogs",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912838",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

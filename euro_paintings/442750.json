@@ -1,0 +1,98 @@
+{
+  "objectID": 442750,
+  "isHighlight": false,
+  "accessionNumber": "24.78c",
+  "accessionYear": "1924",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP333091.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP333091.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162401,
+      "role": "Artist",
+      "name": "Segna di Buonaventura",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500026523",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q929809",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, part of a polyptych",
+  "title": "Saint Benedict",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Segna di Buonaventura",
+  "artistDisplayBio": "Italian, active Siena by 1298–died 1326/31",
+  "artistSuffix": "",
+  "artistAlphaSort": "Segna di Buonaventura",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1298",
+  "artistEndDate": "1331",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q929809",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500026523",
+  "objectDate": "1320s",
+  "objectBeginDate": 1320,
+  "objectEndDate": 1329,
+  "medium": "Tempera on wood, gold ground",
+  "dimensions": "Overall, with framing elements, 49 x 20 7/8 in. (124.5 x 53 cm); Saint Benedict, painted surface 27 7/8 x 16 in. (70.8 x 40.6 cm); pinnacle, painted surface 10 1/4 x 15 3/8 in. (26 x 39.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 124.46025,
+        "Width": 53.022606
+      }
+    }
+  ],
+  "creditLine": "Harris Brisbane Dick Fund, 1924",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/442750",
+  "tags": [
+    {
+      "term": "Books",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300028051",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q571"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Angels",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+    },
+    {
+      "term": "Saints",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19904893",
+  "isTimelineWork": false,
+  "GalleryNumber": "601"
+}

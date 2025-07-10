@@ -1,0 +1,98 @@
+{
+  "objectID": 435705,
+  "isHighlight": false,
+  "accessionNumber": "32.100.78",
+  "accessionYear": "1932",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/Bonifazio.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/Bonifazio.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161696,
+      "role": "Artist",
+      "name": "Bonifacio de&#39; Pitati (Bonifacio Veronese)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500014243",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q744747",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Legend of the Infant Servius Tullius",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Bonifacio de' Pitati (Bonifacio Veronese)",
+  "artistDisplayBio": "Italian, Verona 1487–1553 Venice",
+  "artistSuffix": "",
+  "artistAlphaSort": "Bonifacio de' Pitati (Bonifacio Veronese)",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1487",
+  "artistEndDate": "1553",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q744747",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500014243",
+  "objectDate": "",
+  "objectBeginDate": 1507,
+  "objectEndDate": 1553,
+  "medium": "Oil on canvas",
+  "dimensions": "10 1/2 x 40 1/4 in. (26.7 x 102.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 26.7,
+        "Width": 102.2
+      }
+    }
+  ],
+  "creditLine": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435705",
+  "tags": [
+    {
+      "term": "Infants",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300189561",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q998"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Cradles",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300038847",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q412770"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912678",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

@@ -1,0 +1,97 @@
+{
+  "objectID": 439370,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.49",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161836,
+      "role": "Artist",
+      "name": "Johann Georg von Dillis",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500009659",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21403107",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Nemi",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Johann Georg von Dillis",
+  "artistDisplayBio": "German, Grüngiebing 1759–1841 Munich",
+  "artistSuffix": "",
+  "artistAlphaSort": "Dillis, Johann Georg von",
+  "artistNationality": "German",
+  "artistBeginDate": "1759",
+  "artistEndDate": "1841",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q21403107",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500009659",
+  "objectDate": "ca. 1805",
+  "objectBeginDate": 1794,
+  "objectEndDate": 1810,
+  "medium": "Oil on paper, laid down on canvas",
+  "dimensions": "7 1/16 x 9 3/16 in. (17.9 x 23.3 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 17.938786,
+        "Width": 23.336296
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Diameter": 27.940056,
+        "Height": 32.702564,
+        "Width": 3.8100076
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/439370",
+  "tags": [
+    {
+      "term": "Lakes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008680",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q23397"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913171",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

@@ -1,0 +1,93 @@
+{
+  "objectID": 435891,
+  "isHighlight": false,
+  "accessionNumber": "62.122.63",
+  "accessionYear": "1962",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/175573.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/175573.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 108671,
+      "role": "Artist",
+      "name": "Style of Jacques Charlier",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500029505",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3158509",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, miniature",
+  "title": "Leda and the Swan, after Boucher",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Style of",
+  "artistDisplayName": "Jacques Charlier",
+  "artistDisplayBio": "probably 19th century",
+  "artistSuffix": "",
+  "artistAlphaSort": "Charlier, Jacques",
+  "artistNationality": "French",
+  "artistBeginDate": "1720",
+  "artistEndDate": "1790",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q3158509",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500029505",
+  "objectDate": "",
+  "objectBeginDate": 1800,
+  "objectEndDate": 1899,
+  "medium": "Ivory",
+  "dimensions": "2 x 2 7/8 in. (50 x 72 mm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 5.1,
+        "Width": 7.3
+      }
+    }
+  ],
+  "creditLine": "Bequest of Millie Bruhl Fredrick, 1962",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Miniatures",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2024-10-03T04:53:53.567Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435891",
+  "tags": [
+    {
+      "term": "Female Nudes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+    },
+    {
+      "term": "Leda",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901001941",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q182019"
+    },
+    {
+      "term": "Swans",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250103",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q34384"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913982",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

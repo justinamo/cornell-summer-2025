@@ -1,0 +1,88 @@
+{
+  "objectID": 435949,
+  "isHighlight": false,
+  "accessionNumber": "1978.301.7",
+  "accessionYear": "1978",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep1978.301.7.bw.R.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/ep1978.301.7.bw.R.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161785,
+      "role": "Artist",
+      "name": "Attributed to Corneille de Lyon",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115387",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q720941",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Portrait of a Bearded Man in White",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Attributed to",
+  "artistDisplayName": "Corneille de Lyon",
+  "artistDisplayBio": "Netherlandish, The Hague, active by 1533–died 1575 Lyons",
+  "artistSuffix": "",
+  "artistAlphaSort": "Corneille de Lyon",
+  "artistNationality": "Netherlandish",
+  "artistBeginDate": "1533",
+  "artistEndDate": "1575",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q720941",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115387",
+  "objectDate": "",
+  "objectBeginDate": 1533,
+  "objectEndDate": 1575,
+  "medium": "Oil on wood",
+  "dimensions": "Overall 8 1/2 x 6 in. (21.6 x 15.2 cm), including added strip of 1/2 in. (1.3 cm) at bottom",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 21.6,
+        "Width": 15.2
+      }
+    }
+  ],
+  "creditLine": "Bequest of George D. Pratt, 1935",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435949",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913378",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

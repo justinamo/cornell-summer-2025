@@ -1,0 +1,97 @@
+{
+  "objectID": 440354,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.79",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 165571,
+      "role": "Artist",
+      "name": "Wilhelm von Kobell",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500032037",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q878197",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Schloss Emming, between Windach and Geltendorf, Seen from the East",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Wilhelm von Kobell",
+  "artistDisplayBio": "German, Mannheim 1766–1853 Munich",
+  "artistSuffix": "",
+  "artistAlphaSort": "Kobell, Wilhelm von",
+  "artistNationality": "German",
+  "artistBeginDate": "1766",
+  "artistEndDate": "1853",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q878197",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500032037",
+  "objectDate": "ca. 1802",
+  "objectBeginDate": 1797,
+  "objectEndDate": 1807,
+  "medium": "Oil and graphite on paper, laid down on canvas",
+  "dimensions": "7 5/8 x 11 7/8 in. (19.4 x 30.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 19.3675,
+        "Width": 30.1626
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 5.397511,
+        "Height": 30.16256,
+        "Width": 40.64008
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-06-04T04:51:25.263Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/440354",
+  "tags": [
+    {
+      "term": "Farms",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300000206",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q131596"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913547",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

@@ -1,0 +1,107 @@
+{
+  "objectID": 436349,
+  "isHighlight": false,
+  "accessionNumber": "07.225.287",
+  "accessionYear": "1907",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP312870.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP312870.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 163866,
+      "role": "Artist",
+      "name": "Alexandre François Desportes",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115333",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1359864",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, drawing",
+  "title": "Panthers of Bacchus Eating Grapes",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Alexandre François Desportes",
+  "artistDisplayBio": "French, Champigneulle 1661–1743 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Desportes, Alexandre François",
+  "artistNationality": "French",
+  "artistBeginDate": "1661",
+  "artistEndDate": "1743",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q1359864",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115333",
+  "objectDate": "ca. 1719–20",
+  "objectBeginDate": 1719,
+  "objectEndDate": 1720,
+  "medium": "Oil on paper, laid down on card (paste-paper)",
+  "dimensions": "13 5/8 x 6 3/4 in. (34.6 x 17.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 34.6,
+        "Width": 17.1
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 2.540005,
+        "Height": 40.322582,
+        "Width": 22.225044
+      }
+    }
+  ],
+  "creditLine": "Gift of J. Pierpont Morgan, 1906",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Pastels & Oil Sketches on Paper",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436349",
+  "tags": [
+    {
+      "term": "Birds",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+    },
+    {
+      "term": "Grapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379338",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q10978"
+    },
+    {
+      "term": "Vines",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132406",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q917284"
+    },
+    {
+      "term": "Panthers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300310390",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q35255"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913396",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

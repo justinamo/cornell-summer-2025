@@ -1,0 +1,107 @@
+{
+  "objectID": 437474,
+  "isHighlight": false,
+  "accessionNumber": "07.225.264a",
+  "accessionYear": "1907",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP230526.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP230526.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162316,
+      "role": "Artist",
+      "name": "Hubert Robert",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500009558",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q548205",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, overdoor",
+  "title": "Bridge over a Cascade",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Hubert Robert",
+  "artistDisplayBio": "French, Paris 1733–1808 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Robert, Hubert",
+  "artistNationality": "French",
+  "artistBeginDate": "1733",
+  "artistEndDate": "1808",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q548205",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500009558",
+  "objectDate": "",
+  "objectBeginDate": 1753,
+  "objectEndDate": 1808,
+  "medium": "Oil on canvas",
+  "dimensions": "32 x 54 1/8 in. (81.3 x 137.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 7.620015,
+        "Height": 96.520195,
+        "Width": 151.7653
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 81.3,
+        "Width": 137.5
+      }
+    }
+  ],
+  "creditLine": "Gift of J. Pierpont Morgan, 1906",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437474",
+  "tags": [
+    {
+      "term": "Bridges",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300386855",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12280"
+    },
+    {
+      "term": "Cows",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250120",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q830"
+    },
+    {
+      "term": "Horses",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+    },
+    {
+      "term": "Waterfalls",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008736",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q34038"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913292",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

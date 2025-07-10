@@ -1,0 +1,97 @@
+{
+  "objectID": 437655,
+  "isHighlight": false,
+  "accessionNumber": "1985.237",
+  "accessionYear": "1985",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT2165.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT2165.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162405,
+      "role": "Artist",
+      "name": "Georges Seurat",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008873",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q34013",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Forest at Pontaubert",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Georges Seurat",
+  "artistDisplayBio": "French, Paris 1859–1891 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Seurat, Georges",
+  "artistNationality": "French",
+  "artistBeginDate": "1859",
+  "artistEndDate": "1891",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q34013",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500008873",
+  "objectDate": "1881",
+  "objectBeginDate": 1881,
+  "objectEndDate": 1881,
+  "medium": "Oil on canvas",
+  "dimensions": "31 1/8 x 24 5/8 in. (79.1 x 62.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 79.1,
+        "Width": 62.5
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 7.62,
+        "Height": 94.6152,
+        "Width": 78.7402
+      }
+    }
+  ],
+  "creditLine": "Purchase, Gift of Raymonde Paul, in memory of her brother, C. Michael Paul, by exchange, 1985",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437655",
+  "tags": [
+    {
+      "term": "Forests",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300387598",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4421"
+    },
+    {
+      "term": "Trees",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132410",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q10884"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q3965263",
+  "isTimelineWork": false,
+  "GalleryNumber": "825"
+}

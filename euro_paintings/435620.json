@@ -1,0 +1,103 @@
+{
+  "objectID": 435620,
+  "isHighlight": false,
+  "accessionNumber": "58.87.2",
+  "accessionYear": "1958",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/EP588.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/EP588.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 107348,
+      "role": "Artist",
+      "name": "Bartolomeo di Tommaso",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010103",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2886111",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, predella panel",
+  "title": "The Lamentation and the Entombment",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Bartolomeo di Tommaso",
+  "artistDisplayBio": "Italian, Umbrian, active by 1425–died 1453/54",
+  "artistSuffix": "",
+  "artistAlphaSort": "Bartolomeo di Tommaso",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1425",
+  "artistEndDate": "1454",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q2886111",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500010103",
+  "objectDate": "ca. 1445–50",
+  "objectBeginDate": 1445,
+  "objectEndDate": 1450,
+  "medium": "Tempera on wood, gold ground",
+  "dimensions": "Overall 8 3/4 x 17 1/8 in. (22.2 x 43.5 cm); irregular painted surface 8 x 16 1/8 in. (20.3 x 41 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 22.2,
+        "Width": 43.5
+      }
+    }
+  ],
+  "creditLine": "Gwynne Andrews Fund, 1958",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2024-01-31T04:57:04.01Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435620",
+  "tags": [
+    {
+      "term": "Sadness",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300055166",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q169251"
+    },
+    {
+      "term": "Christ",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+    },
+    {
+      "term": "Virgin Mary",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+    },
+    {
+      "term": "Entombment",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901001053",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q51637"
+    },
+    {
+      "term": "Lamentation",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901001196",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3155356"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912856",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

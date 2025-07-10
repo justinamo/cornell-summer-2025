@@ -1,0 +1,93 @@
+{
+  "objectID": 437863,
+  "isHighlight": false,
+  "accessionNumber": "1978.48.2",
+  "accessionYear": "1978",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/1915.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/1915.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 127098,
+      "role": "Artist",
+      "name": "French Painter",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Drawing",
+  "title": "Copy after Valenciennes's \"Ruins at the Villa Farnese\"",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "French Painter",
+  "artistDisplayBio": "early 19th century",
+  "artistSuffix": "",
+  "artistAlphaSort": "French Painter",
+  "artistNationality": "French",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "before 1819",
+  "objectBeginDate": 1800,
+  "objectEndDate": 1819,
+  "medium": "Oil on paper, laid down on canvas",
+  "dimensions": "9 1/4 x 15 1/4 in. (23.5 x 38.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 23.5,
+        "Width": 38.7
+      }
+    }
+  ],
+  "creditLine": "Harry G. Sperling Fund, 1978",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Drawings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2023-04-13T04:47:56.43Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437863",
+  "tags": [
+    {
+      "term": "Arches",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300001062",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12277"
+    },
+    {
+      "term": "Ruins",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008057",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q109607"
+    },
+    {
+      "term": "Rome",
+      "AAT_URL": "http://vocab.getty.edu/page/tgn/7000874",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q220"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913699",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

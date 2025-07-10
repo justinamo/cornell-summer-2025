@@ -1,0 +1,88 @@
+{
+  "objectID": 437653,
+  "isHighlight": false,
+  "accessionNumber": "24.80.511",
+  "accessionYear": "1924",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/57103.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/57103.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 108646,
+      "role": "Artist",
+      "name": "Carl August Senff",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500064042",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q821116",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, miniature",
+  "title": "Portrait of a Woman",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Carl August Senff",
+  "artistDisplayBio": "German, 1770–1838",
+  "artistSuffix": "",
+  "artistAlphaSort": "Senff, Carl August",
+  "artistNationality": "German",
+  "artistBeginDate": "1770",
+  "artistEndDate": "1838",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q821116",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500064042",
+  "objectDate": "1808",
+  "objectBeginDate": 1808,
+  "objectEndDate": 1808,
+  "medium": "Ivory",
+  "dimensions": "Oval, 2 3/8 x 2 in. (60 x 50 mm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 6,
+        "Width": 5.1
+      }
+    }
+  ],
+  "creditLine": "Bequest of Mary Clark Thompson, 1923",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Miniatures",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2024-10-03T04:53:53.567Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437653",
+  "tags": [
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913879",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

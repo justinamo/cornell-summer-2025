@@ -1,0 +1,88 @@
+{
+  "objectID": 435634,
+  "isHighlight": false,
+  "accessionNumber": "50.187.44",
+  "accessionYear": "1950",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/148754.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/148754.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 108599,
+      "role": "Artist",
+      "name": "Isabella Beetham",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500329448",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q19408393",
+      "gender": "Female"
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, miniature",
+  "title": "Miss Chambers",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Isabella Beetham",
+  "artistDisplayBio": "British, 1750–after 1809",
+  "artistSuffix": "",
+  "artistAlphaSort": "Beetham, Isabella",
+  "artistNationality": "British",
+  "artistBeginDate": "1750",
+  "artistEndDate": "1809",
+  "artistGender": "Female",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q19408393",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500329448",
+  "objectDate": "after 1782",
+  "objectBeginDate": 1782,
+  "objectEndDate": 1809,
+  "medium": "Ivory",
+  "dimensions": "Oval, 2 1/4 x 1 7/8 in. (59 x 48 mm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 5.7,
+        "Width": 4.8
+      }
+    }
+  ],
+  "creditLine": "The Glenn Tilley Morse Collection, Bequest of Glenn Tilley Morse, 1950",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Miniatures",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2024-10-03T04:53:53.567Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435634",
+  "tags": [
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913810",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

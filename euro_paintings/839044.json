@@ -1,0 +1,102 @@
+{
+  "objectID": 839044,
+  "isHighlight": false,
+  "accessionNumber": "2020.84.2",
+  "accessionYear": "2020",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-19487-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-19487-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 165199,
+      "role": "Artist",
+      "name": "Thomas Fearnley",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500020244",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1969461",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Gudvangen",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Thomas Fearnley",
+  "artistDisplayBio": "Norwegian, Frederikshald 1802–1842 Munich",
+  "artistSuffix": "",
+  "artistAlphaSort": "Fearnley, Thomas",
+  "artistNationality": "Norwegian",
+  "artistBeginDate": "1802",
+  "artistEndDate": "1842",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q1969461",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500020244",
+  "objectDate": "1839",
+  "objectBeginDate": 1839,
+  "objectEndDate": 1839,
+  "medium": "Oil on paper, laid down on wood",
+  "dimensions": "7 1/16 × 11 in. (18 × 28 cm)",
+  "measurements": [
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 3.8100076,
+        "Height": 27.940056,
+        "Width": 38.100075
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 18,
+        "Width": 28
+      }
+    }
+  ],
+  "creditLine": "Gift of Christen Sveaas, in celebration of the Museum's 150th Anniversary, 2020",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-06-18T04:50:26.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/839044",
+  "tags": [
+    {
+      "term": "Waterfalls",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008736",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q34038"
+    },
+    {
+      "term": "Mountains",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008795",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8502"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q111272648",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

@@ -1,0 +1,93 @@
+{
+  "objectID": 436975,
+  "isHighlight": false,
+  "accessionNumber": "92.1.49",
+  "accessionYear": "1892",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP143204.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP143204.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 107971,
+      "role": "Artist",
+      "name": "Matthys Maris",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500000637",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1375830",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Reverie",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Matthys Maris",
+  "artistDisplayBio": "Dutch, The Hague 1839–1917 London",
+  "artistSuffix": "",
+  "artistAlphaSort": "Maris, Matthys",
+  "artistNationality": "Dutch",
+  "artistBeginDate": "1839",
+  "artistEndDate": "1917",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q1375830",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500000637",
+  "objectDate": "1875",
+  "objectBeginDate": 1875,
+  "objectEndDate": 1875,
+  "medium": "Oil on canvas",
+  "dimensions": "12 x 9 1/4 in. (30.5 x 23.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 30.5,
+        "Width": 23.5
+      }
+    }
+  ],
+  "creditLine": "Bequest of Elizabeth U. Coles, in memory of her son, William F. Coles, 1892",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436975",
+  "tags": [
+    {
+      "term": "Interiors",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300391239",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q2998430"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Cats",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300265960",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q146"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913270",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

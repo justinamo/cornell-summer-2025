@@ -1,0 +1,103 @@
+{
+  "objectID": 437812,
+  "isHighlight": false,
+  "accessionNumber": "1980.67",
+  "accessionYear": "1980",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT8976.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT8976.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162538,
+      "role": "Artist",
+      "name": "Giovanni Domenico Tiepolo",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500025154",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q435316",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "A Dance in the Country",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Giovanni Domenico Tiepolo",
+  "artistDisplayBio": "Italian, Venice 1727–1804 Venice",
+  "artistSuffix": "",
+  "artistAlphaSort": "Tiepolo, Giovanni Domenico",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1727",
+  "artistEndDate": "1804",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q435316",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500025154",
+  "objectDate": "ca. 1755",
+  "objectBeginDate": 1750,
+  "objectEndDate": 1760,
+  "medium": "Oil on canvas",
+  "dimensions": "29 3/4 x 47 1/4 in. (75.6 x 120 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 75.6,
+        "Width": 120
+      }
+    }
+  ],
+  "creditLine": "Gift of Mr. and Mrs. Charles Wrightsman, 1980",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-04-30T04:49:03.02Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437812",
+  "tags": [
+    {
+      "term": "Costumes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300266810",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q9053464"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Dancing",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300389779",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q43393537"
+    },
+    {
+      "term": "Actors",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025658",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q33999"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911584",
+  "isTimelineWork": true,
+  "GalleryNumber": "643"
+}

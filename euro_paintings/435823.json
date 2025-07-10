@@ -1,0 +1,96 @@
+{
+  "objectID": 435823,
+  "isHighlight": false,
+  "accessionNumber": "1971.115.3ab",
+  "accessionYear": "1971",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP246969.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP246969.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/DP248085.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/SF 1971.115.3ab.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 163304,
+      "role": "Artist",
+      "name": "Giuliano di Piero di Simone Bugiardini",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011070",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2578459",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Adam; Eve",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Giuliano di Piero di Simone Bugiardini",
+  "artistDisplayBio": "Italian, Florence 1475–1554 Florence",
+  "artistSuffix": "",
+  "artistAlphaSort": "Bugiardini, Giuliano di Piero di Simone",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1475",
+  "artistEndDate": "1554",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q2578459",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500011070",
+  "objectDate": "ca. 1520",
+  "objectBeginDate": 1515,
+  "objectEndDate": 1525,
+  "medium": "Oil on canvas",
+  "dimensions": "Each 26 3/8 x 61 3/4 in. (67 x 156.8 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 67,
+        "Width": 156.8
+      }
+    }
+  ],
+  "creditLine": "Bequest of Edward Fowles, 1971",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435823",
+  "tags": [
+    {
+      "term": "Snakes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250870",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q2102"
+    },
+    {
+      "term": "Adam",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000219",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q70899"
+    },
+    {
+      "term": "Eve",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000205",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q830183"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912183",
+  "isTimelineWork": false,
+  "GalleryNumber": "604"
+}

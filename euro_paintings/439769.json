@@ -1,0 +1,97 @@
+{
+  "objectID": 439769,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.14",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 115851,
+      "role": "Artist",
+      "name": "Giovanni Battista Camuccini",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500201667",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21464703",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Path in the Roman Campagna",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Giovanni Battista Camuccini",
+  "artistDisplayBio": "Italian, Rome 1819–1904 Rome",
+  "artistSuffix": "",
+  "artistAlphaSort": "Camuccini, Giovanni Battista",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1819",
+  "artistEndDate": "1904",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q21464703",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500201667",
+  "objectDate": "1840s",
+  "objectBeginDate": 1840,
+  "objectEndDate": 1849,
+  "medium": "Oil on paper, laid down on canvas",
+  "dimensions": "11 x 16 1/4 in. (27.9 x 41.3 cm)",
+  "measurements": [
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 6.350013,
+        "Height": 35.87757,
+        "Width": 51.117603
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 27.9401,
+        "Width": 41.27508
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-06-04T04:51:25.263Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/439769",
+  "tags": [
+    {
+      "term": "Roads",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008217",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q34442"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913614",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

@@ -1,0 +1,88 @@
+{
+  "objectID": 852668,
+  "isHighlight": false,
+  "accessionNumber": "2021.159",
+  "accessionYear": "2021",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-22562-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-22562-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 216440,
+      "role": "Artist",
+      "name": "Frits Thaulow",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500015798",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q445891",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Picquigny",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Frits Thaulow",
+  "artistDisplayBio": "Norwegian, Oslo (Kristiania) 1847–1906 Volendam, The Netherlands",
+  "artistSuffix": "",
+  "artistAlphaSort": "Thaulow, Frits",
+  "artistNationality": "Norwegian",
+  "artistBeginDate": "1847",
+  "artistEndDate": "1906",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q445891",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500015798",
+  "objectDate": "1899",
+  "objectBeginDate": 1899,
+  "objectEndDate": 1899,
+  "medium": "Oil on canvas",
+  "dimensions": "28 3/4 × 36 1/4 in. (73 × 92 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 73,
+        "Width": 92
+      }
+    }
+  ],
+  "creditLine": "Gift of Christen Sveaas, 2021",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-02-19T04:53:40.47Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/852668",
+  "tags": [
+    {
+      "term": "Villages",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008372",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q532"
+    },
+    {
+      "term": "Rivers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008707",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4022"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q111729983",
+  "isTimelineWork": false,
+  "GalleryNumber": "827"
+}

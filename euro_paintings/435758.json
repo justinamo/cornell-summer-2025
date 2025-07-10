@@ -1,0 +1,98 @@
+{
+  "objectID": 435758,
+  "isHighlight": false,
+  "accessionNumber": "25.106.17",
+  "accessionYear": "1925",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP327724.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP327724.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 108566,
+      "role": "Artist",
+      "name": "Joseph Marie Bouton",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q22001988",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, miniature",
+  "title": "A Woman Playing a Harp",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Joseph Marie Bouton",
+  "artistDisplayBio": "French (?), 1768–1823",
+  "artistSuffix": "",
+  "artistAlphaSort": "Bouton, Joseph Marie",
+  "artistNationality": "French (?)",
+  "artistBeginDate": "1768",
+  "artistEndDate": "1823",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q22001988",
+  "artistULAN_URL": "",
+  "objectDate": "",
+  "objectBeginDate": 1788,
+  "objectEndDate": 1823,
+  "medium": "Ivory",
+  "dimensions": "Diameter 3 1/2 in. (90 mm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 8.9,
+        "Width": 8.9
+      }
+    }
+  ],
+  "creditLine": "Gift of Mrs. Louis V. Bell, in memory of her husband, 1925",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Miniatures",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435758",
+  "tags": [
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Harps",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300042047",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q47369"
+    },
+    {
+      "term": "Musicians",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025666",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q639669"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19914030",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

@@ -1,0 +1,88 @@
+{
+  "objectID": 436239,
+  "isHighlight": false,
+  "accessionNumber": "49.7.56",
+  "accessionYear": "1949",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP169398.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP169398.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 166214,
+      "role": "Artist",
+      "name": "Gainsborough Dupont",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115199",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5517292",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Anne Elizabeth Cholmley (1769–1788), Later Lady Mulgrave",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Gainsborough Dupont",
+  "artistDisplayBio": "British, Sudbury, Suffolk 1754–1797 London",
+  "artistSuffix": "",
+  "artistAlphaSort": "Dupont, Gainsborough",
+  "artistNationality": "British",
+  "artistBeginDate": "1754",
+  "artistEndDate": "1797",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5517292",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115199",
+  "objectDate": "",
+  "objectBeginDate": 1774,
+  "objectEndDate": 1797,
+  "medium": "Oil on wood",
+  "dimensions": "Overall 7 1/8 x 5 3/4 in. (18.1 x 14.6 cm); painted surface 6 x 4 3/4 in. (15.2 x 12.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 18.1,
+        "Width": 14.6
+      }
+    }
+  ],
+  "creditLine": "The Jules Bache Collection, 1949",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-05-30T04:51:06.697Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436239",
+  "tags": [
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912335",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

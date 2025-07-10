@@ -1,0 +1,97 @@
+{
+  "objectID": 438619,
+  "isHighlight": false,
+  "accessionNumber": "2003.42.31",
+  "accessionYear": "2003",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 129396,
+      "role": "Artist",
+      "name": "Attributed to Jean-Augustin Franquelin",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500027300",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1684598",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Mariner's Wife",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Attributed to",
+  "artistDisplayName": "Jean-Augustin Franquelin",
+  "artistDisplayBio": "French, Paris 1798–1839 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Franquelin, Jean-Augustin",
+  "artistNationality": "French",
+  "artistBeginDate": "1798",
+  "artistEndDate": "1839",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q1684598",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500027300",
+  "objectDate": "",
+  "objectBeginDate": 1820,
+  "objectEndDate": 1839,
+  "medium": "Oil on canvas",
+  "dimensions": "15 3/8 x 18 1/2 in. (39 x 47 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 39,
+        "Width": 47
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 6.985014,
+        "Height": 53.022606,
+        "Width": 61.277622
+      }
+    }
+  ],
+  "creditLine": "The Whitney Collection, Promised Gift of Wheelock Whitney III, and Purchase, Gift of Mr. and Mrs. Charles S. McVeigh, by exchange, 2003",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/438619",
+  "tags": [
+    {
+      "term": "Infants",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300189561",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q998"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911655",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

@@ -1,0 +1,103 @@
+{
+  "objectID": 437443,
+  "isHighlight": false,
+  "accessionNumber": "1986.264.5",
+  "accessionYear": "1986",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP168995.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP168995.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 165087,
+      "role": "Artist",
+      "name": "Sir Joshua Reynolds",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004539",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q194402",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Thomas (1740–1825) and Martha Neate (1741–after 1795) with His Tutor, Thomas Needham",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Sir Joshua Reynolds",
+  "artistDisplayBio": "British, Plympton 1723–1792 London",
+  "artistSuffix": "",
+  "artistAlphaSort": "Reynolds, Joshua, Sir",
+  "artistNationality": "British",
+  "artistBeginDate": "1723",
+  "artistEndDate": "1792",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q194402",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500004539",
+  "objectDate": "1748",
+  "objectBeginDate": 1748,
+  "objectEndDate": 1748,
+  "medium": "Oil on canvas",
+  "dimensions": "66 1/8 x 71 in. (168 x 180.3 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 168,
+        "Width": 180.3
+      }
+    }
+  ],
+  "creditLine": "Gift of Heathcote Art Foundation, 1986",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437443",
+  "tags": [
+    {
+      "term": "Boys",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+    },
+    {
+      "term": "Girls",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Sheep",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250284",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q7368"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912271",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

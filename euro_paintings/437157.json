@@ -1,0 +1,124 @@
+{
+  "objectID": 437157,
+  "isHighlight": false,
+  "accessionNumber": "11.53",
+  "accessionYear": "1911",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-19630-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-19630-001.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/Moretto Xray no cap.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 162141,
+      "role": "Artist",
+      "name": "Moretto da Brescia (Alessandro Bonvicino)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500007609",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q954504",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Christ in the Wilderness",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Moretto da Brescia (Alessandro Bonvicino)",
+  "artistDisplayBio": "Italian, Brescia ca. 1498–1554 Brescia",
+  "artistSuffix": "",
+  "artistAlphaSort": "Moretto da Brescia (Alessandro Bonvicino)",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1498",
+  "artistEndDate": "1554",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q954504",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500007609",
+  "objectDate": "ca. 1515–20",
+  "objectBeginDate": 1515,
+  "objectEndDate": 1520,
+  "medium": "Oil on canvas",
+  "dimensions": "18 x 21 3/4 in. (45.7 x 55.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 45.7,
+        "Width": 55.2
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 7.3025146,
+        "Height": 61.595123,
+        "Width": 71.437645
+      }
+    }
+  ],
+  "creditLine": "Rogers Fund, 1911",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-12T04:54:02.613Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437157",
+  "tags": [
+    {
+      "term": "Bears",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300266516",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q30090244"
+    },
+    {
+      "term": "Birds",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+    },
+    {
+      "term": "Deer",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250308",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q685795"
+    },
+    {
+      "term": "Foxes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300266520",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8331"
+    },
+    {
+      "term": "Lions",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300310388",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q140"
+    },
+    {
+      "term": "Angels",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+    },
+    {
+      "term": "Christ",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911611",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

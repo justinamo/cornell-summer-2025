@@ -1,0 +1,106 @@
+{
+  "objectID": 441183,
+  "isHighlight": false,
+  "accessionNumber": "2011.84",
+  "accessionYear": "2011",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP246394.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP246394.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 163564,
+      "role": "Artist",
+      "name": "Charles Antoine Coypel",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500030761",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q113536",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, drawing",
+  "title": "François de Jullienne (1722–1754) and Marie Elisabeth de Jullienne (Marie Elisabeth de Séré de Rieux, 1724–1795)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Charles Antoine Coypel",
+  "artistDisplayBio": "French, Paris 1694–1752 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Coypel, Charles Antoine",
+  "artistNationality": "French",
+  "artistBeginDate": "1694",
+  "artistEndDate": "1752",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q113536",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500030761",
+  "objectDate": "1743",
+  "objectBeginDate": 1743,
+  "objectEndDate": 1743,
+  "medium": "Pastel, black chalk, watercolor, and traces of black chalk underdrawing on four joined sheets of handmade blue laid paper, mounted on canvas and adhered to a keyed stretcher",
+  "dimensions": "39 3/8 x 31 1/2 in. (100 x 80 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 100,
+        "Width": 80
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 124.9365,
+        "Width": 106.680214
+      }
+    }
+  ],
+  "creditLine": "Purchase, Mrs. Charles Wrightsman Gift, in honor of Annette de la Renta, 2011",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Pastels & Oil Sketches on Paper",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2024-09-04T04:54:51.967Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/441183",
+  "tags": [
+    {
+      "term": "Couples",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379217",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q219160"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912450",
+  "isTimelineWork": true,
+  "GalleryNumber": "642"
+}

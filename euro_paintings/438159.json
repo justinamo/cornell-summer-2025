@@ -1,0 +1,98 @@
+{
+  "objectID": 438159,
+  "isHighlight": false,
+  "accessionNumber": "2019.167.1",
+  "accessionYear": "2019",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP155336.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP155336.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161802,
+      "role": "Artist",
+      "name": "Johan Christian Dahl",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500002468",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q164735",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "An Eruption of Vesuvius",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Johan Christian Dahl",
+  "artistDisplayBio": "Norwegian, Bergen 1788–1857 Dresden",
+  "artistSuffix": "",
+  "artistAlphaSort": "Dahl, Johan Christian",
+  "artistNationality": "Norwegian",
+  "artistBeginDate": "1788",
+  "artistEndDate": "1857",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q164735",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500002468",
+  "objectDate": "1824",
+  "objectBeginDate": 1824,
+  "objectEndDate": 1824,
+  "medium": "Oil on canvas",
+  "dimensions": "37 x 54 3/4 in. (94 x 139.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 94,
+        "Width": 139.1
+      }
+    }
+  ],
+  "creditLine": "Gift of Christen Sveaas, in celebration of the Museum's 150th Anniversary, 2019",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-06-06T04:50:48.053Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/438159",
+  "tags": [
+    {
+      "term": "Donkeys",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300265959",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3537778"
+    },
+    {
+      "term": "Fire",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300417275",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3196"
+    },
+    {
+      "term": "Mountains",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008795",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8502"
+    },
+    {
+      "term": "Volcanoes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132325",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8072"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q78637988",
+  "isTimelineWork": false,
+  "GalleryNumber": "807"
+}

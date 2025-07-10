@@ -1,0 +1,88 @@
+{
+  "objectID": 437582,
+  "isHighlight": false,
+  "accessionNumber": "67.131",
+  "accessionYear": "1967",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP161648.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP161648.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 165090,
+      "role": "Artist",
+      "name": "John Russell",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500002979",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q6255995",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, drawing",
+  "title": "Robert Shurlock (1772–1847)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "John Russell",
+  "artistDisplayBio": "British, Guildford 1745–1806 Hull",
+  "artistSuffix": "",
+  "artistAlphaSort": "Russell, John",
+  "artistNationality": "British",
+  "artistBeginDate": "1745",
+  "artistEndDate": "1806",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q6255995",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500002979",
+  "objectDate": "1801",
+  "objectBeginDate": 1801,
+  "objectEndDate": 1801,
+  "medium": "Pastel on paper, laid down on canvas",
+  "dimensions": "23 3/4 x 17 3/8 in. (60.3 x 44.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 60.3,
+        "Width": 44.1
+      }
+    }
+  ],
+  "creditLine": "Gift of Alan R. Shurlock, 1967",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Pastels & Oil Sketches on Paper",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437582",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913437",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

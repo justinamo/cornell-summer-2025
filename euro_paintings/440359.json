@@ -1,0 +1,92 @@
+{
+  "objectID": 440359,
+  "isHighlight": false,
+  "accessionNumber": "2016.802.14",
+  "accessionYear": "2016",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 164225,
+      "role": "Artist",
+      "name": "Antoine Pierre Mongin",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011682",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3382850",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Corner of a Park",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Antoine Pierre Mongin",
+  "artistDisplayBio": "French, Paris 1761/62–1827 Versailles",
+  "artistSuffix": "",
+  "artistAlphaSort": "Mongin, Antoine Pierre",
+  "artistNationality": "French",
+  "artistBeginDate": "1762",
+  "artistEndDate": "1827",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q3382850",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500011682",
+  "objectDate": "",
+  "objectBeginDate": 1781,
+  "objectEndDate": 1827,
+  "medium": "Oil on prepared paper, laid down on canvas",
+  "dimensions": "13 5/8 x 11 3/8 in. (34.6 x 28.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 5.7150116,
+        "Height": 43.815086,
+        "Width": 38.417576
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 34.6076,
+        "Width": 28.8926
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2016",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-06-04T04:51:25.263Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/440359",
+  "tags": [
+    {
+      "term": "Parks",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008187",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q22698"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q126131323",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

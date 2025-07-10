@@ -1,0 +1,88 @@
+{
+  "objectID": 435583,
+  "isHighlight": false,
+  "accessionNumber": "41.190.9",
+  "accessionYear": "1941",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep41.190.9.bw.R.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/ep41.190.9.bw.R.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 107313,
+      "role": "Artist",
+      "name": "Antoniazzo Romano (Antonio di Benedetto Aquilio)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500031194",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q598649",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Madonna and Child",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Antoniazzo Romano (Antonio di Benedetto Aquilio)",
+  "artistDisplayBio": "Italian, Rome 1435/40–1508 Rome",
+  "artistSuffix": "",
+  "artistAlphaSort": "Antoniazzo Romano (Antonio di Benedetto Aquilio)",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1435",
+  "artistEndDate": "1508",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q598649",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500031194",
+  "objectDate": "",
+  "objectBeginDate": 1452,
+  "objectEndDate": 1512,
+  "medium": "Tempera on wood, gold ground",
+  "dimensions": "Overall 14 7/8 x 10 3/4 in. (37.8 x 27.3 cm); painted surface 14 1/8 x 10 1/8 in. (35.9 x 25.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 37.8,
+        "Width": 27.3
+      }
+    }
+  ],
+  "creditLine": "Bequest of George Blumenthal, 1941",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435583",
+  "tags": [
+    {
+      "term": "Madonna and Child",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+    },
+    {
+      "term": "Nursing",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379905",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q174876"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912092",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

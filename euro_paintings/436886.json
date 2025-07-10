@@ -1,0 +1,102 @@
+{
+  "objectID": 436886,
+  "isHighlight": false,
+  "accessionNumber": "16.148.2",
+  "accessionYear": "1916",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162069,
+      "role": "Artist",
+      "name": "Max Liebermann",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115690",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q158062",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Ropewalk in Edam",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Max Liebermann",
+  "artistDisplayBio": "German, Berlin 1847–1935 Berlin",
+  "artistSuffix": "",
+  "artistAlphaSort": "Liebermann, Max",
+  "artistNationality": "German",
+  "artistBeginDate": "1847",
+  "artistEndDate": "1935",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q158062",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115690",
+  "objectDate": "1904",
+  "objectBeginDate": 1904,
+  "objectEndDate": 1904,
+  "medium": "Oil on canvas",
+  "dimensions": "39 3/4 x 28 in. (101 x 71.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 101,
+        "Width": 71.1
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 12.7,
+        "Height": 130.8103,
+        "Width": 100.3302
+      }
+    }
+  ],
+  "creditLine": "Reisinger Fund, 1916",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436886",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Forests",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300387598",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4421"
+    },
+    {
+      "term": "Working",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300412186",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q6958747"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905225",
+  "isTimelineWork": false,
+  "GalleryNumber": "827"
+}

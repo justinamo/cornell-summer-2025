@@ -1,0 +1,113 @@
+{
+  "objectID": 437606,
+  "isHighlight": false,
+  "accessionNumber": "58.189.1",
+  "accessionYear": "1958",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/SF 58.189.1.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/SF 58.189.1.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162375,
+      "role": "Artist",
+      "name": "Sano di Pietro (Ansano di Pietro di Mencio)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115558",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1379714",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, predella panel",
+  "title": "The Massacre of the Innocents",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Sano di Pietro (Ansano di Pietro di Mencio)",
+  "artistDisplayBio": "Italian, Siena 1405–1481 Siena",
+  "artistSuffix": "",
+  "artistAlphaSort": "Sano di Pietro (Ansano di Pietro di Mencio)",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1405",
+  "artistEndDate": "1481",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q1379714",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115558",
+  "objectDate": "ca. 1470",
+  "objectBeginDate": 1465,
+  "objectEndDate": 1475,
+  "medium": "Tempera on wood",
+  "dimensions": "11 7/8 x 17 3/8 in. (30.2 x 44.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 30.2,
+        "Width": 44.1
+      }
+    }
+  ],
+  "creditLine": "Gift of Irma N. Straus, 1958",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-05-07T04:49:19.68Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437606",
+  "tags": [
+    {
+      "term": "Soldiers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300185678",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4991371"
+    },
+    {
+      "term": "Massacres",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379188",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3199915"
+    },
+    {
+      "term": "Swords",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300037048",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12791"
+    },
+    {
+      "term": "Infants",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300189561",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q998"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Herod",
+      "AAT_URL": "http://vocab.getty.edu/page/ulan/500350196",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q51672"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913283",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

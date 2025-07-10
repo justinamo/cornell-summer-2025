@@ -1,0 +1,108 @@
+{
+  "objectID": 437643,
+  "isHighlight": false,
+  "accessionNumber": "44.56",
+  "accessionYear": "1944",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP169565.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP169565.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 166185,
+      "role": "Artist",
+      "name": "Samuel Scott",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500026724",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2542057",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Building of Westminster Bridge",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Samuel Scott",
+  "artistDisplayBio": "British, London ca. 1702–1772 Bath",
+  "artistSuffix": "",
+  "artistAlphaSort": "Scott, Samuel",
+  "artistNationality": "British",
+  "artistBeginDate": "1697",
+  "artistEndDate": "1772",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q2542057",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500026724",
+  "objectDate": "",
+  "objectBeginDate": 1722,
+  "objectEndDate": 1772,
+  "medium": "Oil on canvas",
+  "dimensions": "24 x 44 3/8 in. (61 x 112.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 61,
+        "Width": 112.7
+      }
+    }
+  ],
+  "creditLine": "Purchase, Charles B. Curtis Fund and Joseph Pulitzer Bequest, 1944",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437643",
+  "tags": [
+    {
+      "term": "Buildings",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300004789",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q41176"
+    },
+    {
+      "term": "Bridges",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300386855",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12280"
+    },
+    {
+      "term": "Cathedrals",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300007501",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q2977"
+    },
+    {
+      "term": "Rivers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008707",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4022"
+    },
+    {
+      "term": "Boats",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+    },
+    {
+      "term": "London",
+      "AAT_URL": "http://vocab.getty.edu/page/tgn/7011781",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q84"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19906251",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

@@ -1,0 +1,100 @@
+{
+  "objectID": 437567,
+  "isHighlight": false,
+  "accessionNumber": "33.79.1–12",
+  "accessionYear": "1933",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/EP484.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/EP484.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/EP487.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/EP488.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/EP489.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/EP490.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/EP491.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/EP492.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/EP493.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/EP494.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/EP485.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/EP486.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/EP573.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 107260,
+      "role": "Artist",
+      "name": "Russian Painter",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, icons",
+  "title": "Calendar of Saints and Festivals",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Russian Painter",
+  "artistDisplayBio": "17th/18th century",
+  "artistSuffix": "",
+  "artistAlphaSort": "Russian Painter",
+  "artistNationality": "Russian",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "",
+  "objectBeginDate": 1600,
+  "objectEndDate": 1799,
+  "medium": "Tempera on wood, gold ground",
+  "dimensions": "Each 12 3/8 x 10 1/4 in. (31.4 x 26 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 31.4,
+        "Width": 26
+      }
+    }
+  ],
+  "creditLine": "Gift of Mrs. Henry Morgenthau, 1933",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2024-05-11T04:52:16.88Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437567",
+  "tags": [
+    {
+      "term": "Saints",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+    },
+    {
+      "term": "Calendars",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300026741",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12132"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913446",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

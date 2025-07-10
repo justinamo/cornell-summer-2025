@@ -1,0 +1,98 @@
+{
+  "objectID": 439358,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.26",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 166233,
+      "role": "Artist",
+      "name": "John Constable",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115382",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q159297",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Hampstead Heath with Bathers",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "John Constable",
+  "artistDisplayBio": "British, East Bergholt 1776–1837 Hampstead",
+  "artistSuffix": "",
+  "artistAlphaSort": "Constable, John",
+  "artistNationality": "British",
+  "artistBeginDate": "1776",
+  "artistEndDate": "1837",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q159297",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115382",
+  "objectDate": "ca. 1821–22",
+  "objectBeginDate": 1816,
+  "objectEndDate": 1827,
+  "medium": "Oil on canvas",
+  "dimensions": "9 5/8 x 15 3/8 in. (24.4 x 39.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 24.44755,
+        "Width": 39.052578
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/439358",
+  "tags": [
+    {
+      "term": "Parks",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008187",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q22698"
+    },
+    {
+      "term": "Sky",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300263064",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q527"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    },
+    {
+      "term": "London",
+      "AAT_URL": "http://vocab.getty.edu/page/tgn/7011781",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q84"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905595",
+  "isTimelineWork": true,
+  "GalleryNumber": "808"
+}

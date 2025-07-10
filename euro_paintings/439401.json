@@ -1,0 +1,97 @@
+{
+  "objectID": 439401,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.112",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 126582,
+      "role": "Artist",
+      "name": "Pierre Henri de Valenciennes or Circle",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011650",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q334946",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Fortified Wall at Tivoli",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Pierre Henri de Valenciennes or Circle",
+  "artistDisplayBio": "French, Toulouse 1750–1819 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Valenciennes, Pierre Henri de, or Circle",
+  "artistNationality": "French",
+  "artistBeginDate": "1750",
+  "artistEndDate": "1819",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q334946",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500011650",
+  "objectDate": "",
+  "objectBeginDate": 1785,
+  "objectEndDate": 1810,
+  "medium": "Oil on paper",
+  "dimensions": "14 3/8 x 18 7/8 in. (36.5 x 47.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 36.5126,
+        "Width": 47.9426
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 4.7625093,
+        "Height": 56.03886,
+        "Width": 69.85014
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/439401",
+  "tags": [
+    {
+      "term": "Fortification",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300006888",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q57821"
+    },
+    {
+      "term": "Mountains",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008795",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8502"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913188",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

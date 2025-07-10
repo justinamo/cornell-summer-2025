@@ -1,0 +1,93 @@
+{
+  "objectID": 437614,
+  "isHighlight": false,
+  "accessionNumber": "25.106.6",
+  "accessionYear": "1925",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/60102.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/60102.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 164895,
+      "role": "Artist",
+      "name": "Attributed to Piat Joseph Sauvage",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500031952",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3382227",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, miniature",
+  "title": "Portrait of a Young Woman",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Attributed to",
+  "artistDisplayName": "Piat Joseph Sauvage",
+  "artistDisplayBio": "Flemish, Tournai 1744–1818 Tournai",
+  "artistSuffix": "",
+  "artistAlphaSort": "Sauvage, Piat Joseph",
+  "artistNationality": "Flemish",
+  "artistBeginDate": "1744",
+  "artistEndDate": "1818",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q3382227",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500031952",
+  "objectDate": "ca. 1790–95",
+  "objectBeginDate": 1790,
+  "objectEndDate": 1795,
+  "medium": "Ivory",
+  "dimensions": "Diameter 2 1/8 in. (54 mm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 5.4,
+        "Width": 5.4
+      }
+    }
+  ],
+  "creditLine": "Gift of Mrs. Louis V. Bell, in memory of her husband, 1925",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Miniatures",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2024-10-03T04:53:53.567Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437614",
+  "tags": [
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Profiles",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300123319",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4382010"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913871",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

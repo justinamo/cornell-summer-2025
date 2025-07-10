@@ -1,0 +1,88 @@
+{
+  "objectID": 439376,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.63",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 126573,
+      "role": "Artist",
+      "name": "Léon Fleury",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500024923",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3083823",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "View of Tivoli from Santa Maria del Giglio",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Léon Fleury",
+  "artistDisplayBio": "French, Paris 1804–1858 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Fleury Léon",
+  "artistNationality": "French",
+  "artistBeginDate": "1804",
+  "artistEndDate": "1858",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q3083823",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500024923",
+  "objectDate": "1827 or later",
+  "objectBeginDate": 1827,
+  "objectEndDate": 1844,
+  "medium": "Oil on paper, laid down on canvas",
+  "dimensions": "7 3/4 x 10 3/8 in. (19.7 x 26.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 19.685,
+        "Width": 26.352552
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/439376",
+  "tags": [
+    {
+      "term": "Roads",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008217",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q34442"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912446",
+  "isTimelineWork": false,
+  "GalleryNumber": "805"
+}

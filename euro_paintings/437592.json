@@ -1,0 +1,93 @@
+{
+  "objectID": 437592,
+  "isHighlight": false,
+  "accessionNumber": "71.12",
+  "accessionYear": "1871",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-22530-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-22530-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 108265,
+      "role": "Artist",
+      "name": "David Ryckaert III",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500116871",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q323932",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Yard of the Inn at Emmaus",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "David Ryckaert III",
+  "artistDisplayBio": "Flemish, 1612–1661",
+  "artistSuffix": "",
+  "artistAlphaSort": "Ryckaert, David, III",
+  "artistNationality": "Flemish",
+  "artistBeginDate": "1612",
+  "artistEndDate": "1661",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q323932",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500116871",
+  "objectDate": "",
+  "objectBeginDate": 1632,
+  "objectEndDate": 1661,
+  "medium": "Oil on canvas",
+  "dimensions": "35 5/8 x 45 3/8 in. (90.5 x 115.3 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 90.5,
+        "Width": 115.3
+      }
+    }
+  ],
+  "creditLine": "Purchase, 1871",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437592",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Pigs",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250114",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q58697"
+    },
+    {
+      "term": "Rabbits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250218",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q9394"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912908",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

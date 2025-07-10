@@ -1,0 +1,88 @@
+{
+  "objectID": 438839,
+  "isHighlight": false,
+  "accessionNumber": "68.222.12",
+  "accessionYear": "1968",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ap68.222.12.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/ap68.222.12.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 124440,
+      "role": "Artist",
+      "name": "British or Irish Painter",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, miniature",
+  "title": "William Paulet Carey (1759–1839)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "British or Irish Painter",
+  "artistDisplayBio": "late 18th century",
+  "artistSuffix": "",
+  "artistAlphaSort": "British or Irish Painter",
+  "artistNationality": "Britishor Irish",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "",
+  "objectBeginDate": 1770,
+  "objectEndDate": 1799,
+  "medium": "Watercolor on ivory",
+  "dimensions": "2 1/2 x 1 3/4 in. (64 x 44 mm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 6.35,
+        "Width": 4.445
+      }
+    }
+  ],
+  "creditLine": "Gift of J. William Middendorf II, 1968",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Miniatures",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/438839",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913737",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

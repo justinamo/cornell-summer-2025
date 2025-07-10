@@ -1,0 +1,102 @@
+{
+  "objectID": 440351,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.72",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 106512,
+      "role": "Artist",
+      "name": "Louis Gurlitt",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Landscape with a Castle on the River Etsch",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Louis Gurlitt",
+  "artistDisplayBio": "German, Altona 1812–1897 Naundorf, Saxony",
+  "artistSuffix": "",
+  "artistAlphaSort": "Gurlitt, Louis",
+  "artistNationality": "German",
+  "artistBeginDate": "1812",
+  "artistEndDate": "1897",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "",
+  "objectBeginDate": 1832,
+  "objectEndDate": 1897,
+  "medium": "Oil on paper, laid down on canvas",
+  "dimensions": "10 3/4 x 14 5/8 in. (27.3 x 37.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 27.305054,
+        "Width": 37.1476
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 5.397511,
+        "Height": 34.92507,
+        "Width": 45.08509
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/440351",
+  "tags": [
+    {
+      "term": "Castles",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300006891",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q23413"
+    },
+    {
+      "term": "Rivers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008707",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4022"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913527",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

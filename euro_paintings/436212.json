@@ -1,0 +1,93 @@
+{
+  "objectID": 436212,
+  "isHighlight": false,
+  "accessionNumber": "14.40.629",
+  "accessionYear": "1914",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP145914.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP145914.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 107602,
+      "role": "Artist",
+      "name": "Copy after Willem Drost",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500009474",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q60099",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Young Woman with a Pearl Necklace",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Copy after",
+  "artistDisplayName": "Willem Drost",
+  "artistDisplayBio": "Dutch, late 17th or early 18th century",
+  "artistSuffix": "",
+  "artistAlphaSort": "Drost, Willem",
+  "artistNationality": "Dutch",
+  "artistBeginDate": "1633",
+  "artistEndDate": "1659",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q60099",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500009474",
+  "objectDate": "",
+  "objectBeginDate": 1670,
+  "objectEndDate": 1729,
+  "medium": "Oil on canvas",
+  "dimensions": "33 1/8 x 24 1/2 in. (84.1 x 62.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 84.1,
+        "Width": 62.2
+      }
+    }
+  ],
+  "creditLine": "Bequest of Benjamin Altman, 1913",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436212",
+  "tags": [
+    {
+      "term": "Necklaces",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300046001",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q189299"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905418",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

@@ -1,0 +1,97 @@
+{
+  "objectID": 440335,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.46",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 126570,
+      "role": "Artist",
+      "name": "Alexandre Desgoffe",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001077",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2833597",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Mountain Landscape in Italy",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Alexandre Desgoffe",
+  "artistDisplayBio": "French, Paris 1805–1882 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Desgoffe, Alexandre",
+  "artistNationality": "French",
+  "artistBeginDate": "1805",
+  "artistEndDate": "1882",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q2833597",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500001077",
+  "objectDate": "",
+  "objectBeginDate": 1834,
+  "objectEndDate": 1837,
+  "medium": "Oil on irregularly cut paper",
+  "dimensions": "7 1/2 x 15 3/4 in. (19.1 x 40 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 19.050037,
+        "Width": 40.00508
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Diameter": 30.797562,
+        "Height": 52.387604,
+        "Width": 6.350013
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/440335",
+  "tags": [
+    {
+      "term": "Mountains",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008795",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8502"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913519",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

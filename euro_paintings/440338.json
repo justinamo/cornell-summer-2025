@@ -1,0 +1,102 @@
+{
+  "objectID": 440338,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.50",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 126958,
+      "role": "Artist",
+      "name": "Alexandre Dubuisson",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500042970",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q16611546",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "View in the Rhône Valley",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Alexandre Dubuisson",
+  "artistDisplayBio": "French, Lyons 1805–1870 Versailles",
+  "artistSuffix": "",
+  "artistAlphaSort": "Dubuisson, Alexandre",
+  "artistNationality": "French",
+  "artistBeginDate": "1805",
+  "artistEndDate": "1870",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q16611546",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500042970",
+  "objectDate": "",
+  "objectBeginDate": 1825,
+  "objectEndDate": 1870,
+  "medium": "Oil on paper, laid down on canvas",
+  "dimensions": "8 x 12 in. (20.3 x 30.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 20.32,
+        "Width": 30.4801
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Diameter": 28.257557,
+        "Height": 38.735077,
+        "Width": 4.7625093
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/440338",
+  "tags": [
+    {
+      "term": "Towns",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008375",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3957"
+    },
+    {
+      "term": "Rivers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008707",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4022"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913516",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

@@ -1,0 +1,102 @@
+{
+  "objectID": 435599,
+  "isHighlight": false,
+  "accessionNumber": "87.4.7",
+  "accessionYear": "1887",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/EP603.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/EP603.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 107333,
+      "role": "Artist",
+      "name": "Dionisio Baixeras y Verdaguer",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500002359",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3028747",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Boatmen of Barcelona",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Dionisio Baixeras y Verdaguer",
+  "artistDisplayBio": "Spanish, Barcelona 1862–1943 Barcelona",
+  "artistSuffix": "",
+  "artistAlphaSort": "Baixeras y Verdaguer, Dionisio",
+  "artistNationality": "Spanish",
+  "artistBeginDate": "1862",
+  "artistEndDate": "1943",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q3028747",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500002359",
+  "objectDate": "1886",
+  "objectBeginDate": 1886,
+  "objectEndDate": 1886,
+  "medium": "Oil on canvas",
+  "dimensions": "59 x 83 in. (149.9 x 210.8 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 149.9,
+        "Width": 210.8
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 14.605029,
+        "Height": 200.6604,
+        "Width": 262.89053
+      }
+    }
+  ],
+  "creditLine": "Gift of George I. Seney, 1886",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2024-11-26T04:55:37.99Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435599",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Boats",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+    },
+    {
+      "term": "Ships",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300082981",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q11446"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912725",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

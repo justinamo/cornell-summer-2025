@@ -1,0 +1,100 @@
+{
+  "objectID": 437900,
+  "isHighlight": true,
+  "accessionNumber": "54.182",
+  "accessionYear": "1954",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP320086.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP320086.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-54_182-2.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-54_182-3.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 162647,
+      "role": "Artist",
+      "name": "Elisabeth Louise Vigée Le Brun",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010070",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q213163",
+      "gender": "Female"
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Comtesse de la Châtre (Marie Charlotte Louise Perrette Aglaé Bontemps, 1762–1848)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Elisabeth Louise Vigée Le Brun",
+  "artistDisplayBio": "French, Paris 1755–1842 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Vigée Le Brun, Elisabeth Louise",
+  "artistNationality": "French",
+  "artistBeginDate": "1755",
+  "artistEndDate": "1842",
+  "artistGender": "Female",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q213163",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500010070",
+  "objectDate": "1789",
+  "objectBeginDate": 1789,
+  "objectEndDate": 1789,
+  "medium": "Oil on canvas",
+  "dimensions": "45 x 34 1/2 in. (114.3 x 87.6 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 114.3,
+        "Width": 87.6
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 12.065,
+        "Height": 147.3203,
+        "Width": 109.8552
+      }
+    }
+  ],
+  "creditLine": "Gift of Jessie Woolworth Donahue, 1954",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437900",
+  "tags": [
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912372",
+  "isTimelineWork": true,
+  "GalleryNumber": "632"
+}

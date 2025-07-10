@@ -1,0 +1,102 @@
+{
+  "objectID": 435847,
+  "isHighlight": false,
+  "accessionNumber": "58.145.2",
+  "accessionYear": "1958",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT282013.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT282013.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 107475,
+      "role": "Artist",
+      "name": "Frei Carlos",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500029941",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q10285877",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Saint Vincent, Patron Saint of Lisbon",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Frei Carlos",
+  "artistDisplayBio": "Portuguese, active second quarter 16th century",
+  "artistSuffix": "",
+  "artistAlphaSort": "Carlos, Frei",
+  "artistNationality": "Portuguese",
+  "artistBeginDate": "1525",
+  "artistEndDate": "1549",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q10285877",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500029941",
+  "objectDate": "",
+  "objectBeginDate": 1525,
+  "objectEndDate": 1549,
+  "medium": "Oil on wood",
+  "dimensions": "64 x 20 7/8 in. (162.6 x 53 cm)",
+  "measurements": [
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 9.525019,
+        "Height": 171.45035,
+        "Width": 64.77013
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 162.6,
+        "Width": 53
+      }
+    }
+  ],
+  "creditLine": "Bequest of Muriel Stokes, 1958",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435847",
+  "tags": [
+    {
+      "term": "Books",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300028051",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q571"
+    },
+    {
+      "term": "Saints",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+    },
+    {
+      "term": "Ships",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300082981",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q11446"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913368",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

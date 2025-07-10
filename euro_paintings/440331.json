@@ -1,0 +1,92 @@
+{
+  "objectID": 440331,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.36",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161802,
+      "role": "Artist",
+      "name": "Johan Christian Dahl",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500002468",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q164735",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Mausoleum of San Vito near Pozzuoli",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Johan Christian Dahl",
+  "artistDisplayBio": "Norwegian, Bergen 1788–1857 Dresden",
+  "artistSuffix": "",
+  "artistAlphaSort": "Dahl, Johan Christian",
+  "artistNationality": "Norwegian",
+  "artistBeginDate": "1788",
+  "artistEndDate": "1857",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q164735",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500002468",
+  "objectDate": "1820",
+  "objectBeginDate": 1820,
+  "objectEndDate": 1820,
+  "medium": "Oil on paper, laid down on cardboard",
+  "dimensions": "8 1/2 x 13 3/4 in. (21.6 x 34.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 21.59,
+        "Width": 34.9251
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 7.3025146,
+        "Height": 33.655067,
+        "Width": 47.625095
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/440331",
+  "tags": [
+    {
+      "term": "Tombs",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300005926",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q381885"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913180",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

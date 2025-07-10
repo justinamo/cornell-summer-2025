@@ -1,0 +1,102 @@
+{
+  "objectID": 439380,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.70",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161955,
+      "role": "Artist",
+      "name": "François Marius Granet",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500031529",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q964812",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Dusk, Monte Mario, Rome",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "François Marius Granet",
+  "artistDisplayBio": "French, Aix-en-Provence 1775–1849 Aix-en-Provence",
+  "artistSuffix": "",
+  "artistAlphaSort": "Granet, François Marius",
+  "artistNationality": "French",
+  "artistBeginDate": "1775",
+  "artistEndDate": "1849",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q964812",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500031529",
+  "objectDate": "1804",
+  "objectBeginDate": 1804,
+  "objectEndDate": 1804,
+  "medium": "Oil on paper, laid down on cardboard",
+  "dimensions": "8 x 12 1/4 in. (20.3 x 31.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 20.32004,
+        "Width": 31.1151
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 5.397511,
+        "Height": 30.797562,
+        "Width": 42.545086
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/439380",
+  "tags": [
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    },
+    {
+      "term": "Evening",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300343633",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q7725"
+    },
+    {
+      "term": "Rome",
+      "AAT_URL": "http://vocab.getty.edu/page/tgn/7000874",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q220"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19914305",
+  "isTimelineWork": false,
+  "GalleryNumber": "805"
+}

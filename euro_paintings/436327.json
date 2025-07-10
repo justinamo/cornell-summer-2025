@@ -1,0 +1,93 @@
+{
+  "objectID": 436327,
+  "isHighlight": false,
+  "accessionNumber": "53.161",
+  "accessionYear": "1953",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-1017-01.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-1017-01.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 165555,
+      "role": "Artist",
+      "name": "Jean Honoré Fragonard",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115329",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q127171",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Allegory of Vigilance",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Jean Honoré Fragonard",
+  "artistDisplayBio": "French, Grasse 1732–1806 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Fragonard, Jean Honoré",
+  "artistNationality": "French",
+  "artistBeginDate": "1732",
+  "artistEndDate": "1806",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q127171",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115329",
+  "objectDate": "ca. 1772",
+  "objectBeginDate": 1767,
+  "objectEndDate": 1777,
+  "medium": "Oil on canvas",
+  "dimensions": "Oval, 27 1/8 x 21 5/8 in. (68.9 x 54.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 68.9,
+        "Width": 54.9
+      }
+    }
+  ],
+  "creditLine": "Gift of René Fribourg, 1953",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436327",
+  "tags": [
+    {
+      "term": "Profiles",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300123319",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4382010"
+    },
+    {
+      "term": "Female Nudes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+    },
+    {
+      "term": "Reading",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300248178",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q199657"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912209",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

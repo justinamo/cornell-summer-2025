@@ -1,0 +1,102 @@
+{
+  "objectID": 695531,
+  "isHighlight": false,
+  "accessionNumber": "2016.802.13",
+  "accessionYear": "2016",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 164237,
+      "role": "Artist",
+      "name": "Johan Thomas Lundbye",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500018502",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q921230",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Clouds Heavy with Rain above Flyvesandsbakkerne and Lake Arresø",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Johan Thomas Lundbye",
+  "artistDisplayBio": "Danish, Kalundborg 1818–1848 Bedsted",
+  "artistSuffix": "",
+  "artistAlphaSort": "Lundbye, Johan Thomas",
+  "artistNationality": "Danish",
+  "artistBeginDate": "1818",
+  "artistEndDate": "1848",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q921230",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500018502",
+  "objectDate": "1838",
+  "objectBeginDate": 1838,
+  "objectEndDate": 1838,
+  "medium": "Oil on paper, laid down on cardboard",
+  "dimensions": "6 1/8 × 8 1/8 in. (15.6 × 20.6 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 15.557531,
+        "Width": 20.63754
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 5.08001,
+        "Height": 22.542545,
+        "Width": 27.305054
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2016",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/695531",
+  "tags": [
+    {
+      "term": "Sky",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300263064",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q527"
+    },
+    {
+      "term": "Clouds",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300343840",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8074"
+    },
+    {
+      "term": "Storms",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300054734",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q81054"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q116726826",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

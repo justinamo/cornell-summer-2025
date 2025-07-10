@@ -1,0 +1,102 @@
+{
+  "objectID": 437519,
+  "isHighlight": false,
+  "accessionNumber": "43.86.7",
+  "accessionYear": "1943",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP274261.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP274261.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162349,
+      "role": "Artist",
+      "name": "Théodore Rousseau",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500019946",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q310025",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "A River Landscape",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Théodore Rousseau",
+  "artistDisplayBio": "French, Paris 1812–1867 Barbizon",
+  "artistSuffix": "",
+  "artistAlphaSort": "Rousseau, Théodore",
+  "artistNationality": "French",
+  "artistBeginDate": "1812",
+  "artistEndDate": "1867",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q310025",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500019946",
+  "objectDate": "ca. 1845–50",
+  "objectBeginDate": 1840,
+  "objectEndDate": 1850,
+  "medium": "Oil on wood",
+  "dimensions": "16 3/8 x 24 7/8 in. (41.6 x 63.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 41.6,
+        "Width": 63.2
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 10.16,
+        "Height": 63.5001,
+        "Width": 85.0902
+      }
+    }
+  ],
+  "creditLine": "Bequest of Richard De Wolfe Brixey, 1943",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-04-30T04:49:03.02Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437519",
+  "tags": [
+    {
+      "term": "Rivers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008707",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4022"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    },
+    {
+      "term": "Boats",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912797",
+  "isTimelineWork": false,
+  "GalleryNumber": "802"
+}

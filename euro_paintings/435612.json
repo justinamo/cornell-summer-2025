@@ -1,0 +1,97 @@
+{
+  "objectID": 435612,
+  "isHighlight": false,
+  "accessionNumber": "1990.117",
+  "accessionYear": "1990",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162846,
+      "role": "Artist",
+      "name": "Albert Bartholomé",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500022258",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1389252",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Drawing",
+  "title": "The Artist's Wife (Périe, 1849–1887) Reading",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Albert Bartholomé",
+  "artistDisplayBio": "French, Thiverval 1848–1928 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Bartholomé, Albert",
+  "artistNationality": "French",
+  "artistBeginDate": "1848",
+  "artistEndDate": "1928",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q1389252",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500022258",
+  "objectDate": "1883",
+  "objectBeginDate": 1883,
+  "objectEndDate": 1883,
+  "medium": "Pastel and charcoal on wove paper, laid down on blue wove paper, laid down on stretched canvas",
+  "dimensions": "19 7/8 x 24 1/8 in. (50.5 x 61.3 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 50.5,
+        "Width": 61.3
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 7.3025146,
+        "Height": 76.20015,
+        "Width": 85.725174
+      }
+    }
+  ],
+  "creditLine": "Catharine Lorillard Wolfe Collection, Wolfe Fund, 1990",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Drawings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-02-22T04:53:13.223Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435612",
+  "tags": [
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Reading",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300248178",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q199657"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913403",
+  "isTimelineWork": false,
+  "GalleryNumber": "813"
+}

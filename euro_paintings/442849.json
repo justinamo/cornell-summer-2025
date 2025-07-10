@@ -1,0 +1,97 @@
+{
+  "objectID": 442849,
+  "isHighlight": false,
+  "accessionNumber": "2013.428",
+  "accessionYear": "2013",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP302453.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP302453.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161752,
+      "role": "Artist",
+      "name": "Eugène Carrière",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500007012",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q461464",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Women Sewing at a Table",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Eugène Carrière",
+  "artistDisplayBio": "French, Gournay-sur-Marne 1849–1906 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Carrière, Eugène",
+  "artistNationality": "French",
+  "artistBeginDate": "1849",
+  "artistEndDate": "1906",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q461464",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500007012",
+  "objectDate": "ca. 1894–96",
+  "objectBeginDate": 1894,
+  "objectEndDate": 1896,
+  "medium": "Oil on canvas",
+  "dimensions": "10 1/4 × 15 in. (26 × 38.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 26,
+        "Width": 38.100075
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 5.08001,
+        "Height": 38.100075,
+        "Width": 49.8476
+      }
+    }
+  ],
+  "creditLine": "Gift of Ariane and Alain Kirili, 2013",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/442849",
+  "tags": [
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Sewing",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300053658",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q652122"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913545",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

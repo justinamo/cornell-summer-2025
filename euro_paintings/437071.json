@@ -1,0 +1,117 @@
+{
+  "objectID": 437071,
+  "isHighlight": false,
+  "accessionNumber": "17.190.20",
+  "accessionYear": "1917",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP146447.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP146447.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 164884,
+      "role": "Artist",
+      "name": "Gabriël Metsu",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010491",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q355213",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Visit to the Nursery",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Gabriël Metsu",
+  "artistDisplayBio": "Dutch, Leiden 1629–1667 Amsterdam",
+  "artistSuffix": "",
+  "artistAlphaSort": "Metsu, Gabriël",
+  "artistNationality": "Dutch",
+  "artistBeginDate": "1629",
+  "artistEndDate": "1667",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q355213",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500010491",
+  "objectDate": "1661",
+  "objectBeginDate": 1661,
+  "objectEndDate": 1661,
+  "medium": "Oil on canvas",
+  "dimensions": "30 1/2 x 32 in. (77.5 x 81.3 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 77.5,
+        "Width": 81.3
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 4.4450088,
+        "Height": 93.98019,
+        "Width": 96.520195
+      }
+    }
+  ],
+  "creditLine": "Gift of J. Pierpont Morgan, 1917",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437071",
+  "tags": [
+    {
+      "term": "Bedrooms",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300004364",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q193837"
+    },
+    {
+      "term": "Infants",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300189561",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q998"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Dogs",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+    },
+    {
+      "term": "Servants",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025874",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q54128"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911492",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

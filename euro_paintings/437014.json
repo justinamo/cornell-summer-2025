@@ -1,0 +1,98 @@
+{
+  "objectID": 437014,
+  "isHighlight": false,
+  "accessionNumber": "65.181.5",
+  "accessionYear": "1965",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT255392.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT255392.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 108011,
+      "role": "Artist",
+      "name": "Master G.Z. (possibly Michele dai Carri, Italian, Ferrara, active by 1405–died 1441 Ferrara)",
+      "constituentULAN_URL": "(not assigned)",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21850319",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Madonna and Child with the Donor, Pietro de' Lardi, Presented by Saint Nicholas",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Master G.Z. (possibly Michele dai Carri, Italian, Ferrara, active by 1405–died 1441 Ferrara)",
+  "artistDisplayBio": "",
+  "artistSuffix": "",
+  "artistAlphaSort": "Master G.Z.",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1405",
+  "artistEndDate": "1441",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q21850319",
+  "artistULAN_URL": "(not assigned)",
+  "objectDate": "ca. 1420–30",
+  "objectBeginDate": 1420,
+  "objectEndDate": 1430,
+  "medium": "Tempera and gold on wood",
+  "dimensions": "Overall 45 7/8 x 43 5/8 in. (116.5 x 110.8 cm); painted surface 44 1/8 x 41 3/4 in. (112.1 x 106 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 116.5,
+        "Width": 110.8
+      }
+    }
+  ],
+  "creditLine": "Bequest of Adele L. Lehman, in memory of Arthur Lehman, 1965",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437014",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Madonna and Child",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+    },
+    {
+      "term": "Coat of Arms",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300126352",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q14659"
+    },
+    {
+      "term": "Saint Nicholas",
+      "AAT_URL": "http://vocab.getty.edu/page/ulan/500353854",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q44269"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911674",
+  "isTimelineWork": false,
+  "GalleryNumber": "611"
+}

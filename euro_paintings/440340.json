@@ -1,0 +1,102 @@
+{
+  "objectID": 440340,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.58",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 126960,
+      "role": "Artist",
+      "name": "Thales Fielding",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500024809",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q7709612",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Sarnen",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Thales Fielding",
+  "artistDisplayBio": "British, Yorkshire 1793–1837 London",
+  "artistSuffix": "",
+  "artistAlphaSort": "Fielding, Thales",
+  "artistNationality": "British",
+  "artistBeginDate": "1793",
+  "artistEndDate": "1837",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q7709612",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500024809",
+  "objectDate": "1824",
+  "objectBeginDate": 1824,
+  "objectEndDate": 1824,
+  "medium": "Oil on light brown paper",
+  "dimensions": "7 1/8 x 10 3/8 in. (18.1 x 26.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 18.0975,
+        "Width": 26.3526
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 4.127508,
+        "Height": 26.670053,
+        "Width": 35.87757
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/440340",
+  "tags": [
+    {
+      "term": "Lakes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008680",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q23397"
+    },
+    {
+      "term": "Mountains",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008795",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8502"
+    },
+    {
+      "term": "Boats",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913612",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

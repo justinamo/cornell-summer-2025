@@ -1,0 +1,97 @@
+{
+  "objectID": 436588,
+  "isHighlight": false,
+  "accessionNumber": "32.100.137",
+  "accessionYear": "1932",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-13038-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-13038-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 165551,
+      "role": "Artist",
+      "name": "Jean-Baptiste Greuze",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500000119",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q347139",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Head of a Young Boy",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Jean-Baptiste Greuze",
+  "artistDisplayBio": "French, Tournus 1725–1805 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Greuze, Jean-Baptiste",
+  "artistNationality": "French",
+  "artistBeginDate": "1725",
+  "artistEndDate": "1805",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q347139",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500000119",
+  "objectDate": "1763",
+  "objectBeginDate": 1763,
+  "objectEndDate": 1763,
+  "medium": "Oil on canvas",
+  "dimensions": "18 7/8 x 15 3/8 in. (47.9 x 39.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 47.9,
+        "Width": 39.1
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 9.525019,
+        "Height": 68.262634,
+        "Width": 60.32512
+      }
+    }
+  ],
+  "creditLine": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-06-16T15:24:05.89Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436588",
+  "tags": [
+    {
+      "term": "Boys",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912034",
+  "isTimelineWork": false,
+  "GalleryNumber": "639"
+}

@@ -1,0 +1,97 @@
+{
+  "objectID": 436322,
+  "isHighlight": false,
+  "accessionNumber": "49.7.49",
+  "accessionYear": "1949",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-1014-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-1014-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 165555,
+      "role": "Artist",
+      "name": "Jean Honoré Fragonard",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115329",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q127171",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Love Letter",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Jean Honoré Fragonard",
+  "artistDisplayBio": "French, Grasse 1732–1806 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Fragonard, Jean Honoré",
+  "artistNationality": "French",
+  "artistBeginDate": "1732",
+  "artistEndDate": "1806",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q127171",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115329",
+  "objectDate": "early 1770s",
+  "objectBeginDate": 1770,
+  "objectEndDate": 1773,
+  "medium": "Oil on canvas",
+  "dimensions": "32 3/4 x 26 3/8 in. (83.2 x 67 cm)",
+  "measurements": [
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 13.335,
+        "Height": 109.2202,
+        "Width": 93.3452
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 83.2,
+        "Width": 67
+      }
+    }
+  ],
+  "creditLine": "The Jules Bache Collection, 1949",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-06-19T04:50:33.487Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436322",
+  "tags": [
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Dogs",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911811",
+  "isTimelineWork": true,
+  "GalleryNumber": "631"
+}

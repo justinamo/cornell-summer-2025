@@ -1,0 +1,88 @@
+{
+  "objectID": 435689,
+  "isHighlight": false,
+  "accessionNumber": "30.95.269",
+  "accessionYear": "1930",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP145922.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP145922.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161694,
+      "role": "Artist",
+      "name": "Ferdinand Bol",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500013764",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q374039",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Portrait of a Woman",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Ferdinand Bol",
+  "artistDisplayBio": "Dutch, Dordrecht 1616–1680 Amsterdam",
+  "artistSuffix": "",
+  "artistAlphaSort": "Bol, Ferdinand",
+  "artistNationality": "Dutch",
+  "artistBeginDate": "1616",
+  "artistEndDate": "1680",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q374039",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500013764",
+  "objectDate": "1642",
+  "objectBeginDate": 1642,
+  "objectEndDate": 1642,
+  "medium": "Oil on canvas",
+  "dimensions": "34 3/8 x 28 in. (87.3 x 71.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 87.3,
+        "Width": 71.1
+      }
+    }
+  ],
+  "creditLine": "Theodore M. Davis Collection, Bequest of Theodore M. Davis, 1915",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435689",
+  "tags": [
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905990",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

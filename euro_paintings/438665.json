@@ -1,0 +1,103 @@
+{
+  "objectID": 438665,
+  "isHighlight": false,
+  "accessionNumber": "2003.42.42",
+  "accessionYear": "2003",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP169610.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP169610.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 120031,
+      "role": "Artist",
+      "name": "Jean-François Montessuy",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500028695",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q19629527",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Pope Gregory XVI Visiting the Church of San Benedetto at Subiaco",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Jean-François Montessuy",
+  "artistDisplayBio": "French, Lyons 1804–1876 Lyons",
+  "artistSuffix": "",
+  "artistAlphaSort": "Montessuy, Jean-François",
+  "artistNationality": "French",
+  "artistBeginDate": "1804",
+  "artistEndDate": "1876",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q19629527",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500028695",
+  "objectDate": "1843",
+  "objectBeginDate": 1843,
+  "objectEndDate": 1843,
+  "medium": "Oil on canvas",
+  "dimensions": "49 1/4 x 55 3/8 in. (125.1 x 140.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 125.0953,
+        "Width": 140.6528
+      }
+    }
+  ],
+  "creditLine": "The Whitney Collection, Gift of Wheelock Whitney III, and Purchase, Gift of Mr. and Mrs. Charles S. McVeigh, by exchange, 2003",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/438665",
+  "tags": [
+    {
+      "term": "Interiors",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300391239",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q2998430"
+    },
+    {
+      "term": "Churches",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300007466",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q16970"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Popes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025773",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q19546"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911697",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

@@ -1,0 +1,93 @@
+{
+  "objectID": 436217,
+  "isHighlight": false,
+  "accessionNumber": "49.7.48",
+  "accessionYear": "1949",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP324600.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP324600.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 163566,
+      "role": "Artist",
+      "name": "François Hubert Drouais",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115441",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q946487",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Boy with a Black Spaniel",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "François Hubert Drouais",
+  "artistDisplayBio": "French, Paris 1727–1775 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Drouais, François Hubert",
+  "artistNationality": "French",
+  "artistBeginDate": "1727",
+  "artistEndDate": "1775",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q946487",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115441",
+  "objectDate": "ca. 1767",
+  "objectBeginDate": 1762,
+  "objectEndDate": 1772,
+  "medium": "Oil on canvas",
+  "dimensions": "Oval, 25 3/8 x 21 in. (64.5 x 53.3 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 64.5,
+        "Width": 53.3
+      }
+    }
+  ],
+  "creditLine": "The Jules Bache Collection, 1949",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-05-23T04:50:48.75Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436217",
+  "tags": [
+    {
+      "term": "Boys",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Dogs",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912333",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

@@ -1,0 +1,106 @@
+{
+  "objectID": 441354,
+  "isHighlight": false,
+  "accessionNumber": "2017.202.4",
+  "accessionYear": "2017",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-14274-003.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-14274-003.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 107366,
+      "role": "Artist",
+      "name": "Benjamin-Constant (Jean-Joseph-Benjamin Constant)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500015006",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q968357",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Odalisque",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Benjamin-Constant (Jean-Joseph-Benjamin Constant)",
+  "artistDisplayBio": "French, Paris 1845–1902 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Benjamin-Constant (Jean-Joseph-Benjamin Constant)",
+  "artistNationality": "French",
+  "artistBeginDate": "1845",
+  "artistEndDate": "1902",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q968357",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500015006",
+  "objectDate": "",
+  "objectBeginDate": 1865,
+  "objectEndDate": 1902,
+  "medium": "Oil on canvas",
+  "dimensions": "35 x 54 3/4 in. (88.9 x 139.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 88.90018,
+        "Width": 139.06528
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": "approximate",
+      "elementMeasurements": {
+        "Height": 110.49022,
+        "Width": 160.65532
+      }
+    }
+  ],
+  "creditLine": "Gift of Kenneth Jay Lane, 2017",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/441354",
+  "tags": [
+    {
+      "term": "Sleeping",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300375130",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q35831"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Orientalist",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300055784",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q765606"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q78633700",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

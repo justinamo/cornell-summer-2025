@@ -1,0 +1,98 @@
+{
+  "objectID": 436074,
+  "isHighlight": false,
+  "accessionNumber": "41.100.15",
+  "accessionYear": "1941",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep41.100.15.bw.R.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/ep41.100.15.bw.R.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161801,
+      "role": "Artist",
+      "name": "Workshop of Bernardo Daddi",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004953",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q366562",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, left wing of a diptych",
+  "title": "Madonna and Child Enthroned with Saints",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Workshop of",
+  "artistDisplayName": "Bernardo Daddi",
+  "artistDisplayBio": "Italian, Florence (?) ca. 1290–1348 Florence",
+  "artistSuffix": "",
+  "artistAlphaSort": "Daddi, Bernardo",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1290",
+  "artistEndDate": "1348",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q366562",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500004953",
+  "objectDate": "",
+  "objectBeginDate": 1327,
+  "objectEndDate": 1348,
+  "medium": "Tempera on wood, gold ground",
+  "dimensions": "Overall 13 1/4 x 8 1/2 in. (33.7 x 21.6 cm); painted surface 13 x 8 1/8 in. (33 x 20.6 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 33.7,
+        "Width": 21.6
+      }
+    }
+  ],
+  "creditLine": "Gift of George Blumenthal, 1941",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436074",
+  "tags": [
+    {
+      "term": "Madonna and Child",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+    },
+    {
+      "term": "Saint Francis",
+      "AAT_URL": "http://vocab.getty.edu/page/ulan/500349636",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q676555"
+    },
+    {
+      "term": "Saint John the Baptist",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901001056",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q40662"
+    },
+    {
+      "term": "Saints",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905403",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

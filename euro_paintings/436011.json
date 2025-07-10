@@ -1,0 +1,98 @@
+{
+  "objectID": 436011,
+  "isHighlight": false,
+  "accessionNumber": "29.160.34",
+  "accessionYear": "1929",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/EP1059.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/EP1059.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161790,
+      "role": "Artist",
+      "name": "Gustave Courbet",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010927",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q34618",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Deer",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Gustave Courbet",
+  "artistDisplayBio": "French, Ornans 1819–1877 La Tour-de-Peilz",
+  "artistSuffix": "",
+  "artistAlphaSort": "Courbet, Gustave",
+  "artistNationality": "French",
+  "artistBeginDate": "1819",
+  "artistEndDate": "1877",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q34618",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500010927",
+  "objectDate": "ca. 1865",
+  "objectBeginDate": 1860,
+  "objectEndDate": 1870,
+  "medium": "Oil on canvas",
+  "dimensions": "29 3/8 x 36 3/8 in. (74.6 x 92.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 74.6,
+        "Width": 92.4
+      }
+    }
+  ],
+  "creditLine": "H. O. Havemeyer Collection, Gift of Horace Havemeyer, 1929",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-04-30T04:49:03.02Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436011",
+  "tags": [
+    {
+      "term": "Deer",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250308",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q685795"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    },
+    {
+      "term": "Winter",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300133101",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q1311"
+    },
+    {
+      "term": "Snow",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300055381",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q7561"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912068",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

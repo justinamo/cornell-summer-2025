@@ -1,0 +1,93 @@
+{
+  "objectID": 437147,
+  "isHighlight": false,
+  "accessionNumber": "07.267",
+  "accessionYear": "1907",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep7.267.R.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/ep7.267.R.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 108070,
+      "role": "Artist",
+      "name": "Adolphe Monticelli",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500000984",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1152965",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Court of the Princess",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Adolphe Monticelli",
+  "artistDisplayBio": "French, Marseilles 1824–1886 Marseilles",
+  "artistSuffix": "",
+  "artistAlphaSort": "Monticelli, Adolphe",
+  "artistNationality": "French",
+  "artistBeginDate": "1824",
+  "artistEndDate": "1886",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q1152965",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500000984",
+  "objectDate": "",
+  "objectBeginDate": 1844,
+  "objectEndDate": 1886,
+  "medium": "Oil on wood",
+  "dimensions": "15 x 23 3/8 in. (38.1 x 59.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 38.1,
+        "Width": 59.4
+      }
+    }
+  ],
+  "creditLine": "Catharine Lorillard Wolfe Collection, Wolfe Fund, 1907",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-04-30T04:49:03.02Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437147",
+  "tags": [
+    {
+      "term": "Princesses",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300155241",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q863048"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913157",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

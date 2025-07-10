@@ -1,0 +1,92 @@
+{
+  "objectID": 439389,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.75",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 164563,
+      "role": "Artist",
+      "name": "Johann Erdmann Hummel",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500020551",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q317696",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Blasted Tree",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Johann Erdmann Hummel",
+  "artistDisplayBio": "German, Kassel 1769–1852 Berlin",
+  "artistSuffix": "",
+  "artistAlphaSort": "Hummel, Johann Erdmann",
+  "artistNationality": "German",
+  "artistBeginDate": "1769",
+  "artistEndDate": "1852",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q317696",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500020551",
+  "objectDate": "",
+  "objectBeginDate": 1789,
+  "objectEndDate": 1852,
+  "medium": "Oil on paper, laid down on canvas",
+  "dimensions": "22 7/8 x 17 3/4 in. (58.1 x 45.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 58.1026,
+        "Width": 45.0851
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 7.620015,
+        "Height": 71.12014,
+        "Width": 57.467613
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/439389",
+  "tags": [
+    {
+      "term": "Trees",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132410",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q10884"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913493",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

@@ -1,0 +1,83 @@
+{
+  "objectID": 438001,
+  "isHighlight": false,
+  "accessionNumber": "1997.391.3",
+  "accessionYear": "1997",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1953.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1953.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161924,
+      "role": "Artist",
+      "name": "Paul Gauguin",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011421",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q37693",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Two Women",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Paul Gauguin",
+  "artistDisplayBio": "French, Paris 1848–1903 Atuona, Hiva Oa, Marquesas Islands",
+  "artistSuffix": "",
+  "artistAlphaSort": "Gauguin, Paul",
+  "artistNationality": "French",
+  "artistBeginDate": "1848",
+  "artistEndDate": "1903",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q37693",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500011421",
+  "objectDate": "1901 or 1902",
+  "objectBeginDate": 1901,
+  "objectEndDate": 1902,
+  "medium": "Oil on canvas",
+  "dimensions": "29 x 36 1/4 in. (73.7 x 92.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 73.7,
+        "Width": 92.1
+      }
+    }
+  ],
+  "creditLine": "The Walter H. and Leonore Annenberg Collection, Gift of Walter H. and Leonore Annenberg, 1997, Bequest of Walter H. Annenberg, 2002",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-04-01T04:53:33.463Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/438001",
+  "tags": [
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905435",
+  "isTimelineWork": false,
+  "GalleryNumber": "822"
+}

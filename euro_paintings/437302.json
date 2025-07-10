@@ -1,0 +1,97 @@
+{
+  "objectID": 437302,
+  "isHighlight": false,
+  "accessionNumber": "1979.135.16",
+  "accessionYear": "1979",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-21954-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-21954-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162257,
+      "role": "Artist",
+      "name": "Camille Pissarro",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001924",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q134741",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Barges at Pontoise",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Camille Pissarro",
+  "artistDisplayBio": "French, Charlotte Amalie, Saint Thomas 1830–1903 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Pissarro, Camille",
+  "artistNationality": "French",
+  "artistBeginDate": "1830",
+  "artistEndDate": "1903",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q134741",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500001924",
+  "objectDate": "1876",
+  "objectBeginDate": 1876,
+  "objectEndDate": 1876,
+  "medium": "Oil on canvas",
+  "dimensions": "18 1/8 x 21 5/8 in. (46 x 54.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 46,
+        "Width": 54.9
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 8.8900175,
+        "Height": 64.13513,
+        "Width": 73.66015
+      }
+    }
+  ],
+  "creditLine": "Bequest of Mary Cushing Fosburgh, 1978",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-02-22T04:53:13.223Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437302",
+  "tags": [
+    {
+      "term": "Rivers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008707",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4022"
+    },
+    {
+      "term": "Boats",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912997",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

@@ -1,0 +1,102 @@
+{
+  "objectID": 439761,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.4",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 164235,
+      "role": "Artist",
+      "name": "Jean-Achille Benouville",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500028837",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1684579",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Garden of the Villa Medici, Rome",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Jean-Achille Benouville",
+  "artistDisplayBio": "French, Paris 1815–1891 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Benouville, Jean-Achille",
+  "artistNationality": "French",
+  "artistBeginDate": "1815",
+  "artistEndDate": "1891",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q1684579",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500028837",
+  "objectDate": "",
+  "objectBeginDate": 1835,
+  "objectEndDate": 1891,
+  "medium": "Oil on paper",
+  "dimensions": "9 7/8 x 8 5/8 in. (25.1 x 21.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 25.08255,
+        "Width": 21.907543
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 6.350013,
+        "Height": 38.735077,
+        "Width": 35.24257
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/439761",
+  "tags": [
+    {
+      "term": "Gardens",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008090",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q1107656"
+    },
+    {
+      "term": "Trees",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132410",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q10884"
+    },
+    {
+      "term": "Rome",
+      "AAT_URL": "http://vocab.getty.edu/page/tgn/7000874",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q220"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913359",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

@@ -1,0 +1,101 @@
+{
+  "objectID": 439117,
+  "isHighlight": false,
+  "accessionNumber": "2007.28",
+  "accessionYear": "2007",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP164874.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP164874.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/Maulbertsch1.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-2007_28-2.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-2007_28-3.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 164217,
+      "role": "Artist",
+      "name": "Franz Anton Maulbertsch",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500017598",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q689388",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, grisaille",
+  "title": "The Glorification of the Royal Hungarian Saints",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Franz Anton Maulbertsch",
+  "artistDisplayBio": "Austrian, Langenargen am Bodensee 1724–1796 Vienna",
+  "artistSuffix": "",
+  "artistAlphaSort": "Maulbertsch, Franz Anton",
+  "artistNationality": "Austrian",
+  "artistBeginDate": "1724",
+  "artistEndDate": "1796",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q689388",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500017598",
+  "objectDate": "ca. 1772–73",
+  "objectBeginDate": 1772,
+  "objectEndDate": 1773,
+  "medium": "Oil on canvas",
+  "dimensions": "27 1/2 x 19 7/8 in. (70 x 50.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 69.8501,
+        "Width": 50.4826
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 5.08,
+        "Height": 78.7402,
+        "Width": 58.4201
+      }
+    }
+  ],
+  "creditLine": "Purchase, Friends of European Paintings Gifts, 2007",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/439117",
+  "tags": [
+    {
+      "term": "Clouds",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300343840",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8074"
+    },
+    {
+      "term": "Saints",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905573",
+  "isTimelineWork": false,
+  "GalleryNumber": "643"
+}

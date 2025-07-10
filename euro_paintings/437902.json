@@ -1,0 +1,93 @@
+{
+  "objectID": 437902,
+  "isHighlight": false,
+  "accessionNumber": "87.15.39",
+  "accessionYear": "1887",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/Villegas_87_15_39_Examining_Arms_Cropped.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/Villegas_87_15_39_Examining_Arms_Cropped.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 108428,
+      "role": "Artist",
+      "name": "José Villegas y Cordero",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500018242",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q517574",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Examining Antique Arms",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "José Villegas y Cordero",
+  "artistDisplayBio": "Spanish, Seville 1848–1921 Madrid",
+  "artistSuffix": "",
+  "artistAlphaSort": "Villegas y Cordero, José",
+  "artistNationality": "Spanish",
+  "artistBeginDate": "1848",
+  "artistEndDate": "1921",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q517574",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500018242",
+  "objectDate": "1870",
+  "objectBeginDate": 1870,
+  "objectEndDate": 1870,
+  "medium": "Oil on wood",
+  "dimensions": "15 5/8 x 12 1/2 in. (39.7 x 31.8 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 39.7,
+        "Width": 31.8
+      }
+    }
+  ],
+  "creditLine": "Catharine Lorillard Wolfe Collection, Bequest of Catharine Lorillard Wolfe, 1887",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437902",
+  "tags": [
+    {
+      "term": "Armor",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300226591",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q20793164"
+    },
+    {
+      "term": "Swords",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300037048",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12791"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905078",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

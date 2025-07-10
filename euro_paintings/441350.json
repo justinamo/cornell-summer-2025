@@ -1,0 +1,106 @@
+{
+  "objectID": 441350,
+  "isHighlight": false,
+  "accessionNumber": "2017.202.1",
+  "accessionYear": "2017",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-16686-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-16686-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 166067,
+      "role": "Artist",
+      "name": "Sir Lawrence Alma-Tadema",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008100",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q240526",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "An Egyptian in a Doorway",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Sir Lawrence Alma-Tadema",
+  "artistDisplayBio": "British (born The Netherlands), Dronrijp 1836–1912 Wiesbaden",
+  "artistSuffix": "",
+  "artistAlphaSort": "Alma-Tadema, Lawrence, Sir",
+  "artistNationality": "British, born The Netherlands",
+  "artistBeginDate": "1836",
+  "artistEndDate": "1912",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q240526",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500008100",
+  "objectDate": "1865",
+  "objectBeginDate": 1865,
+  "objectEndDate": 1865,
+  "medium": "Oil on wood",
+  "dimensions": "22 x 15 1/2 in. (55.9 x 39.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 55.88011,
+        "Width": 39.37008
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": "approximate",
+      "elementMeasurements": {
+        "Height": 86.360176,
+        "Width": 66.04013
+      }
+    }
+  ],
+  "creditLine": "Gift of Kenneth Jay Lane, 2017",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/441350",
+  "tags": [
+    {
+      "term": "Columns",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300001571",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4817"
+    },
+    {
+      "term": "Doorways",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300002767",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q21263223"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Orientalist",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300055784",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q765606"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q78633962",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

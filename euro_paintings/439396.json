@@ -1,0 +1,92 @@
+{
+  "objectID": 439396,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.106",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 126579,
+      "role": "Artist",
+      "name": "Gustaf Söderberg",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500271537",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q372874",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Grotto of Posillipo, Naples",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Gustaf Söderberg",
+  "artistDisplayBio": "Swedish, Norrköping 1799–1875 Stockholm",
+  "artistSuffix": "",
+  "artistAlphaSort": "Söderberg Gustaf",
+  "artistNationality": "Swedish",
+  "artistBeginDate": "1799",
+  "artistEndDate": "1875",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q372874",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500271537",
+  "objectDate": "1820",
+  "objectBeginDate": 1820,
+  "objectEndDate": 1820,
+  "medium": "Oil on paper, laid down on Masonite",
+  "dimensions": "Sheet (irregular): 9 7/8 x 6 1/4 in. (25.1 x 15.9 cm); support (Masonite): 10 x 6 3/8 in. (25.4 x 16.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 25.08255,
+        "Width": 15.875031
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 5.397511,
+        "Height": 39.052578,
+        "Width": 29.84506
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/439396",
+  "tags": [
+    {
+      "term": "Tunnels",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300007899",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q44377"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913178",
+  "isTimelineWork": false,
+  "GalleryNumber": "806"
+}

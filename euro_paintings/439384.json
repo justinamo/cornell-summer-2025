@@ -1,0 +1,83 @@
+{
+  "objectID": 439384,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.82",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 126575,
+      "role": "Artist",
+      "name": "Robert-Léopold Leprince",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500022009",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q16661724",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Interior of a Wood at Pierrefitte",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Robert-Léopold Leprince",
+  "artistDisplayBio": "French, Paris 1800–1847 Chartres",
+  "artistSuffix": "",
+  "artistAlphaSort": "Leprince, Robert-Léopold",
+  "artistNationality": "French",
+  "artistBeginDate": "1800",
+  "artistEndDate": "1847",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q16661724",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500022009",
+  "objectDate": "1822",
+  "objectBeginDate": 1822,
+  "objectEndDate": 1822,
+  "medium": "Oil on paper, laid down on cardboard",
+  "dimensions": "11 1/8 x 16 in. (28.3 x 40.6 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 28.257557,
+        "Width": 40.6401
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/439384",
+  "tags": [
+    {
+      "term": "Forests",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300387598",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4421"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913172",
+  "isTimelineWork": false,
+  "GalleryNumber": "805"
+}

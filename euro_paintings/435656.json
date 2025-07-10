@@ -1,0 +1,101 @@
+{
+  "objectID": 435656,
+  "isHighlight": false,
+  "accessionNumber": "27.39.1",
+  "accessionYear": "1927",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT11757.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT11757.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 107370,
+      "role": "Artist",
+      "name": "Bergognone (Ambrogio di Stefano da Fossano)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500032198",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q7789",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Assumption of the Virgin",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Bergognone (Ambrogio di Stefano da Fossano)",
+  "artistDisplayBio": "Italian, Milan ca. 1453–1523 Milan",
+  "artistSuffix": "",
+  "artistAlphaSort": "Bergognone (Ambrogio di Stefano da Fossano)",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1453",
+  "artistEndDate": "1523",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q7789",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500032198",
+  "objectDate": "",
+  "objectBeginDate": 1500,
+  "objectEndDate": 1523,
+  "medium": "Oil and gold on wood",
+  "dimensions": "95 3/8 x 42 1/2 in. (242.3 x 108 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 242.3,
+        "Width": 108
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 268.60553,
+        "Width": 134.3
+      }
+    }
+  ],
+  "creditLine": "Fletcher Fund, 1926",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435656",
+  "tags": [
+    {
+      "term": "Angels",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+    },
+    {
+      "term": "Virgin Mary",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+    },
+    {
+      "term": "Assumption of the Virgin",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901001007",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q162691"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912356",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

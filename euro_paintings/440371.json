@@ -1,0 +1,92 @@
+{
+  "objectID": 440371,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.101",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 126601,
+      "role": "Artist",
+      "name": "Joséphine Sarazin de Belmont",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500030170",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3263639",
+      "gender": "Female"
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Santa Maria del Sasso, near Bibbiena",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Joséphine Sarazin de Belmont",
+  "artistDisplayBio": "French, Versailles 1790–1870 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Sarazin de Belmont, Joséphine",
+  "artistNationality": "French",
+  "artistBeginDate": "1790",
+  "artistEndDate": "1870",
+  "artistGender": "Female",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q3263639",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500030170",
+  "objectDate": "1840s",
+  "objectBeginDate": 1840,
+  "objectEndDate": 1849,
+  "medium": "Oil on paper, laid down on canvas",
+  "dimensions": "4 1/8 x 7 1/8 in. (10.5 x 18.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 5.7150116,
+        "Height": 22.860046,
+        "Width": 27.940056
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 10.4775,
+        "Width": 18.0975
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/440371",
+  "tags": [
+    {
+      "term": "Buildings",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300004789",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q41176"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913576",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

@@ -1,0 +1,97 @@
+{
+  "objectID": 437425,
+  "isHighlight": false,
+  "accessionNumber": "61.101.15",
+  "accessionYear": "1961",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1489.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1489.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162302,
+      "role": "Artist",
+      "name": "Auguste Renoir",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Marguerite-Thérèse (Margot) Berard (1874–1956)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Auguste Renoir",
+  "artistDisplayBio": "French, Limoges 1841–1919 Cagnes-sur-Mer",
+  "artistSuffix": "",
+  "artistAlphaSort": "Renoir, Auguste",
+  "artistNationality": "French",
+  "artistBeginDate": "1841",
+  "artistEndDate": "1919",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+  "objectDate": "1879",
+  "objectBeginDate": 1879,
+  "objectEndDate": 1879,
+  "medium": "Oil on canvas",
+  "dimensions": "16 1/8 x 12 3/4 in. (41 x 32.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 41,
+        "Width": 32.4
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 8.89,
+        "Height": 62.2301,
+        "Width": 53.3401
+      }
+    }
+  ],
+  "creditLine": "Bequest of Stephen C. Clark, 1960",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437425",
+  "tags": [
+    {
+      "term": "Girls",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q20167158",
+  "isTimelineWork": true,
+  "GalleryNumber": "824"
+}

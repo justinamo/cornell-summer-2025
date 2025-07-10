@@ -1,0 +1,97 @@
+{
+  "objectID": 435709,
+  "isHighlight": false,
+  "accessionNumber": "80.8",
+  "accessionYear": "1880",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-17011-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-17011-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 165586,
+      "role": "Artist",
+      "name": "Léon Bonnat",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500016107",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q170259",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "John Taylor Johnston (1820–1893)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Léon Bonnat",
+  "artistDisplayBio": "French, Bayonne 1833–1922 Monchy-Saint-Eloi",
+  "artistSuffix": "",
+  "artistAlphaSort": "Bonnat, Léon",
+  "artistNationality": "French",
+  "artistBeginDate": "1833",
+  "artistEndDate": "1922",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q170259",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500016107",
+  "objectDate": "1880",
+  "objectBeginDate": 1880,
+  "objectEndDate": 1880,
+  "medium": "Oil on canvas",
+  "dimensions": "52 1/2 x 44 in. (133.4 x 111.8 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 133.4,
+        "Width": 111.8
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 17.780035,
+        "Height": 184.15038,
+        "Width": 163.83032
+      }
+    }
+  ],
+  "creditLine": "Gift of the Trustees, 1880",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-05-22T04:50:13.743Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435709",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q20168339",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

@@ -1,0 +1,88 @@
+{
+  "objectID": 437662,
+  "isHighlight": false,
+  "accessionNumber": "15.30.48",
+  "accessionYear": "1915",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP169500.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP169500.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 164227,
+      "role": "Artist",
+      "name": "Sir Martin Archer Shee",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500016737",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3850027",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "William Archer Shee (1810–1899), the Artist's Son",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Sir Martin Archer Shee",
+  "artistDisplayBio": "Irish, Dublin 1769–1850 Brighton",
+  "artistSuffix": "",
+  "artistAlphaSort": "Shee, Martin Archer, Sir",
+  "artistNationality": "Irish",
+  "artistBeginDate": "1769",
+  "artistEndDate": "1850",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q3850027",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500016737",
+  "objectDate": "ca. 1820",
+  "objectBeginDate": 1815,
+  "objectEndDate": 1825,
+  "medium": "Oil on canvas",
+  "dimensions": "30 x 24 3/4 in. (76.2 x 62.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 76.2,
+        "Width": 62.9
+      }
+    }
+  ],
+  "creditLine": "Bequest of Maria DeWitt Jesup, from the collection of her husband, Morris K. Jesup, 1914",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437662",
+  "tags": [
+    {
+      "term": "Boys",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912600",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

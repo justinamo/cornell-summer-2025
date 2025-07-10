@@ -1,0 +1,93 @@
+{
+  "objectID": 437882,
+  "isHighlight": false,
+  "accessionNumber": "49.7.40",
+  "accessionYear": "1949",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 108413,
+      "role": "Artist",
+      "name": "Imitator of Johannes Vermeer",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500032927",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q41264",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "A Young Woman Reading",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Imitator of",
+  "artistDisplayName": "Johannes Vermeer",
+  "artistDisplayBio": "ca. 1925–27",
+  "artistSuffix": "",
+  "artistAlphaSort": "Vermeer, Johannes",
+  "artistNationality": "Dutch",
+  "artistBeginDate": "1632",
+  "artistEndDate": "1675",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q41264",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500032927",
+  "objectDate": "",
+  "objectBeginDate": 1900,
+  "objectEndDate": 1924,
+  "medium": "Oil on canvas",
+  "dimensions": "7 3/4 x 5 3/4 in. (19.7 x 14.6 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 19.7,
+        "Width": 14.6
+      }
+    }
+  ],
+  "creditLine": "The Jules Bache Collection, 1949",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-05-23T04:50:48.75Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437882",
+  "tags": [
+    {
+      "term": "Profiles",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300123319",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4382010"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Reading",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300248178",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q199657"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905080",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

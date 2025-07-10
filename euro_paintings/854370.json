@@ -1,0 +1,93 @@
+{
+  "objectID": 854370,
+  "isHighlight": false,
+  "accessionNumber": "2023.297",
+  "accessionYear": "2023",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-23958-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-23958-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 164229,
+      "role": "Artist",
+      "name": "Théodore Gericault",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115562",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q184212",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "General Letellier on His Deathbed",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Théodore Gericault",
+  "artistDisplayBio": "French, Rouen 1791–1824 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Gericault, Théodore",
+  "artistNationality": "French",
+  "artistBeginDate": "1791",
+  "artistEndDate": "1824",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q184212",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115562",
+  "objectDate": "ca. 1818–20",
+  "objectBeginDate": 1818,
+  "objectEndDate": 1820,
+  "medium": "Oil on canvas",
+  "dimensions": "9 1/2 × 12 5/8 in. (24.1 × 32.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 24.130049,
+        "Width": 32.067566
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 42.545086,
+        "Width": 51.117603
+      }
+    },
+    {
+      "elementName": "Glazing",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 24.606298,
+        "Width": 32.385063
+      }
+    }
+  ],
+  "creditLine": "Gift of Christopher Forbes, 2023",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-02-19T04:53:40.47Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/854370",
+  "tags": null,
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q126118963",
+  "isTimelineWork": false,
+  "GalleryNumber": "801"
+}

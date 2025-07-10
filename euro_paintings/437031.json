@@ -1,0 +1,93 @@
+{
+  "objectID": 437031,
+  "isHighlight": false,
+  "accessionNumber": "32.100.87",
+  "accessionYear": "1932",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep32.100.87.bw.R.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/ep32.100.87.bw.R.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 108742,
+      "role": "Artist",
+      "name": "Marco di Paolo Veneziano",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500329869",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q98687170",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Madonna and Child Enthroned with Saints James Minor and Lucy",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Marco di Paolo Veneziano",
+  "artistDisplayBio": "Italian, Venetian, active 1362–90",
+  "artistSuffix": "",
+  "artistAlphaSort": "Marco di Paolo Veneziano",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1362",
+  "artistEndDate": "1390",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q98687170",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500329869",
+  "objectDate": "",
+  "objectBeginDate": 1362,
+  "objectEndDate": 1390,
+  "medium": "Tempera on wood, gold ground",
+  "dimensions": "12 1/4 x 17 1/4 in. (31.1 x 43.8 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 31.1,
+        "Width": 43.8
+      }
+    }
+  ],
+  "creditLine": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437031",
+  "tags": [
+    {
+      "term": "Madonna and Child",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+    },
+    {
+      "term": "Virgin Mary",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+    },
+    {
+      "term": "Saints",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912249",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

@@ -1,0 +1,88 @@
+{
+  "objectID": 437766,
+  "isHighlight": false,
+  "accessionNumber": "45.128.13",
+  "accessionYear": "1945",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep45.128.13.bw.R.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/ep45.128.13.bw.R.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162497,
+      "role": "Artist",
+      "name": "Copy after Justus Sustermans",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500022236",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q974195",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Ferdinando II de' Medici (1610–1670) as a Boy",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Copy after",
+  "artistDisplayName": "Justus Sustermans",
+  "artistDisplayBio": "Flemish, 17th century",
+  "artistSuffix": "",
+  "artistAlphaSort": "Sustermans, Justus",
+  "artistNationality": "Flemish",
+  "artistBeginDate": "1597",
+  "artistEndDate": "1681",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q974195",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500022236",
+  "objectDate": "",
+  "objectBeginDate": 1600,
+  "objectEndDate": 1699,
+  "medium": "Oil on canvas",
+  "dimensions": "51 7/8 x 40 1/2 in. (131.8 x 102.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 131.8,
+        "Width": 102.9
+      }
+    }
+  ],
+  "creditLine": "Bequest of Helen Hay Whitney, 1944",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437766",
+  "tags": [
+    {
+      "term": "Boys",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913263",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

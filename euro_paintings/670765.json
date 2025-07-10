@@ -1,0 +1,102 @@
+{
+  "objectID": 670765,
+  "isHighlight": false,
+  "accessionNumber": "2016.63",
+  "accessionYear": "2016",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP375602.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP375602.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 164182,
+      "role": "Artist",
+      "name": "Guido Cagnacci",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500017753",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2449649",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Death of Cleopatra",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Guido Cagnacci",
+  "artistDisplayBio": "Italian, Santarcangelo di Romagna 1601–1663 Vienna",
+  "artistSuffix": "",
+  "artistAlphaSort": "Cagnacci, Guido",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1601",
+  "artistEndDate": "1663",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q2449649",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500017753",
+  "objectDate": "ca. 1645–55",
+  "objectBeginDate": 1645,
+  "objectEndDate": 1655,
+  "medium": "Oil on canvas",
+  "dimensions": "37 3/8 × 29 1/2 in. (95 × 75 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 95,
+        "Width": 75
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 6.985014,
+        "Height": 117.79273,
+        "Width": 102.23521
+      }
+    }
+  ],
+  "creditLine": "Purchase, Diane Burke Gift, Gift of J. Pierpont Morgan, by exchange, Friends of European Paintings Gifts, Gwynne Andrews Fund, Lila Acheson Wallace, Charles and Jessie Price, and Álvaro Saieh Bendeck Gifts, Gift and Bequest of George Blumenthal and Fletcher Fund, by exchange, and Michel David-Weill Gift, 2016",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/670765",
+  "tags": [
+    {
+      "term": "Cleopatra",
+      "AAT_URL": "http://vocab.getty.edu/page/ulan/500341470",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q635"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Snakes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250870",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q2102"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q53858027",
+  "isTimelineWork": false,
+  "GalleryNumber": "620"
+}

@@ -1,0 +1,93 @@
+{
+  "objectID": 438616,
+  "isHighlight": false,
+  "accessionNumber": "2002.613",
+  "accessionYear": "2002",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1986.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1986.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 164909,
+      "role": "Artist",
+      "name": "Jean-François Millet",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012529",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q148458",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Retreat from the Storm",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Jean-François Millet",
+  "artistDisplayBio": "French, Gruchy 1814–1875 Barbizon",
+  "artistSuffix": "",
+  "artistAlphaSort": "Millet, Jean-François",
+  "artistNationality": "French",
+  "artistBeginDate": "1814",
+  "artistEndDate": "1875",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q148458",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500012529",
+  "objectDate": "ca. 1846",
+  "objectBeginDate": 1846,
+  "objectEndDate": 1846,
+  "medium": "Oil on canvas",
+  "dimensions": "18 1/4 x 15 in. (46.4 x 38.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 46.3551,
+        "Width": 38.1001
+      }
+    }
+  ],
+  "creditLine": "Gift of Sarina Tang and Peter M. Wood, 2002",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/438616",
+  "tags": [
+    {
+      "term": "Girls",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Storms",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300054734",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q81054"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912058",
+  "isTimelineWork": true,
+  "GalleryNumber": "802"
+}

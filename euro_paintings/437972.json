@@ -1,0 +1,103 @@
+{
+  "objectID": 437972,
+  "isHighlight": false,
+  "accessionNumber": "65.220.2",
+  "accessionYear": "1965",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep65.220.2.bw.R.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/ep65.220.2.bw.R.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162794,
+      "role": "Artist",
+      "name": "Workshop of Francisco de Zurbarán",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001984",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q209615",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Crucifixion",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Workshop of",
+  "artistDisplayName": "Francisco de Zurbarán",
+  "artistDisplayBio": "Spanish, Fuente de Cantos 1598–1664 Madrid",
+  "artistSuffix": "",
+  "artistAlphaSort": "Zurbarán, Francisco de",
+  "artistNationality": "Spanish",
+  "artistBeginDate": "1598",
+  "artistEndDate": "1664",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q209615",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500001984",
+  "objectDate": "",
+  "objectBeginDate": 1618,
+  "objectEndDate": 1664,
+  "medium": "Oil on canvas",
+  "dimensions": "Arched top, 112 x 75 7/8 in. (284.5 x 192.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 284.5,
+        "Width": 192.7
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 320.04065,
+        "Width": 251.46051
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": "Picture + Frame (F.65.220.2A)",
+      "elementMeasurements": {
+        "Weight": 81.64746
+      }
+    }
+  ],
+  "creditLine": "Gift of George R. Hann, 1965",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437972",
+  "tags": [
+    {
+      "term": "Christ",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+    },
+    {
+      "term": "Crucifixion",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300404300",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3235597"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905266",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

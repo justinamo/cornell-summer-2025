@@ -1,0 +1,107 @@
+{
+  "objectID": 437178,
+  "isHighlight": false,
+  "accessionNumber": "71.160",
+  "accessionYear": "1871",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP146497.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP146497.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 108096,
+      "role": "Artist",
+      "name": "Matthijs Naiveu",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500017478",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q708036",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Newborn Baby",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Matthijs Naiveu",
+  "artistDisplayBio": "Dutch, Leiden 1647–1726 Amsterdam",
+  "artistSuffix": "",
+  "artistAlphaSort": "Naiveu, Matthijs",
+  "artistNationality": "Dutch",
+  "artistBeginDate": "1647",
+  "artistEndDate": "1726",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q708036",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500017478",
+  "objectDate": "1675",
+  "objectBeginDate": 1675,
+  "objectEndDate": 1675,
+  "medium": "Oil on canvas",
+  "dimensions": "25 1/4 x 31 1/2 in. (64.1 x 80 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 64.1,
+        "Width": 80
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 6.985014,
+        "Height": 95.88519,
+        "Width": 80.01016
+      }
+    }
+  ],
+  "creditLine": "Purchase, 1871",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437178",
+  "tags": [
+    {
+      "term": "Bedrooms",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300004364",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q193837"
+    },
+    {
+      "term": "Children",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025945",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q7569"
+    },
+    {
+      "term": "Infants",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300189561",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q998"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913159",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

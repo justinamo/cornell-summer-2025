@@ -1,0 +1,92 @@
+{
+  "objectID": 440327,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.21",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 126569,
+      "role": "Artist",
+      "name": "Gilles-François-Joseph Closson",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500055398",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3106043",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Cluster of Trees",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Gilles-François-Joseph Closson",
+  "artistDisplayBio": "Belgian, Liège 1796–1853 Liège",
+  "artistSuffix": "",
+  "artistAlphaSort": "Closson, Gilles-François-Joseph",
+  "artistNationality": "Belgian",
+  "artistBeginDate": "1796",
+  "artistEndDate": "1853",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q3106043",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500055398",
+  "objectDate": "",
+  "objectBeginDate": 1816,
+  "objectEndDate": 1853,
+  "medium": "Oil on paper, laid down on canvas",
+  "dimensions": "14 3/4 x 19 in. (37.5 x 48.3 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 37.4651,
+        "Width": 48.260098
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 5.08001,
+        "Height": 47.307594,
+        "Width": 57.785114
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/440327",
+  "tags": [
+    {
+      "term": "Trees",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132410",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q10884"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913505",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

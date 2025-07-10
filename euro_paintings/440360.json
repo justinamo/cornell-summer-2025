@@ -1,0 +1,92 @@
+{
+  "objectID": 440360,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.89",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 126969,
+      "role": "Artist",
+      "name": "Carl Morgenstern",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010743",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1039813",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Jungfrau, Mönch, and Eiger",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Carl Morgenstern",
+  "artistDisplayBio": "German, Frankfurt 1811–1893 Frankfurt",
+  "artistSuffix": "",
+  "artistAlphaSort": "Morgenstern, Carl",
+  "artistNationality": "German",
+  "artistBeginDate": "1811",
+  "artistEndDate": "1893",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q1039813",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500010743",
+  "objectDate": "possibly 1851",
+  "objectBeginDate": 1851,
+  "objectEndDate": 1851,
+  "medium": "Oil on paper, laid down on cardboard",
+  "dimensions": "10 3/8 x 14 in. (26.4 x 35.6 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 26.352552,
+        "Width": 35.5601
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 5.08001,
+        "Height": 37.782574,
+        "Width": 46.990093
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/440360",
+  "tags": [
+    {
+      "term": "Mountains",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008795",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8502"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913562",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

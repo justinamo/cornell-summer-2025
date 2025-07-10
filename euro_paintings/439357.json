@@ -1,0 +1,93 @@
+{
+  "objectID": 439357,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.25",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 120018,
+      "role": "Artist",
+      "name": "Jules Coignet",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500015282",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q347455",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Palace of Donn'Anna, Naples",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Jules Coignet",
+  "artistDisplayBio": "French, Paris 1798–1860 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Coignet, Jules",
+  "artistNationality": "French",
+  "artistBeginDate": "1798",
+  "artistEndDate": "1860",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q347455",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500015282",
+  "objectDate": "1843",
+  "objectBeginDate": 1843,
+  "objectEndDate": 1843,
+  "medium": "Oil on paper, laid down on canvas",
+  "dimensions": "14 3/8 x 20 7/8 in. (36.5 x 53 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 36.5126,
+        "Width": 53.022606
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/439357",
+  "tags": [
+    {
+      "term": "Palaces",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300005734",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q16560"
+    },
+    {
+      "term": "Volcanoes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132325",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8072"
+    },
+    {
+      "term": "Boats",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19914298",
+  "isTimelineWork": false,
+  "GalleryNumber": "806"
+}

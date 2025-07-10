@@ -1,0 +1,88 @@
+{
+  "objectID": 437500,
+  "isHighlight": false,
+  "accessionNumber": "49.7.57",
+  "accessionYear": "1949",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP162156.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP162156.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 166200,
+      "role": "Artist",
+      "name": "George Romney",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115779",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q371280",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Lady Elizabeth Stanley (1753–1797), Countess of Derby",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "George Romney",
+  "artistDisplayBio": "British, Beckside, Lancashire 1734–1802 Kendal, Cumbria",
+  "artistSuffix": "",
+  "artistAlphaSort": "Romney, George",
+  "artistNationality": "British",
+  "artistBeginDate": "1734",
+  "artistEndDate": "1802",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q371280",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115779",
+  "objectDate": "1776–78",
+  "objectBeginDate": 1776,
+  "objectEndDate": 1778,
+  "medium": "Oil on canvas",
+  "dimensions": "50 x 40 in. (127 x 101.6 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 127,
+        "Width": 101.6
+      }
+    }
+  ],
+  "creditLine": "The Jules Bache Collection, 1949",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-06-18T04:50:26.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437500",
+  "tags": [
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q12097501",
+  "isTimelineWork": true,
+  "GalleryNumber": "512"
+}

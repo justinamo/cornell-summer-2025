@@ -1,0 +1,95 @@
+{
+  "objectID": 712946,
+  "isHighlight": false,
+  "accessionNumber": "2016.485",
+  "accessionYear": "2016",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-12392-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-12392-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 127980,
+      "role": "Artist",
+      "name": "Giovanni Battista Caracciolo",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500003623",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2519261",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Calling of Saint Matthew",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Giovanni Battista Caracciolo",
+  "artistDisplayBio": "Italian, Naples 1578–1635 Naples",
+  "artistSuffix": "",
+  "artistAlphaSort": "Caracciolo, Giovanni Battista",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1578",
+  "artistEndDate": "1635",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q2519261",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500003623",
+  "objectDate": "ca. 1625–30",
+  "objectBeginDate": 1625,
+  "objectEndDate": 1630,
+  "medium": "Oil on canvas",
+  "dimensions": "51 3/8 × 61 1/2 in. (130.5 × 156.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 130.49277,
+        "Width": 156.21031
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": "Picture + Frame (F.2016.485)",
+      "elementMeasurements": {
+        "Weight": 34.019775
+      }
+    }
+  ],
+  "creditLine": "Purchase, The Morris and Alma Schapiro Fund Gift, 2016",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/712946",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Saint Matthew",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000497",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q43600"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q78613673",
+  "isTimelineWork": false,
+  "GalleryNumber": "620"
+}

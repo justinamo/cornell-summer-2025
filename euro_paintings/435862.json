@@ -1,0 +1,107 @@
+{
+  "objectID": 435862,
+  "isHighlight": false,
+  "accessionNumber": "15.30.26",
+  "accessionYear": "1915",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP236347.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP236347.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 107487,
+      "role": "Artist",
+      "name": "Jean-Charles Cazin",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500002204",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2778951",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Route Nationale at Samer",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Jean-Charles Cazin",
+  "artistDisplayBio": "French, Samer 1841–1901 Lavandou",
+  "artistSuffix": "",
+  "artistAlphaSort": "Cazin, Jean-Charles",
+  "artistNationality": "French",
+  "artistBeginDate": "1841",
+  "artistEndDate": "1901",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q2778951",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500002204",
+  "objectDate": "",
+  "objectBeginDate": 1861,
+  "objectEndDate": 1901,
+  "medium": "Oil on canvas",
+  "dimensions": "41 1/2 x 48 1/4 in. (105.4 x 122.6 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 105.4,
+        "Width": 122.6
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 6.032512,
+        "Height": 125.41275,
+        "Width": 142.87529
+      }
+    }
+  ],
+  "creditLine": "Bequest of Maria DeWitt Jesup, from the collection of her husband, Morris K. Jesup, 1914",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-04-30T04:49:03.02Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435862",
+  "tags": [
+    {
+      "term": "Roads",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008217",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q34442"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Donkeys",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300265959",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3537778"
+    },
+    {
+      "term": "Carts",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300212695",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q234668"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913205",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

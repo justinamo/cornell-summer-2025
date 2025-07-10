@@ -1,0 +1,98 @@
+{
+  "objectID": 435617,
+  "isHighlight": false,
+  "accessionNumber": "23.140",
+  "accessionYear": "1923",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/EP468.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/EP468.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 166017,
+      "role": "Artist",
+      "name": "Bartolomeo degli Erri",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500020664",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2886107",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Saint Thomas Aquinas Aided by Saints Peter and Paul",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Bartolomeo degli Erri",
+  "artistDisplayBio": "Italian, Modena, active 1460–79",
+  "artistSuffix": "",
+  "artistAlphaSort": "Bartolomeo degli Erri",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1460",
+  "artistEndDate": "1479",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q2886107",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500020664",
+  "objectDate": "",
+  "objectBeginDate": 1460,
+  "objectEndDate": 1479,
+  "medium": "Tempera on wood",
+  "dimensions": "17 x 12 in. (43.2 x 30.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 43.2,
+        "Width": 30.5
+      }
+    }
+  ],
+  "creditLine": "Fletcher Fund, 1923",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-05-22T04:50:13.743Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435617",
+  "tags": [
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Reading",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300248178",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q199657"
+    },
+    {
+      "term": "Saint Paul",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901001058",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q9200"
+    },
+    {
+      "term": "Saint Peter",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000056",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q33923"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905043",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

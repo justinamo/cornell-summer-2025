@@ -1,0 +1,98 @@
+{
+  "objectID": 437895,
+  "isHighlight": false,
+  "accessionNumber": "87.15.101",
+  "accessionYear": "1887",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/EP1436.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/EP1436.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162643,
+      "role": "Artist",
+      "name": "Jean-Georges Vibert",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001927",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1280412",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Reprimand",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Jean-Georges Vibert",
+  "artistDisplayBio": "French, Paris 1840–1902 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Vibert, Jean-Georges",
+  "artistNationality": "French",
+  "artistBeginDate": "1840",
+  "artistEndDate": "1902",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q1280412",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500001927",
+  "objectDate": "1874",
+  "objectBeginDate": 1874,
+  "objectEndDate": 1874,
+  "medium": "Oil on canvas",
+  "dimensions": "20 3/8 x 33 in. (51.8 x 83.8 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 51.8,
+        "Width": 83.8
+      }
+    }
+  ],
+  "creditLine": "Catharine Lorillard Wolfe Collection, Bequest of Catharine Lorillard Wolfe, 1887",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-04-30T04:49:03.02Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437895",
+  "tags": [
+    {
+      "term": "Gardens",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008090",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q1107656"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Cats",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300265960",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q146"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912548",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

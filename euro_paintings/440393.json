@@ -1,0 +1,114 @@
+{
+  "objectID": 440393,
+  "isHighlight": true,
+  "accessionNumber": "2012.99",
+  "accessionYear": "2012",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP276931.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP276931.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 164169,
+      "role": "Artist",
+      "name": "Jacopo Bassano (Jacopo da Ponte)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500003126",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q346502",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Baptism of Christ",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Jacopo Bassano (Jacopo da Ponte)",
+  "artistDisplayBio": "Italian, Bassano del Grappa ca. 1510–1592 Bassano del Grappa",
+  "artistSuffix": "",
+  "artistAlphaSort": "Bassano, Jacopo (Jacopo da Ponte)",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1510",
+  "artistEndDate": "1592",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q346502",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500003126",
+  "objectDate": "ca. 1590",
+  "objectBeginDate": 1585,
+  "objectEndDate": 1595,
+  "medium": "Oil on canvas",
+  "dimensions": "75 1/2 x 63 1/8 in. (191.8 x 160.3 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 191.7704,
+        "Width": 160.33781
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 11.430023,
+        "Height": 248.9205,
+        "Width": 213.99542
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": "Picture + Frame",
+      "elementMeasurements": {
+        "Weight": 74.389915
+      }
+    }
+  ],
+  "creditLine": "Gift of Mark Fisch and Rachel Davidson, 2012",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-02-11T04:53:43.503Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/440393",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Angels",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+    },
+    {
+      "term": "Saint John the Baptist",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901001056",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q40662"
+    },
+    {
+      "term": "Baptism of Christ",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901001066",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q217048"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911654",
+  "isTimelineWork": true,
+  "GalleryNumber": "608"
+}

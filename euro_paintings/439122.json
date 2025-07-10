@@ -1,0 +1,100 @@
+{
+  "objectID": 439122,
+  "isHighlight": false,
+  "accessionNumber": "2007.192",
+  "accessionYear": "2007",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-34306-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-34306-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161755,
+      "role": "Artist",
+      "name": "Carl Gustav Carus",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004882",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q61987",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Gothic Windows in the Ruins of the Monastery at Oybin",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Carl Gustav Carus",
+  "artistDisplayBio": "German, Leipzig 1789–1869 Dresden",
+  "artistSuffix": "",
+  "artistAlphaSort": "Carus, Carl Gustav",
+  "artistNationality": "German",
+  "artistBeginDate": "1789",
+  "artistEndDate": "1869",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q61987",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500004882",
+  "objectDate": "ca. 1828",
+  "objectBeginDate": 1823,
+  "objectEndDate": 1833,
+  "medium": "Oil on canvas",
+  "dimensions": "17 in. × 13 1/4 in. (43.2 × 33.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 43.1801,
+        "Width": 33.6551
+      }
+    },
+    {
+      "elementName": "Glazing",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 44.76759,
+        "Width": 35.24257
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Diameter": 55.2,
+        "Height": 45.4,
+        "Width": 5.7
+      }
+    }
+  ],
+  "creditLine": "Purchase, 2005 Benefit Fund, and Anna-Maria and Stephen Kellen Foundation and Eugene V. Thaw Gifts, 2007",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-06-18T04:50:26.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/439122",
+  "tags": [
+    {
+      "term": "Windows",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300002944",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q35473"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19914292",
+  "isTimelineWork": false,
+  "GalleryNumber": "807"
+}

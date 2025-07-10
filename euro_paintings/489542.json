@@ -1,0 +1,102 @@
+{
+  "objectID": 489542,
+  "isHighlight": false,
+  "accessionNumber": "67.187.101",
+  "accessionYear": "1967",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 146844,
+      "role": "Artist",
+      "name": "Séraphine Louis",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011719",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q235165",
+      "gender": "Female"
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Grapes",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Séraphine Louis",
+  "artistDisplayBio": "French, 1864–1942",
+  "artistSuffix": "",
+  "artistAlphaSort": "Louis, Séraphine",
+  "artistNationality": "French",
+  "artistBeginDate": "1864",
+  "artistEndDate": "1942",
+  "artistGender": "Female",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q235165",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500011719",
+  "objectDate": "ca. 1928",
+  "objectBeginDate": 1923,
+  "objectEndDate": 1933,
+  "medium": "Oil on canvas",
+  "dimensions": "57 1/2 x 44 3/4 in. (146.1 x 113.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 146.1,
+        "Width": 113.7
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 3.492507,
+        "Height": 149.5428,
+        "Width": 116.84023
+      }
+    }
+  ],
+  "creditLine": "Bequest of Miss Adelaide Milton de Groot (1876-1967), 1967",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "© 2017 Artists Rights Society (ARS), New York",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/489542",
+  "tags": [
+    {
+      "term": "Grapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379338",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q10978"
+    },
+    {
+      "term": "Leaves",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300011892",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q33971"
+    },
+    {
+      "term": "Still Life",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913674",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

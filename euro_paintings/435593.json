@@ -1,0 +1,103 @@
+{
+  "objectID": 435593,
+  "isHighlight": false,
+  "accessionNumber": "38.178",
+  "accessionYear": "1938",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep38.178.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/ep38.178.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162799,
+      "role": "Artist",
+      "name": "Bachiacca (Francesco d&#39;Ubertino Verdi)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500021332",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q7770",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting fragment",
+  "title": "Eve with Cain and Abel",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Bachiacca (Francesco d'Ubertino Verdi)",
+  "artistDisplayBio": "Italian, Florence 1494–1557 Florence",
+  "artistSuffix": "",
+  "artistAlphaSort": "Bachiacca (Francesco d'Ubertino Verdi)",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1494",
+  "artistEndDate": "1557",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q7770",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500021332",
+  "objectDate": "1520s",
+  "objectBeginDate": 1520,
+  "objectEndDate": 1529,
+  "medium": "Tempera and oil on wood",
+  "dimensions": "15 3/4 x 9 1/4 in. (40 x 23.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 40,
+        "Width": 23.5
+      }
+    }
+  ],
+  "creditLine": "Gwynne Andrews Fund, 1938",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435593",
+  "tags": [
+    {
+      "term": "Infants",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300189561",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q998"
+    },
+    {
+      "term": "Female Nudes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+    },
+    {
+      "term": "Abel",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000498",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q313421"
+    },
+    {
+      "term": "Cain",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000499",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q205365"
+    },
+    {
+      "term": "Eve",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000205",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q830183"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905427",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

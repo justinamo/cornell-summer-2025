@@ -1,0 +1,97 @@
+{
+  "objectID": 439356,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.20",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 126569,
+      "role": "Artist",
+      "name": "Gilles-François-Joseph Closson",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500055398",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3106043",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "View in the Dolomites",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Gilles-François-Joseph Closson",
+  "artistDisplayBio": "Belgian, Liège 1796–1853 Liège",
+  "artistSuffix": "",
+  "artistAlphaSort": "Closson, Gilles-François-Joseph",
+  "artistNationality": "Belgian",
+  "artistBeginDate": "1796",
+  "artistEndDate": "1853",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q3106043",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500055398",
+  "objectDate": "ca. 1825–29",
+  "objectBeginDate": 1820,
+  "objectEndDate": 1834,
+  "medium": "Oil and graphite on paper",
+  "dimensions": "4 1/4 x 9 5/8 in. (10.8 x 24.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 10.795022,
+        "Width": 24.44755
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 3.492507,
+        "Height": 17.462536,
+        "Width": 30.48006
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/439356",
+  "tags": [
+    {
+      "term": "Mountains",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008795",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8502"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913166",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

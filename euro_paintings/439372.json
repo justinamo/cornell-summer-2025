@@ -1,0 +1,102 @@
+{
+  "objectID": 439372,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.55",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 165199,
+      "role": "Artist",
+      "name": "Thomas Fearnley",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500020244",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1969461",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Moonlit Harbor in Southern Italy",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Thomas Fearnley",
+  "artistDisplayBio": "Norwegian, Frederikshald 1802–1842 Munich",
+  "artistSuffix": "",
+  "artistAlphaSort": "Fearnley, Thomas",
+  "artistNationality": "Norwegian",
+  "artistBeginDate": "1802",
+  "artistEndDate": "1842",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q1969461",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500020244",
+  "objectDate": "ca. 1833–35",
+  "objectBeginDate": 1828,
+  "objectEndDate": 1838,
+  "medium": "Oil on paper, laid down on Masonite",
+  "dimensions": "4 3/8 x 6 1/4 in. (11.1 x 15.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 11.112522,
+        "Width": 15.875
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 2.8575058,
+        "Height": 19.367538,
+        "Width": 24.130049
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/439372",
+  "tags": [
+    {
+      "term": "Moon",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300386951",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q405"
+    },
+    {
+      "term": "Clouds",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300343840",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8074"
+    },
+    {
+      "term": "Ships",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300082981",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q11446"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913488",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

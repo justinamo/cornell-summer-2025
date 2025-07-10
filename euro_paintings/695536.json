@@ -1,0 +1,83 @@
+{
+  "objectID": 695536,
+  "isHighlight": false,
+  "accessionNumber": "2016.802.18",
+  "accessionYear": "2016",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162633,
+      "role": "Artist",
+      "name": "Attributed to Horace Vernet",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500024243",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q161145",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Megalopolis",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Attributed to",
+  "artistDisplayName": "Horace Vernet",
+  "artistDisplayBio": "French, Paris 1789–1863 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Vernet, Horace",
+  "artistNationality": "French",
+  "artistBeginDate": "1789",
+  "artistEndDate": "1863",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q161145",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500024243",
+  "objectDate": "1829",
+  "objectBeginDate": 1829,
+  "objectEndDate": 1829,
+  "medium": "Oil on canvas",
+  "dimensions": "8 × 18 in. (20.3 × 45.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 20.32004,
+        "Width": 45.720093
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2016",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/695536",
+  "tags": [
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q126120364",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

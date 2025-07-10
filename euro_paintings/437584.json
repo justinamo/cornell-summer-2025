@@ -1,0 +1,88 @@
+{
+  "objectID": 437584,
+  "isHighlight": false,
+  "accessionNumber": "1975.217.1",
+  "accessionYear": "1975",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP161650.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP161650.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 122049,
+      "role": "Artist",
+      "name": "Attributed to William Russell",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500018348",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q51885869",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Drawing",
+  "title": "Robert Shurlock (1772–1847)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Attributed to",
+  "artistDisplayName": "William Russell",
+  "artistDisplayBio": "British, London 1784–1870 Highgate",
+  "artistSuffix": "",
+  "artistAlphaSort": "Russell, William",
+  "artistNationality": "British",
+  "artistBeginDate": "1784",
+  "artistEndDate": "1870",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q51885869",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500018348",
+  "objectDate": "ca. 1805",
+  "objectBeginDate": 1800,
+  "objectEndDate": 1810,
+  "medium": "Pastel on paper",
+  "dimensions": "23 7/8 x 17 7/8 in. (60.6 x 45.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 60.6,
+        "Width": 45.4
+      }
+    }
+  ],
+  "creditLine": "Gift of Olive Shurlock Sjölander, 1975",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Drawings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437584",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913439",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

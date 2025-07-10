@@ -1,0 +1,97 @@
+{
+  "objectID": 435921,
+  "isHighlight": false,
+  "accessionNumber": "06.1272",
+  "accessionYear": "1906",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP162142.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP162142.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 166233,
+      "role": "Artist",
+      "name": "John Constable",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115382",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q159297",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Mrs. James Pulham Sr. (Frances Amys, ca. 1766–1856)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "John Constable",
+  "artistDisplayBio": "British, East Bergholt 1776–1837 Hampstead",
+  "artistSuffix": "",
+  "artistAlphaSort": "Constable, John",
+  "artistNationality": "British",
+  "artistBeginDate": "1776",
+  "artistEndDate": "1837",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q159297",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115382",
+  "objectDate": "1818",
+  "objectBeginDate": 1818,
+  "objectEndDate": 1818,
+  "medium": "Oil on canvas",
+  "dimensions": "29 3/4 x 24 3/4 in. (75.6 x 62.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 75.6,
+        "Width": 62.9
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 12.7,
+        "Height": 97.7902,
+        "Width": 85.0902
+      }
+    }
+  ],
+  "creditLine": "Gift of George A. Hearn, 1906",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435921",
+  "tags": [
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905109",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

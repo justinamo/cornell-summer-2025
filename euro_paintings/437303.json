@@ -1,0 +1,97 @@
+{
+  "objectID": 437303,
+  "isHighlight": false,
+  "accessionNumber": "56.184.1",
+  "accessionYear": "1956",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-21955-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-21955-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162257,
+      "role": "Artist",
+      "name": "Camille Pissarro",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001924",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q134741",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Washerwoman, Study",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Camille Pissarro",
+  "artistDisplayBio": "French, Charlotte Amalie, Saint Thomas 1830–1903 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Pissarro, Camille",
+  "artistNationality": "French",
+  "artistBeginDate": "1830",
+  "artistEndDate": "1903",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q134741",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500001924",
+  "objectDate": "1880",
+  "objectBeginDate": 1880,
+  "objectEndDate": 1880,
+  "medium": "Oil on canvas",
+  "dimensions": "28 3/4 × 23 1/4 in. (73 × 59.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 73,
+        "Width": 59.1
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": "Frame: F.64.156",
+      "elementMeasurements": {
+        "Depth": 4.4450088,
+        "Height": 92.71018,
+        "Width": 80.645164
+      }
+    }
+  ],
+  "creditLine": "Gift of Mr. and Mrs. Nate B. Spingold, 1956",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-04-23T04:47:35.84Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437303",
+  "tags": [
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911903",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

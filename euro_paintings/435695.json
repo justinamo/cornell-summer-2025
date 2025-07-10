@@ -1,0 +1,88 @@
+{
+  "objectID": 435695,
+  "isHighlight": false,
+  "accessionNumber": "24.80.521",
+  "accessionYear": "1924",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/57113.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/57113.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 166215,
+      "role": "Artist",
+      "name": "Henry Bone",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500000388",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5196210",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, miniature",
+  "title": "Henry Hope (1735/36–1811), after Jones",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Henry Bone",
+  "artistDisplayBio": "British, Truro 1755–1834 Somerstown",
+  "artistSuffix": "",
+  "artistAlphaSort": "Bone, Henry",
+  "artistNationality": "British",
+  "artistBeginDate": "1755",
+  "artistEndDate": "1834",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5196210",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500000388",
+  "objectDate": "1802",
+  "objectBeginDate": 1802,
+  "objectEndDate": 1802,
+  "medium": "Enamel",
+  "dimensions": "Oval, 2 1/8 x 1 3/4 in. (54 x 43 mm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 5.4,
+        "Width": 4.4
+      }
+    }
+  ],
+  "creditLine": "Bequest of Mary Clark Thompson, 1923",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Miniatures",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2024-10-03T04:53:53.567Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435695",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913803",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

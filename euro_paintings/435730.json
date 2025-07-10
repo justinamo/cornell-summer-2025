@@ -1,0 +1,88 @@
+{
+  "objectID": 435730,
+  "isHighlight": false,
+  "accessionNumber": "29.100.17",
+  "accessionYear": "1929",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/EP256.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/EP256.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161701,
+      "role": "Artist",
+      "name": "Attributed to Botticelli",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500015254",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5669",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Madonna and Child with Two Angels",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Attributed to",
+  "artistDisplayName": "Botticelli",
+  "artistDisplayBio": "Italian, Florence 1444/45–1510 Florence",
+  "artistSuffix": "",
+  "artistAlphaSort": "Botticelli",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1444",
+  "artistEndDate": "1510",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5669",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500015254",
+  "objectDate": "",
+  "objectBeginDate": 1464,
+  "objectEndDate": 1510,
+  "medium": "Tempera on wood",
+  "dimensions": "Oval, 39 1/4 x 28 in. (99.7 x 71.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 99.7,
+        "Width": 71.1
+      }
+    }
+  ],
+  "creditLine": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2024-10-03T04:53:53.567Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435730",
+  "tags": [
+    {
+      "term": "Angels",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+    },
+    {
+      "term": "Madonna and Child",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911859",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

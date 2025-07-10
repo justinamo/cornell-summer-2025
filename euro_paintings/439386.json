@@ -1,0 +1,97 @@
+{
+  "objectID": 439386,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.3",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162835,
+      "role": "Artist",
+      "name": "Wilhelm Bendz",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500014668",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q981441",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Study of Light in a Vaulted Interior",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Wilhelm Bendz",
+  "artistDisplayBio": "Danish, Odense 1804–1832 Vicenza",
+  "artistSuffix": "",
+  "artistAlphaSort": "Bendz, Wilhelm",
+  "artistNationality": "Danish",
+  "artistBeginDate": "1804",
+  "artistEndDate": "1832",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q981441",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500014668",
+  "objectDate": "",
+  "objectBeginDate": 1824,
+  "objectEndDate": 1832,
+  "medium": "Oil on paper, laid down on canvas",
+  "dimensions": "6 1/8 x 8 1/4 in. (15.6 x 21 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 15.5575,
+        "Width": 20.955042
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 3.1750064,
+        "Height": 23.812548,
+        "Width": 29.52756
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/439386",
+  "tags": [
+    {
+      "term": "Arches",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300001062",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12277"
+    },
+    {
+      "term": "Interiors",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300391239",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q2998430"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913485",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

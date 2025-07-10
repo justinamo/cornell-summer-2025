@@ -1,0 +1,93 @@
+{
+  "objectID": 437676,
+  "isHighlight": false,
+  "accessionNumber": "43.98.12",
+  "accessionYear": "1943",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP168806.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP168806.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162107,
+      "role": "Artist",
+      "name": "Workshop of Simone Martini",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500399029",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q221043",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Saint Andrew",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Workshop of",
+  "artistDisplayName": "Simone Martini",
+  "artistDisplayBio": "Italian, Siena, active by 1315–died 1344 Avignon",
+  "artistSuffix": "",
+  "artistAlphaSort": "Martini, Simone",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1315",
+  "artistEndDate": "1344",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q221043",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500399029",
+  "objectDate": "ca. 1317–19",
+  "objectBeginDate": 1317,
+  "objectEndDate": 1319,
+  "medium": "Tempera on wood, gold ground",
+  "dimensions": "Overall, with arched top and engaged frame, 11 3/4 x 8 3/4 in. (29.8 x 22.2 cm); painted surface 10 3/8 x 7 7/8 in. (26.4 x 20 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 29.8,
+        "Width": 22.2
+      }
+    }
+  ],
+  "creditLine": "Maitland F. Griggs Collection, Bequest of Maitland F. Griggs, 1943",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437676",
+  "tags": [
+    {
+      "term": "Books",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300028051",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q571"
+    },
+    {
+      "term": "Cross",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300235443",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q40843"
+    },
+    {
+      "term": "Saints",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905144",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

@@ -1,0 +1,97 @@
+{
+  "objectID": 436647,
+  "isHighlight": false,
+  "accessionNumber": "64.65.2",
+  "accessionYear": "1964",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP145408.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP145408.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161991,
+      "role": "Artist",
+      "name": "Jan van der Heyden",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010213",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q370567",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Huis ten Bosch at The Hague and Its Formal Garden (View from the South)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Jan van der Heyden",
+  "artistDisplayBio": "Dutch, Gorinchem 1637–1712 Amsterdam",
+  "artistSuffix": "",
+  "artistAlphaSort": "Heyden, Jan van der",
+  "artistNationality": "Dutch",
+  "artistBeginDate": "1637",
+  "artistEndDate": "1712",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q370567",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500010213",
+  "objectDate": "ca. 1668–70",
+  "objectBeginDate": 1668,
+  "objectEndDate": 1670,
+  "medium": "Oil on wood",
+  "dimensions": "15 3/8 x 21 3/4 in. (39.1 x 55.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 39.052578,
+        "Width": 55.24511
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 8.255,
+        "Height": 63.5001,
+        "Width": 78.7402
+      }
+    }
+  ],
+  "creditLine": "Gift of Edith Neuman de Végvár, in honor of her husband, Charles Neuman de Végvár, 1964",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436647",
+  "tags": [
+    {
+      "term": "Houses",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300005433",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3947"
+    },
+    {
+      "term": "Gardens",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008090",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q1107656"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q20167199",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

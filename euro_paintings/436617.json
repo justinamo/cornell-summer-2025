@@ -1,0 +1,97 @@
+{
+  "objectID": 436617,
+  "isHighlight": false,
+  "accessionNumber": "49.7.34",
+  "accessionYear": "1949",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP145927.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP145927.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161974,
+      "role": "Artist",
+      "name": "Frans Hals",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500027794",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q167654",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Portrait of a Bearded Man with a Ruff",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Frans Hals",
+  "artistDisplayBio": "Dutch, Antwerp 1582/83–1666 Haarlem",
+  "artistSuffix": "",
+  "artistAlphaSort": "Hals, Frans",
+  "artistNationality": "Dutch",
+  "artistBeginDate": "1582",
+  "artistEndDate": "1666",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q167654",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500027794",
+  "objectDate": "1625",
+  "objectBeginDate": 1625,
+  "objectEndDate": 1625,
+  "medium": "Oil on canvas",
+  "dimensions": "30 x 25 in. (76.2 x 63.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 11.430023,
+        "Height": 106.680214,
+        "Width": 92.07519
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 76.2,
+        "Width": 63.5
+      }
+    }
+  ],
+  "creditLine": "The Jules Bache Collection, 1949",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-05-29T04:50:57.503Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436617",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q17813326",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

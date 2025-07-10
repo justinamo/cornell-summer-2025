@@ -1,0 +1,88 @@
+{
+  "objectID": 437783,
+  "isHighlight": false,
+  "accessionNumber": "1972.145.10",
+  "accessionYear": "1972",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/209776.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/209776.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 108653,
+      "role": "Artist",
+      "name": "Mikail Ivanovich Terebenev",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500174259",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21083963",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, miniature",
+  "title": "Portrait of a Woman",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Mikail Ivanovich Terebenev",
+  "artistDisplayBio": "Russian, 1795–1866",
+  "artistSuffix": "",
+  "artistAlphaSort": "Terebenev, Mikail Ivanovich",
+  "artistNationality": "Russian",
+  "artistBeginDate": "1795",
+  "artistEndDate": "1866",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q21083963",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500174259",
+  "objectDate": "ca. 1830",
+  "objectBeginDate": 1825,
+  "objectEndDate": 1835,
+  "medium": "Ivory",
+  "dimensions": "Oval, 2 7/8 x 2 1/4 in. (72 x 57 mm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 7.3,
+        "Width": 5.7
+      }
+    }
+  ],
+  "creditLine": "Gift of Humanities Fund Inc., 1972",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Miniatures",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2024-10-03T04:53:53.567Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437783",
+  "tags": [
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913837",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

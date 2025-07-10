@@ -1,0 +1,95 @@
+{
+  "objectID": 436967,
+  "isHighlight": false,
+  "accessionNumber": "14.40.643",
+  "accessionYear": "1914",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP213852.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP213852.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-14_40_643-3.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 162096,
+      "role": "Artist",
+      "name": "Andrea Mantegna",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004218",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5681",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Holy Family with Saint Mary Magdalen",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Andrea Mantegna",
+  "artistDisplayBio": "Italian, Isola di Carturo 1430/31–1506 Mantua",
+  "artistSuffix": "",
+  "artistAlphaSort": "Mantegna, Andrea",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1430",
+  "artistEndDate": "1506",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5681",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500004218",
+  "objectDate": "ca. 1495–1500",
+  "objectBeginDate": 1495,
+  "objectEndDate": 1500,
+  "medium": "Distemper on canvas",
+  "dimensions": "22 1/2 x 18 in. (57.2 x 45.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 57.2,
+        "Width": 45.7
+      }
+    }
+  ],
+  "creditLine": "Bequest of Benjamin Altman, 1913",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436967",
+  "tags": [
+    {
+      "term": "Holy Family",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901001175",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q618057"
+    },
+    {
+      "term": "Mary Magdalene",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000161",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q63070"
+    },
+    {
+      "term": "Jesus",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q302"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q3842383",
+  "isTimelineWork": false,
+  "GalleryNumber": "606"
+}

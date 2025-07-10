@@ -1,0 +1,117 @@
+{
+  "objectID": 437638,
+  "isHighlight": false,
+  "accessionNumber": "1973.116",
+  "accessionYear": "1973",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT11094.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT11094.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162393,
+      "role": "Artist",
+      "name": "Andrea Schiavone (Andrea Meldola)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500000550",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q495060",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Marriage of Cupid and Psyche",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Andrea Schiavone (Andrea Meldola)",
+  "artistDisplayBio": "Italian, Zadar (Zara) ca. 1510?–1563 Venice",
+  "artistSuffix": "",
+  "artistAlphaSort": "Schiavone, Andrea (Andrea Meldola)",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1510",
+  "artistEndDate": "1563",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q495060",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500000550",
+  "objectDate": "ca. 1540",
+  "objectBeginDate": 1535,
+  "objectEndDate": 1545,
+  "medium": "Oil on wood, transferred to Masonite",
+  "dimensions": "Overall, with corners made up, 51 1/2 x 61 7/8 in. (130.8 x 157.2 cm); painted surface 50 1/2 x 61 1/2 in. (128.3 x 156.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 130.8,
+        "Width": 157.2
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 10.16002,
+        "Height": 153.35281,
+        "Width": 181.29286
+      }
+    }
+  ],
+  "creditLine": "Purchase, Gift of Mary V. T. Eberstadt, by exchange, 1972",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437638",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Male Nudes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Female Nudes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+    },
+    {
+      "term": "Cupid",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300380105",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q5011"
+    },
+    {
+      "term": "Psyche",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901002042",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q843382"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905139",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

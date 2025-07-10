@@ -1,0 +1,83 @@
+{
+  "objectID": 439371,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.52",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 120022,
+      "role": "Artist",
+      "name": "Alexandre Hyacinthe Dunouy",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500029426",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2833359",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Castel Sant'Elmo from Chiaia, Naples",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Alexandre Hyacinthe Dunouy",
+  "artistDisplayBio": "French, Paris 1757–1841 Jouy-en-Josas",
+  "artistSuffix": "",
+  "artistAlphaSort": "Dunouy, Alexandre Hyacinthe",
+  "artistNationality": "French",
+  "artistBeginDate": "1757",
+  "artistEndDate": "1841",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q2833359",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500029426",
+  "objectDate": "1813",
+  "objectBeginDate": 1813,
+  "objectEndDate": 1813,
+  "medium": "Oil on paper, laid down on canvas",
+  "dimensions": "13 1/8 x 19 7/8 in. (33.3 x 50.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 33.337566,
+        "Width": 50.4826
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/439371",
+  "tags": [
+    {
+      "term": "Towns",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008375",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3957"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913173",
+  "isTimelineWork": false,
+  "GalleryNumber": "806"
+}

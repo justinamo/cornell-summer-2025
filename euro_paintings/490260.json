@@ -1,0 +1,110 @@
+{
+  "objectID": 490260,
+  "isHighlight": false,
+  "accessionNumber": "1998.451.2",
+  "accessionYear": "1998",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 166270,
+      "role": "Artist",
+      "name": "Walter Richard Sickert",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001141",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q703369",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Maple Street, London",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Walter Richard Sickert",
+  "artistDisplayBio": "British, Munich 1860–1942 Bathampton, Somerset",
+  "artistSuffix": "",
+  "artistAlphaSort": "Sickert, Walter Richard",
+  "artistNationality": "British",
+  "artistBeginDate": "1860",
+  "artistEndDate": "1942",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q703369",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500001141",
+  "objectDate": "ca. 1915–23",
+  "objectBeginDate": 1910,
+  "objectEndDate": 1928,
+  "medium": "Oil on canvas",
+  "dimensions": "30 1/4 × 20 1/8 in. (76.8 × 51.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 76.83515,
+        "Width": 51.117603
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 3.1750064,
+        "Height": 92.392685,
+        "Width": 67.310135
+      }
+    },
+    {
+      "elementName": "Glazing",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 77.47015,
+        "Width": 52.070103
+      }
+    }
+  ],
+  "creditLine": "Gift of Emma Swan Hall, 1998",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/490260",
+  "tags": [
+    {
+      "term": "Cities",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008389",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q515"
+    },
+    {
+      "term": "Streets",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008247",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q79007"
+    },
+    {
+      "term": "London",
+      "AAT_URL": "http://vocab.getty.edu/page/tgn/7011781",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q84"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912349",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

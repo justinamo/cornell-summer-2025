@@ -1,0 +1,88 @@
+{
+  "objectID": 438633,
+  "isHighlight": false,
+  "accessionNumber": "2003.42.10",
+  "accessionYear": "2003",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161779,
+      "role": "Artist",
+      "name": "Léon Cogniet",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500025096",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q544646",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Italian Brigand's Wife",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Léon Cogniet",
+  "artistDisplayBio": "French, Paris 1794–1880 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Cogniet, Léon",
+  "artistNationality": "French",
+  "artistBeginDate": "1794",
+  "artistEndDate": "1880",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q544646",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500025096",
+  "objectDate": "ca. 1825–26",
+  "objectBeginDate": 1825,
+  "objectEndDate": 1826,
+  "medium": "Oil on canvas, mounted on wood",
+  "dimensions": "9 7/8 x 8 1/8 in. (25.1 x 20.6 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 25.08255,
+        "Width": 20.63754
+      }
+    }
+  ],
+  "creditLine": "The Whitney Collection, Promised Gift of Wheelock Whitney III, and Purchase, Gift of Mr. and Mrs. Charles S. McVeigh, by exchange, 2003",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/438633",
+  "tags": [
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Clothing",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300266639",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q11460"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905103",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

@@ -1,0 +1,93 @@
+{
+  "objectID": 435779,
+  "isHighlight": false,
+  "accessionNumber": "11.149.1",
+  "accessionYear": "1911",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP167132.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP167132.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 126682,
+      "role": "Artist",
+      "name": "British Painter",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Portrait of a Woman",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "British Painter",
+  "artistDisplayBio": "ca. 1600",
+  "artistSuffix": "",
+  "artistAlphaSort": "British Painter",
+  "artistNationality": "British",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "ca. 1600",
+  "objectBeginDate": 1595,
+  "objectEndDate": 1605,
+  "medium": "Oil on wood",
+  "dimensions": "44 1/2 x 34 3/4 in. (113 x 88.3 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 113,
+        "Width": 88.3
+      }
+    }
+  ],
+  "creditLine": "Gift of J. Pierpont Morgan, 1911",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435779",
+  "tags": [
+    {
+      "term": "Elizabeth I",
+      "AAT_URL": "http://vocab.getty.edu/page/ulan/500356869",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q7207"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912680",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

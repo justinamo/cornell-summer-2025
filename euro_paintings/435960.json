@@ -1,0 +1,88 @@
+{
+  "objectID": 435960,
+  "isHighlight": false,
+  "accessionNumber": "32.100.113",
+  "accessionYear": "1932",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep32.100.113.bw.R.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/ep32.100.113.bw.R.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161785,
+      "role": "Artist",
+      "name": "Style of Corneille de Lyon",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115387",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q720941",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Portrait of a Widow",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Style of",
+  "artistDisplayName": "Corneille de Lyon",
+  "artistDisplayBio": "French, second quarter 16th century",
+  "artistSuffix": "",
+  "artistAlphaSort": "Corneille de Lyon",
+  "artistNationality": "Netherlandish",
+  "artistBeginDate": "1533",
+  "artistEndDate": "1575",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q720941",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115387",
+  "objectDate": "",
+  "objectBeginDate": 1525,
+  "objectEndDate": 1549,
+  "medium": "Oil on wood",
+  "dimensions": "8 3/4 x 7 in. (22.2 x 17.8 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 22.2,
+        "Width": 17.8
+      }
+    }
+  ],
+  "creditLine": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435960",
+  "tags": [
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913194",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

@@ -1,0 +1,100 @@
+{
+  "objectID": 437273,
+  "isHighlight": false,
+  "accessionNumber": "1981.293.1–2",
+  "accessionYear": "1981",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-18296-029.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-18296-029.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/DP-18296-039.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 162230,
+      "role": "Artist",
+      "name": "Perugino (Pietro di Cristoforo Vannucci)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500024544",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5827",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Saint John the Baptist; Saint Lucy",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Perugino (Pietro di Cristoforo Vannucci)",
+  "artistDisplayBio": "Italian, Città della Pieve, active by 1469–died 1523 Fontignano",
+  "artistSuffix": "",
+  "artistAlphaSort": "Perugino (Pietro di Cristoforo Vannucci)",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1469",
+  "artistEndDate": "1523",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5827",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500024544",
+  "objectDate": "",
+  "objectBeginDate": 1469,
+  "objectEndDate": 1523,
+  "medium": "Oil(?) on wood",
+  "dimensions": "Each 63 x 26 3/8 in. (160 x 67 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 160,
+        "Width": 67
+      }
+    }
+  ],
+  "creditLine": "Gift of The Jack and Belle Linsky Foundation, 1981",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437273",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Saint John the Baptist",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901001056",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q40662"
+    },
+    {
+      "term": "Saint Lucy",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901001253",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q183240"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911537",
+  "isTimelineWork": false,
+  "GalleryNumber": "609"
+}

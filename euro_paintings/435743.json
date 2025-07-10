@@ -1,0 +1,114 @@
+{
+  "objectID": 435743,
+  "isHighlight": false,
+  "accessionNumber": "44.141",
+  "accessionYear": "1944",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP337751.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP337751.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/DP337780.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 161703,
+      "role": "Artist",
+      "name": "François Boucher",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500032143",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q180932",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Dispatch of the Messenger",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "François Boucher",
+  "artistDisplayBio": "French, Paris 1703–1770 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Boucher, François",
+  "artistNationality": "French",
+  "artistBeginDate": "1703",
+  "artistEndDate": "1770",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q180932",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500032143",
+  "objectDate": "1765",
+  "objectBeginDate": 1765,
+  "objectEndDate": 1765,
+  "medium": "Oil on canvas",
+  "dimensions": "Oval, 12 5/8 x 10 1/2 in. (32.1 x 26.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 32.1,
+        "Width": 26.7
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 6.350013,
+        "Height": 43.180088,
+        "Width": 38.100075
+      }
+    }
+  ],
+  "creditLine": "Gift of Mrs. Joseph Heine, in memory of her husband, I. D. Levy, 1944",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435743",
+  "tags": [
+    {
+      "term": "Doves",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250045",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q2984138"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Dogs",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+    },
+    {
+      "term": "Sheep",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250284",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q7368"
+    },
+    {
+      "term": "Shepherds",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025617",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q81710"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912188",
+  "isTimelineWork": false,
+  "GalleryNumber": "631"
+}

@@ -1,0 +1,92 @@
+{
+  "objectID": 437850,
+  "isHighlight": false,
+  "accessionNumber": "30.95.259",
+  "accessionYear": "1930",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP121336.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP121336.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162572,
+      "role": "Artist",
+      "name": "Cosmè Tura (Cosimo di Domenico di Bonaventura)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500022434",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q7129",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Saint Louis of Toulouse",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Cosmè Tura (Cosimo di Domenico di Bonaventura)",
+  "artistDisplayBio": "Italian, Ferrara ca. 1433–1495 Ferrara",
+  "artistSuffix": "",
+  "artistAlphaSort": "Tura, Cosmè (Cosimo di Domenico di Bonaventura)",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1433",
+  "artistEndDate": "1495",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q7129",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500022434",
+  "objectDate": "1484?",
+  "objectBeginDate": 1484,
+  "objectEndDate": 1484,
+  "medium": "Tempera on canvas, stretched over wood, transferred from wood, gold ground",
+  "dimensions": "Overall 28 1/2 x 15 5/8 in. (72.4 x 39.7 cm); original size 28 1/4 x 12 5/8 in. (71.8 x 32.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 72.4,
+        "Width": 39.7
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 13.335,
+        "Height": 105.4102,
+        "Width": 66.0401
+      }
+    }
+  ],
+  "creditLine": "Theodore M. Davis Collection, Bequest of Theodore M. Davis, 1915",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437850",
+  "tags": [
+    {
+      "term": "Saints",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911882",
+  "isTimelineWork": false,
+  "GalleryNumber": "611"
+}

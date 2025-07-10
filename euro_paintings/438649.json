@@ -1,0 +1,92 @@
+{
+  "objectID": 438649,
+  "isHighlight": false,
+  "accessionNumber": "2003.42.25",
+  "accessionYear": "2003",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 120022,
+      "role": "Artist",
+      "name": "Alexandre Hyacinthe Dunouy",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500029426",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2833359",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Palazzo Reale and the Harbor, Naples",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Alexandre Hyacinthe Dunouy",
+  "artistDisplayBio": "French, Paris 1757–1841 Jouy-en-Josas",
+  "artistSuffix": "",
+  "artistAlphaSort": "Dunouy, Alexandre Hyacinthe",
+  "artistNationality": "French",
+  "artistBeginDate": "1757",
+  "artistEndDate": "1841",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q2833359",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500029426",
+  "objectDate": "ca. 1810–15",
+  "objectBeginDate": 1810,
+  "objectEndDate": 1815,
+  "medium": "Oil on paper, laid down on canvas",
+  "dimensions": "8 3/8 x 11 1/2 in. (21.2 x 29.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 21.2,
+        "Width": 29.2101
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 5.7150116,
+        "Height": 30.797562,
+        "Width": 38.417576
+      }
+    }
+  ],
+  "creditLine": "The Whitney Collection, Promised Gift of Wheelock Whitney III, and Purchase, Gift of Mr. and Mrs. Charles S. McVeigh, by exchange, 2003",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/438649",
+  "tags": [
+    {
+      "term": "Cities",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008389",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q515"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905392",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

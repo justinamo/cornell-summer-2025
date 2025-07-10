@@ -1,0 +1,97 @@
+{
+  "objectID": 436630,
+  "isHighlight": false,
+  "accessionNumber": "89.15.27",
+  "accessionYear": "1889",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP146498.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP146498.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161975,
+      "role": "Artist",
+      "name": "Adriaen Hanneman",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500005407",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q864279",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Portrait of a Woman",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Adriaen Hanneman",
+  "artistDisplayBio": "Dutch, The Hague 1603/4–1671 The Hague",
+  "artistSuffix": "",
+  "artistAlphaSort": "Hanneman, Adriaen",
+  "artistNationality": "Dutch",
+  "artistBeginDate": "1603",
+  "artistEndDate": "1671",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q864279",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500005407",
+  "objectDate": "ca. 1653",
+  "objectBeginDate": 1648,
+  "objectEndDate": 1658,
+  "medium": "Oil on canvas",
+  "dimensions": "31 1/2 x 25 in. (80 x 63.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 80,
+        "Width": 63.5
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 10.795022,
+        "Height": 105.41021,
+        "Width": 89.53518
+      }
+    }
+  ],
+  "creditLine": "Marquand Collection, Gift of Henry G. Marquand, 1889",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436630",
+  "tags": [
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912035",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

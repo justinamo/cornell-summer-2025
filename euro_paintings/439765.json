@@ -1,0 +1,92 @@
+{
+  "objectID": 439765,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.11",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 163153,
+      "role": "Artist",
+      "name": "Claude Bonnefond",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500017992",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2977047",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Ravine at Sorrento",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Claude Bonnefond",
+  "artistDisplayBio": "French, Lyons 1796–1860 Lyons",
+  "artistSuffix": "",
+  "artistAlphaSort": "Bonnefond, Claude",
+  "artistNationality": "French",
+  "artistBeginDate": "1796",
+  "artistEndDate": "1860",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q2977047",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500017992",
+  "objectDate": "1824",
+  "objectBeginDate": 1824,
+  "objectEndDate": 1824,
+  "medium": "Oil on paper, laid down on canvas",
+  "dimensions": "10 5/8 x 14 3/8 in. (27 x 36.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 26.9876,
+        "Width": 36.5126
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 4.4450088,
+        "Height": 37.147575,
+        "Width": 46.35509
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-06-04T04:51:25.263Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/439765",
+  "tags": [
+    {
+      "term": "Caves",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008746",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q35509"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913513",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

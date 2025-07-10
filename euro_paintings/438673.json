@@ -1,0 +1,98 @@
+{
+  "objectID": 438673,
+  "isHighlight": false,
+  "accessionNumber": "2003.42.50",
+  "accessionYear": "2003",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 120036,
+      "role": "Artist",
+      "name": "Léopold Robert",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500027324",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q664602",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Brigand and His Wife in Prayer",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Léopold Robert",
+  "artistDisplayBio": "Swiss, Eplatures 1794–1835 Venice",
+  "artistSuffix": "",
+  "artistAlphaSort": "Robert, Léopold",
+  "artistNationality": "Swiss",
+  "artistBeginDate": "1794",
+  "artistEndDate": "1835",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q664602",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500027324",
+  "objectDate": "1824",
+  "objectBeginDate": 1824,
+  "objectEndDate": 1824,
+  "medium": "Oil on canvas",
+  "dimensions": "17 5/8 x 14 3/8 in. (44.8 x 36.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 44.76759,
+        "Width": 36.512573
+      }
+    }
+  ],
+  "creditLine": "The Whitney Collection, Gift of Wheelock Whitney III, and Purchase, Gift of Mr. and Mrs. Charles S. McVeigh, by exchange, 2003",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/438673",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Cross",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300235443",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q40843"
+    },
+    {
+      "term": "Praying",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379724",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q40953"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911841",
+  "isTimelineWork": false,
+  "GalleryNumber": "806"
+}

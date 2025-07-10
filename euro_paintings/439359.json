@@ -1,0 +1,97 @@
+{
+  "objectID": 439359,
+  "isHighlight": false,
+  "accessionNumber": "2016.802.8",
+  "accessionYear": "2016",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 165567,
+      "role": "Artist",
+      "name": "Jean Antoine Constantin, called Constantin d&#39;Aix",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500023090",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1684593",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "View of Aix-en-Provence",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Jean Antoine Constantin, called Constantin d'Aix",
+  "artistDisplayBio": "French, Marseilles 1756–1844 Aix-en-Provence",
+  "artistSuffix": "",
+  "artistAlphaSort": "Constantin, Jean Antoine",
+  "artistNationality": "French",
+  "artistBeginDate": "1756",
+  "artistEndDate": "1844",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q1684593",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500023090",
+  "objectDate": "ca. 1805",
+  "objectBeginDate": 1800,
+  "objectEndDate": 1810,
+  "medium": "Oil over graphite on paper, laid down on board",
+  "dimensions": "8 1/4 x 11 in. (21 x 27.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 20.955,
+        "Width": 27.9401
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 3.8100076,
+        "Height": 30.797562,
+        "Width": 38.417576
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2016",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/439359",
+  "tags": [
+    {
+      "term": "Churches",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300007466",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q16970"
+    },
+    {
+      "term": "Towns",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008375",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3957"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q126131432",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

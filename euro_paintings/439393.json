@@ -1,0 +1,92 @@
+{
+  "objectID": 439393,
+  "isHighlight": false,
+  "accessionNumber": "2009.400.96",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 126577,
+      "role": "Artist",
+      "name": "Heinrich Reinhold",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500006351",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1598563",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Terrace of the Capuchin Garden, Sorrento",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Heinrich Reinhold",
+  "artistDisplayBio": "German, Gera 1788–1825 Albano",
+  "artistSuffix": "",
+  "artistAlphaSort": "Reinhold, Heinrich",
+  "artistNationality": "German",
+  "artistBeginDate": "1788",
+  "artistEndDate": "1825",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q1598563",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500006351",
+  "objectDate": "1823 or 1824",
+  "objectBeginDate": 1823,
+  "objectEndDate": 1824,
+  "medium": "Oil on paper, laid down on Masonite",
+  "dimensions": "15 7/8 x 21 1/8 in. (40.3 x 53.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 40.322582,
+        "Width": 53.657608
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 5.08001,
+        "Height": 53.657608,
+        "Width": 66.99264
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-06-04T04:51:25.263Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/439393",
+  "tags": [
+    {
+      "term": "Gardens",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008090",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q1107656"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913177",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

@@ -1,0 +1,107 @@
+{
+  "objectID": 437742,
+  "isHighlight": false,
+  "accessionNumber": "12.192",
+  "accessionYear": "1912",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-24152-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-24152-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 107289,
+      "role": "Artist",
+      "name": "Spanish (Valencian) Painter",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Saint Michael and the Dragon",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Spanish (Valencian) Painter",
+  "artistDisplayBio": "active in Italy, early 15th century",
+  "artistSuffix": "",
+  "artistAlphaSort": "Spanish (Valencian) Painter",
+  "artistNationality": "Spanish",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "ca. 1405",
+  "objectBeginDate": 1400,
+  "objectEndDate": 1410,
+  "medium": "Tempera on wood, gold ground",
+  "dimensions": "41 3/8 x 40 3/4 in. (105.1 x 103.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 105.1,
+        "Width": 103.5
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 8.89,
+        "Height": 120.6502,
+        "Width": 116.8402
+      }
+    }
+  ],
+  "creditLine": "Rogers Fund, 1912",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437742",
+  "tags": [
+    {
+      "term": "Shields",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300036869",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q131559"
+    },
+    {
+      "term": "Swords",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300037048",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12791"
+    },
+    {
+      "term": "Dragons",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300375726",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q7559"
+    },
+    {
+      "term": "Saint Michael",
+      "AAT_URL": null,
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q45581"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912023",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

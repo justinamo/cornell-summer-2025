@@ -1,0 +1,88 @@
+{
+  "objectID": 436316,
+  "isHighlight": false,
+  "accessionNumber": "44.36.1",
+  "accessionYear": "1944",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/132455.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/132455.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 108539,
+      "role": "Artist",
+      "name": "Thomas Forster",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500002743",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q18593505",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, miniature",
+  "title": "Portrait of a Woman",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Thomas Forster",
+  "artistDisplayBio": "British, active ca. 1690–1713",
+  "artistSuffix": "",
+  "artistAlphaSort": "Forster, Thomas",
+  "artistNationality": "British",
+  "artistBeginDate": "1690",
+  "artistEndDate": "1713",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q18593505",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500002743",
+  "objectDate": "1701",
+  "objectBeginDate": 1701,
+  "objectEndDate": 1701,
+  "medium": "Plumbago on vellum",
+  "dimensions": "Oval, 4 1/4 x 3 1/4 in. (107 x 82 mm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 10.8,
+        "Width": 8.3
+      }
+    }
+  ],
+  "creditLine": "Rogers Fund, 1944",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Miniatures",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2024-10-03T04:53:53.567Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436316",
+  "tags": [
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19914101",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

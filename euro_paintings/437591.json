@@ -1,0 +1,98 @@
+{
+  "objectID": 437591,
+  "isHighlight": false,
+  "accessionNumber": "71.13",
+  "accessionYear": "1871",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-22531-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-22531-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 108265,
+      "role": "Artist",
+      "name": "David Ryckaert III",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500116871",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q323932",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Rustic Interior",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "David Ryckaert III",
+  "artistDisplayBio": "Flemish, 1612–1661",
+  "artistSuffix": "",
+  "artistAlphaSort": "Ryckaert, David, III",
+  "artistNationality": "Flemish",
+  "artistBeginDate": "1612",
+  "artistEndDate": "1661",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q323932",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500116871",
+  "objectDate": "",
+  "objectBeginDate": 1632,
+  "objectEndDate": 1661,
+  "medium": "Oil on canvas",
+  "dimensions": "36 3/8 x 45 5/8 in. (92.4 x 115.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 92.4,
+        "Width": 115.9
+      }
+    }
+  ],
+  "creditLine": "Purchase, 1871",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437591",
+  "tags": [
+    {
+      "term": "Interiors",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300391239",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q2998430"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Dogs",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+    },
+    {
+      "term": "Barrels",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300194514",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q10289"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912906",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

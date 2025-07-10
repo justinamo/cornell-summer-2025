@@ -1,0 +1,92 @@
+{
+  "objectID": 437683,
+  "isHighlight": false,
+  "accessionNumber": "1991.277.3",
+  "accessionYear": "1991",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-20336-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-20336-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 165111,
+      "role": "Artist",
+      "name": "Alfred Sisley",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500027485",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q175130",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Sahurs Meadows in Morning Sun",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Alfred Sisley",
+  "artistDisplayBio": "British, Paris 1839–1899 Moret-sur-Loing",
+  "artistSuffix": "",
+  "artistAlphaSort": "Sisley, Alfred",
+  "artistNationality": "British",
+  "artistBeginDate": "1839",
+  "artistEndDate": "1899",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q175130",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500027485",
+  "objectDate": "1894",
+  "objectBeginDate": 1894,
+  "objectEndDate": 1894,
+  "medium": "Oil on canvas",
+  "dimensions": "28 3/4 x 36 1/4 in. (73 x 92.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 11.43,
+        "Height": 102.8702,
+        "Width": 121.9202
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 73,
+        "Width": 92.1
+      }
+    }
+  ],
+  "creditLine": "Gift of Janice H. Levin, 1991",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437683",
+  "tags": [
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912603",
+  "isTimelineWork": false,
+  "GalleryNumber": "824"
+}

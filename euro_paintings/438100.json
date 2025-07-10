@@ -1,0 +1,98 @@
+{
+  "objectID": 438100,
+  "isHighlight": false,
+  "accessionNumber": "2019.141.2",
+  "accessionYear": "2019",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/Wrightsman16.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/Wrightsman16.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161741,
+      "role": "Artist",
+      "name": "Canaletto (Giovanni Antonio Canal)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115269",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q182664",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Grand Canal, Venice, Looking South toward the Rialto Bridge",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Canaletto (Giovanni Antonio Canal)",
+  "artistDisplayBio": "Italian, Venice 1697–1768 Venice",
+  "artistSuffix": "",
+  "artistAlphaSort": "Canaletto (Giovanni Antonio Canal)",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1697",
+  "artistEndDate": "1768",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q182664",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115269",
+  "objectDate": "1730s",
+  "objectBeginDate": 1730,
+  "objectEndDate": 1739,
+  "medium": "Oil on canvas",
+  "dimensions": "18 1/4 × 30 1/2 in. (46.4 × 77.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 46.35509,
+        "Width": 77.47015
+      }
+    }
+  ],
+  "creditLine": "Bequest of Mrs. Charles Wrightsman, 2019",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-02-19T04:53:40.47Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/438100",
+  "tags": [
+    {
+      "term": "Cities",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008389",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q515"
+    },
+    {
+      "term": "Canals",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300006075",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12284"
+    },
+    {
+      "term": "Boats",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+    },
+    {
+      "term": "Venice",
+      "AAT_URL": "http://vocab.getty.edu/page/tgn/7018159",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q641"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q78640358",
+  "isTimelineWork": false,
+  "GalleryNumber": "644"
+}

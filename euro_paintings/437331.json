@@ -1,0 +1,98 @@
+{
+  "objectID": 437331,
+  "isHighlight": false,
+  "accessionNumber": "29.100.20",
+  "accessionYear": "1929",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-22881-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-22881-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162270,
+      "role": "Artist",
+      "name": "Style of Nicolas Poussin",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500005036",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q41554",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Orpheus and Eurydice",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Style of",
+  "artistDisplayName": "Nicolas Poussin",
+  "artistDisplayBio": "French, third quarter 17th century",
+  "artistSuffix": "",
+  "artistAlphaSort": "Poussin, Nicolas",
+  "artistNationality": "French",
+  "artistBeginDate": "1594",
+  "artistEndDate": "1665",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q41554",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500005036",
+  "objectDate": "",
+  "objectBeginDate": 1650,
+  "objectEndDate": 1674,
+  "medium": "Oil on canvas",
+  "dimensions": "47 1/2 x 70 3/4 in. (120.7 x 179.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 120.7,
+        "Width": 179.7
+      }
+    }
+  ],
+  "creditLine": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437331",
+  "tags": [
+    {
+      "term": "Orpheus",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000392",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q174353"
+    },
+    {
+      "term": "Forests",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300387598",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4421"
+    },
+    {
+      "term": "Lyres",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300042114",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q201129"
+    },
+    {
+      "term": "Eurydice",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901001945",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q208588"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q20167172",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

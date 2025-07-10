@@ -1,0 +1,122 @@
+{
+  "objectID": 435992,
+  "isHighlight": false,
+  "accessionNumber": "12.211",
+  "accessionYear": "1912",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT2838.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT2838.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-12_211-2.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-12_211-3.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 161788,
+      "role": "Artist",
+      "name": "Correggio (Antonio Allegri)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500006208",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q8457",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Saints Peter, Martha, Mary Magdalen, and Leonard",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Correggio (Antonio Allegri)",
+  "artistDisplayBio": "Italian, Correggio, active by 1514–died 1534 Correggio",
+  "artistSuffix": "",
+  "artistAlphaSort": "Correggio (Antonio Allegri)",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1514",
+  "artistEndDate": "1534",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q8457",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500006208",
+  "objectDate": "ca. 1515",
+  "objectBeginDate": 1510,
+  "objectEndDate": 1520,
+  "medium": "Oil on canvas",
+  "dimensions": "87 1/4 x 63 3/4 in. (221.6 x 161.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 14.605,
+        "Height": 255.2705,
+        "Width": 199.3904
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": "Picture + Frame",
+      "elementMeasurements": {
+        "Weight": 75.7507
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 221.6,
+        "Width": 161.9
+      }
+    }
+  ],
+  "creditLine": "John Stewart Kennedy Fund, 1912",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435992",
+  "tags": [
+    {
+      "term": "Dragons",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300375726",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q7559"
+    },
+    {
+      "term": "Mary Magdalene",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000161",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q63070"
+    },
+    {
+      "term": "Saint Leonard",
+      "AAT_URL": null,
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q558148"
+    },
+    {
+      "term": "Saint Peter",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000056",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q33923"
+    },
+    {
+      "term": "Saints",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q3927386",
+  "isTimelineWork": true,
+  "GalleryNumber": "609"
+}

@@ -1,0 +1,102 @@
+{
+  "objectID": 437686,
+  "isHighlight": false,
+  "accessionNumber": "1992.366",
+  "accessionYear": "1992",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-33708-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-33708-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 165111,
+      "role": "Artist",
+      "name": "Alfred Sisley",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500027485",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q175130",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Rue Eugène Moussoir at Moret: Winter",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Alfred Sisley",
+  "artistDisplayBio": "British, Paris 1839–1899 Moret-sur-Loing",
+  "artistSuffix": "",
+  "artistAlphaSort": "Sisley, Alfred",
+  "artistNationality": "British",
+  "artistBeginDate": "1839",
+  "artistEndDate": "1899",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q175130",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500027485",
+  "objectDate": "1891",
+  "objectBeginDate": 1891,
+  "objectEndDate": 1891,
+  "medium": "Oil on canvas",
+  "dimensions": "18 3/8 x 22 1/4 in. (46.7 x 56.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 8.255,
+        "Height": 70.4851,
+        "Width": 80.6452
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 46.7,
+        "Width": 56.5
+      }
+    }
+  ],
+  "creditLine": "Bequest of Ralph Friedman, 1992",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-06-11T04:50:49.767Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437686",
+  "tags": [
+    {
+      "term": "Streets",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008247",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q79007"
+    },
+    {
+      "term": "Winter",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300133101",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q1311"
+    },
+    {
+      "term": "Snow",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300055381",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q7561"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912604",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

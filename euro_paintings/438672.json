@@ -1,0 +1,92 @@
+{
+  "objectID": 438672,
+  "isHighlight": false,
+  "accessionNumber": "2003.42.49",
+  "accessionYear": "2003",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161759,
+      "role": "Artist",
+      "name": "Franz Ludwig Catel",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500019417",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q879031",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Virgil's Tomb, Naples",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Franz Ludwig Catel",
+  "artistDisplayBio": "German, Berlin 1778–1856 Rome",
+  "artistSuffix": "",
+  "artistAlphaSort": "Catel, Franz Ludwig",
+  "artistNationality": "German",
+  "artistBeginDate": "1778",
+  "artistEndDate": "1856",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q879031",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500019417",
+  "objectDate": "ca. 1818",
+  "objectBeginDate": 1813,
+  "objectEndDate": 1823,
+  "medium": "Oil on paper, laid down on canvas",
+  "dimensions": "12 x 8 3/4 in. (30.5 x 22.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 30.5,
+        "Width": 22.2
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 5.397511,
+        "Height": 41.27508,
+        "Width": 32.385063
+      }
+    }
+  ],
+  "creditLine": "The Whitney Collection, Gift of Wheelock Whitney III, and Purchase, Gift of Mr. and Mrs. Charles S. McVeigh, by exchange, 2003",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/438672",
+  "tags": [
+    {
+      "term": "Towns",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008375",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3957"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905104",
+  "isTimelineWork": false,
+  "GalleryNumber": "806"
+}

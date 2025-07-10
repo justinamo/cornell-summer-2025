@@ -1,0 +1,120 @@
+{
+  "objectID": 438671,
+  "isHighlight": false,
+  "accessionNumber": "2003.42.46",
+  "accessionYear": "2003",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 120034,
+      "role": "Artist",
+      "name": "Charles Rémond",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500000064",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3164608",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Entrance to the Grotto of Posillipo",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Charles Rémond",
+  "artistDisplayBio": "French, Paris 1795–1875 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Rémond, Jean-Charles-Joseph",
+  "artistNationality": "French",
+  "artistBeginDate": "1795",
+  "artistEndDate": "1875",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q3164608",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500000064",
+  "objectDate": "ca. 1822–42",
+  "objectBeginDate": 1822,
+  "objectEndDate": 1842,
+  "medium": "Oil on paper, laid down on canvas",
+  "dimensions": "14 x 9 7/8 in. (35.5 x 25.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 35.5,
+        "Width": 25.0826
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 4.4450088,
+        "Height": 40.95758,
+        "Width": 30.16256
+      }
+    },
+    {
+      "elementName": "Rabbet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 36.830074,
+        "Width": 26.352552
+      }
+    }
+  ],
+  "creditLine": "The Whitney Collection, Promised Gift of Wheelock Whitney III, and Purchase, Gift of Mr. and Mrs. Charles S. McVeigh, by exchange, 2003",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/438671",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Cows",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250120",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q830"
+    },
+    {
+      "term": "Dogs",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+    },
+    {
+      "term": "Carts",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300212695",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q234668"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912316",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

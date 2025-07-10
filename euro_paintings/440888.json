@@ -1,0 +1,83 @@
+{
+  "objectID": 440888,
+  "isHighlight": false,
+  "accessionNumber": "2010.279",
+  "accessionYear": "2010",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP231820.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP231820.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 163901,
+      "role": "Artist",
+      "name": "Anton Dieffenbach",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500013094",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q588840",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Window",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Anton Dieffenbach",
+  "artistDisplayBio": "German, Wiesbaden 1831–1904 Hohwald",
+  "artistSuffix": "",
+  "artistAlphaSort": "Dieffenbach, Anton",
+  "artistNationality": "German",
+  "artistBeginDate": "1831",
+  "artistEndDate": "1904",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q588840",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500013094",
+  "objectDate": "1856",
+  "objectBeginDate": 1856,
+  "objectEndDate": 1856,
+  "medium": "Oil on paper, laid down on canvas",
+  "dimensions": "14 3/8 x 9 7/8 in. (36.5 x 25.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 36.512573,
+        "Width": 25.08255
+      }
+    }
+  ],
+  "creditLine": "Purchase, Gifts of Mr. and Mrs. Charles Zadok and William Schaus and Bequest of Mary Jane Dastich, in memory of her husband, General Frank Dastich, by exchange, 2010",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-06-18T04:50:26.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/440888",
+  "tags": [
+    {
+      "term": "Windows",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300002944",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q35473"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913582",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

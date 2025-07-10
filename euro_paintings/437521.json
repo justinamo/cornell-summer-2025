@@ -1,0 +1,97 @@
+{
+  "objectID": 437521,
+  "isHighlight": false,
+  "accessionNumber": "32.100.133",
+  "accessionYear": "1932",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT313144.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT313144.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162349,
+      "role": "Artist",
+      "name": "Théodore Rousseau",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500019946",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q310025",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Drawing",
+  "title": "A Village in a Valley",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Théodore Rousseau",
+  "artistDisplayBio": "French, Paris 1812–1867 Barbizon",
+  "artistSuffix": "",
+  "artistAlphaSort": "Rousseau, Théodore",
+  "artistNationality": "French",
+  "artistBeginDate": "1812",
+  "artistEndDate": "1867",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q310025",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500019946",
+  "objectDate": "late 1820s",
+  "objectBeginDate": 1825,
+  "objectEndDate": 1835,
+  "medium": "Oil on paper, mounted on canvas",
+  "dimensions": "9 1/8 x 16 in. (23.2 x 40.6 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 23.2,
+        "Width": 40.6
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 5.08001,
+        "Height": 39.37008,
+        "Width": 56.515114
+      }
+    }
+  ],
+  "creditLine": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Drawings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-04-30T04:49:03.02Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437521",
+  "tags": [
+    {
+      "term": "Villages",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008372",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q532"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912403",
+  "isTimelineWork": false,
+  "GalleryNumber": "802"
+}

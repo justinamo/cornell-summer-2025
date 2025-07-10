@@ -1,0 +1,88 @@
+{
+  "objectID": 437668,
+  "isHighlight": false,
+  "accessionNumber": "25.106.13",
+  "accessionYear": "1925",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/60109.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/60109.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162414,
+      "role": "Artist",
+      "name": "Louis Marie Sicardi",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500025578",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q18508479",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, miniature",
+  "title": "Portrait of a Man",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Louis Marie Sicardi",
+  "artistDisplayBio": "French, Avignon 1743–1825 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Sicardi, Louis Marie",
+  "artistNationality": "French",
+  "artistBeginDate": "1743",
+  "artistEndDate": "1825",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q18508479",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500025578",
+  "objectDate": "ca. 1780",
+  "objectBeginDate": 1775,
+  "objectEndDate": 1785,
+  "medium": "Ivory",
+  "dimensions": "Oval, 1 3/8 x 1 1/4 in. (36 x 32 mm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 3.5,
+        "Width": 3.2
+      }
+    }
+  ],
+  "creditLine": "Gift of Mrs. Louis V. Bell, in memory of her husband, 1925",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Miniatures",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2024-10-03T04:53:53.567Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437668",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913882",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

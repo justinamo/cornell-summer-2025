@@ -1,0 +1,92 @@
+{
+  "objectID": 439349,
+  "isHighlight": false,
+  "accessionNumber": "2016.802.1",
+  "accessionYear": "2016",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 120012,
+      "role": "Artist",
+      "name": "Joseph Bidauld",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500024891",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3166488",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "View of a Farm in the Ile-de-France",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Joseph Bidauld",
+  "artistDisplayBio": "French, Carpentras 1758–1846 Montmorency",
+  "artistSuffix": "",
+  "artistAlphaSort": "Bidauld, Joseph",
+  "artistNationality": "French",
+  "artistBeginDate": "1758",
+  "artistEndDate": "1846",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q3166488",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500024891",
+  "objectDate": "ca. 1810",
+  "objectBeginDate": 1805,
+  "objectEndDate": 1815,
+  "medium": "Oil on paper, laid down on canvas",
+  "dimensions": "7 1/4 x 11 1/2 in. (18.4 x 29.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 18.415,
+        "Width": 29.2101
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 5.397511,
+        "Height": 26.670053,
+        "Width": 37.782574
+      }
+    }
+  ],
+  "creditLine": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2016",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/439349",
+  "tags": [
+    {
+      "term": "Farms",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300000206",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q131596"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q126131446",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

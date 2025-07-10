@@ -1,0 +1,88 @@
+{
+  "objectID": 436493,
+  "isHighlight": false,
+  "accessionNumber": "14.40.635",
+  "accessionYear": "1914",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep14.40.635.bw.R.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/ep14.40.635.bw.R.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161929,
+      "role": "Artist",
+      "name": "Workshop of Domenico Ghirlandaio",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115228",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q191423",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Madonna and Child with Angels",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Workshop of",
+  "artistDisplayName": "Domenico Ghirlandaio",
+  "artistDisplayBio": "Italian, Florence 1448/49–1494 Florence",
+  "artistSuffix": "",
+  "artistAlphaSort": "Ghirlandaio, Domenico",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1448",
+  "artistEndDate": "1494",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q191423",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115228",
+  "objectDate": "",
+  "objectBeginDate": 1469,
+  "objectEndDate": 1494,
+  "medium": "Tempera on canvas, transferred from wood",
+  "dimensions": "Diameter 38 3/4 in. (98.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 98.4,
+        "Width": 98.4
+      }
+    }
+  ],
+  "creditLine": "Bequest of Benjamin Altman, 1913",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436493",
+  "tags": [
+    {
+      "term": "Angels",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+    },
+    {
+      "term": "Madonna and Child",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913062",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

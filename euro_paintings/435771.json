@@ -1,0 +1,98 @@
+{
+  "objectID": 435771,
+  "isHighlight": false,
+  "accessionNumber": "71.110",
+  "accessionYear": "1871",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP143193.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP143193.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 107440,
+      "role": "Artist",
+      "name": "Quirijn van Brekelenkam",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004118",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2123501",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Spinner",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Quirijn van Brekelenkam",
+  "artistDisplayBio": "Dutch, Zwammerdam (?), after 1622–ca. 1669 Leiden",
+  "artistSuffix": "",
+  "artistAlphaSort": "Brekelenkam, Quirijn van",
+  "artistNationality": "Dutch",
+  "artistBeginDate": "1622",
+  "artistEndDate": "1669",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q2123501",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500004118",
+  "objectDate": "1653",
+  "objectBeginDate": 1653,
+  "objectEndDate": 1653,
+  "medium": "Oil on wood",
+  "dimensions": "19 x 25 1/4 in. (48.3 x 64.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 48.3,
+        "Width": 64.1
+      }
+    }
+  ],
+  "creditLine": "Purchase, 1871",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435771",
+  "tags": [
+    {
+      "term": "Interiors",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300391239",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q2998430"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Working",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300412186",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q6958747"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912470",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

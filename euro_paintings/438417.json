@@ -1,0 +1,93 @@
+{
+  "objectID": 438417,
+  "isHighlight": true,
+  "accessionNumber": "2000.51",
+  "accessionYear": "2000",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-31997-001-NEW.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-31997-001-NEW.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161907,
+      "role": "Artist",
+      "name": "Caspar David Friedrich",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500116242",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q104884",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Two Men Contemplating the Moon",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Caspar David Friedrich",
+  "artistDisplayBio": "German, Greifswald 1774–1840 Dresden",
+  "artistSuffix": "",
+  "artistAlphaSort": "Friedrich, Caspar David",
+  "artistNationality": "German",
+  "artistBeginDate": "1774",
+  "artistEndDate": "1840",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q104884",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500116242",
+  "objectDate": "ca. 1825–30",
+  "objectBeginDate": 1825,
+  "objectEndDate": 1830,
+  "medium": "Oil on canvas",
+  "dimensions": "13 3/4 x 17 1/4 in. (34.9 x 43.8 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 34.9,
+        "Width": 43.8
+      }
+    }
+  ],
+  "creditLine": "Wrightsman Fund, 2000",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-06-18T04:50:26.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/438417",
+  "tags": [
+    {
+      "term": "Contemplation",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300264547",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q1123855"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Moon",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300386951",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q405"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q17281208",
+  "isTimelineWork": true,
+  "GalleryNumber": "807"
+}

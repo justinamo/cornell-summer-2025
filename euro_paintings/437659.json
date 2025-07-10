@@ -1,0 +1,110 @@
+{
+  "objectID": 437659,
+  "isHighlight": false,
+  "accessionNumber": "59.16.5",
+  "accessionYear": "1959",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-19197-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-19197-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162405,
+      "role": "Artist",
+      "name": "Georges Seurat",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008873",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q34013",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "View of the Seine",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Georges Seurat",
+  "artistDisplayBio": "French, Paris 1859–1891 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Seurat, Georges",
+  "artistNationality": "French",
+  "artistBeginDate": "1859",
+  "artistEndDate": "1891",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q34013",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500008873",
+  "objectDate": "1882–83",
+  "objectBeginDate": 1882,
+  "objectEndDate": 1883,
+  "medium": "Oil on wood",
+  "dimensions": "6 1/4 x 9 3/4 in. (15.9 x 24.8 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 15.9,
+        "Width": 24.8
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 5.08,
+        "Height": 35.5601,
+        "Width": 26.6701
+      }
+    },
+    {
+      "elementName": "Glazing",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 18.732538,
+        "Width": 27.305054
+      }
+    }
+  ],
+  "creditLine": "Bequest of Mabel Choate, in memory of her father, Joseph Hodges Choate, 1958",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437659",
+  "tags": [
+    {
+      "term": "Rivers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008707",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4022"
+    },
+    {
+      "term": "Boats",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+    },
+    {
+      "term": "Paris",
+      "AAT_URL": "http://vocab.getty.edu/page/tgn/7008038",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q90"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912395",
+  "isTimelineWork": false,
+  "GalleryNumber": "825"
+}

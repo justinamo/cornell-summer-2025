@@ -1,0 +1,112 @@
+{
+  "objectID": 436107,
+  "isHighlight": false,
+  "accessionNumber": "65.14.5",
+  "accessionYear": "1965",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-13141-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-13141-001.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-65_14_5-2.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-65_14_5-3.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 161811,
+      "role": "Artist",
+      "name": "Jacques Louis David",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115221",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q83155",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "General Étienne-Maurice Gérard (1773–1852)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Jacques Louis David",
+  "artistDisplayBio": "French, Paris 1748–1825 Brussels",
+  "artistSuffix": "",
+  "artistAlphaSort": "David, Jacques Louis",
+  "artistNationality": "French",
+  "artistBeginDate": "1748",
+  "artistEndDate": "1825",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q83155",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115221",
+  "objectDate": "1816",
+  "objectBeginDate": 1816,
+  "objectEndDate": 1816,
+  "medium": "Oil on canvas",
+  "dimensions": "77 5/8 x 53 5/8 in. (197.2 x 136.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Other",
+      "elementDescription": "Picture + Frame (F.65.14.5)",
+      "elementMeasurements": {
+        "Weight": 73.48272
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 197.2,
+        "Width": 136.2
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 17.145,
+        "Height": 238.7605,
+        "Width": 172.0853
+      }
+    }
+  ],
+  "creditLine": "Purchase, Rogers and Fletcher Funds, and Mary Wetmore Shively Bequest, in memory of her husband, Henry L. Shively, M.D., 1965",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436107",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Generals",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300236762",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q83460"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911964",
+  "isTimelineWork": false,
+  "GalleryNumber": "633"
+}

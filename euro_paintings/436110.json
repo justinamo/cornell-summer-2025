@@ -1,0 +1,88 @@
+{
+  "objectID": 436110,
+  "isHighlight": false,
+  "accessionNumber": "62.122.67",
+  "accessionYear": "1962",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP327715.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP327715.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 163543,
+      "role": "Artist",
+      "name": "Jacques Joseph de Gault ",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500405372",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21997158",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, miniature",
+  "title": "Marie-Thérèse-Charlotte (1778–1851), Daughter of Louis XVI",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Jacques Joseph de Gault",
+  "artistDisplayBio": "French, 1738–after 1812",
+  "artistSuffix": "",
+  "artistAlphaSort": "Gault, Jacques Joseph de",
+  "artistNationality": "French",
+  "artistBeginDate": "1738",
+  "artistEndDate": "1812",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q21997158",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500405372",
+  "objectDate": "1795",
+  "objectBeginDate": 1795,
+  "objectEndDate": 1795,
+  "medium": "Ivory",
+  "dimensions": "Diameter 2 3/8 in. (60 mm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 6,
+        "Width": 6
+      }
+    }
+  ],
+  "creditLine": "Bequest of Millie Bruhl Fredrick, 1962",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Miniatures",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436110",
+  "tags": [
+    {
+      "term": "Profiles",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300123319",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4382010"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913759",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

@@ -1,0 +1,86 @@
+{
+  "objectID": 834308,
+  "isHighlight": false,
+  "accessionNumber": "2020.320",
+  "accessionYear": "2020",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-21075-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-21075-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 107454,
+      "role": "Artist",
+      "name": "Hendrick ter Brugghen",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500029568",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q437233",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "",
+  "title": "Roman Charity",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Hendrick ter Brugghen",
+  "artistDisplayBio": "Dutch, The Hague? 1588–1629 Utrecht",
+  "artistSuffix": "",
+  "artistAlphaSort": "Brugghen, Hendrick ter",
+  "artistNationality": "Dutch",
+  "artistBeginDate": "1588",
+  "artistEndDate": "1629",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q437233",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500029568",
+  "objectDate": "1622",
+  "objectBeginDate": 1622,
+  "objectEndDate": 1622,
+  "medium": "Oil on canvas",
+  "dimensions": "58 1/8 × 54 1/8 in. (147.6 × 137.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 147.6378,
+        "Width": 137.47777
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 9.207519,
+        "Height": 180.34036,
+        "Width": 170.18034
+      }
+    }
+  ],
+  "creditLine": "Wrightsman Fund, 2020",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-02-19T04:53:40.47Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/834308",
+  "tags": null,
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q111272665",
+  "isTimelineWork": false,
+  "GalleryNumber": "621"
+}

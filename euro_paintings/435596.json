@@ -1,0 +1,88 @@
+{
+  "objectID": 435596,
+  "isHighlight": false,
+  "accessionNumber": "14.40.603",
+  "accessionYear": "1914",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP146473.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP146473.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 164185,
+      "role": "Artist",
+      "name": "Attributed to Jacob Backer",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500031967",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q19032",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Old Woman in an Armchair",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Attributed to",
+  "artistDisplayName": "Jacob Backer",
+  "artistDisplayBio": "Dutch, Harlingen 1608–1651 Amsterdam",
+  "artistSuffix": "",
+  "artistAlphaSort": "Backer, Jacob",
+  "artistNationality": "Dutch",
+  "artistBeginDate": "1608",
+  "artistEndDate": "1651",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q19032",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500031967",
+  "objectDate": "",
+  "objectBeginDate": 1629,
+  "objectEndDate": 1639,
+  "medium": "Oil on canvas",
+  "dimensions": "50 3/8 x 39 1/8 in. (128 x 99.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 128,
+        "Width": 99.4
+      }
+    }
+  ],
+  "creditLine": "Bequest of Benjamin Altman, 1913",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435596",
+  "tags": [
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905253",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

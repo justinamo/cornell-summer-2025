@@ -1,0 +1,97 @@
+{
+  "objectID": 436435,
+  "isHighlight": false,
+  "accessionNumber": "20.155.1",
+  "accessionYear": "1920",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP169214.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP169214.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 166194,
+      "role": "Artist",
+      "name": "Thomas Gainsborough",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115200",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q192720",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Mrs. Grace Dalrymple Elliott (1754?–1823)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Thomas Gainsborough",
+  "artistDisplayBio": "British, Sudbury 1727–1788 London",
+  "artistSuffix": "",
+  "artistAlphaSort": "Gainsborough, Thomas",
+  "artistNationality": "British",
+  "artistBeginDate": "1727",
+  "artistEndDate": "1788",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q192720",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115200",
+  "objectDate": "1778",
+  "objectBeginDate": 1778,
+  "objectEndDate": 1778,
+  "medium": "Oil on canvas",
+  "dimensions": "92 1/4 x 60 1/2in. (234.3 x 153.7cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 234.3,
+        "Width": 153.7
+      }
+    },
+    {
+      "elementName": "Frame",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 10.795022,
+        "Height": 263.20804,
+        "Width": 181.61037
+      }
+    }
+  ],
+  "creditLine": "Bequest of William K. Vanderbilt, 1920",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-04-19T04:59:33.577Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436435",
+  "tags": [
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905192",
+  "isTimelineWork": true,
+  "GalleryNumber": "628"
+}

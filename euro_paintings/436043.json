@@ -1,0 +1,90 @@
+{
+  "objectID": 436043,
+  "isHighlight": false,
+  "accessionNumber": "46.179.1",
+  "accessionYear": "1946",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP278968.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP278968.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/GermanCat17a_Xraynocap.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 112816,
+      "role": "Artist",
+      "name": "Lucas Cranach the Elder and Workshop",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115364",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q191748",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Friedrich III (1463–1525), the Wise, Elector of Saxony",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Lucas Cranach the Elder and Workshop",
+  "artistDisplayBio": "German, Kronach 1472–1553 Weimar",
+  "artistSuffix": "",
+  "artistAlphaSort": "Cranach, Lucas, the Elder, and Workshop",
+  "artistNationality": "German",
+  "artistBeginDate": "1472",
+  "artistEndDate": "1553",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q191748",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115364",
+  "objectDate": "1533",
+  "objectBeginDate": 1533,
+  "objectEndDate": 1533,
+  "medium": "Oil on beech, with letterpress-printed paper labels",
+  "dimensions": "8 x 5 5/8 in. (20.3 x 14.3 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 20.3,
+        "Width": 14.3
+      }
+    }
+  ],
+  "creditLine": "Gift of Robert Lehman, 1946",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436043",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911508",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}
