@@ -2,6 +2,7 @@ from PIL import Image
 import numpy as np
 from sklearn.cluster import KMeans
 from skimage.color import rgb2lab, lab2rgb
+from collections import Counter
 import os
 import json
 
@@ -14,21 +15,47 @@ with open("met_openaccess_euro_paintings_objectIDs.txt", 'r') as f:
 
 data = []
 
+
 for objectID in objectIDs:
+
   image_path = "./euro_paintings/" + objectID + ".jpg"
   metadata_path = "./euro_paintings/" + objectID + ".json"
+
   if os.path.exists(image_path):
-    image = Image.open(image_path).convert("RGB")
+    img = np.array(Image.open(image_path).convert("RGB"))
     print(f"read image {image_path}")
 
-    image = image.resize((256, 256))
+    H, W, _ = img.shape
+    img = img.copy()
 
-    # Convert to numpy and flatten
-    pixels = np.array(image).reshape(-1, 3)
-    
-    # Apply k-means
-    kmeans = KMeans(n_clusters=7, random_state=42)
-    kmeans.fit(pixels)
+    def is_solid_line(line):
+        return np.all((line == line[0]).all(axis=-1))
+
+    # Detect solid borders
+    borders = {}
+    for name, line in {
+        "top": img[0],
+        "bottom": img[-1],
+        "left": img[:, 0],
+        "right": img[:, -1]
+    }.items():
+        if is_solid_line(line):
+            borders[name] = tuple(line[0])  # store as immutable RGB tuple
+
+    if not borders:
+        valid_mask = np.ones((H, W), dtype=bool)  # All pixels valid
+    else:
+        # Most common border color
+        border_color = Counter(borders.values()).most_common(1)[0][0]
+        border_color = np.array(border_color)
+
+        # Create mask of pixels equal to border color
+        border_mask = np.all(img == border_color, axis=-1)
+        valid_mask = ~border_mask  # Keep non-border pixels
+
+    # Run k-means only on valid pixels
+    pixels_to_cluster = img[valid_mask].reshape(-1, 3)
+    kmeans = KMeans(n_clusters=7, random_state=42).fit(pixels_to_cluster)
     colors = kmeans.cluster_centers_.astype(int)
 
     with open(metadata_path, "r") as f:
@@ -56,4 +83,4 @@ for objectID in objectIDs:
     data.append(object_data)
 
 with open("data.json", "w") as f:
-  json.dump(data, f, indent=4, ensure_ascii=False)
+  json.dump(sorted(data, key=lambda x: x["date"]), f, indent=4, ensure_ascii=False)
