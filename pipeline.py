@@ -1,4 +1,5 @@
 from PIL import Image
+import cv2
 import numpy as np
 from sklearn.cluster import KMeans
 from skimage.color import rgb2lab, lab2rgb
@@ -54,8 +55,22 @@ for objectID in objectIDs:
         valid_mask = ~border_mask  # Keep non-border pixels
 
     # Run k-means only on valid pixels
-    pixels_to_cluster = img[valid_mask].reshape(-1, 3)
-    kmeans = KMeans(n_clusters=7, random_state=42).fit(pixels_to_cluster)
+    print(img.shape)
+    image = img[valid_mask].reshape(-1, 3)
+    print(image.shape)
+
+    hsv = cv2.cvtColor(img, cv2.COLOR_RGB2HSV)
+    saturation = hsv[:, :, 1] / 255.0
+    value = hsv[:, :, 2] / 255.0
+
+    # Simple saliency mask: high sat + mid-to-high brightness
+    mask = (saturation > 0.3) & (value > 0.2)
+    salient_pixels = img[mask]
+
+    if salient_pixels.shape[0] == 0:
+      kmeans = KMeans(n_clusters=7, random_state=42).fit(image)
+    else:
+      kmeans = KMeans(n_clusters=7, random_state=42).fit(salient_pixels)
     colors = kmeans.cluster_centers_.astype(int)
 
     with open(metadata_path, "r") as f:
