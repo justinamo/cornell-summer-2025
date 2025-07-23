@@ -68,9 +68,9 @@ for objectID in objectIDs:
     salient_pixels = img[mask]
 
     if salient_pixels.shape[0] == 0:
-      kmeans = KMeans(n_clusters=7, random_state=42).fit(image)
+      kmeans = KMeans(n_clusters=15, random_state=42).fit(image)
     else:
-      kmeans = KMeans(n_clusters=7, random_state=42).fit(salient_pixels)
+      kmeans = KMeans(n_clusters=15, random_state=42).fit(salient_pixels)
     colors = kmeans.cluster_centers_.astype(int)
 
     with open(metadata_path, "r") as f:
@@ -84,6 +84,7 @@ for objectID in objectIDs:
     object_data["date"] = date
     object_data["title"] = metadata["title"]
     object_data["artist"] = metadata["artistDisplayName"]
+    object_data["nationality"] = metadata["artistNationality"]
     object_data["image_path"] = image_path
     object_data["colors"] = []
 
