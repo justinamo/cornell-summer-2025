@@ -24,7 +24,12 @@
           <tr style={{ backgroundColor: info.color, padding: "10px", margin: "5px" }}>
             <td>{info.title}</td>
             <td>{info.date}</td>
-            <td>{info.colors.map((color, idx) => <ColorSquare key={idx} color={color} />)}</td>
+            <td>{info.nationality}</td>
+            <td>
+              <div className="colors">
+                {info.colors.map((color, idx) => <ColorSquare key={idx} color={color} />)}
+              </div>
+            </td>
             <td><a href={info.image_path}>link</a></td>
           </tr>
         );
@@ -48,6 +53,7 @@
                 <tr>
                   <th>Title</th>
                   <th>Date</th>
+                  <th>Nationality</th>
                   <th>Dominant Colors</th>
                   <th>Painting</th>
                 </tr>
