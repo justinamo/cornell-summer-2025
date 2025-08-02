@@ -81,7 +81,7 @@ for p in paintings:
 nationality_stats = {}
 
 for nation, entries in by_nationality.items():
-    if len(entries) < 5:
+    if len(entries) < 5 or not nation:
         continue
 
     all_hues = []
@@ -197,6 +197,53 @@ plt.figure(figsize=(10, 6))
 plt.barh(labels, means, color='gray')
 plt.xlabel("Mean Lightness (0–1)")
 plt.title("Mean Lightness by Nationality (≥ 5 paintings)")
+plt.tight_layout()
+plt.show()
+
+def classify_hue(hue):
+    if hue < 0.04 or hue > 0.95:
+        return "red"
+    elif 0.55 < hue < 0.72:
+        return "blue"
+    else:
+        return "other"
+
+# --- Aggregate red/blue proportions per painting ---
+time_buckets = defaultdict(list)
+
+for p in paintings:
+    if "date" not in p or "colors" not in p:
+        continue
+
+    hues = [rgb_to_hue(c["r"], c["g"], c["b"]) for c in p["colors"]]
+    labels = [classify_hue(h) for h in hues]
+
+    total = len(labels)
+    if total == 0:
+        continue
+
+    red_prop = labels.count("red") / total
+    blue_prop = labels.count("blue") / total
+
+    year = p["date"]
+    decade = (year // 10) * 10  # or century = (year // 100) * 100
+
+    time_buckets[decade].append((red_prop, blue_prop))
+
+# --- Average by time bucket ---
+sorted_years = sorted(time_buckets.keys())
+red_means = [np.mean([x[0] for x in time_buckets[y]]) for y in sorted_years]
+blue_means = [np.mean([x[1] for x in time_buckets[y]]) for y in sorted_years]
+
+# --- Plot ---
+plt.figure(figsize=(10, 6))
+plt.plot(sorted_years, red_means, color="red", label="Red Usage")
+plt.plot(sorted_years, blue_means, color="blue", label="Blue Usage")
+plt.xlabel("Year")
+plt.ylabel("Average Proportion")
+plt.title("Red and Blue Color Usage Over Time")
+plt.legend()
+plt.grid(True)
 plt.tight_layout()
 plt.show()
 
